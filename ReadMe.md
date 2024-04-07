@@ -1,11 +1,14 @@
 ---
+title: Italy
+linkTitle: 
+type: Country
+has_id_wikidata: Q38
 location:
 - 43.4809
 - 11.8169
-type: Country
+SpocWebEntityId: 26930
 tags:
 - geo/Country
-SpocWebEntityId: 26930
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -13,8 +16,6 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Italy
-linkTitle: 
 keywords: 
 layout: 
 draft: false
@@ -39,8 +40,80 @@ Languages:
 - ca
 - co
 - sl
+icon: flag-it
 ---
 
+# [[Italy]] 
+
+## International Names
+
+
+[	name	 :: Italy ] 
+[	name-en	 :: Italy ] 
+[	name-es	 :: Italia ] 
+[	name-fr	 :: Italie ] 
+[	name-cn	 :: 意大利 ] 
+[	name-ar	 :: إيطاليا ] 
+[	name-ru	 :: Италия ] 
+
+[ISO2::IT] 
+[ISO3::ITA] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Italy 
+
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the European country of [Italy](https://en.wikipedia.org/wiki/Italy). 
+
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+Check out this Repository into this Subfolder: 
+\_Standards/geo/Continent/Europe/Europe~Central/Italy 
+
+> Caution: this is a very deep folder Structure with up to 170 Characters! 
+> Make sure to check it out into a shallow Location on Windows! 
+> 
+> If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
+> because Changes may break Links or at least require every User 
+> to update their local Repos! 
+> 
+> Constraints to consider when refactoring: 
+> - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
+> - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
+> - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
+>   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
+
+### #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
+
+## #has_/text_of_/abstract  
+
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Italy)
+
+## Maps and Flags 
+
+### #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![[./Emblem_of_Italy.svg|150]] <img src="./Emblem_of_Italy.svg" width="150"/> 
+
+#has_/sound_of_/anthem :: ![[Anthem-Italy.mp3]]
+
+### #has_/map  
+
+```leaflet
+id: Italy
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: .///
+markerFolder: .//
+```
+
+[name-en::Italy] 
+[name-de::Italien] 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 
@@ -52,14 +125,6 @@ Languages:
 
 [	Global	 :: True ] 
 [	Global_Name	 :: World ] 
-
-[	name	 :: Italy ] 
-[	name-en	 :: Italy ] 
-[	name-es	 :: Italia ] 
-[	name-fr	 :: Italie ] 
-[	name-cn	 :: 意大利 ] 
-[	name-ar	 :: إيطاليا ] 
-[	name-ru	 :: Италия ] 
 
 [	CLDR_display_name	 :: Italy ] 
 
@@ -107,31 +172,11 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 
-[ISO2::IT] 
-[ISO3::ITA] 
-
-```leaflet
-id: Italy
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: .///
-markerFolder: .//
-```
-
-[name-en::Italy] 
-[name-de::Italien] 
 [Area-Total::301302] 
 [Area-Land::294060] 
 Continent :: [[Europe]]  
 [VehicleCode::I] 
 Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
-
-![[Emblem_of_Italy.svg|350]] 
-
-![[Anthem-Italy.mp3]] 
-
-![[Flag_of_Italy.svg|350]] 
 
 [Alcohol-l::10.7] 
 [Language-Id::] 
