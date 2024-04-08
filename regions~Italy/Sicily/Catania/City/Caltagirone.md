@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.52] 
-[geo-lat::37.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.52] 
+[has_place_latitude::37.23] 
 [name::Caltagirone] 
 State ::  
 Country :: [[../../../../../Italy]]  

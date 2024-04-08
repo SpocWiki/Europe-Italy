@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.53] 
-[geo-lat::40.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.53] 
+[has_place_latitude::40.37] 
 [name::Valsinni] 
 State ::  
 Country :: [[../../../../../Italy]]  

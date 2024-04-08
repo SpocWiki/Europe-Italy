@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.25] 
-[geo-lat::44.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.25] 
+[has_place_latitude::44.2] 
 [name::Cesena] 
 State ::  
 Country :: [[../../../../../Italy]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.52] 
-[geo-lat::44.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.52] 
+[has_place_latitude::44.52] 
 [name::Lussingrande] 
 State ::  
 Country :: [[../../Italy]]  

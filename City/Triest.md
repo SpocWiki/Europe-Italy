@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.76] 
-[geo-lat::45.64] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.76] 
+[has_place_latitude::45.64] 
 [name::Triest] 
 State ::  
 Country :: [[../../Italy]]  

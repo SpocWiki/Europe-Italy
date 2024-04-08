@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.35] 
-[geo-lat::41.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.35] 
+[has_place_latitude::41.05] 
 [name::Caserta.City] 
 State ::  
 Country :: [[../../../../../Italy]]  

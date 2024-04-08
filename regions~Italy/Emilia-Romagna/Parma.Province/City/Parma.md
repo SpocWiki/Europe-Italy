@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.31] 
-[geo-lat::44.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.31] 
+[has_place_latitude::44.8] 
 [name::Parma] 
 State ::  
 Country :: [[../../../../../Italy]]  

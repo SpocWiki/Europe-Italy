@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.87] 
-[geo-lat::46.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.87] 
+[has_place_latitude::46.02] 
 [name::Lorenzo] 
 State ::  
 Country :: [[../../../../../Italy]]  

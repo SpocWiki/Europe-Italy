@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.8] 
-[geo-lat::41.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.8] 
+[has_place_latitude::41.35] 
 [name::Atina] 
 State ::  
 Country :: [[../../../../../Italy]]  

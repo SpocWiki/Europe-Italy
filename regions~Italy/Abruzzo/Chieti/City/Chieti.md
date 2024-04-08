@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.17] 
-[geo-lat::42.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.17] 
+[has_place_latitude::42.35] 
 [name::Chieti] 
 State ::  
 Country :: [[../../../../../Italy]]  

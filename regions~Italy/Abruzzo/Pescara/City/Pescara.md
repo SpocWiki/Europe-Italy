@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.22] 
-[geo-lat::42.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.22] 
+[has_place_latitude::42.47] 
 [name::Pescara] 
 State ::  
 Country :: [[../../../../../Italy]]  

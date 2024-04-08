@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.08] 
-[geo-lat::37.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.08] 
+[has_place_latitude::37.83] 
 [name::Linguaglossa] 
 State ::  
 Country :: [[../../../../../Italy]]  

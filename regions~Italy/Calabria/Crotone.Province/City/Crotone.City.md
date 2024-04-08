@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.13] 
-[geo-lat::39.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.13] 
+[has_place_latitude::39.08] 
 [name::Crotone.City] 
 State ::  
 Country :: [[../../../../../Italy]]  

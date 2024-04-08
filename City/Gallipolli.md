@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.98] 
-[geo-lat::40.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.98] 
+[has_place_latitude::40.07] 
 [name::Gallipolli] 
 State ::  
 Country :: [[../../Italy]]  

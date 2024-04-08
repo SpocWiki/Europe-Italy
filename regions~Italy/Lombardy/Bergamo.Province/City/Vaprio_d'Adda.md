@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.57] 
-[geo-lat::45.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.57] 
+[has_place_latitude::45.57] 
 [name::Vaprio d'Adda] 
 State ::  
 Country :: [[../../../../../Italy]]  

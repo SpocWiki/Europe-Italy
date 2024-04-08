@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.9] 
-[geo-lat::46.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.9] 
+[has_place_latitude::46.02] 
 [name::Feltre] 
 State ::  
 Country :: [[../../../../../Italy]]  

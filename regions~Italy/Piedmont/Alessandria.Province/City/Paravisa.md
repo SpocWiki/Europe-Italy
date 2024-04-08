@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.03] 
-[geo-lat::44.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.03] 
+[has_place_latitude::44.8] 
 [name::Paravisa] 
 State ::  
 Country :: [[../../../../../Italy]]  

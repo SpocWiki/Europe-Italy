@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.17] 
-[geo-lat::44.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.17] 
+[has_place_latitude::44.9] 
 [name::Bagni di Boretta] 
 State ::  
 Country :: [[../../../../../Italy]]  

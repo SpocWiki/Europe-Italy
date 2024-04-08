@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.38] 
-[geo-lat::41.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.38] 
+[has_place_latitude::41.83] 
 [name::Troia] 
 State ::  
 Country :: [[../../../../../Italy]]  

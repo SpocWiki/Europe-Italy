@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.78] 
-[geo-lat::44.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.78] 
+[has_place_latitude::44.77] 
 [name::Novi Ligure] 
 State ::  
 Country :: [[../../../../../Italy]]  

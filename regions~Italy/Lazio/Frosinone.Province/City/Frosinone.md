@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.37] 
-[geo-lat::41.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.37] 
+[has_place_latitude::41.65] 
 [name::Frosinone] 
 State ::  
 Country :: [[../../../../../Italy]]  

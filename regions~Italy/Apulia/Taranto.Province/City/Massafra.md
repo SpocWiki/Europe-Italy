@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.15] 
-[geo-lat::40.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.15] 
+[has_place_latitude::40.58] 
 [name::Massafra] 
 State ::  
 Country :: [[../../../../../Italy]]  

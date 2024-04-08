@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.25] 
-[geo-lat::43.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.25] 
+[has_place_latitude::43.52] 
 [name::Terricciola] 
 State ::  
 Country :: [[../../Italy]]  

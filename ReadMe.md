@@ -55,8 +55,6 @@ icon: flag-it
 [	name-cn	 :: 意大利 ] 
 [	name-ar	 :: إيطاليا ] 
 [	name-ru	 :: Италия ] 
-
-[name-en::Italy] 
 [name-de::Italien] 
 
 [ISO2::IT] 
@@ -72,7 +70,7 @@ by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/Europe/Europe~Central/Italy 
+\_Standards/geo/Continent/Europe/Europe~South/Italy 
 
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
@@ -254,23 +252,22 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 380 ] 
 
-
-
 [Area-Total::301302] 
 [Area-Land::294060] 
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::I] 
 Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
 
 [Alcohol-l::10.7] 
 [Language-Id::] 
-[geo-lon::11.8169] 
-[geo-lat::43.4809] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.8169]
+[has_place_latitude::43.4809]
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy|Italy]] 
 - [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy|Italy]] 
 - [[../../../../../_public/geo/Continent/Europe/Europe~South/Italy.public|Italy.public]] 
 - [[../../../../../_internal/geo/Continent/Europe/Europe~South/Italy.internal|Italy.internal]] 

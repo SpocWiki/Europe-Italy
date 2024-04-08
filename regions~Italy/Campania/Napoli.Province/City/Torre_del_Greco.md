@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.37] 
-[geo-lat::40.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.37] 
+[has_place_latitude::40.78] 
 [name::Torre del Greco] 
 State ::  
 Country :: [[../../../../../Italy]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.48] 
-[geo-lat::44.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.48] 
+[has_place_latitude::44.58] 
 [name::Canossa] 
 State ::  
 Country :: [[../../../../../Italy]]  

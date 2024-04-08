@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.63] 
-[geo-lat::41.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.63] 
+[has_place_latitude::41.63] 
 [name::Campolieto] 
 State ::  
 Country :: [[../../../../../Italy]]  

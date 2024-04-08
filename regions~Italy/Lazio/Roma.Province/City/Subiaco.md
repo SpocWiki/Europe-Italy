@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.08] 
-[geo-lat::41.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.08] 
+[has_place_latitude::41.93] 
 [name::Subiaco] 
 State ::  
 Country :: [[../../../../../Italy]]  

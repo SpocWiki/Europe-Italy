@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57] 
-[geo-lat::40.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.57] 
+[has_place_latitude::40.72] 
 [name::Sassari~Sardinien] 
 State ::  
 Country :: [[../../../../../Italy]]  

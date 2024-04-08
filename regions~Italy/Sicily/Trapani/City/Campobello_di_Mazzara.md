@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.7] 
-[geo-lat::37.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.7] 
+[has_place_latitude::37.63] 
 [name::Campobello di Mazzara] 
 State ::  
 Country :: [[../../../../../Italy]]  

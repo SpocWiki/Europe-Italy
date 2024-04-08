@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.85] 
-[geo-lat::45.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.85] 
+[has_place_latitude::45.18] 
 [name::Chivasso] 
 State ::  
 Country :: [[../../../../../Italy]]  

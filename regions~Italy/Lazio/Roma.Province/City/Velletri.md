@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.78] 
-[geo-lat::41.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.78] 
+[has_place_latitude::41.68] 
 [name::Velletri] 
 State ::  
 Country :: [[../../../../../Italy]]  

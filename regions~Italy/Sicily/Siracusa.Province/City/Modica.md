@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.97] 
-[geo-lat::36.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.97] 
+[has_place_latitude::36.8] 
 [name::Modica] 
 State ::  
 Country :: [[../../../../../Italy]]  

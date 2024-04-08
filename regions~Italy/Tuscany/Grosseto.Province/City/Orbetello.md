@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.23] 
-[geo-lat::42.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.23] 
+[has_place_latitude::42.43] 
 [name::Orbetello] 
 State ::  
 Country :: [[../../../../../Italy]]  

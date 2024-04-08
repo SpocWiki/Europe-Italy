@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.3] 
-[geo-lat::43.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.3] 
+[has_place_latitude::43.55] 
 [name::Livorno] 
 State ::  
 Country :: [[../../Italy]]  

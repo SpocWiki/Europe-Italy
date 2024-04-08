@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.15] 
-[geo-lat::43.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.15] 
+[has_place_latitude::43.58] 
 [name::San Sepolcro] 
 State ::  
 Country :: [[../../../../../Italy]]  

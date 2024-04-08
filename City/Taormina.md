@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.3] 
-[geo-lat::37.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.3] 
+[has_place_latitude::37.8] 
 [name::Taormina] 
 State ::  
 Country :: [[../../Italy]]  

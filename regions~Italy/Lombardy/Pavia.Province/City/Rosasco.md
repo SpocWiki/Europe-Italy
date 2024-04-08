@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.87] 
-[geo-lat::45.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.87] 
+[has_place_latitude::45.25] 
 [name::Rosasco] 
 State ::  
 Country :: [[../../../../../Italy]]  

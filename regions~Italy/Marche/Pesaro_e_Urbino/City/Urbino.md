@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.63] 
-[geo-lat::43.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.63] 
+[has_place_latitude::43.73] 
 [name::Urbino] 
 State ::  
 Country :: [[../../../../../Italy]]  

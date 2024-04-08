@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13] 
-[geo-lat::45.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.13] 
+[has_place_latitude::45.65] 
 [name::Sostegno] 
 State ::  
 Country :: [[../../../../../Italy]]  

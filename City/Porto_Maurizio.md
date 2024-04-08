@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.02] 
-[geo-lat::43.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.02] 
+[has_place_latitude::43.88] 
 [name::Porto Maurizio] 
 State ::  
 Country :: [[../../Italy]]  

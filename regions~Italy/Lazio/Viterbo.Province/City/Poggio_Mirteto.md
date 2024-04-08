@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.28] 
-[geo-lat::42.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.28] 
+[has_place_latitude::42.27] 
 [name::Poggio Mirteto] 
 State ::  
 Country :: [[../../../../../Italy]]  

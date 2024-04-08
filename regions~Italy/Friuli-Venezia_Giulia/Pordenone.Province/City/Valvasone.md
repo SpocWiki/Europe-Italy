@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.87] 
-[geo-lat::45.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.87] 
+[has_place_latitude::45.98] 
 [name::Valvasone] 
 State ::  
 Country :: [[../../../../../Italy]]  

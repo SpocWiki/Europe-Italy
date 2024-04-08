@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58] 
-[geo-lat::37.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.58] 
+[has_place_latitude::37.67] 
 [name::Mazzara] 
 State ::  
 Country :: [[../../../../../Italy]]  

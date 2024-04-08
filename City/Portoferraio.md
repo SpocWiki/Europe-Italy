@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.33] 
-[geo-lat::42.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.33] 
+[has_place_latitude::42.82] 
 [name::Portoferraio] 
 State ::  
 Country :: [[../../Italy]]  

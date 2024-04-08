@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.62] 
-[geo-lat::44.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.62] 
+[has_place_latitude::44.85] 
 [name::Ferrara] 
 State ::  
 Country :: [[../../../../../Italy]]  

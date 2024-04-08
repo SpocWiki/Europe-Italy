@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.8] 
-[geo-lat::45.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.8] 
+[has_place_latitude::45.17] 
 [name::Mantova] 
 State ::  
 Country :: [[../../../../../Italy]]  

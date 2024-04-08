@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.38] 
-[geo-lat::43.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.38] 
+[has_place_latitude::43.12] 
 [name::Perugia] 
 State ::  
 Country :: [[../../../../../Italy]]  

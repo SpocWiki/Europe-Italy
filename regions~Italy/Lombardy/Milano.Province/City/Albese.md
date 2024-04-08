@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.28] 
-[geo-lat::45.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.28] 
+[has_place_latitude::45.47] 
 [name::Albese] 
 State ::  
 Country :: [[../../../../../Italy]]  

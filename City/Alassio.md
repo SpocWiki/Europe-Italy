@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17] 
-[geo-lat::44] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.17] 
+[has_place_latitude::44] 
 [name::Alassio] 
 State ::  
 Country :: [[../../Italy]]  

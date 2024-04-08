@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.08] 
-[geo-lat::45.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.08] 
+[has_place_latitude::45.87] 
 [name::Palanzo] 
 State ::  
 Country :: [[../../../../../Italy]]  

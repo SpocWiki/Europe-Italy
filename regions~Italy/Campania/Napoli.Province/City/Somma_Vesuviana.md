@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.4] 
-[geo-lat::40.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.4] 
+[has_place_latitude::40.83] 
 [name::Somma Vesuviana] 
 State ::  
 Country :: [[../../../../../Italy]]  

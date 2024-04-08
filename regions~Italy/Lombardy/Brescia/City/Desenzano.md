@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.53] 
-[geo-lat::45.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.53] 
+[has_place_latitude::45.47] 
 [name::Desenzano] 
 State ::  
 Country :: [[../../../../../Italy]]  

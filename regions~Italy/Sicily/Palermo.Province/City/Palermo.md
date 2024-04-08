@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.35] 
-[geo-lat::38.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.35] 
+[has_place_latitude::38.12] 
 [name::Palermo] 
 State ::  
 Country :: [[../../../../../Italy]]  

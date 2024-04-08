@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.05] 
-[geo-lat::38.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.05] 
+[has_place_latitude::38.38] 
 [name::Cittanova] 
 State ::  
 Country :: [[../../../../../Italy]]  

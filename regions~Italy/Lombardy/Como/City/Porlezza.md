@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.1] 
-[geo-lat::46.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.1] 
+[has_place_latitude::46.02] 
 [name::Porlezza] 
 State ::  
 Country :: [[../../../../../Italy]]  

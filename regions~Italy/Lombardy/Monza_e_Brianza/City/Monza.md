@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27] 
-[geo-lat::45.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.27] 
+[has_place_latitude::45.58] 
 [name::Monza] 
 State ::  
 Country :: [[../../../../../Italy]]  

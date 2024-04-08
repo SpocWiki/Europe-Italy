@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.72] 
-[geo-lat::42.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.72] 
+[has_place_latitude::42.65] 
 [name::Teramo] 
 State ::  
 Country :: [[../../../../../Italy]]  

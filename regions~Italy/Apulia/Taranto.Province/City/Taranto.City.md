@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.25] 
-[geo-lat::40.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.25] 
+[has_place_latitude::40.47] 
 [name::Taranto.City] 
 State ::  
 Country :: [[../../../../../Italy]]  

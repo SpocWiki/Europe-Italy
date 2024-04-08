@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.42] 
-[geo-lat::40.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.42] 
+[has_place_latitude::40.83] 
 [name::Portotorres] 
 State ::  
 Country :: [[../../../../../Italy]]  

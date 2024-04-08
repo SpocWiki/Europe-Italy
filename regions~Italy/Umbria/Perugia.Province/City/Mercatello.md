@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37] 
-[geo-lat::43.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.37] 
+[has_place_latitude::43.52] 
 [name::Mercatello] 
 State ::  
 Country :: [[../../../../../Italy]]  

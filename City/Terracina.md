@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.27] 
-[geo-lat::41.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.27] 
+[has_place_latitude::41.28] 
 [name::Terracina] 
 State ::  
 Country :: [[../../Italy]]  

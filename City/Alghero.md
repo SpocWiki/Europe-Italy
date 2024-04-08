@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.32] 
-[geo-lat::40.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.32] 
+[has_place_latitude::40.55] 
 [name::Alghero] 
 State ::  
 Country :: [[../../Italy]]  

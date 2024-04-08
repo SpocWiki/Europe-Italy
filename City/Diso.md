@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.58] 
-[geo-lat::40.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.58] 
+[has_place_latitude::40.1] 
 [name::Diso] 
 State ::  
 Country :: [[../../Italy]]  

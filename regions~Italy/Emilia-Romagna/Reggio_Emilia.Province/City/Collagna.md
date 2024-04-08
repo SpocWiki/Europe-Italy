@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.35] 
-[geo-lat::44.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.35] 
+[has_place_latitude::44.35] 
 [name::Collagna] 
 State ::  
 Country :: [[../../../../../Italy]]  

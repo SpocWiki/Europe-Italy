@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.67] 
-[geo-lat::45.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.67] 
+[has_place_latitude::45.95] 
 [name::Pordenone] 
 State ::  
 Country :: [[../../../../../Italy]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.65] 
-[geo-lat::42.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.65] 
+[has_place_latitude::42.65] 
 [name::Terni] 
 State ::  
 Country :: [[../../../../../Italy]]  

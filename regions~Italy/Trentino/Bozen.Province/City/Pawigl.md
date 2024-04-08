@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.1] 
-[geo-lat::46.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.1] 
+[has_place_latitude::46.63] 
 [name::Pawigl] 
 State ::  
 Country :: [[../../../../../Italy]]  

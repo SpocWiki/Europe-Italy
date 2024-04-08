@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45] 
-[geo-lat::44.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.45] 
+[has_place_latitude::44.25] 
 [name::Vado] 
 State ::  
 Country :: [[../../Italy]]  

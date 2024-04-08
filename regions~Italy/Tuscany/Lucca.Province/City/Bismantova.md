@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.28] 
-[geo-lat::44.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.28] 
+[has_place_latitude::44.27] 
 [name::Bismantova] 
 State ::  
 Country :: [[../../../../../Italy]]  

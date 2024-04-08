@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.38] 
-[geo-lat::37.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.38] 
+[has_place_latitude::37.88] 
 [name::Ciminna] 
 State ::  
 Country :: [[../../Italy]]  

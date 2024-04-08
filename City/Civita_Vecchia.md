@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.75] 
-[geo-lat::42.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.75] 
+[has_place_latitude::42.08] 
 [name::Civita Vecchia] 
 State ::  
 Country :: [[../../Italy]]  

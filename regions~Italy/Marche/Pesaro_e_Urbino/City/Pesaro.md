@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.88] 
-[geo-lat::43.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.88] 
+[has_place_latitude::43.92] 
 [name::Pesaro] 
 State ::  
 Country :: [[../../../../../Italy]]  

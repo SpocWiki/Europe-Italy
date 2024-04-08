@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.37] 
-[geo-lat::43.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.37] 
+[has_place_latitude::43.32] 
 [name::Vada] 
 State ::  
 Country :: [[../../Italy]]  

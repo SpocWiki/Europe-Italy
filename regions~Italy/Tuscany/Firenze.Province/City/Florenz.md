@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25] 
-[geo-lat::43.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.25] 
+[has_place_latitude::43.78] 
 [name::Florenz] 
 State ::  
 Country :: [[../../../../../Italy]]  

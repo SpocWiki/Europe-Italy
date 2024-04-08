@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.68] 
-[geo-lat::41.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.68] 
+[has_place_latitude::41.47] 
 [name::Nettuna] 
 State ::  
 Country :: [[../../../../../Italy]]  

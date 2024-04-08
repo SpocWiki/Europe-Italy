@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.3] 
-[geo-lat::44.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.3] 
+[has_place_latitude::44.48] 
 [name::Medicina] 
 State ::  
 Country :: [[../../../../../Italy]]  

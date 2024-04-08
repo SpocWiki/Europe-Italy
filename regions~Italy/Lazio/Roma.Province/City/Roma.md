@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.49] 
-[geo-lat::41.89] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.49] 
+[has_place_latitude::41.89] 
 [name::Roma] 
 State ::  
 Country :: [[../../../../../Italy]]  

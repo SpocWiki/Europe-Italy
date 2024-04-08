@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.65] 
-[geo-lat::43.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.65] 
+[has_place_latitude::43.87] 
 [name::Perinaldo] 
 State ::  
 Country :: [[../../../../../Italy]]  

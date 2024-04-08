@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.95] 
-[geo-lat::41.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.95] 
+[has_place_latitude::41.5] 
 [name::Gambatesa] 
 State ::  
 Country :: [[../../../../../Italy]]  
