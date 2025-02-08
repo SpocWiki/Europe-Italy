@@ -1,16 +1,20 @@
 ---
-location: [45.07,7.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 45.07
+  - 7.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35051
 isDeleted: false
 confidential: public
-
+aliases:
+  - Turin
+  - Torino
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

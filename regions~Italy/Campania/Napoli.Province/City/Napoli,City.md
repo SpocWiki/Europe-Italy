@@ -1,16 +1,21 @@
 ---
-location: [40.87,14.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 40.87
+  - 14.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32760
 isDeleted: false
 confidential: public
-
+aliases:
+  - Neapel
+  - Napoli
+  - Naples
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
