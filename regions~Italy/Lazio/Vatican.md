@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 41.903
 - 12.453
@@ -154,7 +154,7 @@ Libris_URI: khwzz38331p509f
 X_Twitter_username: pontifex
 Colon_Classification: SG--52634
 Krugosvet_article: strany_mira/VATIKAN.html
-Unicode_character: "\U0001F1FB\U0001F1E6"
+Unicode_character: 🇻🇦 
 subreddit:
 - vatican
 Commons_category: "Vatican City"
