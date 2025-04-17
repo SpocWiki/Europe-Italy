@@ -35,58 +35,58 @@ language_used:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~Italian,652]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~European Union,458]]"
+- "[[_Standards/WikiData/WD~European_Union,458]]"
 - '[[_Standards/WikiData/WD~Italy,38]]'
-present_in_work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
-public_holiday: "[[_Standards/WikiData/WD~March 13,2400]]"
+present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
+public_holiday: "[[_Standards/WikiData/WD~March_13,2400]]"
 instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~landlocked country,123480]]"
+- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
 - '[[_Standards/WikiData/WD~city-state,133442]]'
 - '[[_Standards/WikiData/WD~enclave,171441]]'
-- "[[_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[_Standards/WikiData/WD~urban area,702492]]"
-- "[[_Standards/WikiData/WD~tourist destination,1200957]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~sacerdotal state,7396640]]"
-- "[[_Standards/WikiData/WD~confessional state,10551526]]"
-- "[[_Standards/WikiData/WD~institutional complex,19691007]]"
-- "[[_Standards/WikiData/WD~Mediterranean country,51576574]]"
-- "[[_Standards/WikiData/WD~religious complex,98116669]]"
+- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[_Standards/WikiData/WD~urban_area,702492]]"
+- "[[_Standards/WikiData/WD~tourist_destination,1200957]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~sacerdotal_state,7396640]]"
+- "[[_Standards/WikiData/WD~confessional_state,10551526]]"
+- "[[_Standards/WikiData/WD~institutional_complex,19691007]]"
+- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
+- "[[_Standards/WikiData/WD~religious_complex,98116669]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- "[[_Standards/WikiData/WD~Central European Time,25989]]"
+- "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
 - '[[_Standards/WikiData/WD~Europe_Vatican,109522221]]'
 member_of:
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-heritage_designation: "[[_Standards/WikiData/WD~World Heritage Site,9259]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 office_held_by_head_of_state: '[[_Standards/WikiData/WD~pope,19546]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Grove Art Online,21431157]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Grove_Art_Online,21431157]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
 enclave_within:
 - '[[_Standards/WikiData/WD~Italy,38]]'
 - '[[_Standards/WikiData/WD~Rome,220]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
-country: "[[_Standards/WikiData/WD~Vatican City,237]]"
+country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 area: 0.49
 total_expenditure: 235000000
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 - '[[_Standards/WikiData/WD~theocracy,44405]]'
-- "[[_Standards/WikiData/WD~absolute monarchy,184558]]"
-- "[[_Standards/WikiData/WD~elective monarchy,584683]]"
-- "[[_Standards/WikiData/WD~absolute theocratic monarchy,4055127]]"
+- "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+- "[[_Standards/WikiData/WD~elective_monarchy,584683]]"
+- "[[_Standards/WikiData/WD~absolute_theocratic_monarchy,4055127]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.va,42381]]'
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~United Nations General Assembly,47423]]"
+official_observer_status_in_organisation: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 population: 764
 licence_plate_code: V
 ISO_3166_1_numeric_code: 336
@@ -171,38 +171,38 @@ official_name:
 native_label: "Civitas Vaticana"
 short_name:
 - "\U0001F1FB\U0001F1E6"
-flag: "[[_Standards/WikiData/WD~flag of Vatican City,79198]]"
-lowest_point: "[[_Standards/WikiData/WD~Saint Peter's Square,83425]]"
-executive_body: "[[_Standards/WikiData/WD~Governorate of Vatican City State,112597]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Vatican_City,79198]]"
+lowest_point: "[[_Standards/WikiData/WD~Saint_Peter's_Square,83425]]"
+executive_body: "[[_Standards/WikiData/WD~Governorate_of_Vatican_City_State,112597]]"
 owned_by:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 different_from:
-- "[[_Standards/WikiData/WD~Holy See,159583]]"
+- "[[_Standards/WikiData/WD~Holy_See,159583]]"
 - '[[_Standards/WikiData/WD~Vatican,295418]]'
-replaces: "[[_Standards/WikiData/WD~Papal States,170174]]"
-award_received: "[[_Standards/WikiData/WD~Ig Nobel Prize,184253]]"
-anthem: "[[_Standards/WikiData/WD~Inno e Marcia Pontificale,190226]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of arms of Vatican City,200198]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Fundamental Law of Vatican City State,441709]]"
-head_of_state: "[[_Standards/WikiData/WD~Pope Francis,450675]]"
-broadcast_by: "[[_Standards/WikiData/WD~Vatican Radio,680634]]"
-highest_point: "[[_Standards/WikiData/WD~Vatican Hill,1053000]]"
-named_after: "[[_Standards/WikiData/WD~Vatican Hill,1053000]]"
-history_of_topic: "[[_Standards/WikiData/WD~History of Vatican City,1444151]]"
+replaces: "[[_Standards/WikiData/WD~Papal_States,170174]]"
+award_received: "[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253]]"
+anthem: "[[_Standards/WikiData/WD~Inno_e_Marcia_Pontificale,190226]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Vatican_City,200198]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Fundamental_Law_of_Vatican_City_State,441709]]"
+head_of_state: "[[_Standards/WikiData/WD~Pope_Francis,450675]]"
+broadcast_by: "[[_Standards/WikiData/WD~Vatican_Radio,680634]]"
+highest_point: "[[_Standards/WikiData/WD~Vatican_Hill,1053000]]"
+named_after: "[[_Standards/WikiData/WD~Vatican_Hill,1053000]]"
+history_of_topic: "[[_Standards/WikiData/WD~History_of_Vatican_City,1444151]]"
 studied_in: '[[_Standards/WikiData/WD~Vaticanology,1648418]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Vatican City,2303997]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Vatican City,2385910]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President of the Pontifical Commission for the Vatican City State,2387238]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Vatican City,2602239]]"
-culture: "[[_Standards/WikiData/WD~culture of Vatican City,2660932]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Vatican_City,2303997]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Vatican_City,2385910]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Pontifical_Commission_for_the_Vatican_City_State,2387238]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Vatican_City,2602239]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Vatican_City,2660932]]"
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_VAT,6048132]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Vatican City,7112506]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Vatican City,7240296]]"
-legislative_body: "[[_Standards/WikiData/WD~Pontifical Commission for the Vatican City State,7478146]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Vatican City,13341436]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Vatican_City,7112506]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Vatican_City,7240296]]"
+legislative_body: "[[_Standards/WikiData/WD~Pontifical_Commission_for_the_Vatican_City_State,7478146]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Vatican_City,13341436]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_government: "[[_Standards/WikiData/WD~Fernando Vérgez Alzaga,15060665]]"
+head_of_government: "[[_Standards/WikiData/WD~Fernando_Vérgez_Alzaga,15060665]]"
 World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(i),23038972]]'
 - '[[_Standards/WikiData/WD~(iv),23038978]]'
@@ -210,7 +210,7 @@ World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(vi),23038980]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q24025156,24025156]]'
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q32069142,32069142]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Told Cities,109929866]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Told_Cities,109929866]]"
 spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/St%20peters%20square%20night%20-%20Panorama%20%28Andreas%20Mischok%20via%20Poly%20Haven%29.jpg"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City%20%282023%E2%80%93present%29.svg"
 coordinates_of_westernmost_point: "Point(12.445722222 41.901972222)"
