@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Rovereto|Rovereto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.public|Rovereto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.internal|Rovereto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.protect|Rovereto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.private|Rovereto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.personal|Rovereto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Rovereto.secret|Rovereto.secret]] 
+
+### [Rovereto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.public.md) 
+
+### [Rovereto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.internal.md) 
+
+### [Rovereto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.protect.md) 
+
+### [Rovereto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.private.md) 
+
+### [Rovereto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.personal.md) 
+
+### [Rovereto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityRovereto.secret.md)
+

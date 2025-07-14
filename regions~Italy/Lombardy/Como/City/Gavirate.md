@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gavirate|Gavirate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.public|Gavirate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.internal|Gavirate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.protect|Gavirate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.private|Gavirate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.personal|Gavirate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gavirate.secret|Gavirate.secret]] 
+
+### [Gavirate.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.public.md) 
+
+### [Gavirate.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.internal.md) 
+
+### [Gavirate.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.protect.md) 
+
+### [Gavirate.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.private.md) 
+
+### [Gavirate.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.personal.md) 
+
+### [Gavirate.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityGavirate.secret.md)
+

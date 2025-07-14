@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania|Tempio_Pausania]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.public|Tempio_Pausania.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.internal|Tempio_Pausania.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.protect|Tempio_Pausania.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.private|Tempio_Pausania.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.personal|Tempio_Pausania.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Tempio_Pausania.secret|Tempio_Pausania.secret]] 
+
+### [Tempio_Pausania.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.public.md) 
+
+### [Tempio_Pausania.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.internal.md) 
+
+### [Tempio_Pausania.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.protect.md) 
+
+### [Tempio_Pausania.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.private.md) 
+
+### [Tempio_Pausania.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.personal.md) 
+
+### [Tempio_Pausania.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.secret.md)
+

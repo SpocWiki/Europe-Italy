@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte|Castellamonte]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.public|Castellamonte.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.internal|Castellamonte.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.protect|Castellamonte.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.private|Castellamonte.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.personal|Castellamonte.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castellamonte.secret|Castellamonte.secret]] 
+
+### [Castellamonte.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.public.md) 
+
+### [Castellamonte.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.internal.md) 
+
+### [Castellamonte.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.protect.md) 
+
+### [Castellamonte.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.private.md) 
+
+### [Castellamonte.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.personal.md) 
+
+### [Castellamonte.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityCastellamonte.secret.md)
+

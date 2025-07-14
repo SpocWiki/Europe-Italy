@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Verona|Verona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Verona.public|Verona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Verona.internal|Verona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Verona.protect|Verona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Verona.private|Verona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Verona.personal|Verona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Verona.secret|Verona.secret]] 
+
+### [Verona.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.public.md) 
+
+### [Verona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.internal.md) 
+
+### [Verona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.protect.md) 
+
+### [Verona.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.private.md) 
+
+### [Verona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.personal.md) 
+
+### [Verona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityVerona.secret.md)
+

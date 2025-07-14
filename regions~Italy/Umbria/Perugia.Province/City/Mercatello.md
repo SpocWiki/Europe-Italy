@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mercatello|Mercatello]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.public|Mercatello.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.internal|Mercatello.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.protect|Mercatello.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.private|Mercatello.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.personal|Mercatello.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mercatello.secret|Mercatello.secret]] 
+
+### [Mercatello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.public.md) 
+
+### [Mercatello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.internal.md) 
+
+### [Mercatello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.protect.md) 
+
+### [Mercatello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.private.md) 
+
+### [Mercatello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.personal.md) 
+
+### [Mercatello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityMercatello.secret.md)
+

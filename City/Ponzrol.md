@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol|Ponzrol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.public|Ponzrol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.internal|Ponzrol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.protect|Ponzrol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.private|Ponzrol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.personal|Ponzrol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ponzrol.secret|Ponzrol.secret]] 
+
+### [Ponzrol.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.public.md) 
+
+### [Ponzrol.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.internal.md) 
+
+### [Ponzrol.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.protect.md) 
+
+### [Ponzrol.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.private.md) 
+
+### [Ponzrol.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.personal.md) 
+
+### [Ponzrol.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityPonzrol.secret.md)
+

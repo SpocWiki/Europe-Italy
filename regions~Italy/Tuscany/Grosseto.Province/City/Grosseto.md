@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Grosseto|Grosseto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.public|Grosseto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.internal|Grosseto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.protect|Grosseto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.private|Grosseto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.personal|Grosseto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Grosseto.secret|Grosseto.secret]] 
+
+### [Grosseto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.public.md) 
+
+### [Grosseto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.internal.md) 
+
+### [Grosseto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.protect.md) 
+
+### [Grosseto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.private.md) 
+
+### [Grosseto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.personal.md) 
+
+### [Grosseto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.secret.md)
+

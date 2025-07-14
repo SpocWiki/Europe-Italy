@@ -40,11 +40,16 @@ markerFolder: ./Asti.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province|Asti.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.public|Asti.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.internal|Asti.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.protect|Asti.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.private|Asti.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.personal|Asti.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Asti.Province.secret|Asti.Province.secret]] 
+
+### [Asti.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.public.md) 
+
+### [Asti.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.internal.md) 
+
+### [Asti.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.protect.md) 
+
+### [Asti.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.private.md) 
+
+### [Asti.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.personal.md) 
+
+### [Asti.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAsti.Province.secret.md)
 

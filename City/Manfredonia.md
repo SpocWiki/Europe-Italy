@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia|Manfredonia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.public|Manfredonia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.internal|Manfredonia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.protect|Manfredonia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.private|Manfredonia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.personal|Manfredonia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Manfredonia.secret|Manfredonia.secret]] 
+
+### [Manfredonia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.public.md) 
+
+### [Manfredonia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.internal.md) 
+
+### [Manfredonia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.protect.md) 
+
+### [Manfredonia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.private.md) 
+
+### [Manfredonia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.personal.md) 
+
+### [Manfredonia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Aviano|Aviano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Aviano.public|Aviano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Aviano.internal|Aviano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Aviano.protect|Aviano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Aviano.private|Aviano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Aviano.personal|Aviano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Aviano.secret|Aviano.secret]] 
+
+### [Aviano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.public.md) 
+
+### [Aviano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.internal.md) 
+
+### [Aviano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.protect.md) 
+
+### [Aviano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.private.md) 
+
+### [Aviano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.personal.md) 
+
+### [Aviano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAviano.secret.md)
+

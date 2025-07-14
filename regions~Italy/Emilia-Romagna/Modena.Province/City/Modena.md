@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Modena|Modena]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Modena.public|Modena.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Modena.internal|Modena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Modena.protect|Modena.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Modena.private|Modena.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Modena.personal|Modena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Modena.secret|Modena.secret]] 
+
+### [Modena.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.public.md) 
+
+### [Modena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.internal.md) 
+
+### [Modena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.protect.md) 
+
+### [Modena.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.private.md) 
+
+### [Modena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.personal.md) 
+
+### [Modena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityModena.secret.md)
+

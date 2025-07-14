@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo|Ceredolo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.public|Ceredolo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.internal|Ceredolo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.protect|Ceredolo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.private|Ceredolo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.personal|Ceredolo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ceredolo.secret|Ceredolo.secret]] 
+
+### [Ceredolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.public.md) 
+
+### [Ceredolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.internal.md) 
+
+### [Ceredolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.protect.md) 
+
+### [Ceredolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.private.md) 
+
+### [Ceredolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.personal.md) 
+
+### [Ceredolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityCeredolo.secret.md)
+

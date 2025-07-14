@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Imperia|Imperia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Imperia.public|Imperia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Imperia.internal|Imperia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Imperia.protect|Imperia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Imperia.private|Imperia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Imperia.personal|Imperia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Imperia.secret|Imperia.secret]] 
+
+### [Imperia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.public.md) 
+
+### [Imperia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.internal.md) 
+
+### [Imperia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.protect.md) 
+
+### [Imperia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.private.md) 
+
+### [Imperia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.personal.md) 
+
+### [Imperia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityImperia.secret.md)
+

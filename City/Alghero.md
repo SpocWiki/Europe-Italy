@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alghero|Alghero]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alghero.public|Alghero.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alghero.internal|Alghero.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alghero.protect|Alghero.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alghero.private|Alghero.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alghero.personal|Alghero.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alghero.secret|Alghero.secret]] 
+
+### [Alghero.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.public.md) 
+
+### [Alghero.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.internal.md) 
+
+### [Alghero.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.protect.md) 
+
+### [Alghero.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.private.md) 
+
+### [Alghero.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.personal.md) 
+
+### [Alghero.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Osimo|Osimo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Osimo.public|Osimo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Osimo.internal|Osimo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Osimo.protect|Osimo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Osimo.private|Osimo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Osimo.personal|Osimo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Osimo.secret|Osimo.secret]] 
+
+### [Osimo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.public.md) 
+
+### [Osimo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.internal.md) 
+
+### [Osimo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.protect.md) 
+
+### [Osimo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.private.md) 
+
+### [Osimo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.personal.md) 
+
+### [Osimo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityOsimo.secret.md)
+

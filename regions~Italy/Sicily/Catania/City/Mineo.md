@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mineo|Mineo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mineo.public|Mineo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mineo.internal|Mineo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mineo.protect|Mineo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mineo.private|Mineo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mineo.personal|Mineo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mineo.secret|Mineo.secret]] 
+
+### [Mineo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.public.md) 
+
+### [Mineo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.internal.md) 
+
+### [Mineo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.protect.md) 
+
+### [Mineo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.private.md) 
+
+### [Mineo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.personal.md) 
+
+### [Mineo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMineo.secret.md)
+

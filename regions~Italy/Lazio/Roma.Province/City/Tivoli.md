@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Tivoli|Tivoli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.public|Tivoli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.internal|Tivoli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.protect|Tivoli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.private|Tivoli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.personal|Tivoli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Tivoli.secret|Tivoli.secret]] 
+
+### [Tivoli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.public.md) 
+
+### [Tivoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.internal.md) 
+
+### [Tivoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.protect.md) 
+
+### [Tivoli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.private.md) 
+
+### [Tivoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.personal.md) 
+
+### [Tivoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityTivoli.secret.md)
+

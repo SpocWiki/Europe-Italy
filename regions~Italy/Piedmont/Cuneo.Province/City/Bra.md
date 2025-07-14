@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bra|Bra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bra.public|Bra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bra.internal|Bra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bra.protect|Bra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bra.private|Bra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bra.personal|Bra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bra.secret|Bra.secret]] 
+
+### [Bra.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.public.md) 
+
+### [Bra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.internal.md) 
+
+### [Bra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.protect.md) 
+
+### [Bra.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.private.md) 
+
+### [Bra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.personal.md) 
+
+### [Bra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityBra.secret.md)
+

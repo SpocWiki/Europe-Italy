@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cento|Cento]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cento.public|Cento.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cento.internal|Cento.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cento.protect|Cento.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cento.private|Cento.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cento.personal|Cento.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cento.secret|Cento.secret]] 
+
+### [Cento.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.public.md) 
+
+### [Cento.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.internal.md) 
+
+### [Cento.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.protect.md) 
+
+### [Cento.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.private.md) 
+
+### [Cento.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.personal.md) 
+
+### [Cento.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCento.secret.md)
+

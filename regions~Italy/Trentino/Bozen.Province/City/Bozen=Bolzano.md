@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano|Bozen=Bolzano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.public|Bozen=Bolzano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.internal|Bozen=Bolzano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.protect|Bozen=Bolzano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.private|Bozen=Bolzano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.personal|Bozen=Bolzano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bozen=Bolzano.secret|Bozen=Bolzano.secret]] 
+
+### [Bozen=Bolzano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.public.md) 
+
+### [Bozen=Bolzano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.internal.md) 
+
+### [Bozen=Bolzano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.protect.md) 
+
+### [Bozen=Bolzano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.private.md) 
+
+### [Bozen=Bolzano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.personal.md) 
+
+### [Bozen=Bolzano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBozen=Bolzano.secret.md)
+

@@ -40,20 +40,16 @@ markerFolder: ./Bergamo.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province|Bergamo.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.public|Bergamo.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.internal|Bergamo.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.protect|Bergamo.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.private|Bergamo.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.personal|Bergamo.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Bergamo.Province.secret|Bergamo.Province.secret]] 
 
+### [Bergamo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.public.md) 
 
-```leaflet
-id: Italy
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Bergamo.Province/
-markerFolder: ./Bergamo.Province/
-```
+### [Bergamo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.internal.md) 
+
+### [Bergamo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.protect.md) 
+
+### [Bergamo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.private.md) 
+
+### [Bergamo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.personal.md) 
+
+### [Bergamo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alatri|Alatri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alatri.public|Alatri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alatri.internal|Alatri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alatri.protect|Alatri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alatri.private|Alatri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alatri.personal|Alatri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alatri.secret|Alatri.secret]] 
+
+### [Alatri.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.public.md) 
+
+### [Alatri.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.internal.md) 
+
+### [Alatri.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.protect.md) 
+
+### [Alatri.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.private.md) 
+
+### [Alatri.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.personal.md) 
+
+### [Alatri.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityAlatri.secret.md)
+

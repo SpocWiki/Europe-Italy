@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lanciano|Lanciano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.public|Lanciano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.internal|Lanciano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.protect|Lanciano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.private|Lanciano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.personal|Lanciano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lanciano.secret|Lanciano.secret]] 
+
+### [Lanciano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.public.md) 
+
+### [Lanciano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.internal.md) 
+
+### [Lanciano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.protect.md) 
+
+### [Lanciano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.private.md) 
+
+### [Lanciano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.personal.md) 
+
+### [Lanciano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityLanciano.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino|San_Pellegrino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.public|San_Pellegrino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.internal|San_Pellegrino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.protect|San_Pellegrino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.private|San_Pellegrino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.personal|San_Pellegrino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/San_Pellegrino.secret|San_Pellegrino.secret]] 
+
+### [San_Pellegrino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.public.md) 
+
+### [San_Pellegrino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.internal.md) 
+
+### [San_Pellegrino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.protect.md) 
+
+### [San_Pellegrino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.private.md) 
+
+### [San_Pellegrino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.personal.md) 
+
+### [San_Pellegrino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CitySan_Pellegrino.secret.md)
+

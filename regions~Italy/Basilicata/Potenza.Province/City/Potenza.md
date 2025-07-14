@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Potenza|Potenza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Potenza.public|Potenza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Potenza.internal|Potenza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Potenza.protect|Potenza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Potenza.private|Potenza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Potenza.personal|Potenza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Potenza.secret|Potenza.secret]] 
+
+### [Potenza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.public.md) 
+
+### [Potenza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.internal.md) 
+
+### [Potenza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.protect.md) 
+
+### [Potenza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.private.md) 
+
+### [Potenza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.personal.md) 
+
+### [Potenza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPotenza.secret.md)
+

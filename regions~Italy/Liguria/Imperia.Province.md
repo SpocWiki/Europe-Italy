@@ -40,11 +40,16 @@ markerFolder: ./Imperia.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province|Imperia.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.public|Imperia.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.internal|Imperia.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.protect|Imperia.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.private|Imperia.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.personal|Imperia.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/Imperia.Province.secret|Imperia.Province.secret]] 
+
+### [Imperia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.public.md) 
+
+### [Imperia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.internal.md) 
+
+### [Imperia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.protect.md) 
+
+### [Imperia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.private.md) 
+
+### [Imperia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.personal.md) 
+
+### [Imperia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaImperia.Province.secret.md)
 

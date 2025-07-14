@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lodi|Lodi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lodi.public|Lodi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lodi.internal|Lodi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lodi.protect|Lodi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lodi.private|Lodi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lodi.personal|Lodi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lodi.secret|Lodi.secret]] 
+
+### [Lodi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.public.md) 
+
+### [Lodi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.internal.md) 
+
+### [Lodi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.protect.md) 
+
+### [Lodi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.private.md) 
+
+### [Lodi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.personal.md) 
+
+### [Lodi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityLodi.secret.md)
+

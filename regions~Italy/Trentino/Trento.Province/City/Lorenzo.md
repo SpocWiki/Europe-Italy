@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo|Lorenzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.public|Lorenzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.internal|Lorenzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.protect|Lorenzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.private|Lorenzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.personal|Lorenzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lorenzo.secret|Lorenzo.secret]] 
+
+### [Lorenzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.public.md) 
+
+### [Lorenzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.internal.md) 
+
+### [Lorenzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.protect.md) 
+
+### [Lorenzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.private.md) 
+
+### [Lorenzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.personal.md) 
+
+### [Lorenzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLorenzo.secret.md)
+

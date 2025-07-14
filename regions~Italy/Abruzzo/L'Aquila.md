@@ -40,11 +40,16 @@ markerFolder: ./L'Aquila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila|L'Aquila]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.public|L'Aquila.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.internal|L'Aquila.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.protect|L'Aquila.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.private|L'Aquila.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.personal|L'Aquila.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Abruzzo/L'Aquila.secret|L'Aquila.secret]] 
+
+### [L'Aquila.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.public.md) 
+
+### [L'Aquila.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.internal.md) 
+
+### [L'Aquila.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.protect.md) 
+
+### [L'Aquila.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.private.md) 
+
+### [L'Aquila.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.personal.md) 
+
+### [L'Aquila.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoL'Aquila.secret.md)
 

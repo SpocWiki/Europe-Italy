@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Viterbo|Viterbo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.public|Viterbo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.internal|Viterbo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.protect|Viterbo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.private|Viterbo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.personal|Viterbo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Viterbo.secret|Viterbo.secret]] 
+
+### [Viterbo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.public.md) 
+
+### [Viterbo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.internal.md) 
+
+### [Viterbo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.protect.md) 
+
+### [Viterbo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.private.md) 
+
+### [Viterbo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.personal.md) 
+
+### [Viterbo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityViterbo.secret.md)
+

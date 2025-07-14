@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bismantova|Bismantova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.public|Bismantova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.internal|Bismantova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.protect|Bismantova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.private|Bismantova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.personal|Bismantova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bismantova.secret|Bismantova.secret]] 
+
+### [Bismantova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.public.md) 
+
+### [Bismantova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.internal.md) 
+
+### [Bismantova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.protect.md) 
+
+### [Bismantova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.private.md) 
+
+### [Bismantova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.personal.md) 
+
+### [Bismantova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityBismantova.secret.md)
+

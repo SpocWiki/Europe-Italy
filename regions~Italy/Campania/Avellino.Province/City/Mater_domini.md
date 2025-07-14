@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini|Mater_domini]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.public|Mater_domini.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.internal|Mater_domini.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.protect|Mater_domini.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.private|Mater_domini.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.personal|Mater_domini.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mater_domini.secret|Mater_domini.secret]] 
+
+### [Mater_domini.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.public.md) 
+
+### [Mater_domini.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.internal.md) 
+
+### [Mater_domini.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.protect.md) 
+
+### [Mater_domini.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.private.md) 
+
+### [Mater_domini.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.personal.md) 
+
+### [Mater_domini.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.secret.md)
+

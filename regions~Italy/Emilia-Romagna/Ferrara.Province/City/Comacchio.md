@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Comacchio|Comacchio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.public|Comacchio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.internal|Comacchio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.protect|Comacchio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.private|Comacchio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.personal|Comacchio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Comacchio.secret|Comacchio.secret]] 
+
+### [Comacchio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.public.md) 
+
+### [Comacchio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.internal.md) 
+
+### [Comacchio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.protect.md) 
+
+### [Comacchio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.private.md) 
+
+### [Comacchio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.personal.md) 
+
+### [Comacchio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityComacchio.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Frosinone|Frosinone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.public|Frosinone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.internal|Frosinone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.protect|Frosinone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.private|Frosinone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.personal|Frosinone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Frosinone.secret|Frosinone.secret]] 
+
+### [Frosinone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.public.md) 
+
+### [Frosinone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.internal.md) 
+
+### [Frosinone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.protect.md) 
+
+### [Frosinone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.private.md) 
+
+### [Frosinone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.personal.md) 
+
+### [Frosinone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityFrosinone.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Este|Este]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Este.public|Este.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Este.internal|Este.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Este.protect|Este.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Este.private|Este.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Este.personal|Este.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Este.secret|Este.secret]] 
+
+### [Este.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.public.md) 
+
+### [Este.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.internal.md) 
+
+### [Este.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.protect.md) 
+
+### [Este.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.private.md) 
+
+### [Este.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.personal.md) 
+
+### [Este.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityEste.secret.md)
+

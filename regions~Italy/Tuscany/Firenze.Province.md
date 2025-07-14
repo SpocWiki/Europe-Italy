@@ -40,11 +40,16 @@ markerFolder: ./Firenze.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province|Firenze.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.public|Firenze.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.internal|Firenze.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.protect|Firenze.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.private|Firenze.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.personal|Firenze.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Firenze.Province.secret|Firenze.Province.secret]] 
+
+### [Firenze.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.public.md) 
+
+### [Firenze.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.internal.md) 
+
+### [Firenze.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.protect.md) 
+
+### [Firenze.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.private.md) 
+
+### [Firenze.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.personal.md) 
+
+### [Firenze.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyFirenze.Province.secret.md)
 

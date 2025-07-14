@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Grado|Grado]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Grado.public|Grado.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Grado.internal|Grado.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Grado.protect|Grado.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Grado.private|Grado.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Grado.personal|Grado.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Grado.secret|Grado.secret]] 
+
+### [Grado.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.public.md) 
+
+### [Grado.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.internal.md) 
+
+### [Grado.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.protect.md) 
+
+### [Grado.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.private.md) 
+
+### [Grado.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.personal.md) 
+
+### [Grado.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityGrado.secret.md)
+

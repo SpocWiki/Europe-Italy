@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pienza|Pienza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pienza.public|Pienza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pienza.internal|Pienza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pienza.protect|Pienza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pienza.private|Pienza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pienza.personal|Pienza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pienza.secret|Pienza.secret]] 
+
+### [Pienza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.public.md) 
+
+### [Pienza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.internal.md) 
+
+### [Pienza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.protect.md) 
+
+### [Pienza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.private.md) 
+
+### [Pienza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.personal.md) 
+
+### [Pienza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityPienza.secret.md)
+

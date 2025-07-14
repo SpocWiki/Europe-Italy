@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Razzolo|Razzolo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.public|Razzolo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.internal|Razzolo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.protect|Razzolo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.private|Razzolo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.personal|Razzolo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Razzolo.secret|Razzolo.secret]] 
+
+### [Razzolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.public.md) 
+
+### [Razzolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.internal.md) 
+
+### [Razzolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.protect.md) 
+
+### [Razzolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.private.md) 
+
+### [Razzolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.personal.md) 
+
+### [Razzolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityRazzolo.secret.md)
+

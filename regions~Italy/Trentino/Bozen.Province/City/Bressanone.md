@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bressanone|Bressanone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.public|Bressanone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.internal|Bressanone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.protect|Bressanone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.private|Bressanone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.personal|Bressanone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bressanone.secret|Bressanone.secret]] 
+
+### [Bressanone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.public.md) 
+
+### [Bressanone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.internal.md) 
+
+### [Bressanone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.protect.md) 
+
+### [Bressanone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.private.md) 
+
+### [Bressanone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.personal.md) 
+
+### [Bressanone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityBressanone.secret.md)
+

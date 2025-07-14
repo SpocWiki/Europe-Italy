@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Recanati|Recanati]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Recanati.public|Recanati.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Recanati.internal|Recanati.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Recanati.protect|Recanati.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Recanati.private|Recanati.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Recanati.personal|Recanati.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Recanati.secret|Recanati.secret]] 
+
+### [Recanati.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.public.md) 
+
+### [Recanati.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.internal.md) 
+
+### [Recanati.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.protect.md) 
+
+### [Recanati.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.private.md) 
+
+### [Recanati.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.personal.md) 
+
+### [Recanati.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityRecanati.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Portici|Portici]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Portici.public|Portici.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Portici.internal|Portici.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Portici.protect|Portici.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Portici.private|Portici.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Portici.personal|Portici.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Portici.secret|Portici.secret]] 
+
+### [Portici.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.public.md) 
+
+### [Portici.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.internal.md) 
+
+### [Portici.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.protect.md) 
+
+### [Portici.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.private.md) 
+
+### [Portici.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.personal.md) 
+
+### [Portici.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPortici.secret.md)
+

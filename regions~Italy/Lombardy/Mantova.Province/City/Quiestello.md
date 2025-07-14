@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Quiestello|Quiestello]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.public|Quiestello.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.internal|Quiestello.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.protect|Quiestello.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.private|Quiestello.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.personal|Quiestello.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Quiestello.secret|Quiestello.secret]] 
+
+### [Quiestello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.public.md) 
+
+### [Quiestello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.internal.md) 
+
+### [Quiestello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.protect.md) 
+
+### [Quiestello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.private.md) 
+
+### [Quiestello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.personal.md) 
+
+### [Quiestello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityQuiestello.secret.md)
+

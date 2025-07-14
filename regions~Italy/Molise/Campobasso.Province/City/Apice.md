@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Apice|Apice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Apice.public|Apice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Apice.internal|Apice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Apice.protect|Apice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Apice.private|Apice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Apice.personal|Apice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Apice.secret|Apice.secret]] 
+
+### [Apice.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.public.md) 
+
+### [Apice.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.internal.md) 
+
+### [Apice.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.protect.md) 
+
+### [Apice.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.private.md) 
+
+### [Apice.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.personal.md) 
+
+### [Apice.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityApice.secret.md)
+

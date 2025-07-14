@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Nettuna|Nettuna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.public|Nettuna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.internal|Nettuna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.protect|Nettuna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.private|Nettuna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.personal|Nettuna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Nettuna.secret|Nettuna.secret]] 
+
+### [Nettuna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.public.md) 
+
+### [Nettuna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.internal.md) 
+
+### [Nettuna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.protect.md) 
+
+### [Nettuna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.private.md) 
+
+### [Nettuna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.personal.md) 
+
+### [Nettuna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityNettuna.secret.md)
+

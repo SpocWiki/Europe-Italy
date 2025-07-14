@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario|Castel_d'Ario]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.public|Castel_d'Ario.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.internal|Castel_d'Ario.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.protect|Castel_d'Ario.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.private|Castel_d'Ario.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.personal|Castel_d'Ario.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castel_d'Ario.secret|Castel_d'Ario.secret]] 
+
+### [Castel_d'Ario.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.public.md) 
+
+### [Castel_d'Ario.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.internal.md) 
+
+### [Castel_d'Ario.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.protect.md) 
+
+### [Castel_d'Ario.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.private.md) 
+
+### [Castel_d'Ario.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.personal.md) 
+
+### [Castel_d'Ario.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastel_d'Ario.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Iglesias|Iglesias]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.public|Iglesias.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.internal|Iglesias.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.protect|Iglesias.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.private|Iglesias.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.personal|Iglesias.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Iglesias.secret|Iglesias.secret]] 
+
+### [Iglesias.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.public.md) 
+
+### [Iglesias.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.internal.md) 
+
+### [Iglesias.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.protect.md) 
+
+### [Iglesias.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.private.md) 
+
+### [Iglesias.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.personal.md) 
+
+### [Iglesias.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso|Lentate_al_Sedveso]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.public|Lentate_al_Sedveso.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.internal|Lentate_al_Sedveso.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.protect|Lentate_al_Sedveso.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.private|Lentate_al_Sedveso.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.personal|Lentate_al_Sedveso.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lentate_al_Sedveso.secret|Lentate_al_Sedveso.secret]] 
+
+### [Lentate_al_Sedveso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.public.md) 
+
+### [Lentate_al_Sedveso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.internal.md) 
+
+### [Lentate_al_Sedveso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.protect.md) 
+
+### [Lentate_al_Sedveso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.private.md) 
+
+### [Lentate_al_Sedveso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.personal.md) 
+
+### [Lentate_al_Sedveso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.secret.md)
+

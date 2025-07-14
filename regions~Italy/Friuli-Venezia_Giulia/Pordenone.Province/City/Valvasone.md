@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Valvasone|Valvasone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.public|Valvasone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.internal|Valvasone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.protect|Valvasone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.private|Valvasone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.personal|Valvasone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Valvasone.secret|Valvasone.secret]] 
+
+### [Valvasone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.public.md) 
+
+### [Valvasone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.internal.md) 
+
+### [Valvasone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.protect.md) 
+
+### [Valvasone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.private.md) 
+
+### [Valvasone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.personal.md) 
+
+### [Valvasone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityValvasone.secret.md)
+

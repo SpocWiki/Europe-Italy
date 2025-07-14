@@ -40,20 +40,16 @@ markerFolder: ./Bozen.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province|Bozen.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.public|Bozen.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.internal|Bozen.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.protect|Bozen.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.private|Bozen.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.personal|Bozen.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Bozen.Province.secret|Bozen.Province.secret]] 
 
+### [Bozen.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.public.md) 
 
-```leaflet
-id: Israel
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Bozen.Province/
-markerFolder: ./Bozen.Province/
-```
+### [Bozen.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.internal.md) 
+
+### [Bozen.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.protect.md) 
+
+### [Bozen.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.private.md) 
+
+### [Bozen.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.personal.md) 
+
+### [Bozen.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.secret.md)
+

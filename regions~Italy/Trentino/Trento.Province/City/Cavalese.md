@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cavalese|Cavalese]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.public|Cavalese.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.internal|Cavalese.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.protect|Cavalese.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.private|Cavalese.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.personal|Cavalese.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cavalese.secret|Cavalese.secret]] 
+
+### [Cavalese.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.public.md) 
+
+### [Cavalese.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.internal.md) 
+
+### [Cavalese.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.protect.md) 
+
+### [Cavalese.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.private.md) 
+
+### [Cavalese.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.personal.md) 
+
+### [Cavalese.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityCavalese.secret.md)
+

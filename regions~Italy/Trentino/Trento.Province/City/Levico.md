@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Levico|Levico]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Levico.public|Levico.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Levico.internal|Levico.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Levico.protect|Levico.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Levico.private|Levico.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Levico.personal|Levico.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Levico.secret|Levico.secret]] 
+
+### [Levico.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.public.md) 
+
+### [Levico.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.internal.md) 
+
+### [Levico.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.protect.md) 
+
+### [Levico.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.private.md) 
+
+### [Levico.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.personal.md) 
+
+### [Levico.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityLevico.secret.md)
+

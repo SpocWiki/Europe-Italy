@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine|Alfonsine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.public|Alfonsine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.internal|Alfonsine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.protect|Alfonsine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.private|Alfonsine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.personal|Alfonsine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alfonsine.secret|Alfonsine.secret]] 
+
+### [Alfonsine.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.public.md) 
+
+### [Alfonsine.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.internal.md) 
+
+### [Alfonsine.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.protect.md) 
+
+### [Alfonsine.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.private.md) 
+
+### [Alfonsine.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.personal.md) 
+
+### [Alfonsine.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityAlfonsine.secret.md)
+

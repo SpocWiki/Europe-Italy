@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia|Reggio_Emilia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.public|Reggio_Emilia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.internal|Reggio_Emilia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.protect|Reggio_Emilia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.private|Reggio_Emilia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.personal|Reggio_Emilia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Reggio_Emilia.secret|Reggio_Emilia.secret]] 
+
+### [Reggio_Emilia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.public.md) 
+
+### [Reggio_Emilia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.internal.md) 
+
+### [Reggio_Emilia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.protect.md) 
+
+### [Reggio_Emilia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.private.md) 
+
+### [Reggio_Emilia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.personal.md) 
+
+### [Reggio_Emilia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityReggio_Emilia.secret.md)
+

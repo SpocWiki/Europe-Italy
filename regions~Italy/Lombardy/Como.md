@@ -40,20 +40,16 @@ markerFolder: ./Como/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como|Como]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.public|Como.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.internal|Como.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.protect|Como.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.private|Como.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.personal|Como.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Como.secret|Como.secret]] 
 
+### [Como.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.public.md) 
 
-```leaflet
-id: Italy
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Como/
-markerFolder: ./Como/
-```
+### [Como.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.internal.md) 
+
+### [Como.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.protect.md) 
+
+### [Como.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.private.md) 
+
+### [Como.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.personal.md) 
+
+### [Como.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyComo.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina|Sottomarina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.public|Sottomarina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.internal|Sottomarina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.protect|Sottomarina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.private|Sottomarina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.personal|Sottomarina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sottomarina.secret|Sottomarina.secret]] 
+
+### [Sottomarina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.public.md) 
+
+### [Sottomarina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.internal.md) 
+
+### [Sottomarina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.protect.md) 
+
+### [Sottomarina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.private.md) 
+
+### [Sottomarina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.personal.md) 
+
+### [Sottomarina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CitySottomarina.secret.md)
+

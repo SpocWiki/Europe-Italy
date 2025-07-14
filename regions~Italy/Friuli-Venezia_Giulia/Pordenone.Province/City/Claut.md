@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Claut|Claut]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Claut.public|Claut.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Claut.internal|Claut.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Claut.protect|Claut.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Claut.private|Claut.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Claut.personal|Claut.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Claut.secret|Claut.secret]] 
+
+### [Claut.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.public.md) 
+
+### [Claut.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.internal.md) 
+
+### [Claut.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.protect.md) 
+
+### [Claut.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.private.md) 
+
+### [Claut.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.personal.md) 
+
+### [Claut.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityClaut.secret.md)
+

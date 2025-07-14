@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Nonantola|Nonantola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.public|Nonantola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.internal|Nonantola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.protect|Nonantola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.private|Nonantola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.personal|Nonantola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Nonantola.secret|Nonantola.secret]] 
+
+### [Nonantola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.public.md) 
+
+### [Nonantola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.internal.md) 
+
+### [Nonantola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.protect.md) 
+
+### [Nonantola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.private.md) 
+
+### [Nonantola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.personal.md) 
+
+### [Nonantola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityNonantola.secret.md)
+

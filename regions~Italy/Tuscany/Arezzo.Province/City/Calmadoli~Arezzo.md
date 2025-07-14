@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo|Calmadoli~Arezzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.public|Calmadoli~Arezzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.internal|Calmadoli~Arezzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.protect|Calmadoli~Arezzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.private|Calmadoli~Arezzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.personal|Calmadoli~Arezzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Arezzo.secret|Calmadoli~Arezzo.secret]] 
+
+### [Calmadoli~Arezzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.public.md) 
+
+### [Calmadoli~Arezzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.internal.md) 
+
+### [Calmadoli~Arezzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.protect.md) 
+
+### [Calmadoli~Arezzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.private.md) 
+
+### [Calmadoli~Arezzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.personal.md) 
+
+### [Calmadoli~Arezzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.secret.md)
+

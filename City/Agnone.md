@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Agnone|Agnone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Agnone.public|Agnone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Agnone.internal|Agnone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Agnone.protect|Agnone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Agnone.private|Agnone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Agnone.personal|Agnone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Agnone.secret|Agnone.secret]] 
+
+### [Agnone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.public.md) 
+
+### [Agnone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.internal.md) 
+
+### [Agnone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.protect.md) 
+
+### [Agnone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.private.md) 
+
+### [Agnone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.personal.md) 
+
+### [Agnone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAgnone.secret.md)
+

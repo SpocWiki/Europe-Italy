@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Palanzo|Palanzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.public|Palanzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.internal|Palanzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.protect|Palanzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.private|Palanzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.personal|Palanzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Palanzo.secret|Palanzo.secret]] 
+
+### [Palanzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.public.md) 
+
+### [Palanzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.internal.md) 
+
+### [Palanzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.protect.md) 
+
+### [Palanzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.private.md) 
+
+### [Palanzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.personal.md) 
+
+### [Palanzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPalanzo.secret.md)
+

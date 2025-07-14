@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Palagnana|Palagnana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.public|Palagnana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.internal|Palagnana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.protect|Palagnana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.private|Palagnana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.personal|Palagnana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Palagnana.secret|Palagnana.secret]] 
+
+### [Palagnana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.public.md) 
+
+### [Palagnana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.internal.md) 
+
+### [Palagnana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.protect.md) 
+
+### [Palagnana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.private.md) 
+
+### [Palagnana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.personal.md) 
+
+### [Palagnana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityPalagnana.secret.md)
+

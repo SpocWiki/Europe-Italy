@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lovere|Lovere]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lovere.public|Lovere.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lovere.internal|Lovere.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lovere.protect|Lovere.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lovere.private|Lovere.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lovere.personal|Lovere.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lovere.secret|Lovere.secret]] 
+
+### [Lovere.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.public.md) 
+
+### [Lovere.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.internal.md) 
+
+### [Lovere.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.protect.md) 
+
+### [Lovere.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.private.md) 
+
+### [Lovere.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.personal.md) 
+
+### [Lovere.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityLovere.secret.md)
+

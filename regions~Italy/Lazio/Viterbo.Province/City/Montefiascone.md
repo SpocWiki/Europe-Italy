@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone|Montefiascone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.public|Montefiascone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.internal|Montefiascone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.protect|Montefiascone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.private|Montefiascone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.personal|Montefiascone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montefiascone.secret|Montefiascone.secret]] 
+
+### [Montefiascone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.public.md) 
+
+### [Montefiascone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.internal.md) 
+
+### [Montefiascone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.protect.md) 
+
+### [Montefiascone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.private.md) 
+
+### [Montefiascone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.personal.md) 
+
+### [Montefiascone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province\CityMontefiascone.secret.md)
+

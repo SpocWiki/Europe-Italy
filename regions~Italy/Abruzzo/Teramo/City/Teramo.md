@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Teramo|Teramo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Teramo.public|Teramo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Teramo.internal|Teramo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Teramo.protect|Teramo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Teramo.private|Teramo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Teramo.personal|Teramo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Teramo.secret|Teramo.secret]] 
+
+### [Teramo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.public.md) 
+
+### [Teramo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.internal.md) 
+
+### [Teramo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.protect.md) 
+
+### [Teramo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.private.md) 
+
+### [Teramo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.personal.md) 
+
+### [Teramo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Teramo\CityTeramo.secret.md)
+

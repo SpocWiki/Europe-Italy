@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova|Verolanuova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.public|Verolanuova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.internal|Verolanuova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.protect|Verolanuova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.private|Verolanuova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.personal|Verolanuova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Verolanuova.secret|Verolanuova.secret]] 
+
+### [Verolanuova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.public.md) 
+
+### [Verolanuova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.internal.md) 
+
+### [Verolanuova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.protect.md) 
+
+### [Verolanuova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.private.md) 
+
+### [Verolanuova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.personal.md) 
+
+### [Verolanuova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVerolanuova.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Scilla|Scilla]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Scilla.public|Scilla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Scilla.internal|Scilla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Scilla.protect|Scilla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Scilla.private|Scilla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Scilla.personal|Scilla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Scilla.secret|Scilla.secret]] 
+
+### [Scilla.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.public.md) 
+
+### [Scilla.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.internal.md) 
+
+### [Scilla.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.protect.md) 
+
+### [Scilla.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.private.md) 
+
+### [Scilla.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.personal.md) 
+
+### [Scilla.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityScilla.secret.md)
+

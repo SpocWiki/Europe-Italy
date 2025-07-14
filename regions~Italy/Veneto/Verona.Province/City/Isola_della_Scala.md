@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala|Isola_della_Scala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.public|Isola_della_Scala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.internal|Isola_della_Scala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.protect|Isola_della_Scala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.private|Isola_della_Scala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.personal|Isola_della_Scala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Isola_della_Scala.secret|Isola_della_Scala.secret]] 
+
+### [Isola_della_Scala.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.public.md) 
+
+### [Isola_della_Scala.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.internal.md) 
+
+### [Isola_della_Scala.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.protect.md) 
+
+### [Isola_della_Scala.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.private.md) 
+
+### [Isola_della_Scala.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.personal.md) 
+
+### [Isola_della_Scala.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Adrano|Adrano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Adrano.public|Adrano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Adrano.internal|Adrano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Adrano.protect|Adrano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Adrano.private|Adrano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Adrano.personal|Adrano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Adrano.secret|Adrano.secret]] 
+
+### [Adrano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.public.md) 
+
+### [Adrano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.internal.md) 
+
+### [Adrano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.protect.md) 
+
+### [Adrano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.private.md) 
+
+### [Adrano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.personal.md) 
+
+### [Adrano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityAdrano.secret.md)
+

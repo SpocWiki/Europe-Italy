@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Assisi|Assisi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Assisi.public|Assisi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Assisi.internal|Assisi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Assisi.protect|Assisi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Assisi.private|Assisi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Assisi.personal|Assisi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Assisi.secret|Assisi.secret]] 
+
+### [Assisi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.public.md) 
+
+### [Assisi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.internal.md) 
+
+### [Assisi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.protect.md) 
+
+### [Assisi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.private.md) 
+
+### [Assisi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.personal.md) 
+
+### [Assisi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityAssisi.secret.md)
+

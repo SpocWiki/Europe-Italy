@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Loreto|Loreto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Loreto.public|Loreto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Loreto.internal|Loreto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Loreto.protect|Loreto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Loreto.private|Loreto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Loreto.personal|Loreto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Loreto.secret|Loreto.secret]] 
+
+### [Loreto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.public.md) 
+
+### [Loreto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.internal.md) 
+
+### [Loreto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.protect.md) 
+
+### [Loreto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.private.md) 
+
+### [Loreto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.personal.md) 
+
+### [Loreto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityLoreto.secret.md)
+

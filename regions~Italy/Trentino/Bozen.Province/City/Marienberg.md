@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Marienberg|Marienberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.public|Marienberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.internal|Marienberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.protect|Marienberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.private|Marienberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.personal|Marienberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Marienberg.secret|Marienberg.secret]] 
+
+### [Marienberg.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.public.md) 
+
+### [Marienberg.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.internal.md) 
+
+### [Marienberg.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.protect.md) 
+
+### [Marienberg.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.private.md) 
+
+### [Marienberg.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.personal.md) 
+
+### [Marienberg.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityMarienberg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto|Valigo-Cerreto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.public|Valigo-Cerreto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.internal|Valigo-Cerreto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.protect|Valigo-Cerreto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.private|Valigo-Cerreto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.personal|Valigo-Cerreto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Valigo-Cerreto.secret|Valigo-Cerreto.secret]] 
+
+### [Valigo-Cerreto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.public.md) 
+
+### [Valigo-Cerreto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.internal.md) 
+
+### [Valigo-Cerreto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.protect.md) 
+
+### [Valigo-Cerreto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.private.md) 
+
+### [Valigo-Cerreto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.personal.md) 
+
+### [Valigo-Cerreto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityValigo-Cerreto.secret.md)
+

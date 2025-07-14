@@ -40,11 +40,16 @@ markerFolder: ./Trieste.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province|Trieste.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.public|Trieste.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.internal|Trieste.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.protect|Trieste.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.private|Trieste.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.personal|Trieste.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Trieste.Province.secret|Trieste.Province.secret]] 
+
+### [Trieste.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.public.md) 
+
+### [Trieste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.internal.md) 
+
+### [Trieste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.protect.md) 
+
+### [Trieste.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.private.md) 
+
+### [Trieste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.personal.md) 
+
+### [Trieste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.secret.md)
 

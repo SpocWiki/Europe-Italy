@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo|Locorotondo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.public|Locorotondo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.internal|Locorotondo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.protect|Locorotondo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.private|Locorotondo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.personal|Locorotondo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Locorotondo.secret|Locorotondo.secret]] 
+
+### [Locorotondo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.public.md) 
+
+### [Locorotondo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.internal.md) 
+
+### [Locorotondo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.protect.md) 
+
+### [Locorotondo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.private.md) 
+
+### [Locorotondo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.personal.md) 
+
+### [Locorotondo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Bari\CityLocorotondo.secret.md)
+

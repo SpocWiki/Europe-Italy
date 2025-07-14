@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Codogno|Codogno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Codogno.public|Codogno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Codogno.internal|Codogno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Codogno.protect|Codogno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Codogno.private|Codogno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Codogno.personal|Codogno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Codogno.secret|Codogno.secret]] 
+
+### [Codogno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.public.md) 
+
+### [Codogno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.internal.md) 
+
+### [Codogno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.protect.md) 
+
+### [Codogno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.private.md) 
+
+### [Codogno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.personal.md) 
+
+### [Codogno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCodogno.secret.md)
+

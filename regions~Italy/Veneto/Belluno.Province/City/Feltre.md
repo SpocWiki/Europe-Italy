@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Feltre|Feltre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Feltre.public|Feltre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Feltre.internal|Feltre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Feltre.protect|Feltre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Feltre.private|Feltre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Feltre.personal|Feltre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Feltre.secret|Feltre.secret]] 
+
+### [Feltre.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.public.md) 
+
+### [Feltre.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.internal.md) 
+
+### [Feltre.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.protect.md) 
+
+### [Feltre.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.private.md) 
+
+### [Feltre.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.personal.md) 
+
+### [Feltre.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityFeltre.secret.md)
+

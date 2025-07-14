@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina|Lesina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.public|Lesina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.internal|Lesina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.protect|Lesina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.private|Lesina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.personal|Lesina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Lesina.secret|Lesina.secret]] 
+
+### [Lesina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.public.md) 
+
+### [Lesina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.internal.md) 
+
+### [Lesina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.protect.md) 
+
+### [Lesina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.private.md) 
+
+### [Lesina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.personal.md) 
+
+### [Lesina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityLesina.secret.md)
+

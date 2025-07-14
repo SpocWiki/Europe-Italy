@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Parma|Parma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Parma.public|Parma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Parma.internal|Parma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Parma.protect|Parma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Parma.private|Parma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Parma.personal|Parma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Parma.secret|Parma.secret]] 
+
+### [Parma.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.public.md) 
+
+### [Parma.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.internal.md) 
+
+### [Parma.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.protect.md) 
+
+### [Parma.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.private.md) 
+
+### [Parma.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.personal.md) 
+
+### [Parma.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityParma.secret.md)
+

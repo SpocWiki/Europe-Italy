@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Valdgano|Valdgano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.public|Valdgano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.internal|Valdgano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.protect|Valdgano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.private|Valdgano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.personal|Valdgano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Valdgano.secret|Valdgano.secret]] 
+
+### [Valdgano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.public.md) 
+
+### [Valdgano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.internal.md) 
+
+### [Valdgano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.protect.md) 
+
+### [Valdgano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.private.md) 
+
+### [Valdgano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.personal.md) 
+
+### [Valdgano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityValdgano.secret.md)
+

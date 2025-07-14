@@ -40,11 +40,16 @@ markerFolder: ./Udine.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province|Udine.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.public|Udine.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.internal|Udine.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.protect|Udine.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.private|Udine.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.personal|Udine.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Udine.Province.secret|Udine.Province.secret]] 
+
+### [Udine.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.public.md) 
+
+### [Udine.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.internal.md) 
+
+### [Udine.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.protect.md) 
+
+### [Udine.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.private.md) 
+
+### [Udine.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.personal.md) 
+
+### [Udine.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaUdine.Province.secret.md)
 

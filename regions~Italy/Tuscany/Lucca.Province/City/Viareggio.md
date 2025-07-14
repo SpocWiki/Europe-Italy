@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Viareggio|Viareggio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.public|Viareggio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.internal|Viareggio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.protect|Viareggio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.private|Viareggio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.personal|Viareggio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Viareggio.secret|Viareggio.secret]] 
+
+### [Viareggio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.public.md) 
+
+### [Viareggio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.internal.md) 
+
+### [Viareggio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.protect.md) 
+
+### [Viareggio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.private.md) 
+
+### [Viareggio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.personal.md) 
+
+### [Viareggio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityViareggio.secret.md)
+

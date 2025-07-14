@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Longarone|Longarone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Longarone.public|Longarone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Longarone.internal|Longarone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Longarone.protect|Longarone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Longarone.private|Longarone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Longarone.personal|Longarone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Longarone.secret|Longarone.secret]] 
+
+### [Longarone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.public.md) 
+
+### [Longarone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.internal.md) 
+
+### [Longarone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.protect.md) 
+
+### [Longarone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.private.md) 
+
+### [Longarone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.personal.md) 
+
+### [Longarone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityLongarone.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka|Martina_Franka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.public|Martina_Franka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.internal|Martina_Franka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.protect|Martina_Franka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.private|Martina_Franka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.personal|Martina_Franka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Martina_Franka.secret|Martina_Franka.secret]] 
+
+### [Martina_Franka.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.public.md) 
+
+### [Martina_Franka.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.internal.md) 
+
+### [Martina_Franka.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.protect.md) 
+
+### [Martina_Franka.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.private.md) 
+
+### [Martina_Franka.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.personal.md) 
+
+### [Martina_Franka.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.secret.md)
+

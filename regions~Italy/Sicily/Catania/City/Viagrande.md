@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Viagrande|Viagrande]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.public|Viagrande.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.internal|Viagrande.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.protect|Viagrande.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.private|Viagrande.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.personal|Viagrande.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Viagrande.secret|Viagrande.secret]] 
+
+### [Viagrande.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.public.md) 
+
+### [Viagrande.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.internal.md) 
+
+### [Viagrande.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.protect.md) 
+
+### [Viagrande.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.private.md) 
+
+### [Viagrande.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.personal.md) 
+
+### [Viagrande.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityViagrande.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sarzana|Sarzana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.public|Sarzana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.internal|Sarzana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.protect|Sarzana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.private|Sarzana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.personal|Sarzana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sarzana.secret|Sarzana.secret]] 
+
+### [Sarzana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.public.md) 
+
+### [Sarzana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.internal.md) 
+
+### [Sarzana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.protect.md) 
+
+### [Sarzana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.private.md) 
+
+### [Sarzana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.personal.md) 
+
+### [Sarzana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySarzana.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Domodossola|Domodossola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.public|Domodossola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.internal|Domodossola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.protect|Domodossola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.private|Domodossola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.personal|Domodossola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Domodossola.secret|Domodossola.secret]] 
+
+### [Domodossola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.public.md) 
+
+### [Domodossola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.internal.md) 
+
+### [Domodossola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.protect.md) 
+
+### [Domodossola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.private.md) 
+
+### [Domodossola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.personal.md) 
+
+### [Domodossola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.secret.md)
+

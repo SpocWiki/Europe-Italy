@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Terranova|Terranova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Terranova.public|Terranova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Terranova.internal|Terranova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Terranova.protect|Terranova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Terranova.private|Terranova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Terranova.personal|Terranova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Terranova.secret|Terranova.secret]] 
+
+### [Terranova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.public.md) 
+
+### [Terranova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.internal.md) 
+
+### [Terranova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.protect.md) 
+
+### [Terranova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.private.md) 
+
+### [Terranova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.personal.md) 
+
+### [Terranova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityTerranova.secret.md)
+

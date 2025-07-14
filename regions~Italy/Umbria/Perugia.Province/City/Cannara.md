@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cannara|Cannara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cannara.public|Cannara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cannara.internal|Cannara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cannara.protect|Cannara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cannara.private|Cannara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cannara.personal|Cannara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cannara.secret|Cannara.secret]] 
+
+### [Cannara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.public.md) 
+
+### [Cannara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.internal.md) 
+
+### [Cannara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.protect.md) 
+
+### [Cannara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.private.md) 
+
+### [Cannara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.personal.md) 
+
+### [Cannara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityCannara.secret.md)
+

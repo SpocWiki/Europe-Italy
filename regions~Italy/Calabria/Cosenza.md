@@ -40,11 +40,16 @@ markerFolder: ./Cosenza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza|Cosenza]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.public|Cosenza.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.internal|Cosenza.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.protect|Cosenza.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.private|Cosenza.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.personal|Cosenza.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Cosenza.secret|Cosenza.secret]] 
+
+### [Cosenza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.public.md) 
+
+### [Cosenza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.internal.md) 
+
+### [Cosenza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.protect.md) 
+
+### [Cosenza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.private.md) 
+
+### [Cosenza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.personal.md) 
+
+### [Cosenza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCosenza.secret.md)
 

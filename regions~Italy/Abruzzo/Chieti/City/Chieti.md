@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Chieti|Chieti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Chieti.public|Chieti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Chieti.internal|Chieti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Chieti.protect|Chieti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Chieti.private|Chieti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Chieti.personal|Chieti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Chieti.secret|Chieti.secret]] 
+
+### [Chieti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.public.md) 
+
+### [Chieti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.internal.md) 
+
+### [Chieti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.protect.md) 
+
+### [Chieti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.private.md) 
+
+### [Chieti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.personal.md) 
+
+### [Chieti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Chieti\CityChieti.secret.md)
+

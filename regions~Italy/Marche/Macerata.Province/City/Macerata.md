@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Macerata|Macerata]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Macerata.public|Macerata.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Macerata.internal|Macerata.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Macerata.protect|Macerata.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Macerata.private|Macerata.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Macerata.personal|Macerata.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Macerata.secret|Macerata.secret]] 
+
+### [Macerata.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.public.md) 
+
+### [Macerata.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.internal.md) 
+
+### [Macerata.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.protect.md) 
+
+### [Macerata.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.private.md) 
+
+### [Macerata.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.personal.md) 
+
+### [Macerata.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityMacerata.secret.md)
+

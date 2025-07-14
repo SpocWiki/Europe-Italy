@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vigevano|Vigevano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.public|Vigevano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.internal|Vigevano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.protect|Vigevano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.private|Vigevano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.personal|Vigevano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vigevano.secret|Vigevano.secret]] 
+
+### [Vigevano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.public.md) 
+
+### [Vigevano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.internal.md) 
+
+### [Vigevano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.protect.md) 
+
+### [Vigevano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.private.md) 
+
+### [Vigevano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.personal.md) 
+
+### [Vigevano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVigevano.secret.md)
+

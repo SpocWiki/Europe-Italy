@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cassino|Cassino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cassino.public|Cassino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cassino.internal|Cassino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cassino.protect|Cassino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cassino.private|Cassino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cassino.personal|Cassino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cassino.secret|Cassino.secret]] 
+
+### [Cassino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.public.md) 
+
+### [Cassino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.internal.md) 
+
+### [Cassino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.protect.md) 
+
+### [Cassino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.private.md) 
+
+### [Cassino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.personal.md) 
+
+### [Cassino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityCassino.secret.md)
+

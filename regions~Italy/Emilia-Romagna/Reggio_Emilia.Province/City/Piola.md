@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Piola|Piola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Piola.public|Piola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Piola.internal|Piola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Piola.protect|Piola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Piola.private|Piola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Piola.personal|Piola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Piola.secret|Piola.secret]] 
+
+### [Piola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.public.md) 
+
+### [Piola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.internal.md) 
+
+### [Piola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.protect.md) 
+
+### [Piola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.private.md) 
+
+### [Piola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.personal.md) 
+
+### [Piola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityPiola.secret.md)
+

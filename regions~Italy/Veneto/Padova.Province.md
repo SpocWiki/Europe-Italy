@@ -40,11 +40,16 @@ markerFolder: ./Padova.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province|Padova.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.public|Padova.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.internal|Padova.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.protect|Padova.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.private|Padova.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.personal|Padova.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Padova.Province.secret|Padova.Province.secret]] 
+
+### [Padova.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.public.md) 
+
+### [Padova.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.internal.md) 
+
+### [Padova.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.protect.md) 
+
+### [Padova.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.private.md) 
+
+### [Padova.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.personal.md) 
+
+### [Padova.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoPadova.Province.secret.md)
 

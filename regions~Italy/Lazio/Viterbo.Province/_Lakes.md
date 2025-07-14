@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes|_Lakes]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Viterbo/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.public.md) 
+
+### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.internal.md) 
+
+### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.protect.md) 
+
+### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.private.md) 
+
+### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Viterbo.Province_Lakes.secret.md)
 

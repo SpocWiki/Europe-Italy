@@ -40,11 +40,16 @@ markerFolder: ./Lucca.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province|Lucca.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.public|Lucca.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.internal|Lucca.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.protect|Lucca.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.private|Lucca.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.personal|Lucca.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Lucca.Province.secret|Lucca.Province.secret]] 
+
+### [Lucca.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.public.md) 
+
+### [Lucca.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.internal.md) 
+
+### [Lucca.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.protect.md) 
+
+### [Lucca.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.private.md) 
+
+### [Lucca.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.personal.md) 
+
+### [Lucca.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLucca.Province.secret.md)
 

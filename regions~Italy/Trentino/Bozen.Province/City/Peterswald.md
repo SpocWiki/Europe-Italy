@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Peterswald|Peterswald]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.public|Peterswald.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.internal|Peterswald.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.protect|Peterswald.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.private|Peterswald.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.personal|Peterswald.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Peterswald.secret|Peterswald.secret]] 
+
+### [Peterswald.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.public.md) 
+
+### [Peterswald.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.internal.md) 
+
+### [Peterswald.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.protect.md) 
+
+### [Peterswald.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.private.md) 
+
+### [Peterswald.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.personal.md) 
+
+### [Peterswald.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityPeterswald.secret.md)
+

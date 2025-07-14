@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/San_Remo|San_Remo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.public|San_Remo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.internal|San_Remo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.protect|San_Remo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.private|San_Remo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.personal|San_Remo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/San_Remo.secret|San_Remo.secret]] 
+
+### [San_Remo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.public.md) 
+
+### [San_Remo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.internal.md) 
+
+### [San_Remo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.protect.md) 
+
+### [San_Remo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.private.md) 
+
+### [San_Remo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.personal.md) 
+
+### [San_Remo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.secret.md)
+

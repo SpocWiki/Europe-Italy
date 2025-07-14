@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni|Castrogiovanni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.public|Castrogiovanni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.internal|Castrogiovanni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.protect|Castrogiovanni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.private|Castrogiovanni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.personal|Castrogiovanni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castrogiovanni.secret|Castrogiovanni.secret]] 
+
+### [Castrogiovanni.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.public.md) 
+
+### [Castrogiovanni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.internal.md) 
+
+### [Castrogiovanni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.protect.md) 
+
+### [Castrogiovanni.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.private.md) 
+
+### [Castrogiovanni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.personal.md) 
+
+### [Castrogiovanni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Arezzo.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province|Arezzo.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.public|Arezzo.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.internal|Arezzo.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.protect|Arezzo.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.private|Arezzo.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.personal|Arezzo.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Arezzo.Province.secret|Arezzo.Province.secret]] 
+
+### [Arezzo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.public.md) 
+
+### [Arezzo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.internal.md) 
+
+### [Arezzo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.protect.md) 
+
+### [Arezzo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.private.md) 
+
+### [Arezzo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.personal.md) 
+
+### [Arezzo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyArezzo.Province.secret.md)
 

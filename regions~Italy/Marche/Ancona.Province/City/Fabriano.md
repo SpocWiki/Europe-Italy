@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Fabriano|Fabriano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.public|Fabriano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.internal|Fabriano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.protect|Fabriano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.private|Fabriano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.personal|Fabriano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Fabriano.secret|Fabriano.secret]] 
+
+### [Fabriano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.public.md) 
+
+### [Fabriano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.internal.md) 
+
+### [Fabriano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.protect.md) 
+
+### [Fabriano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.private.md) 
+
+### [Fabriano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.personal.md) 
+
+### [Fabriano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityFabriano.secret.md)
+

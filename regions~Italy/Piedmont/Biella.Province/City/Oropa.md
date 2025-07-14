@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Oropa|Oropa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Oropa.public|Oropa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Oropa.internal|Oropa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Oropa.protect|Oropa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Oropa.private|Oropa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Oropa.personal|Oropa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Oropa.secret|Oropa.secret]] 
+
+### [Oropa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.public.md) 
+
+### [Oropa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.internal.md) 
+
+### [Oropa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.protect.md) 
+
+### [Oropa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.private.md) 
+
+### [Oropa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.personal.md) 
+
+### [Oropa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityOropa.secret.md)
+

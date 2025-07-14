@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Voghera|Voghera]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Voghera.public|Voghera.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Voghera.internal|Voghera.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Voghera.protect|Voghera.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Voghera.private|Voghera.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Voghera.personal|Voghera.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Voghera.secret|Voghera.secret]] 
+
+### [Voghera.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.public.md) 
+
+### [Voghera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.internal.md) 
+
+### [Voghera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.protect.md) 
+
+### [Voghera.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.private.md) 
+
+### [Voghera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.personal.md) 
+
+### [Voghera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityVoghera.secret.md)
+

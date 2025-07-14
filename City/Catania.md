@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Catania|Catania]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Catania.public|Catania.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Catania.internal|Catania.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Catania.protect|Catania.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Catania.private|Catania.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Catania.personal|Catania.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Catania.secret|Catania.secret]] 
+
+### [Catania.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.public.md) 
+
+### [Catania.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.internal.md) 
+
+### [Catania.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.protect.md) 
+
+### [Catania.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.private.md) 
+
+### [Catania.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.personal.md) 
+
+### [Catania.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCatania.secret.md)
+

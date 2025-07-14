@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Biella|Biella]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Biella.public|Biella.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Biella.internal|Biella.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Biella.protect|Biella.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Biella.private|Biella.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Biella.personal|Biella.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Biella.secret|Biella.secret]] 
+
+### [Biella.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.public.md) 
+
+### [Biella.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.internal.md) 
+
+### [Biella.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.protect.md) 
+
+### [Biella.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.private.md) 
+
+### [Biella.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.personal.md) 
+
+### [Biella.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CityBiella.secret.md)
+

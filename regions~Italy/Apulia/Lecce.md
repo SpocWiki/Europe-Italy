@@ -40,11 +40,16 @@ markerFolder: ./Lecce/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce|Lecce]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.public|Lecce.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.internal|Lecce.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.protect|Lecce.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.private|Lecce.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.personal|Lecce.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Lecce.secret|Lecce.secret]] 
+
+### [Lecce.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.public.md) 
+
+### [Lecce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.internal.md) 
+
+### [Lecce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.protect.md) 
+
+### [Lecce.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.private.md) 
+
+### [Lecce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.personal.md) 
+
+### [Lecce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaLecce.secret.md)
 

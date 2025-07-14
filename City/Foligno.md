@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.95,12.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Foligno|Foligno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Foligno.public|Foligno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foligno.internal|Foligno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foligno.protect|Foligno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foligno.private|Foligno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foligno.personal|Foligno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foligno.secret|Foligno.secret]] 
+
+### [Foligno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.public.md) 
+
+### [Foligno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.internal.md) 
+
+### [Foligno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.protect.md) 
+
+### [Foligno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.private.md) 
+
+### [Foligno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.personal.md) 
+
+### [Foligno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.secret.md)
+

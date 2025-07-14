@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Chivasso|Chivasso]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.public|Chivasso.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.internal|Chivasso.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.protect|Chivasso.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.private|Chivasso.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.personal|Chivasso.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Chivasso.secret|Chivasso.secret]] 
+
+### [Chivasso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.public.md) 
+
+### [Chivasso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.internal.md) 
+
+### [Chivasso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.protect.md) 
+
+### [Chivasso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.private.md) 
+
+### [Chivasso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.personal.md) 
+
+### [Chivasso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityChivasso.secret.md)
+

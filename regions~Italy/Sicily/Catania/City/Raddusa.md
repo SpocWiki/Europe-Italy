@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Raddusa|Raddusa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.public|Raddusa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.internal|Raddusa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.protect|Raddusa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.private|Raddusa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.personal|Raddusa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Raddusa.secret|Raddusa.secret]] 
+
+### [Raddusa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.public.md) 
+
+### [Raddusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.internal.md) 
+
+### [Raddusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.protect.md) 
+
+### [Raddusa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.private.md) 
+
+### [Raddusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.personal.md) 
+
+### [Raddusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityRaddusa.secret.md)
+

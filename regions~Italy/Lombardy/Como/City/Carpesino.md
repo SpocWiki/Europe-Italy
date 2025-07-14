@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Carpesino|Carpesino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.public|Carpesino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.internal|Carpesino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.protect|Carpesino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.private|Carpesino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.personal|Carpesino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Carpesino.secret|Carpesino.secret]] 
+
+### [Carpesino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.public.md) 
+
+### [Carpesino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.internal.md) 
+
+### [Carpesino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.protect.md) 
+
+### [Carpesino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.private.md) 
+
+### [Carpesino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.personal.md) 
+
+### [Carpesino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityCarpesino.secret.md)
+

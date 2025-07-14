@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino|Turin=Terino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.public|Turin=Terino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.internal|Turin=Terino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.protect|Turin=Terino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.private|Turin=Terino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.personal|Turin=Terino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Turin=Terino.secret|Turin=Terino.secret]] 
+
+### [Torino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.public.md) 
+
+### [Torino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.internal.md) 
+
+### [Torino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.protect.md) 
+
+### [Torino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.private.md) 
+
+### [Torino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.personal.md) 
+
+### [Torino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityTorino.secret.md)
+

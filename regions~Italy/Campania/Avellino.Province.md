@@ -40,11 +40,16 @@ markerFolder: ./Avellino.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province|Avellino.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.public|Avellino.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.internal|Avellino.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.protect|Avellino.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.private|Avellino.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.personal|Avellino.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Avellino.Province.secret|Avellino.Province.secret]] 
+
+### [Avellino.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.public.md) 
+
+### [Avellino.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.internal.md) 
+
+### [Avellino.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.protect.md) 
+
+### [Avellino.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.private.md) 
+
+### [Avellino.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.personal.md) 
+
+### [Avellino.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaAvellino.Province.secret.md)
 

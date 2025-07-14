@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cerreto|Cerreto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.public|Cerreto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.internal|Cerreto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.protect|Cerreto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.private|Cerreto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.personal|Cerreto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cerreto.secret|Cerreto.secret]] 
+
+### [Cerreto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.public.md) 
+
+### [Cerreto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.internal.md) 
+
+### [Cerreto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.protect.md) 
+
+### [Cerreto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.private.md) 
+
+### [Cerreto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.personal.md) 
+
+### [Cerreto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCerreto.secret.md)
+

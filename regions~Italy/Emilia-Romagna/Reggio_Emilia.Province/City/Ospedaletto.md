@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto|Ospedaletto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.public|Ospedaletto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.internal|Ospedaletto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.protect|Ospedaletto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.private|Ospedaletto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.personal|Ospedaletto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ospedaletto.secret|Ospedaletto.secret]] 
+
+### [Ospedaletto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.public.md) 
+
+### [Ospedaletto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.internal.md) 
+
+### [Ospedaletto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.protect.md) 
+
+### [Ospedaletto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.private.md) 
+
+### [Ospedaletto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.personal.md) 
+
+### [Ospedaletto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityOspedaletto.secret.md)
+

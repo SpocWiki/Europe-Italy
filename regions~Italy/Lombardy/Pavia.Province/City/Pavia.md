@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pavia|Pavia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pavia.public|Pavia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pavia.internal|Pavia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pavia.protect|Pavia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pavia.private|Pavia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pavia.personal|Pavia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pavia.secret|Pavia.secret]] 
+
+### [Pavia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.public.md) 
+
+### [Pavia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.internal.md) 
+
+### [Pavia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.protect.md) 
+
+### [Pavia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.private.md) 
+
+### [Pavia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.personal.md) 
+
+### [Pavia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPavia.secret.md)
+

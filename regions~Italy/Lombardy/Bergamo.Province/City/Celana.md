@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Celana|Celana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Celana.public|Celana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Celana.internal|Celana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Celana.protect|Celana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Celana.private|Celana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Celana.personal|Celana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Celana.secret|Celana.secret]] 
+
+### [Celana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.public.md) 
+
+### [Celana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.internal.md) 
+
+### [Celana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.protect.md) 
+
+### [Celana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.private.md) 
+
+### [Celana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.personal.md) 
+
+### [Celana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityCelana.secret.md)
+

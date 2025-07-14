@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti|Casteinuova_Monti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.public|Casteinuova_Monti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.internal|Casteinuova_Monti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.protect|Casteinuova_Monti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.private|Casteinuova_Monti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.personal|Casteinuova_Monti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Casteinuova_Monti.secret|Casteinuova_Monti.secret]] 
+
+### [Casteinuova_Monti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.public.md) 
+
+### [Casteinuova_Monti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.internal.md) 
+
+### [Casteinuova_Monti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.protect.md) 
+
+### [Casteinuova_Monti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.private.md) 
+
+### [Casteinuova_Monti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.personal.md) 
+
+### [Casteinuova_Monti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.secret.md)
+

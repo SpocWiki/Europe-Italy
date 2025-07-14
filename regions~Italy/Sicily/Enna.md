@@ -40,11 +40,16 @@ markerFolder: ./Enna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna|Enna]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.public|Enna.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.internal|Enna.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.protect|Enna.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.private|Enna.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.personal|Enna.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Enna.secret|Enna.secret]] 
+
+### [Enna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.public.md) 
+
+### [Enna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.internal.md) 
+
+### [Enna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.protect.md) 
+
+### [Enna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.private.md) 
+
+### [Enna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.personal.md) 
+
+### [Enna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyEnna.secret.md)
 

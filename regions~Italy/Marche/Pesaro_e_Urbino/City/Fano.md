@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Fano|Fano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Fano.public|Fano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Fano.internal|Fano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Fano.protect|Fano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Fano.private|Fano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Fano.personal|Fano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Fano.secret|Fano.secret]] 
+
+### [Fano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.public.md) 
+
+### [Fano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.internal.md) 
+
+### [Fano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.protect.md) 
+
+### [Fano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.private.md) 
+
+### [Fano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.personal.md) 
+
+### [Fano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityFano.secret.md)
+

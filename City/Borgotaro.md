@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.3,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Borgotaro|Borgotaro]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Borgotaro.public|Borgotaro.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Borgotaro.internal|Borgotaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Borgotaro.protect|Borgotaro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Borgotaro.private|Borgotaro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Borgotaro.personal|Borgotaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Borgotaro.secret|Borgotaro.secret]] 
+
+### [Borgotaro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.public.md) 
+
+### [Borgotaro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.internal.md) 
+
+### [Borgotaro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.protect.md) 
+
+### [Borgotaro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.private.md) 
+
+### [Borgotaro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.personal.md) 
+
+### [Borgotaro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.secret.md)
+

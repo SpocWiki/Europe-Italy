@@ -40,11 +40,16 @@ markerFolder: ./Alessandria.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province|Alessandria.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.public|Alessandria.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.internal|Alessandria.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.protect|Alessandria.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.private|Alessandria.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.personal|Alessandria.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Alessandria.Province.secret|Alessandria.Province.secret]] 
+
+### [Alessandria.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.public.md) 
+
+### [Alessandria.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.internal.md) 
+
+### [Alessandria.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.protect.md) 
+
+### [Alessandria.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.private.md) 
+
+### [Alessandria.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.personal.md) 
+
+### [Alessandria.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontAlessandria.Province.secret.md)
 

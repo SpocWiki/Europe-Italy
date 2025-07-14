@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia|Lacedonia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.public|Lacedonia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.internal|Lacedonia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.protect|Lacedonia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.private|Lacedonia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.personal|Lacedonia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lacedonia.secret|Lacedonia.secret]] 
+
+### [Lacedonia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.public.md) 
+
+### [Lacedonia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.internal.md) 
+
+### [Lacedonia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.protect.md) 
+
+### [Lacedonia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.private.md) 
+
+### [Lacedonia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.personal.md) 
+
+### [Lacedonia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityLacedonia.secret.md)
+

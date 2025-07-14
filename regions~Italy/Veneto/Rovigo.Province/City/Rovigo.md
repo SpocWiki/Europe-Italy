@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Rovigo|Rovigo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.public|Rovigo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.internal|Rovigo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.protect|Rovigo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.private|Rovigo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.personal|Rovigo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Rovigo.secret|Rovigo.secret]] 
+
+### [Rovigo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.public.md) 
+
+### [Rovigo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.internal.md) 
+
+### [Rovigo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.protect.md) 
+
+### [Rovigo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.private.md) 
+
+### [Rovigo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.personal.md) 
+
+### [Rovigo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityRovigo.secret.md)
+

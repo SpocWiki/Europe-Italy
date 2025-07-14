@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pistoia|Pistoia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.public|Pistoia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.internal|Pistoia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.protect|Pistoia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.private|Pistoia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.personal|Pistoia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pistoia.secret|Pistoia.secret]] 
+
+### [Pistoia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.public.md) 
+
+### [Pistoia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.internal.md) 
+
+### [Pistoia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.protect.md) 
+
+### [Pistoia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.private.md) 
+
+### [Pistoia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.personal.md) 
+
+### [Pistoia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPistoia.secret.md)
+

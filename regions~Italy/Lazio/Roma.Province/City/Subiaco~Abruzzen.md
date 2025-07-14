@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen|Subiaco~Abruzzen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.public|Subiaco~Abruzzen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.internal|Subiaco~Abruzzen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.protect|Subiaco~Abruzzen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.private|Subiaco~Abruzzen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.personal|Subiaco~Abruzzen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Subiaco~Abruzzen.secret|Subiaco~Abruzzen.secret]] 
+
+### [Subiaco~Abruzzen.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.public.md) 
+
+### [Subiaco~Abruzzen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.internal.md) 
+
+### [Subiaco~Abruzzen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.protect.md) 
+
+### [Subiaco~Abruzzen.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.private.md) 
+
+### [Subiaco~Abruzzen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.personal.md) 
+
+### [Subiaco~Abruzzen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.secret.md)
+

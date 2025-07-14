@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Garda|Garda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Garda.public|Garda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Garda.internal|Garda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Garda.protect|Garda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Garda.private|Garda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Garda.personal|Garda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Garda.secret|Garda.secret]] 
+
+### [Garda.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.public.md) 
+
+### [Garda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.internal.md) 
+
+### [Garda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.protect.md) 
+
+### [Garda.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.private.md) 
+
+### [Garda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.personal.md) 
+
+### [Garda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityGarda.secret.md)
+

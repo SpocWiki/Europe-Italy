@@ -40,11 +40,16 @@ markerFolder: ./Ragusa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa|Ragusa]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.public|Ragusa.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.internal|Ragusa.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.protect|Ragusa.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.private|Ragusa.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.personal|Ragusa.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Ragusa.secret|Ragusa.secret]] 
+
+### [Ragusa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.public.md) 
+
+### [Ragusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.internal.md) 
+
+### [Ragusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.protect.md) 
+
+### [Ragusa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.private.md) 
+
+### [Ragusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.personal.md) 
+
+### [Ragusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyRagusa.secret.md)
 

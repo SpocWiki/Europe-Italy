@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ancona|Ancona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ancona.public|Ancona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ancona.internal|Ancona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ancona.protect|Ancona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ancona.private|Ancona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ancona.personal|Ancona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ancona.secret|Ancona.secret]] 
+
+### [Ancona.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.public.md) 
+
+### [Ancona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.internal.md) 
+
+### [Ancona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.protect.md) 
+
+### [Ancona.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.private.md) 
+
+### [Ancona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.personal.md) 
+
+### [Ancona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityAncona.secret.md)
+

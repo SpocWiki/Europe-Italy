@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sorrento|Sorrento]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.public|Sorrento.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.internal|Sorrento.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.protect|Sorrento.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.private|Sorrento.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.personal|Sorrento.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sorrento.secret|Sorrento.secret]] 
+
+### [Sorrento.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.public.md) 
+
+### [Sorrento.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.internal.md) 
+
+### [Sorrento.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.protect.md) 
+
+### [Sorrento.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.private.md) 
+
+### [Sorrento.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.personal.md) 
+
+### [Sorrento.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySorrento.secret.md)
+

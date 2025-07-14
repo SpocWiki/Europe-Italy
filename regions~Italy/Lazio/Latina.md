@@ -40,11 +40,16 @@ markerFolder: ./Latina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina|Latina]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.public|Latina.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.internal|Latina.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.protect|Latina.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.private|Latina.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.personal|Latina.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Latina.secret|Latina.secret]] 
+
+### [Latina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.public.md) 
+
+### [Latina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.internal.md) 
+
+### [Latina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.protect.md) 
+
+### [Latina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.private.md) 
+
+### [Latina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.personal.md) 
+
+### [Latina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioLatina.secret.md)
 

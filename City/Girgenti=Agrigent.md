@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent|Girgenti=Agrigent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.public|Girgenti=Agrigent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.internal|Girgenti=Agrigent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.protect|Girgenti=Agrigent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.private|Girgenti=Agrigent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.personal|Girgenti=Agrigent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.secret|Girgenti=Agrigent.secret]] 
+
+### [Girgenti=Agrigent.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.public.md) 
+
+### [Girgenti=Agrigent.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.internal.md) 
+
+### [Girgenti=Agrigent.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.protect.md) 
+
+### [Girgenti=Agrigent.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.private.md) 
+
+### [Girgenti=Agrigent.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.personal.md) 
+
+### [Girgenti=Agrigent.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityGirgenti=Agrigent.secret.md)
+

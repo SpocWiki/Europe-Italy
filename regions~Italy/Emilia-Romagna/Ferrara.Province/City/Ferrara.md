@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ferrara|Ferrara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.public|Ferrara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.internal|Ferrara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.protect|Ferrara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.private|Ferrara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.personal|Ferrara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ferrara.secret|Ferrara.secret]] 
+
+### [Ferrara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.public.md) 
+
+### [Ferrara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.internal.md) 
+
+### [Ferrara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.protect.md) 
+
+### [Ferrara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.private.md) 
+
+### [Ferrara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.personal.md) 
+
+### [Ferrara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityFerrara.secret.md)
+

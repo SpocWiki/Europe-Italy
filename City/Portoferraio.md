@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio|Portoferraio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.public|Portoferraio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.internal|Portoferraio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.protect|Portoferraio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.private|Portoferraio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.personal|Portoferraio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Portoferraio.secret|Portoferraio.secret]] 
+
+### [Portoferraio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.public.md) 
+
+### [Portoferraio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.internal.md) 
+
+### [Portoferraio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.protect.md) 
+
+### [Portoferraio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.private.md) 
+
+### [Portoferraio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.personal.md) 
+
+### [Portoferraio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityPortoferraio.secret.md)
+

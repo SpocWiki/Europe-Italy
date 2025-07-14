@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vimercate|Vimercate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.public|Vimercate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.internal|Vimercate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.protect|Vimercate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.private|Vimercate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.personal|Vimercate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vimercate.secret|Vimercate.secret]] 
+
+### [Vimercate.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.public.md) 
+
+### [Vimercate.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.internal.md) 
+
+### [Vimercate.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.protect.md) 
+
+### [Vimercate.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.private.md) 
+
+### [Vimercate.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.personal.md) 
+
+### [Vimercate.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityVimercate.secret.md)
+

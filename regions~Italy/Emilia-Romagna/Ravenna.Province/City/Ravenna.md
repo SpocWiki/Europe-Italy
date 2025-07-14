@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ravenna|Ravenna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.public|Ravenna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.internal|Ravenna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.protect|Ravenna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.private|Ravenna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.personal|Ravenna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ravenna.secret|Ravenna.secret]] 
+
+### [Ravenna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.public.md) 
+
+### [Ravenna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.internal.md) 
+
+### [Ravenna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.protect.md) 
+
+### [Ravenna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.private.md) 
+
+### [Ravenna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.personal.md) 
+
+### [Ravenna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.secret.md)
+

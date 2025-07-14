@@ -40,11 +40,16 @@ markerFolder: ./Catanzaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro|Catanzaro]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.public|Catanzaro.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.internal|Catanzaro.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.protect|Catanzaro.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.private|Catanzaro.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.personal|Catanzaro.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Calabria/Catanzaro.secret|Catanzaro.secret]] 
+
+### [Catanzaro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.public.md) 
+
+### [Catanzaro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.internal.md) 
+
+### [Catanzaro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.protect.md) 
+
+### [Catanzaro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.private.md) 
+
+### [Catanzaro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.personal.md) 
+
+### [Catanzaro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCatanzaro.secret.md)
 

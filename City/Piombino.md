@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Piombino|Piombino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Piombino.public|Piombino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Piombino.internal|Piombino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Piombino.protect|Piombino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Piombino.private|Piombino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Piombino.personal|Piombino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Piombino.secret|Piombino.secret]] 
+
+### [Piombino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.public.md) 
+
+### [Piombino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.internal.md) 
+
+### [Piombino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.protect.md) 
+
+### [Piombino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.private.md) 
+
+### [Piombino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.personal.md) 
+
+### [Piombino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityPiombino.secret.md)
+

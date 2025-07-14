@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth|Kastelruth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.public|Kastelruth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.internal|Kastelruth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.protect|Kastelruth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.private|Kastelruth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.personal|Kastelruth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Kastelruth.secret|Kastelruth.secret]] 
+
+### [Kastelruth.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.public.md) 
+
+### [Kastelruth.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.internal.md) 
+
+### [Kastelruth.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.protect.md) 
+
+### [Kastelruth.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.private.md) 
+
+### [Kastelruth.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.personal.md) 
+
+### [Kastelruth.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Bozen.Province\CityKastelruth.secret.md)
+

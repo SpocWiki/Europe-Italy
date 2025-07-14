@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Latisana|Latisana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Latisana.public|Latisana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Latisana.internal|Latisana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Latisana.protect|Latisana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Latisana.private|Latisana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Latisana.personal|Latisana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Latisana.secret|Latisana.secret]] 
+
+### [Latisana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.public.md) 
+
+### [Latisana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.internal.md) 
+
+### [Latisana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.protect.md) 
+
+### [Latisana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.private.md) 
+
+### [Latisana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.personal.md) 
+
+### [Latisana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityLatisana.secret.md)
+

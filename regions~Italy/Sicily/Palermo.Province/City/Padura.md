@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Padura|Padura]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Padura.public|Padura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Padura.internal|Padura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Padura.protect|Padura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Padura.private|Padura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Padura.personal|Padura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Padura.secret|Padura.secret]] 
+
+### [Padura.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.public.md) 
+
+### [Padura.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.internal.md) 
+
+### [Padura.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.protect.md) 
+
+### [Padura.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.private.md) 
+
+### [Padura.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.personal.md) 
+
+### [Padura.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPadura.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Troia|Troia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Troia.public|Troia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Troia.internal|Troia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Troia.protect|Troia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Troia.private|Troia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Troia.personal|Troia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Troia.secret|Troia.secret]] 
+
+### [Troia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.public.md) 
+
+### [Troia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.internal.md) 
+
+### [Troia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.protect.md) 
+
+### [Troia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.private.md) 
+
+### [Troia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.personal.md) 
+
+### [Troia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityTroia.secret.md)
+

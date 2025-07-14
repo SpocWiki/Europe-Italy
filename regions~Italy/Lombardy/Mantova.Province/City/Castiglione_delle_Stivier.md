@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier|Castiglione_delle_Stivier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.public|Castiglione_delle_Stivier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.internal|Castiglione_delle_Stivier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.protect|Castiglione_delle_Stivier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.private|Castiglione_delle_Stivier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.personal|Castiglione_delle_Stivier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_delle_Stivier.secret|Castiglione_delle_Stivier.secret]] 
+
+### [Castiglione_delle_Stivier.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.public.md) 
+
+### [Castiglione_delle_Stivier.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.internal.md) 
+
+### [Castiglione_delle_Stivier.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.protect.md) 
+
+### [Castiglione_delle_Stivier.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.private.md) 
+
+### [Castiglione_delle_Stivier.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.personal.md) 
+
+### [Castiglione_delle_Stivier.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityCastiglione_delle_Stivier.secret.md)
+

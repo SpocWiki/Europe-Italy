@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bagnone|Bagnone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.public|Bagnone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.internal|Bagnone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.protect|Bagnone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.private|Bagnone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.personal|Bagnone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bagnone.secret|Bagnone.secret]] 
+
+### [Bagnone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.public.md) 
+
+### [Bagnone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.internal.md) 
+
+### [Bagnone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.protect.md) 
+
+### [Bagnone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.private.md) 
+
+### [Bagnone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.personal.md) 
+
+### [Bagnone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CityBagnone.secret.md)
+

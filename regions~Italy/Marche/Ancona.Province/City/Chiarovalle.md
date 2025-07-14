@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle|Chiarovalle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.public|Chiarovalle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.internal|Chiarovalle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.protect|Chiarovalle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.private|Chiarovalle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.personal|Chiarovalle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Chiarovalle.secret|Chiarovalle.secret]] 
+
+### [Chiarovalle.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.public.md) 
+
+### [Chiarovalle.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.internal.md) 
+
+### [Chiarovalle.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.protect.md) 
+
+### [Chiarovalle.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.private.md) 
+
+### [Chiarovalle.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.personal.md) 
+
+### [Chiarovalle.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityChiarovalle.secret.md)
+

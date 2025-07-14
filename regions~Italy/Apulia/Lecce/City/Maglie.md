@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie|Maglie]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.public|Maglie.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.internal|Maglie.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.protect|Maglie.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.private|Maglie.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.personal|Maglie.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Maglie.secret|Maglie.secret]] 
+
+### [Maglie.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.public.md) 
+
+### [Maglie.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.internal.md) 
+
+### [Maglie.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.protect.md) 
+
+### [Maglie.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.private.md) 
+
+### [Maglie.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.personal.md) 
+
+### [Maglie.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityMaglie.secret.md)
+

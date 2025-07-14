@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra|Vallepietra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.public|Vallepietra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.internal|Vallepietra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.protect|Vallepietra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.private|Vallepietra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.personal|Vallepietra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vallepietra.secret|Vallepietra.secret]] 
+
+### [Vallepietra.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.public.md) 
+
+### [Vallepietra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.internal.md) 
+
+### [Vallepietra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.protect.md) 
+
+### [Vallepietra.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.private.md) 
+
+### [Vallepietra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.personal.md) 
+
+### [Vallepietra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityVallepietra.secret.md)
+

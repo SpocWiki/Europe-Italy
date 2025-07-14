@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vada|Vada]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vada.public|Vada.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vada.internal|Vada.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vada.protect|Vada.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vada.private|Vada.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vada.personal|Vada.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vada.secret|Vada.secret]] 
+
+### [Vada.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityVada.public.md) 
+
+### [Vada.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityVada.internal.md) 
+
+### [Vada.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityVada.protect.md) 
+
+### [Vada.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityVada.private.md) 
+
+### [Vada.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityVada.personal.md) 
+
+### [Vada.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityVada.secret.md)
+

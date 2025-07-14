@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gossensass|Gossensass]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.public|Gossensass.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.internal|Gossensass.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.protect|Gossensass.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.private|Gossensass.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.personal|Gossensass.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gossensass.secret|Gossensass.secret]] 
+
+### [Gossensass.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.public.md) 
+
+### [Gossensass.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.internal.md) 
+
+### [Gossensass.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.protect.md) 
+
+### [Gossensass.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.private.md) 
+
+### [Gossensass.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.personal.md) 
+
+### [Gossensass.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityGossensass.secret.md)
+

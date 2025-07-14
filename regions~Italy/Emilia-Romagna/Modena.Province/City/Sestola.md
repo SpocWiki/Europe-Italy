@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sestola|Sestola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sestola.public|Sestola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sestola.internal|Sestola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sestola.protect|Sestola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sestola.private|Sestola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sestola.personal|Sestola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sestola.secret|Sestola.secret]] 
+
+### [Sestola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.public.md) 
+
+### [Sestola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.internal.md) 
+
+### [Sestola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.protect.md) 
+
+### [Sestola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.private.md) 
+
+### [Sestola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.personal.md) 
+
+### [Sestola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySestola.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Pordenone.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province|Pordenone.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.public|Pordenone.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.internal|Pordenone.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.protect|Pordenone.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.private|Pordenone.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.personal|Pordenone.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Friuli-Venezia_Giulia/Pordenone.Province.secret|Pordenone.Province.secret]] 
+
+### [Pordenone.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.public.md) 
+
+### [Pordenone.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.internal.md) 
+
+### [Pordenone.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.protect.md) 
+
+### [Pordenone.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.private.md) 
+
+### [Pordenone.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.personal.md) 
+
+### [Pordenone.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.secret.md)
 

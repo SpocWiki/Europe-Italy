@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alicudie|Alicudie]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.public|Alicudie.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.internal|Alicudie.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.protect|Alicudie.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.private|Alicudie.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.personal|Alicudie.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alicudie.secret|Alicudie.secret]] 
+
+### [Alicudie.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.public.md) 
+
+### [Alicudie.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.internal.md) 
+
+### [Alicudie.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.protect.md) 
+
+### [Alicudie.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.private.md) 
+
+### [Alicudie.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.personal.md) 
+
+### [Alicudie.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.secret.md)
+

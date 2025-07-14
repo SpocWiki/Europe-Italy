@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bologna|Bologna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bologna.public|Bologna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bologna.internal|Bologna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bologna.protect|Bologna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bologna.private|Bologna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bologna.personal|Bologna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bologna.secret|Bologna.secret]] 
+
+### [Bologna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.public.md) 
+
+### [Bologna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.internal.md) 
+
+### [Bologna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.protect.md) 
+
+### [Bologna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.private.md) 
+
+### [Bologna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.personal.md) 
+
+### [Bologna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityBologna.secret.md)
+

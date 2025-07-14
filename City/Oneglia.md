@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Oneglia|Oneglia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.public|Oneglia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.internal|Oneglia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.protect|Oneglia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.private|Oneglia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.personal|Oneglia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Oneglia.secret|Oneglia.secret]] 
+
+### [Oneglia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.public.md) 
+
+### [Oneglia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.internal.md) 
+
+### [Oneglia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.protect.md) 
+
+### [Oneglia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.private.md) 
+
+### [Oneglia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.personal.md) 
+
+### [Oneglia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityOneglia.secret.md)
+

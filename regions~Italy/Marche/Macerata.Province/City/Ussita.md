@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ussita|Ussita]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ussita.public|Ussita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ussita.internal|Ussita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ussita.protect|Ussita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ussita.private|Ussita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ussita.personal|Ussita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ussita.secret|Ussita.secret]] 
+
+### [Ussita.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.public.md) 
+
+### [Ussita.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.internal.md) 
+
+### [Ussita.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.protect.md) 
+
+### [Ussita.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.private.md) 
+
+### [Ussita.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.personal.md) 
+
+### [Ussita.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Macerata.Province\CityUssita.secret.md)
+

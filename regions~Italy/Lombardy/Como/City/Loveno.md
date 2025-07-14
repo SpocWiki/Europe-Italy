@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Loveno|Loveno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Loveno.public|Loveno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Loveno.internal|Loveno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Loveno.protect|Loveno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Loveno.private|Loveno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Loveno.personal|Loveno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Loveno.secret|Loveno.secret]] 
+
+### [Loveno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.public.md) 
+
+### [Loveno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.internal.md) 
+
+### [Loveno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.protect.md) 
+
+### [Loveno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.private.md) 
+
+### [Loveno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.personal.md) 
+
+### [Loveno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityLoveno.secret.md)
+

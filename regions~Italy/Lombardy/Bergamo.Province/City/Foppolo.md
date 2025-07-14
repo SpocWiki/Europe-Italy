@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Foppolo|Foppolo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.public|Foppolo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.internal|Foppolo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.protect|Foppolo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.private|Foppolo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.personal|Foppolo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Foppolo.secret|Foppolo.secret]] 
+
+### [Foppolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.public.md) 
+
+### [Foppolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.internal.md) 
+
+### [Foppolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.protect.md) 
+
+### [Foppolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.private.md) 
+
+### [Foppolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.personal.md) 
+
+### [Foppolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityFoppolo.secret.md)
+

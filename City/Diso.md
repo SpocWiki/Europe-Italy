@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Diso|Diso]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Diso.public|Diso.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Diso.internal|Diso.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Diso.protect|Diso.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Diso.private|Diso.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Diso.personal|Diso.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Diso.secret|Diso.secret]] 
+
+### [Diso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.public.md) 
+
+### [Diso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.internal.md) 
+
+### [Diso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.protect.md) 
+
+### [Diso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.private.md) 
+
+### [Diso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.personal.md) 
+
+### [Diso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityDiso.secret.md)
+

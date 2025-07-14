@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Nuoro|Nuoro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.public|Nuoro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.internal|Nuoro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.protect|Nuoro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.private|Nuoro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.personal|Nuoro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Nuoro.secret|Nuoro.secret]] 
+
+### [Nuoro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.public.md) 
+
+### [Nuoro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.internal.md) 
+
+### [Nuoro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.protect.md) 
+
+### [Nuoro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.private.md) 
+
+### [Nuoro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.personal.md) 
+
+### [Nuoro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Nuoro.Province\CityNuoro.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Medicina|Medicina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Medicina.public|Medicina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Medicina.internal|Medicina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Medicina.protect|Medicina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Medicina.private|Medicina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Medicina.personal|Medicina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Medicina.secret|Medicina.secret]] 
+
+### [Medicina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.public.md) 
+
+### [Medicina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.internal.md) 
+
+### [Medicina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.protect.md) 
+
+### [Medicina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.private.md) 
+
+### [Medicina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.personal.md) 
+
+### [Medicina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityMedicina.secret.md)
+

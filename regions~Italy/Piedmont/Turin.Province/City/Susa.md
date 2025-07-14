@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Susa|Susa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Susa.public|Susa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Susa.internal|Susa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Susa.protect|Susa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Susa.private|Susa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Susa.personal|Susa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Susa.secret|Susa.secret]] 
+
+### [Susa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.public.md) 
+
+### [Susa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.internal.md) 
+
+### [Susa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.protect.md) 
+
+### [Susa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.private.md) 
+
+### [Susa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.personal.md) 
+
+### [Susa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CitySusa.secret.md)
+

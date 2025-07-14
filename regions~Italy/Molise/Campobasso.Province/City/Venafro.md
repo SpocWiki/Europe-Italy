@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Venafro|Venafro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Venafro.public|Venafro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Venafro.internal|Venafro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Venafro.protect|Venafro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Venafro.private|Venafro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Venafro.personal|Venafro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Venafro.secret|Venafro.secret]] 
+
+### [Venafro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.public.md) 
+
+### [Venafro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.internal.md) 
+
+### [Venafro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.protect.md) 
+
+### [Venafro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.private.md) 
+
+### [Venafro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.personal.md) 
+
+### [Venafro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityVenafro.secret.md)
+

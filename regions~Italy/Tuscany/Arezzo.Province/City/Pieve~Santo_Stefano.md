@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano|Pieve~Santo_Stefano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.public|Pieve~Santo_Stefano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.internal|Pieve~Santo_Stefano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.protect|Pieve~Santo_Stefano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.private|Pieve~Santo_Stefano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.personal|Pieve~Santo_Stefano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pieve~Santo_Stefano.secret|Pieve~Santo_Stefano.secret]] 
+
+### [Pieve~Santo_Stefano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.public.md) 
+
+### [Pieve~Santo_Stefano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.internal.md) 
+
+### [Pieve~Santo_Stefano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.protect.md) 
+
+### [Pieve~Santo_Stefano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.private.md) 
+
+### [Pieve~Santo_Stefano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.personal.md) 
+
+### [Pieve~Santo_Stefano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityPieve~Santo_Stefano.secret.md)
+

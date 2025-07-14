@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Foggia|Foggia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Foggia.public|Foggia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Foggia.internal|Foggia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Foggia.protect|Foggia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Foggia.private|Foggia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Foggia.personal|Foggia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Foggia.secret|Foggia.secret]] 
+
+### [Foggia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.public.md) 
+
+### [Foggia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.internal.md) 
+
+### [Foggia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.protect.md) 
+
+### [Foggia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.private.md) 
+
+### [Foggia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.personal.md) 
+
+### [Foggia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityFoggia.secret.md)
+

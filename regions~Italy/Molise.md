@@ -14,3 +14,20 @@ maxZoom: 18
 geojsonFolder: ./Molise/
 markerFolder: ./Molise//
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [Molise.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.public.md) 
+
+### [Molise.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.internal.md) 
+
+### [Molise.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.protect.md) 
+
+### [Molise.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.private.md) 
+
+### [Molise.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.personal.md) 
+
+### [Molise.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.secret.md)
+

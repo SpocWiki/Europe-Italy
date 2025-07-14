@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Peschiera|Peschiera]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.public|Peschiera.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.internal|Peschiera.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.protect|Peschiera.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.private|Peschiera.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.personal|Peschiera.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Peschiera.secret|Peschiera.secret]] 
+
+### [Peschiera.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.public.md) 
+
+### [Peschiera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.internal.md) 
+
+### [Peschiera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.protect.md) 
+
+### [Peschiera.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.private.md) 
+
+### [Peschiera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.personal.md) 
+
+### [Peschiera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityPeschiera.secret.md)
+

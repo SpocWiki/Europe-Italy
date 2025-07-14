@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bondeno|Bondeno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.public|Bondeno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.internal|Bondeno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.protect|Bondeno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.private|Bondeno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.personal|Bondeno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bondeno.secret|Bondeno.secret]] 
+
+### [Bondeno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.public.md) 
+
+### [Bondeno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.internal.md) 
+
+### [Bondeno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.protect.md) 
+
+### [Bondeno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.private.md) 
+
+### [Bondeno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.personal.md) 
+
+### [Bondeno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBondeno.secret.md)
+

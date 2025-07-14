@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Faenza|Faenza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Faenza.public|Faenza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Faenza.internal|Faenza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Faenza.protect|Faenza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Faenza.private|Faenza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Faenza.personal|Faenza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Faenza.secret|Faenza.secret]] 
+
+### [Faenza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.public.md) 
+
+### [Faenza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.internal.md) 
+
+### [Faenza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.protect.md) 
+
+### [Faenza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.private.md) 
+
+### [Faenza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.personal.md) 
+
+### [Faenza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityFaenza.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Paullo|Paullo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Paullo.public|Paullo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Paullo.internal|Paullo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Paullo.protect|Paullo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Paullo.private|Paullo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Paullo.personal|Paullo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Paullo.secret|Paullo.secret]] 
+
+### [Paullo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.public.md) 
+
+### [Paullo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.internal.md) 
+
+### [Paullo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.protect.md) 
+
+### [Paullo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.private.md) 
+
+### [Paullo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.personal.md) 
+
+### [Paullo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.secret.md)
+

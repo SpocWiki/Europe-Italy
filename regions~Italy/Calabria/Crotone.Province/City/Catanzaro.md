@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro|Catanzaro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.public|Catanzaro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.internal|Catanzaro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.protect|Catanzaro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.private|Catanzaro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.personal|Catanzaro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Catanzaro.secret|Catanzaro.secret]] 
+
+### [Catanzaro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.public.md) 
+
+### [Catanzaro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.internal.md) 
+
+### [Catanzaro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.protect.md) 
+
+### [Catanzaro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.private.md) 
+
+### [Catanzaro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.personal.md) 
+
+### [Catanzaro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCatanzaro.secret.md)
+

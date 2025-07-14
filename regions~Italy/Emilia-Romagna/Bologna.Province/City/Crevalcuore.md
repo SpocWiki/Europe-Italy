@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore|Crevalcuore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.public|Crevalcuore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.internal|Crevalcuore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.protect|Crevalcuore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.private|Crevalcuore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.personal|Crevalcuore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Crevalcuore.secret|Crevalcuore.secret]] 
+
+### [Crevalcuore.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.public.md) 
+
+### [Crevalcuore.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.internal.md) 
+
+### [Crevalcuore.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.protect.md) 
+
+### [Crevalcuore.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.private.md) 
+
+### [Crevalcuore.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.personal.md) 
+
+### [Crevalcuore.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.secret.md)
+

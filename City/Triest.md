@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Triest|Triest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Triest.public|Triest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Triest.internal|Triest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Triest.protect|Triest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Triest.private|Triest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Triest.personal|Triest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Triest.secret|Triest.secret]] 
+
+### [Triest.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.public.md) 
+
+### [Triest.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.internal.md) 
+
+### [Triest.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.protect.md) 
+
+### [Triest.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.private.md) 
+
+### [Triest.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.personal.md) 
+
+### [Triest.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTriest.secret.md)
+

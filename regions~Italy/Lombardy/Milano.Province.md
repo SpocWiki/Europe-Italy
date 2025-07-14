@@ -40,11 +40,16 @@ markerFolder: ./Milano.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province|Milano.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.public|Milano.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.internal|Milano.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.protect|Milano.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.private|Milano.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.personal|Milano.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Milano.Province.secret|Milano.Province.secret]] 
+
+### [Milano.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.public.md) 
+
+### [Milano.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.internal.md) 
+
+### [Milano.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.protect.md) 
+
+### [Milano.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.private.md) 
+
+### [Milano.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.personal.md) 
+
+### [Milano.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMilano.Province.secret.md)
 

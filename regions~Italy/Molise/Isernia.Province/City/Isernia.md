@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Isernia|Isernia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Isernia.public|Isernia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Isernia.internal|Isernia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Isernia.protect|Isernia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Isernia.private|Isernia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Isernia.personal|Isernia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Isernia.secret|Isernia.secret]] 
+
+### [Isernia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.public.md) 
+
+### [Isernia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.internal.md) 
+
+### [Isernia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.protect.md) 
+
+### [Isernia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.private.md) 
+
+### [Isernia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.personal.md) 
+
+### [Isernia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Isernia.Province\CityIsernia.secret.md)
+

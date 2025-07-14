@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta|Caltanisetta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.public|Caltanisetta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.internal|Caltanisetta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.protect|Caltanisetta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.private|Caltanisetta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.personal|Caltanisetta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Caltanisetta.secret|Caltanisetta.secret]] 
+
+### [Caltanisetta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.public.md) 
+
+### [Caltanisetta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.internal.md) 
+
+### [Caltanisetta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.protect.md) 
+
+### [Caltanisetta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.private.md) 
+
+### [Caltanisetta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.personal.md) 
+
+### [Caltanisetta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.secret.md)
+

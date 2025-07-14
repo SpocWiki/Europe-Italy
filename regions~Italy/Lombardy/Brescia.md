@@ -40,20 +40,16 @@ markerFolder: ./Brescia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia|Brescia]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.public|Brescia.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.internal|Brescia.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.protect|Brescia.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.private|Brescia.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.personal|Brescia.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Brescia.secret|Brescia.secret]] 
 
+### [Brescia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.public.md) 
 
-```leaflet
-id: Israel
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Brescia/
-markerFolder: ./Brescia//
-```
+### [Brescia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.internal.md) 
+
+### [Brescia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.protect.md) 
+
+### [Brescia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.private.md) 
+
+### [Brescia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.personal.md) 
+
+### [Brescia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBrescia.secret.md)
+

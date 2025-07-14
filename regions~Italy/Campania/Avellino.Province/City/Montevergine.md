@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montevergine|Montevergine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.public|Montevergine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.internal|Montevergine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.protect|Montevergine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.private|Montevergine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.personal|Montevergine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montevergine.secret|Montevergine.secret]] 
+
+### [Montevergine.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.public.md) 
+
+### [Montevergine.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.internal.md) 
+
+### [Montevergine.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.protect.md) 
+
+### [Montevergine.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.private.md) 
+
+### [Montevergine.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.personal.md) 
+
+### [Montevergine.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMontevergine.secret.md)
+

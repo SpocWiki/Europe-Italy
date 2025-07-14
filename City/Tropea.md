@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Tropea|Tropea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Tropea.public|Tropea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Tropea.internal|Tropea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Tropea.protect|Tropea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Tropea.private|Tropea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Tropea.personal|Tropea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Tropea.secret|Tropea.secret]] 
+
+### [Tropea.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.public.md) 
+
+### [Tropea.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.internal.md) 
+
+### [Tropea.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.protect.md) 
+
+### [Tropea.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.private.md) 
+
+### [Tropea.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.personal.md) 
+
+### [Tropea.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTropea.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Oristano|Oristano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Oristano.public|Oristano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Oristano.internal|Oristano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Oristano.protect|Oristano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Oristano.private|Oristano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Oristano.personal|Oristano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Oristano.secret|Oristano.secret]] 
+
+### [Oristano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.public.md) 
+
+### [Oristano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.internal.md) 
+
+### [Oristano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.protect.md) 
+
+### [Oristano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.private.md) 
+
+### [Oristano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.personal.md) 
+
+### [Oristano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityOristano.secret.md)
+

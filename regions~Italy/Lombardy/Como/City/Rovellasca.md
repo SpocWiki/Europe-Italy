@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca|Rovellasca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.public|Rovellasca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.internal|Rovellasca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.protect|Rovellasca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.private|Rovellasca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.personal|Rovellasca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Rovellasca.secret|Rovellasca.secret]] 
+
+### [Rovellasca.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.public.md) 
+
+### [Rovellasca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.internal.md) 
+
+### [Rovellasca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.protect.md) 
+
+### [Rovellasca.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.private.md) 
+
+### [Rovellasca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.personal.md) 
+
+### [Rovellasca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityRovellasca.secret.md)
+

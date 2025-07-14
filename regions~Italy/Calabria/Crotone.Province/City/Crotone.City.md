@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City|Crotone.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.public|Crotone.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.internal|Crotone.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.protect|Crotone.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.private|Crotone.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.personal|Crotone.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Crotone.City.secret|Crotone.City.secret]] 
+
+### [Crotone.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.public.md) 
+
+### [Crotone.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.internal.md) 
+
+### [Crotone.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.protect.md) 
+
+### [Crotone.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.private.md) 
+
+### [Crotone.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.personal.md) 
+
+### [Crotone.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Crotone.Province\CityCrotone.City.secret.md)
+

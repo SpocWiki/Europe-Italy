@@ -40,11 +40,16 @@ markerFolder: ./Sassari.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province|Sassari.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.public|Sassari.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.internal|Sassari.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.protect|Sassari.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.private|Sassari.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.personal|Sassari.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Sassari.Province.secret|Sassari.Province.secret]] 
+
+### [Sassari.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.public.md) 
+
+### [Sassari.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.internal.md) 
+
+### [Sassari.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.protect.md) 
+
+### [Sassari.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.private.md) 
+
+### [Sassari.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.personal.md) 
+
+### [Sassari.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaSassari.Province.secret.md)
 

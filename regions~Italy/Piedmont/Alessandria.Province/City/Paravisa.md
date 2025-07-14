@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Paravisa|Paravisa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.public|Paravisa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.internal|Paravisa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.protect|Paravisa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.private|Paravisa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.personal|Paravisa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Paravisa.secret|Paravisa.secret]] 
+
+### [Paravisa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.public.md) 
+
+### [Paravisa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.internal.md) 
+
+### [Paravisa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.protect.md) 
+
+### [Paravisa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.private.md) 
+
+### [Paravisa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.personal.md) 
+
+### [Paravisa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityParavisa.secret.md)
+

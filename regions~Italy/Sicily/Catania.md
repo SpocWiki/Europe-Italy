@@ -40,11 +40,16 @@ markerFolder: ./Catania/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania|Catania]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.public|Catania.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.internal|Catania.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.protect|Catania.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.private|Catania.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.personal|Catania.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Catania.secret|Catania.secret]] 
+
+### [Catania.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.public.md) 
+
+### [Catania.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.internal.md) 
+
+### [Catania.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.protect.md) 
+
+### [Catania.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.private.md) 
+
+### [Catania.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.personal.md) 
+
+### [Catania.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCatania.secret.md)
 

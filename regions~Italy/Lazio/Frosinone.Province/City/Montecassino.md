@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montecassino|Montecassino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.public|Montecassino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.internal|Montecassino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.protect|Montecassino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.private|Montecassino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.personal|Montecassino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montecassino.secret|Montecassino.secret]] 
+
+### [Montecassino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.public.md) 
+
+### [Montecassino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.internal.md) 
+
+### [Montecassino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.protect.md) 
+
+### [Montecassino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.private.md) 
+
+### [Montecassino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.personal.md) 
+
+### [Montecassino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Frosinone.Province\CityMontecassino.secret.md)
+

@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano|Mailand=Milano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.public|Mailand=Milano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.internal|Mailand=Milano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.protect|Mailand=Milano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.private|Mailand=Milano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.personal|Mailand=Milano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mailand=Milano.secret|Mailand=Milano.secret]] 
+
+### [Milano,City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.public.md) 
+
+### [Milano,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.internal.md) 
+
+### [Milano,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.protect.md) 
+
+### [Milano,City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.private.md) 
+
+### [Milano,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.personal.md) 
+
+### [Milano,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityMilano,City.secret.md)
+

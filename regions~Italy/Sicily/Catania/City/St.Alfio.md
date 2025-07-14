@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio|St.Alfio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.public|St.Alfio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.internal|St.Alfio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.protect|St.Alfio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.private|St.Alfio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.personal|St.Alfio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/St.Alfio.secret|St.Alfio.secret]] 
+
+### [St.Alfio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.public.md) 
+
+### [St.Alfio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.internal.md) 
+
+### [St.Alfio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.protect.md) 
+
+### [St.Alfio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.private.md) 
+
+### [St.Alfio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.personal.md) 
+
+### [St.Alfio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CitySt.Alfio.secret.md)
+

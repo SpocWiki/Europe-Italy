@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto|Montecarotto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.public|Montecarotto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.internal|Montecarotto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.protect|Montecarotto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.private|Montecarotto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.personal|Montecarotto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montecarotto.secret|Montecarotto.secret]] 
+
+### [Montecarotto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.public.md) 
+
+### [Montecarotto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.internal.md) 
+
+### [Montecarotto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.protect.md) 
+
+### [Montecarotto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.private.md) 
+
+### [Montecarotto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.personal.md) 
+
+### [Montecarotto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityMontecarotto.secret.md)
+

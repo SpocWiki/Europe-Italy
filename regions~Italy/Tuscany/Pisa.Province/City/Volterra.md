@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Volterra|Volterra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Volterra.public|Volterra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Volterra.internal|Volterra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Volterra.protect|Volterra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Volterra.private|Volterra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Volterra.personal|Volterra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Volterra.secret|Volterra.secret]] 
+
+### [Volterra.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.public.md) 
+
+### [Volterra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.internal.md) 
+
+### [Volterra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.protect.md) 
+
+### [Volterra.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.private.md) 
+
+### [Volterra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.personal.md) 
+
+### [Volterra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityVolterra.secret.md)
+

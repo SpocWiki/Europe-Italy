@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mantova|Mantova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mantova.public|Mantova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mantova.internal|Mantova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mantova.protect|Mantova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mantova.private|Mantova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mantova.personal|Mantova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mantova.secret|Mantova.secret]] 
+
+### [Mantova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.public.md) 
+
+### [Mantova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.internal.md) 
+
+### [Mantova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.protect.md) 
+
+### [Mantova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.private.md) 
+
+### [Mantova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.personal.md) 
+
+### [Mantova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityMantova.secret.md)
+

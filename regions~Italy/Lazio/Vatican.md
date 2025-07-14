@@ -243,12 +243,18 @@ markerFolder: ./Vatican/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vatican%20City)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican|Vatican]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.public|Vatican.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.internal|Vatican.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.protect|Vatican.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.private|Vatican.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.personal|Vatican.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Vatican.secret|Vatican.secret]] 
+
+### [Vatican.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.public.md) 
+
+### [Vatican.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.internal.md) 
+
+### [Vatican.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.protect.md) 
+
+### [Vatican.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.private.md) 
+
+### [Vatican.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.personal.md) 
+
+### [Vatican.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.secret.md)
 

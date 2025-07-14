@@ -40,11 +40,16 @@ markerFolder: ./Frosinone.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province|Frosinone.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.public|Frosinone.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.internal|Frosinone.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.protect|Frosinone.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.private|Frosinone.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.personal|Frosinone.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Frosinone.Province.secret|Frosinone.Province.secret]] 
+
+### [Frosinone.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.public.md) 
+
+### [Frosinone.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.internal.md) 
+
+### [Frosinone.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.protect.md) 
+
+### [Frosinone.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.private.md) 
+
+### [Frosinone.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.personal.md) 
+
+### [Frosinone.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioFrosinone.Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo|Bertinovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.public|Bertinovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.internal|Bertinovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.protect|Bertinovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.private|Bertinovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.personal|Bertinovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bertinovo.secret|Bertinovo.secret]] 
+
+### [Bertinovo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.public.md) 
+
+### [Bertinovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.internal.md) 
+
+### [Bertinovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.protect.md) 
+
+### [Bertinovo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.private.md) 
+
+### [Bertinovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.personal.md) 
+
+### [Bertinovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityBertinovo.secret.md)
+

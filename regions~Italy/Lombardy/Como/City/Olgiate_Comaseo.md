@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo|Olgiate_Comaseo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.public|Olgiate_Comaseo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.internal|Olgiate_Comaseo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.protect|Olgiate_Comaseo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.private|Olgiate_Comaseo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.personal|Olgiate_Comaseo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Olgiate_Comaseo.secret|Olgiate_Comaseo.secret]] 
+
+### [Olgiate_Comaseo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.public.md) 
+
+### [Olgiate_Comaseo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.internal.md) 
+
+### [Olgiate_Comaseo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.protect.md) 
+
+### [Olgiate_Comaseo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.private.md) 
+
+### [Olgiate_Comaseo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.personal.md) 
+
+### [Olgiate_Comaseo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityOlgiate_Comaseo.secret.md)
+

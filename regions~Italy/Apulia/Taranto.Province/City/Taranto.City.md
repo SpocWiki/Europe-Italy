@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City|Taranto.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.public|Taranto.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.internal|Taranto.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.protect|Taranto.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.private|Taranto.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.personal|Taranto.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Taranto.City.secret|Taranto.City.secret]] 
+
+### [Taranto.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.public.md) 
+
+### [Taranto.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.internal.md) 
+
+### [Taranto.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.protect.md) 
+
+### [Taranto.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.private.md) 
+
+### [Taranto.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.personal.md) 
+
+### [Taranto.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityTaranto.City.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano|Campogalliano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.public|Campogalliano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.internal|Campogalliano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.protect|Campogalliano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.private|Campogalliano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.personal|Campogalliano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Campogalliano.secret|Campogalliano.secret]] 
+
+### [Campogalliano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.public.md) 
+
+### [Campogalliano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.internal.md) 
+
+### [Campogalliano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.protect.md) 
+
+### [Campogalliano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.private.md) 
+
+### [Campogalliano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.personal.md) 
+
+### [Campogalliano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCampogalliano.secret.md)
+

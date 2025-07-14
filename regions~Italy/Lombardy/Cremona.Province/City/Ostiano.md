@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ostiano|Ostiano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.public|Ostiano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.internal|Ostiano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.protect|Ostiano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.private|Ostiano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.personal|Ostiano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ostiano.secret|Ostiano.secret]] 
+
+### [Ostiano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.public.md) 
+
+### [Ostiano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.internal.md) 
+
+### [Ostiano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.protect.md) 
+
+### [Ostiano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.private.md) 
+
+### [Ostiano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.personal.md) 
+
+### [Ostiano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityOstiano.secret.md)
+

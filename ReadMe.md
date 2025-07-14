@@ -264,13 +264,17 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 [has_place_latitude::43.4809]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy|Italy]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Italy.public|Italy.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Italy.internal|Italy.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Italy.protect|Italy.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Italy.private|Italy.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Italy.personal|Italy.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Italy.secret|Italy.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\ItalyReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\ItalyReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\ItalyReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\ItalyReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\ItalyReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\ItalyReadMe.secret.md)
 

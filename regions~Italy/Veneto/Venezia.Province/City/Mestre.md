@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Mestre|Mestre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Mestre.public|Mestre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Mestre.internal|Mestre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Mestre.protect|Mestre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Mestre.private|Mestre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Mestre.personal|Mestre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Mestre.secret|Mestre.secret]] 
+
+### [Mestre.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.public.md) 
+
+### [Mestre.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.internal.md) 
+
+### [Mestre.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.protect.md) 
+
+### [Mestre.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.private.md) 
+
+### [Mestre.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.personal.md) 
+
+### [Mestre.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityMestre.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/La_Specia|La_Specia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.public|La_Specia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.internal|La_Specia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.protect|La_Specia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.private|La_Specia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.personal|La_Specia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/La_Specia.secret|La_Specia.secret]] 
+
+### [La_Specia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.public.md) 
+
+### [La_Specia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.internal.md) 
+
+### [La_Specia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.protect.md) 
+
+### [La_Specia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.private.md) 
+
+### [La_Specia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.personal.md) 
+
+### [La_Specia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CityLa_Specia.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano|Pavullo_nel_Frignano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.public|Pavullo_nel_Frignano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.internal|Pavullo_nel_Frignano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.protect|Pavullo_nel_Frignano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.private|Pavullo_nel_Frignano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.personal|Pavullo_nel_Frignano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pavullo_nel_Frignano.secret|Pavullo_nel_Frignano.secret]] 
+
+### [Pavullo_nel_Frignano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.public.md) 
+
+### [Pavullo_nel_Frignano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.internal.md) 
+
+### [Pavullo_nel_Frignano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.protect.md) 
+
+### [Pavullo_nel_Frignano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.private.md) 
+
+### [Pavullo_nel_Frignano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.personal.md) 
+
+### [Pavullo_nel_Frignano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPavullo_nel_Frignano.secret.md)
+

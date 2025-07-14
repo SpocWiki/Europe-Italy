@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Carrara|Carrara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Carrara.public|Carrara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Carrara.internal|Carrara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Carrara.protect|Carrara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Carrara.private|Carrara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Carrara.personal|Carrara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Carrara.secret|Carrara.secret]] 
+
+### [Carrara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.public.md) 
+
+### [Carrara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.internal.md) 
+
+### [Carrara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.protect.md) 
+
+### [Carrara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.private.md) 
+
+### [Carrara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.personal.md) 
+
+### [Carrara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.secret.md)
+

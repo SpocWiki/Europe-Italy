@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lecce|Lecce]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lecce.public|Lecce.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lecce.internal|Lecce.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lecce.protect|Lecce.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lecce.private|Lecce.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lecce.personal|Lecce.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lecce.secret|Lecce.secret]] 
+
+### [Lecce.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.public.md) 
+
+### [Lecce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.internal.md) 
+
+### [Lecce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.protect.md) 
+
+### [Lecce.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.private.md) 
+
+### [Lecce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.personal.md) 
+
+### [Lecce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityLecce.secret.md)
+

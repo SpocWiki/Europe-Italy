@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Melegnano|Melegnano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.public|Melegnano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.internal|Melegnano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.protect|Melegnano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.private|Melegnano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.personal|Melegnano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Melegnano.secret|Melegnano.secret]] 
+
+### [Melegnano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.public.md) 
+
+### [Melegnano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.internal.md) 
+
+### [Melegnano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.protect.md) 
+
+### [Melegnano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.private.md) 
+
+### [Melegnano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.personal.md) 
+
+### [Melegnano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityMelegnano.secret.md)
+

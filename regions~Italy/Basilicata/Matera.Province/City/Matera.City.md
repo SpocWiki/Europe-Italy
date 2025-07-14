@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Matera.City|Matera.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.public|Matera.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.internal|Matera.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.protect|Matera.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.private|Matera.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.personal|Matera.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Matera.City.secret|Matera.City.secret]] 
+
+### [Matera.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.public.md) 
+
+### [Matera.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.internal.md) 
+
+### [Matera.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.protect.md) 
+
+### [Matera.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.private.md) 
+
+### [Matera.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.personal.md) 
+
+### [Matera.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.secret.md)
+

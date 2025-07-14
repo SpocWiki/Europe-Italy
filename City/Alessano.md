@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alessano|Alessano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alessano.public|Alessano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alessano.internal|Alessano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alessano.protect|Alessano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alessano.private|Alessano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alessano.personal|Alessano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alessano.secret|Alessano.secret]] 
+
+### [Alessano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.public.md) 
+
+### [Alessano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.internal.md) 
+
+### [Alessano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.protect.md) 
+
+### [Alessano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.private.md) 
+
+### [Alessano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.personal.md) 
+
+### [Alessano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlessano.secret.md)
+

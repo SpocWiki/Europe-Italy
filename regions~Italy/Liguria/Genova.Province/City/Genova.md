@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Genua|Genua]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Genua.public|Genua.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Genua.internal|Genua.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Genua.protect|Genua.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Genua.private|Genua.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Genua.personal|Genua.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Genua.secret|Genua.secret]] 
+
+### [Genova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.public.md) 
+
+### [Genova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.internal.md) 
+
+### [Genova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.protect.md) 
+
+### [Genova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.private.md) 
+
+### [Genova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.personal.md) 
+
+### [Genova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityGenova.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Monteponi|Monteponi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.public|Monteponi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.internal|Monteponi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.protect|Monteponi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.private|Monteponi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.personal|Monteponi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Monteponi.secret|Monteponi.secret]] 
+
+### [Monteponi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.public.md) 
+
+### [Monteponi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.internal.md) 
+
+### [Monteponi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.protect.md) 
+
+### [Monteponi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.private.md) 
+
+### [Monteponi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.personal.md) 
+
+### [Monteponi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.secret.md)
+

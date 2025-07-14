@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo|Vetriolo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.public|Vetriolo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.internal|Vetriolo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.protect|Vetriolo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.private|Vetriolo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.personal|Vetriolo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vetriolo.secret|Vetriolo.secret]] 
+
+### [Vetriolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.public.md) 
+
+### [Vetriolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.internal.md) 
+
+### [Vetriolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.protect.md) 
+
+### [Vetriolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.private.md) 
+
+### [Vetriolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.personal.md) 
+
+### [Vetriolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityVetriolo.secret.md)
+

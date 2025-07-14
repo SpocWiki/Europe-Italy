@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo|Somma_Lombardo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.public|Somma_Lombardo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.internal|Somma_Lombardo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.protect|Somma_Lombardo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.private|Somma_Lombardo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.personal|Somma_Lombardo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Somma_Lombardo.secret|Somma_Lombardo.secret]] 
+
+### [Somma_Lombardo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.public.md) 
+
+### [Somma_Lombardo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.internal.md) 
+
+### [Somma_Lombardo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.protect.md) 
+
+### [Somma_Lombardo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.private.md) 
+
+### [Somma_Lombardo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.personal.md) 
+
+### [Somma_Lombardo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.secret.md)
+

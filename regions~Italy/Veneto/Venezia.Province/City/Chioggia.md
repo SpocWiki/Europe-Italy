@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Chioggia|Chioggia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.public|Chioggia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.internal|Chioggia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.protect|Chioggia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.private|Chioggia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.personal|Chioggia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Chioggia.secret|Chioggia.secret]] 
+
+### [Chioggia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.public.md) 
+
+### [Chioggia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.internal.md) 
+
+### [Chioggia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.protect.md) 
+
+### [Chioggia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.private.md) 
+
+### [Chioggia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.personal.md) 
+
+### [Chioggia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityChioggia.secret.md)
+

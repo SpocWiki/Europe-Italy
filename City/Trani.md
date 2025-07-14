@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Trani|Trani]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Trani.public|Trani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Trani.internal|Trani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Trani.protect|Trani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Trani.private|Trani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Trani.personal|Trani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Trani.secret|Trani.secret]] 
+
+### [Trani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.public.md) 
+
+### [Trani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.internal.md) 
+
+### [Trani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.protect.md) 
+
+### [Trani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.private.md) 
+
+### [Trani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.personal.md) 
+
+### [Trani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gradisca|Gradisca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.public|Gradisca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.internal|Gradisca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.protect|Gradisca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.private|Gradisca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.personal|Gradisca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gradisca.secret|Gradisca.secret]] 
+
+### [Gradisca.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.public.md) 
+
+### [Gradisca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.internal.md) 
+
+### [Gradisca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.protect.md) 
+
+### [Gradisca.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.private.md) 
+
+### [Gradisca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.personal.md) 
+
+### [Gradisca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Gorizia\CityGradisca.secret.md)
+

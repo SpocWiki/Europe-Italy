@@ -35,3 +35,20 @@ markerFolder: ./Friuli-Venezia_Giulia//
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Friuli-Venezia_Giulia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.public.md) 
+
+### [Friuli-Venezia_Giulia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.internal.md) 
+
+### [Friuli-Venezia_Giulia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.protect.md) 
+
+### [Friuli-Venezia_Giulia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.private.md) 
+
+### [Friuli-Venezia_Giulia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.personal.md) 
+
+### [Friuli-Venezia_Giulia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyFriuli-Venezia_Giulia.secret.md)
+

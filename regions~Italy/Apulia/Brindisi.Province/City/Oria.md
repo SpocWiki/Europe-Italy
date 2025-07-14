@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Oria|Oria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Oria.public|Oria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Oria.internal|Oria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Oria.protect|Oria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Oria.private|Oria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Oria.personal|Oria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Oria.secret|Oria.secret]] 
+
+### [Oria.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.public.md) 
+
+### [Oria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.internal.md) 
+
+### [Oria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.protect.md) 
+
+### [Oria.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.private.md) 
+
+### [Oria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.personal.md) 
+
+### [Oria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityOria.secret.md)
+

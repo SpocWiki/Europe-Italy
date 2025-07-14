@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Arezzo|Arezzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.public|Arezzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.internal|Arezzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.protect|Arezzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.private|Arezzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.personal|Arezzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Arezzo.secret|Arezzo.secret]] 
+
+### [Arezzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.public.md) 
+
+### [Arezzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.internal.md) 
+
+### [Arezzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.protect.md) 
+
+### [Arezzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.private.md) 
+
+### [Arezzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.personal.md) 
+
+### [Arezzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityArezzo.secret.md)
+

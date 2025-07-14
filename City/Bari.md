@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bari|Bari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bari.public|Bari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bari.internal|Bari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bari.protect|Bari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bari.private|Bari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bari.personal|Bari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bari.secret|Bari.secret]] 
+
+### [Bari.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBari.public.md) 
+
+### [Bari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBari.internal.md) 
+
+### [Bari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBari.protect.md) 
+
+### [Bari.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBari.private.md) 
+
+### [Bari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBari.personal.md) 
+
+### [Bari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBari.secret.md)
+

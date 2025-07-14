@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Taviano|Taviano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Taviano.public|Taviano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Taviano.internal|Taviano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Taviano.protect|Taviano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Taviano.private|Taviano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Taviano.personal|Taviano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Taviano.secret|Taviano.secret]] 
+
+### [Taviano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.public.md) 
+
+### [Taviano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.internal.md) 
+
+### [Taviano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.protect.md) 
+
+### [Taviano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.private.md) 
+
+### [Taviano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.personal.md) 
+
+### [Taviano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityTaviano.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa|Zola_Predosa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.public|Zola_Predosa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.internal|Zola_Predosa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.protect|Zola_Predosa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.private|Zola_Predosa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.personal|Zola_Predosa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Zola_Predosa.secret|Zola_Predosa.secret]] 
+
+### [Zola_Predosa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.public.md) 
+
+### [Zola_Predosa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.internal.md) 
+
+### [Zola_Predosa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.protect.md) 
+
+### [Zola_Predosa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.private.md) 
+
+### [Zola_Predosa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.personal.md) 
+
+### [Zola_Predosa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.secret.md)
+

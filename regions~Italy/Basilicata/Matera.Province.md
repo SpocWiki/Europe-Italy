@@ -40,11 +40,16 @@ markerFolder: ./Matera.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province|Matera.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.public|Matera.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.internal|Matera.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.protect|Matera.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.private|Matera.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.personal|Matera.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Basilicata/Matera.Province.secret|Matera.Province.secret]] 
+
+### [Matera.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.public.md) 
+
+### [Matera.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.internal.md) 
+
+### [Matera.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.protect.md) 
+
+### [Matera.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.private.md) 
+
+### [Matera.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.personal.md) 
+
+### [Matera.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\BasilicataMatera.Province.secret.md)
 

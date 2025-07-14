@@ -40,11 +40,16 @@ markerFolder: ./Napoli.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province|Napoli.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.public|Napoli.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.internal|Napoli.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.protect|Napoli.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.private|Napoli.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.personal|Napoli.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Campania/Napoli.Province.secret|Napoli.Province.secret]] 
+
+### [Napoli.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.public.md) 
+
+### [Napoli.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.internal.md) 
+
+### [Napoli.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.protect.md) 
+
+### [Napoli.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.private.md) 
+
+### [Napoli.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.personal.md) 
+
+### [Napoli.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaNapoli.Province.secret.md)
 

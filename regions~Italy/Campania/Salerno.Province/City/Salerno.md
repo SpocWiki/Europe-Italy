@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Salerno|Salerno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Salerno.public|Salerno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Salerno.internal|Salerno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Salerno.protect|Salerno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Salerno.private|Salerno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Salerno.personal|Salerno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Salerno.secret|Salerno.secret]] 
+
+### [Salerno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.public.md) 
+
+### [Salerno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.internal.md) 
+
+### [Salerno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.protect.md) 
+
+### [Salerno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.private.md) 
+
+### [Salerno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.personal.md) 
+
+### [Salerno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Salerno.Province\CitySalerno.secret.md)
+

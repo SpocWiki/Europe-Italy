@@ -40,11 +40,16 @@ markerFolder: ./La_Spezia.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province|La_Spezia.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.public|La_Spezia.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.internal|La_Spezia.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.protect|La_Spezia.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.private|La_Spezia.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.personal|La_Spezia.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Liguria/La_Spezia.Province.secret|La_Spezia.Province.secret]] 
+
+### [La_Spezia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.public.md) 
+
+### [La_Spezia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.internal.md) 
+
+### [La_Spezia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.protect.md) 
+
+### [La_Spezia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.private.md) 
+
+### [La_Spezia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.personal.md) 
+
+### [La_Spezia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LiguriaLa_Spezia.Province.secret.md)
 

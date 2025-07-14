@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Alessandria|Alessandria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.public|Alessandria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.internal|Alessandria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.protect|Alessandria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.private|Alessandria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.personal|Alessandria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Alessandria.secret|Alessandria.secret]] 
+
+### [Alessandria.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.public.md) 
+
+### [Alessandria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.internal.md) 
+
+### [Alessandria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.protect.md) 
+
+### [Alessandria.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.private.md) 
+
+### [Alessandria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.personal.md) 
+
+### [Alessandria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityAlessandria.secret.md)
+

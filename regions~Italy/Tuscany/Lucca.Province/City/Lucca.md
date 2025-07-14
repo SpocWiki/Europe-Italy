@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Lucca|Lucca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Lucca.public|Lucca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Lucca.internal|Lucca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Lucca.protect|Lucca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Lucca.private|Lucca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Lucca.personal|Lucca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Lucca.secret|Lucca.secret]] 
+
+### [Lucca.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.public.md) 
+
+### [Lucca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.internal.md) 
+
+### [Lucca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.protect.md) 
+
+### [Lucca.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.private.md) 
+
+### [Lucca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.personal.md) 
+
+### [Lucca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CityLucca.secret.md)
+

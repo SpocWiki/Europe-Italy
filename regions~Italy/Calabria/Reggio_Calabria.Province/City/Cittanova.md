@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cittanova|Cittanova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.public|Cittanova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.internal|Cittanova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.protect|Cittanova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.private|Cittanova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.personal|Cittanova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cittanova.secret|Cittanova.secret]] 
+
+### [Cittanova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.public.md) 
+
+### [Cittanova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.internal.md) 
+
+### [Cittanova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.protect.md) 
+
+### [Cittanova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.private.md) 
+
+### [Cittanova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.personal.md) 
+
+### [Cittanova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Palmanova|Palmanova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.public|Palmanova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.internal|Palmanova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.protect|Palmanova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.private|Palmanova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.personal|Palmanova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Palmanova.secret|Palmanova.secret]] 
+
+### [Palmanova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.public.md) 
+
+### [Palmanova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.internal.md) 
+
+### [Palmanova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.protect.md) 
+
+### [Palmanova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.private.md) 
+
+### [Palmanova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.personal.md) 
+
+### [Palmanova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityPalmanova.secret.md)
+

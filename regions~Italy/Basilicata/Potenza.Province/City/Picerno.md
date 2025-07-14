@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Picerno|Picerno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Picerno.public|Picerno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Picerno.internal|Picerno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Picerno.protect|Picerno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Picerno.private|Picerno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Picerno.personal|Picerno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Picerno.secret|Picerno.secret]] 
+
+### [Picerno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.public.md) 
+
+### [Picerno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.internal.md) 
+
+### [Picerno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.protect.md) 
+
+### [Picerno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.private.md) 
+
+### [Picerno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.personal.md) 
+
+### [Picerno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityPicerno.secret.md)
+

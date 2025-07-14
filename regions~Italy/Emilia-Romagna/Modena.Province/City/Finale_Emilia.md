@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia|Finale_Emilia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.public|Finale_Emilia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.internal|Finale_Emilia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.protect|Finale_Emilia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.private|Finale_Emilia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.personal|Finale_Emilia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Finale_Emilia.secret|Finale_Emilia.secret]] 
+
+### [Finale_Emilia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.public.md) 
+
+### [Finale_Emilia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.internal.md) 
+
+### [Finale_Emilia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.protect.md) 
+
+### [Finale_Emilia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.private.md) 
+
+### [Finale_Emilia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.personal.md) 
+
+### [Finale_Emilia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.secret.md)
+

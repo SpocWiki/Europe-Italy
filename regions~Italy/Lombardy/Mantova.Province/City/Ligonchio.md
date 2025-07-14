@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio|Ligonchio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.public|Ligonchio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.internal|Ligonchio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.protect|Ligonchio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.private|Ligonchio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.personal|Ligonchio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ligonchio.secret|Ligonchio.secret]] 
+
+### [Ligonchio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.public.md) 
+
+### [Ligonchio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.internal.md) 
+
+### [Ligonchio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.protect.md) 
+
+### [Ligonchio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.private.md) 
+
+### [Ligonchio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.personal.md) 
+
+### [Ligonchio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityLigonchio.secret.md)
+

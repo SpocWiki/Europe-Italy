@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pordenone|Pordenone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.public|Pordenone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.internal|Pordenone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.protect|Pordenone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.private|Pordenone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.personal|Pordenone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pordenone.secret|Pordenone.secret]] 
+
+### [Pordenone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.public.md) 
+
+### [Pordenone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.internal.md) 
+
+### [Pordenone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.protect.md) 
+
+### [Pordenone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.private.md) 
+
+### [Pordenone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.personal.md) 
+
+### [Pordenone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.secret.md)
+

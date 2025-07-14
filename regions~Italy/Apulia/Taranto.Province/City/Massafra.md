@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Massafra|Massafra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Massafra.public|Massafra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Massafra.internal|Massafra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Massafra.protect|Massafra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Massafra.private|Massafra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Massafra.personal|Massafra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Massafra.secret|Massafra.secret]] 
+
+### [Massafra.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.public.md) 
+
+### [Massafra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.internal.md) 
+
+### [Massafra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.protect.md) 
+
+### [Massafra.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.private.md) 
+
+### [Massafra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.personal.md) 
+
+### [Massafra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMassafra.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt|Pieve_nel_Cairolt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.public|Pieve_nel_Cairolt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.internal|Pieve_nel_Cairolt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.protect|Pieve_nel_Cairolt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.private|Pieve_nel_Cairolt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.personal|Pieve_nel_Cairolt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pieve_nel_Cairolt.secret|Pieve_nel_Cairolt.secret]] 
+
+### [Pieve_nel_Cairolt.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.public.md) 
+
+### [Pieve_nel_Cairolt.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.internal.md) 
+
+### [Pieve_nel_Cairolt.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.protect.md) 
+
+### [Pieve_nel_Cairolt.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.private.md) 
+
+### [Pieve_nel_Cairolt.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.personal.md) 
+
+### [Pieve_nel_Cairolt.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.secret.md)
+

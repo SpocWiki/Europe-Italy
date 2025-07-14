@@ -40,11 +40,16 @@ markerFolder: ./Barletta-Andria_Trani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani|Barletta-Andria_Trani]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.public|Barletta-Andria_Trani.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.internal|Barletta-Andria_Trani.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.protect|Barletta-Andria_Trani.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.private|Barletta-Andria_Trani.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.personal|Barletta-Andria_Trani.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Barletta-Andria_Trani.secret|Barletta-Andria_Trani.secret]] 
+
+### [Barletta-Andria_Trani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.public.md) 
+
+### [Barletta-Andria_Trani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.internal.md) 
+
+### [Barletta-Andria_Trani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.protect.md) 
+
+### [Barletta-Andria_Trani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.private.md) 
+
+### [Barletta-Andria_Trani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.personal.md) 
+
+### [Barletta-Andria_Trani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.secret.md)
 

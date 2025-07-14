@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Chiavari|Chiavari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.public|Chiavari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.internal|Chiavari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.protect|Chiavari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.private|Chiavari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.personal|Chiavari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Chiavari.secret|Chiavari.secret]] 
+
+### [Chiavari.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.public.md) 
+
+### [Chiavari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.internal.md) 
+
+### [Chiavari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.protect.md) 
+
+### [Chiavari.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.private.md) 
+
+### [Chiavari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.personal.md) 
+
+### [Chiavari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Genova.Province\CityChiavari.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Memmo|Memmo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Memmo.public|Memmo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Memmo.internal|Memmo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Memmo.protect|Memmo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Memmo.private|Memmo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Memmo.personal|Memmo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Memmo.secret|Memmo.secret]] 
+
+### [Memmo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.public.md) 
+
+### [Memmo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.internal.md) 
+
+### [Memmo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.protect.md) 
+
+### [Memmo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.private.md) 
+
+### [Memmo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.personal.md) 
+
+### [Memmo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityMemmo.secret.md)
+

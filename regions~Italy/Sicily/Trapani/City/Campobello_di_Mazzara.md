@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara|Campobello_di_Mazzara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.public|Campobello_di_Mazzara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.internal|Campobello_di_Mazzara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.protect|Campobello_di_Mazzara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.private|Campobello_di_Mazzara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.personal|Campobello_di_Mazzara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Campobello_di_Mazzara.secret|Campobello_di_Mazzara.secret]] 
+
+### [Campobello_di_Mazzara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.public.md) 
+
+### [Campobello_di_Mazzara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.internal.md) 
+
+### [Campobello_di_Mazzara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.protect.md) 
+
+### [Campobello_di_Mazzara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.private.md) 
+
+### [Campobello_di_Mazzara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.personal.md) 
+
+### [Campobello_di_Mazzara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCampobello_di_Mazzara.secret.md)
+

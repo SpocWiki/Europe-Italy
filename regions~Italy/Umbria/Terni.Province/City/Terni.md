@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Terni|Terni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Terni.public|Terni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Terni.internal|Terni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Terni.protect|Terni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Terni.private|Terni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Terni.personal|Terni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Terni.secret|Terni.secret]] 
+
+### [Terni.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.public.md) 
+
+### [Terni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.internal.md) 
+
+### [Terni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.protect.md) 
+
+### [Terni.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.private.md) 
+
+### [Terni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.personal.md) 
+
+### [Terni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Terni.Province\CityTerni.secret.md)
+

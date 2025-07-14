@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cavour|Cavour]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cavour.public|Cavour.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cavour.internal|Cavour.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cavour.protect|Cavour.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cavour.private|Cavour.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cavour.personal|Cavour.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cavour.secret|Cavour.secret]] 
+
+### [Cavour.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.public.md) 
+
+### [Cavour.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.internal.md) 
+
+### [Cavour.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.protect.md) 
+
+### [Cavour.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.private.md) 
+
+### [Cavour.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.personal.md) 
+
+### [Cavour.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCavour.secret.md)
+

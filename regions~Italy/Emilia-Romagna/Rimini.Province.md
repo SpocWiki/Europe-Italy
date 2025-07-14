@@ -40,11 +40,16 @@ markerFolder: ./Rimini.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province|Rimini.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.public|Rimini.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.internal|Rimini.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.protect|Rimini.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.private|Rimini.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.personal|Rimini.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Rimini.Province.secret|Rimini.Province.secret]] 
+
+### [Rimini.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.public.md) 
+
+### [Rimini.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.internal.md) 
+
+### [Rimini.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.protect.md) 
+
+### [Rimini.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.private.md) 
+
+### [Rimini.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.personal.md) 
+
+### [Rimini.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRimini.Province.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Carbonia-Iglesias/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias|Carbonia-Iglesias]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.public|Carbonia-Iglesias.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.internal|Carbonia-Iglesias.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.protect|Carbonia-Iglesias.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.private|Carbonia-Iglesias.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.personal|Carbonia-Iglesias.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sardinia/Carbonia-Iglesias.secret|Carbonia-Iglesias.secret]] 
+
+### [Carbonia-Iglesias.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.public.md) 
+
+### [Carbonia-Iglesias.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.internal.md) 
+
+### [Carbonia-Iglesias.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.protect.md) 
+
+### [Carbonia-Iglesias.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.private.md) 
+
+### [Carbonia-Iglesias.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.personal.md) 
+
+### [Carbonia-Iglesias.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.secret.md)
 

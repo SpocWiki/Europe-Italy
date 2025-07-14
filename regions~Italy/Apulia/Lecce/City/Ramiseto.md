@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto|Ramiseto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.public|Ramiseto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.internal|Ramiseto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.protect|Ramiseto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.private|Ramiseto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.personal|Ramiseto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ramiseto.secret|Ramiseto.secret]] 
+
+### [Ramiseto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.public.md) 
+
+### [Ramiseto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.internal.md) 
+
+### [Ramiseto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.protect.md) 
+
+### [Ramiseto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.private.md) 
+
+### [Ramiseto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.personal.md) 
+
+### [Ramiseto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Lecce\CityRamiseto.secret.md)
+

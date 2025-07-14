@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Treviso|Treviso]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Treviso.public|Treviso.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Treviso.internal|Treviso.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Treviso.protect|Treviso.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Treviso.private|Treviso.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Treviso.personal|Treviso.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Treviso.secret|Treviso.secret]] 
+
+### [Treviso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.public.md) 
+
+### [Treviso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.internal.md) 
+
+### [Treviso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.protect.md) 
+
+### [Treviso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.private.md) 
+
+### [Treviso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.personal.md) 
+
+### [Treviso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityTreviso.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City|Cosenza.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.public|Cosenza.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.internal|Cosenza.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.protect|Cosenza.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.private|Cosenza.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.personal|Cosenza.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cosenza.City.secret|Cosenza.City.secret]] 
+
+### [Cosenza.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.public.md) 
+
+### [Cosenza.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.internal.md) 
+
+### [Cosenza.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.protect.md) 
+
+### [Cosenza.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.private.md) 
+
+### [Cosenza.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.personal.md) 
+
+### [Cosenza.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Cosenza\CityCosenza.City.secret.md)
+

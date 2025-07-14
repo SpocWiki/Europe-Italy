@@ -40,11 +40,16 @@ markerFolder: ./Reggio_Emilia.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province|Reggio_Emilia.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.public|Reggio_Emilia.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.internal|Reggio_Emilia.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.protect|Reggio_Emilia.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.private|Reggio_Emilia.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.personal|Reggio_Emilia.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Emilia-Romagna/Reggio_Emilia.Province.secret|Reggio_Emilia.Province.secret]] 
+
+### [Reggio_Emilia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.public.md) 
+
+### [Reggio_Emilia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.internal.md) 
+
+### [Reggio_Emilia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.protect.md) 
+
+### [Reggio_Emilia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.private.md) 
+
+### [Reggio_Emilia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.personal.md) 
+
+### [Reggio_Emilia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaReggio_Emilia.Province.secret.md)
 

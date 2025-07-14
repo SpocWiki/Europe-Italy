@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gallarate|Gallarate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.public|Gallarate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.internal|Gallarate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.protect|Gallarate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.private|Gallarate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.personal|Gallarate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gallarate.secret|Gallarate.secret]] 
+
+### [Gallarate.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.public.md) 
+
+### [Gallarate.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.internal.md) 
+
+### [Gallarate.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.protect.md) 
+
+### [Gallarate.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.private.md) 
+
+### [Gallarate.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.personal.md) 
+
+### [Gallarate.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityGallarate.secret.md)
+

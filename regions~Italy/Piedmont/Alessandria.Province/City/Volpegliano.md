@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano|Volpegliano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.public|Volpegliano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.internal|Volpegliano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.protect|Volpegliano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.private|Volpegliano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.personal|Volpegliano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Volpegliano.secret|Volpegliano.secret]] 
+
+### [Volpegliano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.public.md) 
+
+### [Volpegliano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.internal.md) 
+
+### [Volpegliano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.protect.md) 
+
+### [Volpegliano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.private.md) 
+
+### [Volpegliano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.personal.md) 
+
+### [Volpegliano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.secret.md)
+

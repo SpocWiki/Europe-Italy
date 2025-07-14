@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cesena|Cesena]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cesena.public|Cesena.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cesena.internal|Cesena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cesena.protect|Cesena.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cesena.private|Cesena.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cesena.personal|Cesena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cesena.secret|Cesena.secret]] 
+
+### [Cesena.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.public.md) 
+
+### [Cesena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.internal.md) 
+
+### [Cesena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.protect.md) 
+
+### [Cesena.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.private.md) 
+
+### [Cesena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.personal.md) 
+
+### [Cesena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCesena.secret.md)
+

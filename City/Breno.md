@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Breno|Breno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Breno.public|Breno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Breno.internal|Breno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Breno.protect|Breno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Breno.private|Breno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Breno.personal|Breno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Breno.secret|Breno.secret]] 
+
+### [Breno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.public.md) 
+
+### [Breno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.internal.md) 
+
+### [Breno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.protect.md) 
+
+### [Breno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.private.md) 
+
+### [Breno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.personal.md) 
+
+### [Breno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBreno.secret.md)
+

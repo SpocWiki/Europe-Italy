@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa|Campobello_Ravanusa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.public|Campobello_Ravanusa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.internal|Campobello_Ravanusa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.protect|Campobello_Ravanusa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.private|Campobello_Ravanusa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.personal|Campobello_Ravanusa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Campobello_Ravanusa.secret|Campobello_Ravanusa.secret]] 
+
+### [Campobello_Ravanusa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.public.md) 
+
+### [Campobello_Ravanusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.internal.md) 
+
+### [Campobello_Ravanusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.protect.md) 
+
+### [Campobello_Ravanusa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.private.md) 
+
+### [Campobello_Ravanusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.personal.md) 
+
+### [Campobello_Ravanusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bergamo|Bergamo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.public|Bergamo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.internal|Bergamo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.protect|Bergamo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.private|Bergamo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.personal|Bergamo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bergamo.secret|Bergamo.secret]] 
+
+### [Bergamo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.public.md) 
+
+### [Bergamo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.internal.md) 
+
+### [Bergamo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.protect.md) 
+
+### [Bergamo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.private.md) 
+
+### [Bergamo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.personal.md) 
+
+### [Bergamo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityBergamo.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago|Pieve_pelago]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.public|Pieve_pelago.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.internal|Pieve_pelago.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.protect|Pieve_pelago.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.private|Pieve_pelago.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.personal|Pieve_pelago.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pieve_pelago.secret|Pieve_pelago.secret]] 
+
+### [Pieve_pelago.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.public.md) 
+
+### [Pieve_pelago.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.internal.md) 
+
+### [Pieve_pelago.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.protect.md) 
+
+### [Pieve_pelago.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.private.md) 
+
+### [Pieve_pelago.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.personal.md) 
+
+### [Pieve_pelago.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityPieve_pelago.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Teglio|Teglio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Teglio.public|Teglio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Teglio.internal|Teglio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Teglio.protect|Teglio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Teglio.private|Teglio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Teglio.personal|Teglio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Teglio.secret|Teglio.secret]] 
+
+### [Teglio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.public.md) 
+
+### [Teglio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.internal.md) 
+
+### [Teglio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.protect.md) 
+
+### [Teglio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.private.md) 
+
+### [Teglio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.personal.md) 
+
+### [Teglio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityTeglio.secret.md)
+

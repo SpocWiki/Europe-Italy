@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Prato|Prato]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Prato.public|Prato.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Prato.internal|Prato.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Prato.protect|Prato.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Prato.private|Prato.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Prato.personal|Prato.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Prato.secret|Prato.secret]] 
+
+### [Prato.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.public.md) 
+
+### [Prato.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.internal.md) 
+
+### [Prato.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.protect.md) 
+
+### [Prato.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.private.md) 
+
+### [Prato.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.personal.md) 
+
+### [Prato.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Prato.Province\CityPrato.secret.md)
+

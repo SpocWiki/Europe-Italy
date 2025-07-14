@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata|Torre_Annunciata]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.public|Torre_Annunciata.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.internal|Torre_Annunciata.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.protect|Torre_Annunciata.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.private|Torre_Annunciata.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.personal|Torre_Annunciata.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.secret|Torre_Annunciata.secret]] 
+
+### [Torre_Annunciata.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.public.md) 
+
+### [Torre_Annunciata.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.internal.md) 
+
+### [Torre_Annunciata.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.protect.md) 
+
+### [Torre_Annunciata.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.private.md) 
+
+### [Torre_Annunciata.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.personal.md) 
+
+### [Torre_Annunciata.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTorre_Annunciata.secret.md)
+

@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli|Neapel=Napoli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.public|Neapel=Napoli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.internal|Neapel=Napoli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.protect|Neapel=Napoli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.private|Neapel=Napoli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.personal|Neapel=Napoli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Neapel=Napoli.secret|Neapel=Napoli.secret]] 
+
+### [Napoli,City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.public.md) 
+
+### [Napoli,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.internal.md) 
+
+### [Napoli,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.protect.md) 
+
+### [Napoli,City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.private.md) 
+
+### [Napoli,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.personal.md) 
+
+### [Napoli,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityNapoli,City.secret.md)
+

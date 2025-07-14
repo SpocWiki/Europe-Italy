@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone|Caltagirone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.public|Caltagirone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.internal|Caltagirone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.protect|Caltagirone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.private|Caltagirone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.personal|Caltagirone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Caltagirone.secret|Caltagirone.secret]] 
+
+### [Caltagirone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.public.md) 
+
+### [Caltagirone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.internal.md) 
+
+### [Caltagirone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.protect.md) 
+
+### [Caltagirone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.private.md) 
+
+### [Caltagirone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.personal.md) 
+
+### [Caltagirone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityCaltagirone.secret.md)
+

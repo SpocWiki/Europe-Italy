@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cernusco|Cernusco]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.public|Cernusco.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.internal|Cernusco.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.protect|Cernusco.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.private|Cernusco.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.personal|Cernusco.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cernusco.secret|Cernusco.secret]] 
+
+### [Cernusco.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.public.md) 
+
+### [Cernusco.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.internal.md) 
+
+### [Cernusco.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.protect.md) 
+
+### [Cernusco.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.private.md) 
+
+### [Cernusco.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.personal.md) 
+
+### [Cernusco.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCernusco.secret.md)
+

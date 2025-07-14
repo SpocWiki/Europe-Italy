@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Florenz|Florenz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Florenz.public|Florenz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Florenz.internal|Florenz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Florenz.protect|Florenz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Florenz.private|Florenz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Florenz.personal|Florenz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Florenz.secret|Florenz.secret]] 
+
+### [Firenze,City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.public.md) 
+
+### [Firenze,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.internal.md) 
+
+### [Firenze,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.protect.md) 
+
+### [Firenze,City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.private.md) 
+
+### [Firenze,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.personal.md) 
+
+### [Firenze,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.secret.md)
+

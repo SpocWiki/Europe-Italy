@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Aquileja|Aquileja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.public|Aquileja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.internal|Aquileja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.protect|Aquileja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.private|Aquileja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.personal|Aquileja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Aquileja.secret|Aquileja.secret]] 
+
+### [Aquileja.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.public.md) 
+
+### [Aquileja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.internal.md) 
+
+### [Aquileja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.protect.md) 
+
+### [Aquileja.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.private.md) 
+
+### [Aquileja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.personal.md) 
+
+### [Aquileja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityAquileja.secret.md)
+

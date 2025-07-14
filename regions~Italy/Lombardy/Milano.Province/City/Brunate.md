@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Brunate|Brunate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Brunate.public|Brunate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Brunate.internal|Brunate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Brunate.protect|Brunate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Brunate.private|Brunate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Brunate.personal|Brunate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Brunate.secret|Brunate.secret]] 
+
+### [Brunate.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.public.md) 
+
+### [Brunate.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.internal.md) 
+
+### [Brunate.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.protect.md) 
+
+### [Brunate.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.private.md) 
+
+### [Brunate.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.personal.md) 
+
+### [Brunate.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityBrunate.secret.md)
+

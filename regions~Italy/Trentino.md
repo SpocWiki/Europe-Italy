@@ -34,3 +34,20 @@ markerFolder: ./Trentino//
 > [Wikipedia](https://en.wikipedia.org/wiki/Trentino) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Trentino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.public.md) 
+
+### [Trentino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.internal.md) 
+
+### [Trentino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.protect.md) 
+
+### [Trentino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.private.md) 
+
+### [Trentino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.personal.md) 
+
+### [Trentino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyTrentino.secret.md)
+

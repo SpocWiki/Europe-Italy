@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Fermo|Fermo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Fermo.public|Fermo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Fermo.internal|Fermo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Fermo.protect|Fermo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Fermo.private|Fermo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Fermo.personal|Fermo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Fermo.secret|Fermo.secret]] 
+
+### [Fermo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.public.md) 
+
+### [Fermo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.internal.md) 
+
+### [Fermo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.protect.md) 
+
+### [Fermo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.private.md) 
+
+### [Fermo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.personal.md) 
+
+### [Fermo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Fermo.Province\CityFermo.secret.md)
+

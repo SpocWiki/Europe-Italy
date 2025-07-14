@@ -40,11 +40,16 @@ markerFolder: ./Monza_e_Brianza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza|Monza_e_Brianza]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.public|Monza_e_Brianza.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.internal|Monza_e_Brianza.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.protect|Monza_e_Brianza.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.private|Monza_e_Brianza.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.personal|Monza_e_Brianza.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lombardy/Monza_e_Brianza.secret|Monza_e_Brianza.secret]] 
+
+### [Monza_e_Brianza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.public.md) 
+
+### [Monza_e_Brianza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.internal.md) 
+
+### [Monza_e_Brianza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.protect.md) 
+
+### [Monza_e_Brianza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.private.md) 
+
+### [Monza_e_Brianza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.personal.md) 
+
+### [Monza_e_Brianza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMonza_e_Brianza.secret.md)
 

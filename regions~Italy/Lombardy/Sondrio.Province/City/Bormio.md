@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Bormio|Bormio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Bormio.public|Bormio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Bormio.internal|Bormio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Bormio.protect|Bormio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Bormio.private|Bormio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Bormio.personal|Bormio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Bormio.secret|Bormio.secret]] 
+
+### [Bormio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.public.md) 
+
+### [Bormio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.internal.md) 
+
+### [Bormio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.protect.md) 
+
+### [Bormio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.private.md) 
+
+### [Bormio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.personal.md) 
+
+### [Bormio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBormio.secret.md)
+

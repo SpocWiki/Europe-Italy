@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Siculina|Siculina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Siculina.public|Siculina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Siculina.internal|Siculina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Siculina.protect|Siculina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Siculina.private|Siculina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Siculina.personal|Siculina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Siculina.secret|Siculina.secret]] 
+
+### [Siculina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.public.md) 
+
+### [Siculina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.internal.md) 
+
+### [Siculina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.protect.md) 
+
+### [Siculina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.private.md) 
+
+### [Siculina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.personal.md) 
+
+### [Siculina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CitySiculina.secret.md)
+

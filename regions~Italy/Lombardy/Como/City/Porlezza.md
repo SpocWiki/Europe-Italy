@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Porlezza|Porlezza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.public|Porlezza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.internal|Porlezza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.protect|Porlezza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.private|Porlezza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.personal|Porlezza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Porlezza.secret|Porlezza.secret]] 
+
+### [Porlezza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.public.md) 
+
+### [Porlezza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.internal.md) 
+
+### [Porlezza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.protect.md) 
+
+### [Porlezza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.private.md) 
+
+### [Porlezza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.personal.md) 
+
+### [Porlezza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityPorlezza.secret.md)
+

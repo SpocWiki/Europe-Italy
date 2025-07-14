@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior|Castiglione_Fior]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.public|Castiglione_Fior.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.internal|Castiglione_Fior.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.protect|Castiglione_Fior.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.private|Castiglione_Fior.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.personal|Castiglione_Fior.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castiglione_Fior.secret|Castiglione_Fior.secret]] 
+
+### [Castiglione_Fior.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.public.md) 
+
+### [Castiglione_Fior.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.internal.md) 
+
+### [Castiglione_Fior.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.protect.md) 
+
+### [Castiglione_Fior.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.private.md) 
+
+### [Castiglione_Fior.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.personal.md) 
+
+### [Castiglione_Fior.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sondrio|Sondrio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.public|Sondrio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.internal|Sondrio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.protect|Sondrio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.private|Sondrio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.personal|Sondrio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sondrio.secret|Sondrio.secret]] 
+
+### [Sondrio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.public.md) 
+
+### [Sondrio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.internal.md) 
+
+### [Sondrio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.protect.md) 
+
+### [Sondrio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.private.md) 
+
+### [Sondrio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.personal.md) 
+
+### [Sondrio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CitySondrio.secret.md)
+

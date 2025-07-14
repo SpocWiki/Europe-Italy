@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Livorno|Livorno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Livorno.public|Livorno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Livorno.internal|Livorno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Livorno.protect|Livorno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Livorno.private|Livorno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Livorno.personal|Livorno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Livorno.secret|Livorno.secret]] 
+
+### [Livorno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.public.md) 
+
+### [Livorno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.internal.md) 
+
+### [Livorno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.protect.md) 
+
+### [Livorno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.private.md) 
+
+### [Livorno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.personal.md) 
+
+### [Livorno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.secret.md)
+

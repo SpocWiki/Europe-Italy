@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino|Vizzola_Ticino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.public|Vizzola_Ticino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.internal|Vizzola_Ticino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.protect|Vizzola_Ticino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.private|Vizzola_Ticino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.personal|Vizzola_Ticino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Vizzola_Ticino.secret|Vizzola_Ticino.secret]] 
+
+### [Vizzola_Ticino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.public.md) 
+
+### [Vizzola_Ticino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.internal.md) 
+
+### [Vizzola_Ticino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.protect.md) 
+
+### [Vizzola_Ticino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.private.md) 
+
+### [Vizzola_Ticino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.personal.md) 
+
+### [Vizzola_Ticino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.secret.md)
+

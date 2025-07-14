@@ -40,11 +40,16 @@ markerFolder: ./Prato.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province|Prato.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.public|Prato.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.internal|Prato.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.protect|Prato.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.private|Prato.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.personal|Prato.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Prato.Province.secret|Prato.Province.secret]] 
+
+### [Prato.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.public.md) 
+
+### [Prato.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.internal.md) 
+
+### [Prato.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.protect.md) 
+
+### [Prato.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.private.md) 
+
+### [Prato.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.personal.md) 
+
+### [Prato.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPrato.Province.secret.md)
 

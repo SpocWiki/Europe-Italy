@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Urbino|Urbino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Urbino.public|Urbino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Urbino.internal|Urbino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Urbino.protect|Urbino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Urbino.private|Urbino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Urbino.personal|Urbino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Urbino.secret|Urbino.secret]] 
+
+### [Urbino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.public.md) 
+
+### [Urbino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.internal.md) 
+
+### [Urbino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.protect.md) 
+
+### [Urbino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.private.md) 
+
+### [Urbino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.personal.md) 
+
+### [Urbino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityUrbino.secret.md)
+

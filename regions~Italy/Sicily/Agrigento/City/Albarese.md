@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Albarese|Albarese]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Albarese.public|Albarese.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Albarese.internal|Albarese.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Albarese.protect|Albarese.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Albarese.private|Albarese.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Albarese.personal|Albarese.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Albarese.secret|Albarese.secret]] 
+
+### [Albarese.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.public.md) 
+
+### [Albarese.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.internal.md) 
+
+### [Albarese.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.protect.md) 
+
+### [Albarese.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.private.md) 
+
+### [Albarese.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.personal.md) 
+
+### [Albarese.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Agrigento\CityAlbarese.secret.md)
+

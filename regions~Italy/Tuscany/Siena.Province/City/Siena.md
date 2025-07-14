@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Siena|Siena]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Siena.public|Siena.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Siena.internal|Siena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Siena.protect|Siena.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Siena.private|Siena.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Siena.personal|Siena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Siena.secret|Siena.secret]] 
+
+### [Siena.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.public.md) 
+
+### [Siena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.internal.md) 
+
+### [Siena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.protect.md) 
+
+### [Siena.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.private.md) 
+
+### [Siena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.personal.md) 
+
+### [Siena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CitySiena.secret.md)
+

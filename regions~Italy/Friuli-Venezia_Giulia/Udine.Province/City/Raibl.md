@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Austria/City/Raibl|Raibl]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Austria/City/Raibl.public|Raibl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Austria/City/Raibl.internal|Raibl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Austria/City/Raibl.protect|Raibl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Austria/City/Raibl.private|Raibl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Austria/City/Raibl.personal|Raibl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Austria/City/Raibl.secret|Raibl.secret]] 
+
+### [Raibl.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.public.md) 
+
+### [Raibl.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.internal.md) 
+
+### [Raibl.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.protect.md) 
+
+### [Raibl.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.private.md) 
+
+### [Raibl.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.personal.md) 
+
+### [Raibl.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Udine.Province\CityRaibl.secret.md)
+

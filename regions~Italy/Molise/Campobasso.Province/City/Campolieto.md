@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Campolieto|Campolieto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.public|Campolieto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.internal|Campolieto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.protect|Campolieto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.private|Campolieto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.personal|Campolieto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Campolieto.secret|Campolieto.secret]] 
+
+### [Campolieto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.public.md) 
+
+### [Campolieto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.internal.md) 
+
+### [Campolieto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.protect.md) 
+
+### [Campolieto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.private.md) 
+
+### [Campolieto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.personal.md) 
+
+### [Campolieto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityCampolieto.secret.md)
+

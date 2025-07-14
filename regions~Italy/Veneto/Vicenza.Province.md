@@ -40,11 +40,16 @@ markerFolder: ./Vicenza.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province|Vicenza.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.public|Vicenza.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.internal|Vicenza.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.protect|Vicenza.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.private|Vicenza.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.personal|Vicenza.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Veneto/Vicenza.Province.secret|Vicenza.Province.secret]] 
+
+### [Vicenza.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.public.md) 
+
+### [Vicenza.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.internal.md) 
+
+### [Vicenza.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.protect.md) 
+
+### [Vicenza.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.private.md) 
+
+### [Vicenza.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.personal.md) 
+
+### [Vicenza.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVicenza.Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City|Benevento.City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.public|Benevento.City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.internal|Benevento.City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.protect|Benevento.City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.private|Benevento.City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.personal|Benevento.City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Benevento.City.secret|Benevento.City.secret]] 
+
+### [Benevento.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.public.md) 
+
+### [Benevento.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.internal.md) 
+
+### [Benevento.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.protect.md) 
+
+### [Benevento.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.private.md) 
+
+### [Benevento.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.personal.md) 
+
+### [Benevento.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.secret.md)
+

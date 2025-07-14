@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Sciacca|Sciacca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.public|Sciacca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.internal|Sciacca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.protect|Sciacca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.private|Sciacca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.personal|Sciacca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Sciacca.secret|Sciacca.secret]] 
+
+### [Sciacca.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.public.md) 
+
+### [Sciacca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.internal.md) 
+
+### [Sciacca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.protect.md) 
+
+### [Sciacca.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.private.md) 
+
+### [Sciacca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.personal.md) 
+
+### [Sciacca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CitySciacca.secret.md)
+

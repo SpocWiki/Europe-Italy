@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Subiaco|Subiaco]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.public|Subiaco.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.internal|Subiaco.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.protect|Subiaco.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.private|Subiaco.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.personal|Subiaco.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Subiaco.secret|Subiaco.secret]] 
+
+### [Subiaco.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.public.md) 
+
+### [Subiaco.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.internal.md) 
+
+### [Subiaco.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.protect.md) 
+
+### [Subiaco.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.private.md) 
+
+### [Subiaco.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.personal.md) 
+
+### [Subiaco.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco.secret.md)
+

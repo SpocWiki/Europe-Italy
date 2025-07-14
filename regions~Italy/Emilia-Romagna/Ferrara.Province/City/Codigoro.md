@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Codigoro|Codigoro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.public|Codigoro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.internal|Codigoro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.protect|Codigoro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.private|Codigoro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.personal|Codigoro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Codigoro.secret|Codigoro.secret]] 
+
+### [Codigoro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.public.md) 
+
+### [Codigoro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.internal.md) 
+
+### [Codigoro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.protect.md) 
+
+### [Codigoro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.private.md) 
+
+### [Codigoro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.personal.md) 
+
+### [Codigoro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ferrara.Province\CityCodigoro.secret.md)
+

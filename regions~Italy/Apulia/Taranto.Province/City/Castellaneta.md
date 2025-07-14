@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta|Castellaneta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.public|Castellaneta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.internal|Castellaneta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.protect|Castellaneta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.private|Castellaneta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.personal|Castellaneta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Castellaneta.secret|Castellaneta.secret]] 
+
+### [Castellaneta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.public.md) 
+
+### [Castellaneta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.internal.md) 
+
+### [Castellaneta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.protect.md) 
+
+### [Castellaneta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.private.md) 
+
+### [Castellaneta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.personal.md) 
+
+### [Castellaneta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCastellaneta.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Trento.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province|Trento.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.public|Trento.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.internal|Trento.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.protect|Trento.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.private|Trento.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.personal|Trento.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Trentino/Trento.Province.secret|Trento.Province.secret]] 
+
+### [Trento.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.public.md) 
+
+### [Trento.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.internal.md) 
+
+### [Trento.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.protect.md) 
+
+### [Trento.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.private.md) 
+
+### [Trento.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.personal.md) 
+
+### [Trento.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoTrento.Province.secret.md)
 

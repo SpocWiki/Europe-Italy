@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa|Gambatesa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.public|Gambatesa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.internal|Gambatesa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.protect|Gambatesa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.private|Gambatesa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.personal|Gambatesa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gambatesa.secret|Gambatesa.secret]] 
+
+### [Gambatesa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.public.md) 
+
+### [Gambatesa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.internal.md) 
+
+### [Gambatesa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.protect.md) 
+
+### [Gambatesa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.private.md) 
+
+### [Gambatesa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.personal.md) 
+
+### [Gambatesa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityGambatesa.secret.md)
+

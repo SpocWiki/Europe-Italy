@@ -40,11 +40,16 @@ markerFolder: ./Roma.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province|Roma.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.public|Roma.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.internal|Roma.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.protect|Roma.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.private|Roma.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.personal|Roma.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Lazio/Roma.Province.secret|Roma.Province.secret]] 
+
+### [Roma.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.public.md) 
+
+### [Roma.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.internal.md) 
+
+### [Roma.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.protect.md) 
+
+### [Roma.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.private.md) 
+
+### [Roma.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.personal.md) 
+
+### [Roma.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioRoma.Province.secret.md)
 

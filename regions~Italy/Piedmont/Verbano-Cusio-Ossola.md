@@ -40,11 +40,16 @@ markerFolder: ./Verbano-Cusio-Ossola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola|Verbano-Cusio-Ossola]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.public|Verbano-Cusio-Ossola.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.internal|Verbano-Cusio-Ossola.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.protect|Verbano-Cusio-Ossola.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.private|Verbano-Cusio-Ossola.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.personal|Verbano-Cusio-Ossola.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Piedmont/Verbano-Cusio-Ossola.secret|Verbano-Cusio-Ossola.secret]] 
+
+### [Verbano-Cusio-Ossola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.public.md) 
+
+### [Verbano-Cusio-Ossola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.internal.md) 
+
+### [Verbano-Cusio-Ossola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.protect.md) 
+
+### [Verbano-Cusio-Ossola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.private.md) 
+
+### [Verbano-Cusio-Ossola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.personal.md) 
+
+### [Verbano-Cusio-Ossola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.secret.md)
 

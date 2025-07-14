@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico|Cesenatico]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.public|Cesenatico.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.internal|Cesenatico.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.protect|Cesenatico.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.private|Cesenatico.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.personal|Cesenatico.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cesenatico.secret|Cesenatico.secret]] 
+
+### [Cesenatico.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.public.md) 
+
+### [Cesenatico.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.internal.md) 
+
+### [Cesenatico.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.protect.md) 
+
+### [Cesenatico.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.private.md) 
+
+### [Cesenatico.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.personal.md) 
+
+### [Cesenatico.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityCesenatico.secret.md)
+

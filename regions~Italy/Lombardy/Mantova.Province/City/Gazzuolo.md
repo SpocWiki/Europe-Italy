@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo|Gazzuolo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.public|Gazzuolo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.internal|Gazzuolo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.protect|Gazzuolo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.private|Gazzuolo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.personal|Gazzuolo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Gazzuolo.secret|Gazzuolo.secret]] 
+
+### [Gazzuolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.public.md) 
+
+### [Gazzuolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.internal.md) 
+
+### [Gazzuolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.protect.md) 
+
+### [Gazzuolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.private.md) 
+
+### [Gazzuolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.personal.md) 
+
+### [Gazzuolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityGazzuolo.secret.md)
+

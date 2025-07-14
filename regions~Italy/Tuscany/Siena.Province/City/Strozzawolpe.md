@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe|Strozzawolpe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.public|Strozzawolpe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.internal|Strozzawolpe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.protect|Strozzawolpe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.private|Strozzawolpe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.personal|Strozzawolpe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Strozzawolpe.secret|Strozzawolpe.secret]] 
+
+### [Strozzawolpe.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.public.md) 
+
+### [Strozzawolpe.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.internal.md) 
+
+### [Strozzawolpe.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.protect.md) 
+
+### [Strozzawolpe.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.private.md) 
+
+### [Strozzawolpe.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.personal.md) 
+
+### [Strozzawolpe.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityStrozzawolpe.secret.md)
+

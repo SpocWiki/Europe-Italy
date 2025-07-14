@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano|Pitigliano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.public|Pitigliano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.internal|Pitigliano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.protect|Pitigliano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.private|Pitigliano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.personal|Pitigliano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Pitigliano.secret|Pitigliano.secret]] 
+
+### [Pitigliano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.public.md) 
+
+### [Pitigliano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.internal.md) 
+
+### [Pitigliano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.protect.md) 
+
+### [Pitigliano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.private.md) 
+
+### [Pitigliano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.personal.md) 
+
+### [Pitigliano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.secret.md)
+

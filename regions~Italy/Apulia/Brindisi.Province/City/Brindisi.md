@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Brindisi|Brindisi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.public|Brindisi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.internal|Brindisi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.protect|Brindisi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.private|Brindisi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.personal|Brindisi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Brindisi.secret|Brindisi.secret]] 
+
+### [Brindisi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.public.md) 
+
+### [Brindisi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.internal.md) 
+
+### [Brindisi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.protect.md) 
+
+### [Brindisi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.private.md) 
+
+### [Brindisi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.personal.md) 
+
+### [Brindisi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityBrindisi.secret.md)
+

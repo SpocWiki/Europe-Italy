@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta|Cologna_Veneta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.public|Cologna_Veneta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.internal|Cologna_Veneta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.protect|Cologna_Veneta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.private|Cologna_Veneta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.personal|Cologna_Veneta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cologna_Veneta.secret|Cologna_Veneta.secret]] 
+
+### [Cologna_Veneta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.public.md) 
+
+### [Cologna_Veneta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.internal.md) 
+
+### [Cologna_Veneta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.protect.md) 
+
+### [Cologna_Veneta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.private.md) 
+
+### [Cologna_Veneta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.personal.md) 
+
+### [Cologna_Veneta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityCologna_Veneta.secret.md)
+

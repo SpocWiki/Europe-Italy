@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Aquila|Aquila]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Aquila.public|Aquila.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Aquila.internal|Aquila.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Aquila.protect|Aquila.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Aquila.private|Aquila.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Aquila.personal|Aquila.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Aquila.secret|Aquila.secret]] 
+
+### [Aquila.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.public.md) 
+
+### [Aquila.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.internal.md) 
+
+### [Aquila.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.protect.md) 
+
+### [Aquila.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.private.md) 
+
+### [Aquila.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.personal.md) 
+
+### [Aquila.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityAquila.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Asti|Asti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Asti.public|Asti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Asti.internal|Asti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Asti.protect|Asti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Asti.private|Asti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Asti.personal|Asti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Asti.secret|Asti.secret]] 
+
+### [Asti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.public.md) 
+
+### [Asti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.internal.md) 
+
+### [Asti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.protect.md) 
+
+### [Asti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.private.md) 
+
+### [Asti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.personal.md) 
+
+### [Asti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityAsti.secret.md)
+

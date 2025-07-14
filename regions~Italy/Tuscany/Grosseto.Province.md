@@ -40,11 +40,16 @@ markerFolder: ./Grosseto.Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province|Grosseto.Province]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.public|Grosseto.Province.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.internal|Grosseto.Province.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.protect|Grosseto.Province.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.private|Grosseto.Province.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.personal|Grosseto.Province.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Tuscany/Grosseto.Province.secret|Grosseto.Province.secret]] 
+
+### [Grosseto.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.public.md) 
+
+### [Grosseto.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.internal.md) 
+
+### [Grosseto.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.protect.md) 
+
+### [Grosseto.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.private.md) 
+
+### [Grosseto.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.personal.md) 
+
+### [Grosseto.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyGrosseto.Province.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia|Ariano_di_Puglia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.public|Ariano_di_Puglia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.internal|Ariano_di_Puglia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.protect|Ariano_di_Puglia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.private|Ariano_di_Puglia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.personal|Ariano_di_Puglia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Ariano_di_Puglia.secret|Ariano_di_Puglia.secret]] 
+
+### [Ariano_di_Puglia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.public.md) 
+
+### [Ariano_di_Puglia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.internal.md) 
+
+### [Ariano_di_Puglia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.protect.md) 
+
+### [Ariano_di_Puglia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.private.md) 
+
+### [Ariano_di_Puglia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.personal.md) 
+
+### [Ariano_di_Puglia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityAriano_di_Puglia.secret.md)
+

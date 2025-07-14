@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Monza|Monza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Monza.public|Monza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Monza.internal|Monza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Monza.protect|Monza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Monza.private|Monza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Monza.personal|Monza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Monza.secret|Monza.secret]] 
+
+### [Monza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.public.md) 
+
+### [Monza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.internal.md) 
+
+### [Monza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.protect.md) 
+
+### [Monza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.private.md) 
+
+### [Monza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.personal.md) 
+
+### [Monza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityMonza.secret.md)
+

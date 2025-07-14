@@ -40,11 +40,16 @@ markerFolder: ./Trapani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani|Trapani]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.public|Trapani.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.internal|Trapani.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.protect|Trapani.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.private|Trapani.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.personal|Trapani.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Sicily/Trapani.secret|Trapani.secret]] 
+
+### [Trapani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.public.md) 
+
+### [Trapani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.internal.md) 
+
+### [Trapani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.protect.md) 
+
+### [Trapani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.private.md) 
+
+### [Trapani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.personal.md) 
+
+### [Trapani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyTrapani.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone|Montefalcone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.public|Montefalcone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.internal|Montefalcone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.protect|Montefalcone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.private|Montefalcone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.personal|Montefalcone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montefalcone.secret|Montefalcone.secret]] 
+
+### [Montefalcone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.public.md) 
+
+### [Montefalcone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.internal.md) 
+
+### [Montefalcone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.protect.md) 
+
+### [Montefalcone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.private.md) 
+
+### [Montefalcone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.personal.md) 
+
+### [Montefalcone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.secret.md)
+

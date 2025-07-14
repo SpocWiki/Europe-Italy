@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Craveggia|Craveggia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.public|Craveggia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.internal|Craveggia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.protect|Craveggia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.private|Craveggia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.personal|Craveggia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Craveggia.secret|Craveggia.secret]] 
+
+### [Craveggia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.public.md) 
+
+### [Craveggia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.internal.md) 
+
+### [Craveggia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.protect.md) 
+
+### [Craveggia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.private.md) 
+
+### [Craveggia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.personal.md) 
+
+### [Craveggia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.secret.md)
+

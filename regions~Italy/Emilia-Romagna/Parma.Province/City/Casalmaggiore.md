@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore|Casalmaggiore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.public|Casalmaggiore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.internal|Casalmaggiore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.protect|Casalmaggiore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.private|Casalmaggiore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.personal|Casalmaggiore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Casalmaggiore.secret|Casalmaggiore.secret]] 
+
+### [Casalmaggiore.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.public.md) 
+
+### [Casalmaggiore.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.internal.md) 
+
+### [Casalmaggiore.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.protect.md) 
+
+### [Casalmaggiore.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.private.md) 
+
+### [Casalmaggiore.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.personal.md) 
+
+### [Casalmaggiore.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto|St.Ulderico_di_Tretto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.public|St.Ulderico_di_Tretto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.internal|St.Ulderico_di_Tretto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.protect|St.Ulderico_di_Tretto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.private|St.Ulderico_di_Tretto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.personal|St.Ulderico_di_Tretto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/St.Ulderico_di_Tretto.secret|St.Ulderico_di_Tretto.secret]] 
+
+### [St.Ulderico_di_Tretto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.public.md) 
+
+### [St.Ulderico_di_Tretto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.internal.md) 
+
+### [St.Ulderico_di_Tretto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.protect.md) 
+
+### [St.Ulderico_di_Tretto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.private.md) 
+
+### [St.Ulderico_di_Tretto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.personal.md) 
+
+### [St.Ulderico_di_Tretto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CitySt.Ulderico_di_Tretto.secret.md)
+

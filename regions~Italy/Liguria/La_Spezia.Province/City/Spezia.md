@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Spezia|Spezia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Spezia.public|Spezia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Spezia.internal|Spezia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Spezia.protect|Spezia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Spezia.private|Spezia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Spezia.personal|Spezia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Spezia.secret|Spezia.secret]] 
+
+### [Spezia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.public.md) 
+
+### [Spezia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.internal.md) 
+
+### [Spezia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.protect.md) 
+
+### [Spezia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.private.md) 
+
+### [Spezia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.personal.md) 
+
+### [Spezia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.secret.md)
+

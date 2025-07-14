@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi|Montevarchi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.public|Montevarchi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.internal|Montevarchi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.protect|Montevarchi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.private|Montevarchi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.personal|Montevarchi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Montevarchi.secret|Montevarchi.secret]] 
+
+### [Montevarchi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.public.md) 
+
+### [Montevarchi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.internal.md) 
+
+### [Montevarchi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.protect.md) 
+
+### [Montevarchi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.private.md) 
+
+### [Montevarchi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.personal.md) 
+
+### [Montevarchi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityMontevarchi.secret.md)
+

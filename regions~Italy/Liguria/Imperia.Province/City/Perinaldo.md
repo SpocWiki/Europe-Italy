@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo|Perinaldo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.public|Perinaldo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.internal|Perinaldo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.protect|Perinaldo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.private|Perinaldo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.personal|Perinaldo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Perinaldo.secret|Perinaldo.secret]] 
+
+### [Perinaldo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.public.md) 
+
+### [Perinaldo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.internal.md) 
+
+### [Perinaldo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.protect.md) 
+
+### [Perinaldo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.private.md) 
+
+### [Perinaldo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.personal.md) 
+
+### [Perinaldo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CityPerinaldo.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Pesaro_e_Urbino/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino|Pesaro_e_Urbino]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.public|Pesaro_e_Urbino.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.internal|Pesaro_e_Urbino.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.protect|Pesaro_e_Urbino.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.private|Pesaro_e_Urbino.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.personal|Pesaro_e_Urbino.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Marche/Pesaro_e_Urbino.secret|Pesaro_e_Urbino.secret]] 
+
+### [Pesaro_e_Urbino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.public.md) 
+
+### [Pesaro_e_Urbino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.internal.md) 
+
+### [Pesaro_e_Urbino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.protect.md) 
+
+### [Pesaro_e_Urbino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.private.md) 
+
+### [Pesaro_e_Urbino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.personal.md) 
+
+### [Pesaro_e_Urbino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarchePesaro_e_Urbino.secret.md)
 

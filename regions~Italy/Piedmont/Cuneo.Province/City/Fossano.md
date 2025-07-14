@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Fossano|Fossano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Fossano.public|Fossano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Fossano.internal|Fossano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Fossano.protect|Fossano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Fossano.private|Fossano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Fossano.personal|Fossano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Fossano.secret|Fossano.secret]] 
+
+### [Fossano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.public.md) 
+
+### [Fossano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.internal.md) 
+
+### [Fossano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.protect.md) 
+
+### [Fossano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.private.md) 
+
+### [Fossano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.personal.md) 
+
+### [Fossano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityFossano.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Aoste/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste|Aoste]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.public|Aoste.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.internal|Aoste.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.protect|Aoste.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.private|Aoste.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.personal|Aoste.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Aosta/Aoste.secret|Aoste.secret]] 
+
+### [Aoste.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.public.md) 
+
+### [Aoste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.internal.md) 
+
+### [Aoste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.protect.md) 
+
+### [Aoste.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.private.md) 
+
+### [Aoste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.personal.md) 
+
+### [Aoste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_ValleyAoste.secret.md)
 

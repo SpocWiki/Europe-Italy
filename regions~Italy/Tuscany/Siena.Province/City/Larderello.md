@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Larderello|Larderello]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Larderello.public|Larderello.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Larderello.internal|Larderello.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Larderello.protect|Larderello.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Larderello.private|Larderello.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Larderello.personal|Larderello.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Larderello.secret|Larderello.secret]] 
+
+### [Larderello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.public.md) 
+
+### [Larderello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.internal.md) 
+
+### [Larderello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.protect.md) 
+
+### [Larderello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.private.md) 
+
+### [Larderello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.personal.md) 
+
+### [Larderello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.secret.md)
+

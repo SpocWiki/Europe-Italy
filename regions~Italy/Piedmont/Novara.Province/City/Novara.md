@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Novara|Novara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Novara.public|Novara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Novara.internal|Novara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Novara.protect|Novara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Novara.private|Novara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Novara.personal|Novara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Novara.secret|Novara.secret]] 
+
+### [Novara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.public.md) 
+
+### [Novara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.internal.md) 
+
+### [Novara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.protect.md) 
+
+### [Novara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.private.md) 
+
+### [Novara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.personal.md) 
+
+### [Novara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityNovara.secret.md)
+

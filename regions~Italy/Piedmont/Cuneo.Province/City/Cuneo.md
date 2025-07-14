@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Cuneo|Cuneo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.public|Cuneo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.internal|Cuneo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.protect|Cuneo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.private|Cuneo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.personal|Cuneo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Cuneo.secret|Cuneo.secret]] 
+
+### [Cuneo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.public.md) 
+
+### [Cuneo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.internal.md) 
+
+### [Cuneo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.protect.md) 
+
+### [Cuneo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.private.md) 
+
+### [Cuneo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.personal.md) 
+
+### [Cuneo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.secret.md)
+

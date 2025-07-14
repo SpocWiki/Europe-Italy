@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Rapallo|Rapallo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.public|Rapallo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.internal|Rapallo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.protect|Rapallo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.private|Rapallo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.personal|Rapallo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Rapallo.secret|Rapallo.secret]] 
+
+### [Rapallo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.public.md) 
+
+### [Rapallo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.internal.md) 
+
+### [Rapallo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.protect.md) 
+
+### [Rapallo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.private.md) 
+
+### [Rapallo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.personal.md) 
+
+### [Rapallo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityRapallo.secret.md)
+

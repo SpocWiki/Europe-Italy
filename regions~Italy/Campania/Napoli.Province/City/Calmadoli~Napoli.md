@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli|Calmadoli~Napoli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.public|Calmadoli~Napoli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.internal|Calmadoli~Napoli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.protect|Calmadoli~Napoli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.private|Calmadoli~Napoli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.personal|Calmadoli~Napoli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Calmadoli~Napoli.secret|Calmadoli~Napoli.secret]] 
+
+### [Calmadoli~Napoli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.public.md) 
+
+### [Calmadoli~Napoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.internal.md) 
+
+### [Calmadoli~Napoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.protect.md) 
+
+### [Calmadoli~Napoli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.private.md) 
+
+### [Calmadoli~Napoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.personal.md) 
+
+### [Calmadoli~Napoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Aosta|Aosta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Aosta.public|Aosta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Aosta.internal|Aosta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Aosta.protect|Aosta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Aosta.private|Aosta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Aosta.personal|Aosta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Aosta.secret|Aosta.secret]] 
+
+### [Aosta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.public.md) 
+
+### [Aosta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.internal.md) 
+
+### [Aosta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.protect.md) 
+
+### [Aosta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.private.md) 
+
+### [Aosta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.personal.md) 
+
+### [Aosta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAosta.secret.md)
+

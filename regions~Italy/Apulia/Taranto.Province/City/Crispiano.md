@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Crispiano|Crispiano]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.public|Crispiano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.internal|Crispiano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.protect|Crispiano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.private|Crispiano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.personal|Crispiano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Crispiano.secret|Crispiano.secret]] 
+
+### [Crispiano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.public.md) 
+
+### [Crispiano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.internal.md) 
+
+### [Crispiano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.protect.md) 
+
+### [Crispiano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.private.md) 
+
+### [Crispiano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.personal.md) 
+
+### [Crispiano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityCrispiano.secret.md)
+

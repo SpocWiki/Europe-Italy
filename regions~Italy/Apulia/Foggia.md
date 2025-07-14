@@ -40,11 +40,16 @@ markerFolder: ./Foggia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia|Foggia]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.public|Foggia.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.internal|Foggia.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.protect|Foggia.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.private|Foggia.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.personal|Foggia.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/Counties/Apulia/Foggia.secret|Foggia.secret]] 
+
+### [Foggia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.public.md) 
+
+### [Foggia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.internal.md) 
+
+### [Foggia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.protect.md) 
+
+### [Foggia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.private.md) 
+
+### [Foggia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.personal.md) 
+
+### [Foggia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaFoggia.secret.md)
 
