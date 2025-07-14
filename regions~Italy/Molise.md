@@ -16,18 +16,19 @@ markerFolder: ./Molise//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Molise.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.public.md) 
+### [Molise](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.md) 
 
-### [Molise.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.internal.md) 
+### [Molise.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.public.md) 
 
-### [Molise.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.protect.md) 
+### [Molise.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.internal.md) 
 
-### [Molise.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.private.md) 
+### [Molise.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.protect.md) 
 
-### [Molise.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.personal.md) 
+### [Molise.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.private.md) 
 
-### [Molise.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMolise.secret.md)
+### [Molise.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.personal.md) 
+
+### [Molise.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caserta.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.public.md) 
+### [Caserta.City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.md) 
 
-### [Caserta.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.internal.md) 
+### [Caserta.City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.public.md) 
 
-### [Caserta.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.protect.md) 
+### [Caserta.City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.internal.md) 
 
-### [Caserta.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.private.md) 
+### [Caserta.City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.protect.md) 
 
-### [Caserta.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.personal.md) 
+### [Caserta.City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.private.md) 
 
-### [Caserta.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Caserta.Province\CityCaserta.City.secret.md)
+### [Caserta.City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.personal.md) 
+
+### [Caserta.City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province/City/Caserta.City.secret.md)
 

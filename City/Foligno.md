@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Foligno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.public.md) 
+### [Foligno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.md) 
 
-### [Foligno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.internal.md) 
+### [Foligno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.public.md) 
 
-### [Foligno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.protect.md) 
+### [Foligno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.internal.md) 
 
-### [Foligno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.private.md) 
+### [Foligno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.protect.md) 
 
-### [Foligno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.personal.md) 
+### [Foligno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.private.md) 
 
-### [Foligno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityFoligno.secret.md)
+### [Foligno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.personal.md) 
+
+### [Foligno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tempio_Pausania.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.public.md) 
+### [Tempio_Pausania](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.md) 
 
-### [Tempio_Pausania.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.internal.md) 
+### [Tempio_Pausania.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.public.md) 
 
-### [Tempio_Pausania.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.protect.md) 
+### [Tempio_Pausania.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.internal.md) 
 
-### [Tempio_Pausania.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.private.md) 
+### [Tempio_Pausania.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.protect.md) 
 
-### [Tempio_Pausania.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.personal.md) 
+### [Tempio_Pausania.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.private.md) 
 
-### [Tempio_Pausania.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Olbia-Tempio\CityTempio_Pausania.secret.md)
+### [Tempio_Pausania.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.personal.md) 
+
+### [Tempio_Pausania.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.secret.md)
 

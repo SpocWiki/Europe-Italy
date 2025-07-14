@@ -41,15 +41,17 @@ markerFolder: ./Verona.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Verona.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.public.md) 
+### [Verona.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.md) 
 
-### [Verona.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.internal.md) 
+### [Verona.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.public.md) 
 
-### [Verona.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.protect.md) 
+### [Verona.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.internal.md) 
 
-### [Verona.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.private.md) 
+### [Verona.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.protect.md) 
 
-### [Verona.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.personal.md) 
+### [Verona.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.private.md) 
 
-### [Verona.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoVerona.Province.secret.md)
+### [Verona.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.personal.md) 
+
+### [Verona.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province.secret.md)
 

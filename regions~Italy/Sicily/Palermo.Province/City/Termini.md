@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Termini.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.public.md) 
+### [Termini](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.md) 
 
-### [Termini.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.internal.md) 
+### [Termini.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.public.md) 
 
-### [Termini.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.protect.md) 
+### [Termini.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.internal.md) 
 
-### [Termini.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.private.md) 
+### [Termini.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.protect.md) 
 
-### [Termini.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.personal.md) 
+### [Termini.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.private.md) 
 
-### [Termini.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityTermini.secret.md)
+### [Termini.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.personal.md) 
+
+### [Termini.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Termini.secret.md)
 

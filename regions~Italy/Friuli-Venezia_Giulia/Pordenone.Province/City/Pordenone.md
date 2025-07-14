@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pordenone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.public.md) 
+### [Pordenone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.md) 
 
-### [Pordenone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.internal.md) 
+### [Pordenone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.public.md) 
 
-### [Pordenone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.protect.md) 
+### [Pordenone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.internal.md) 
 
-### [Pordenone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.private.md) 
+### [Pordenone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.protect.md) 
 
-### [Pordenone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.personal.md) 
+### [Pordenone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.private.md) 
 
-### [Pordenone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_Giulia\Pordenone.Province\CityPordenone.secret.md)
+### [Pordenone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.personal.md) 
+
+### [Pordenone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province/City/Pordenone.secret.md)
 

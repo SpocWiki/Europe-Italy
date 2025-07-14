@@ -41,15 +41,17 @@ markerFolder: ./Isernia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Isernia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.public.md) 
+### [Isernia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.md) 
 
-### [Isernia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.internal.md) 
+### [Isernia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.public.md) 
 
-### [Isernia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.protect.md) 
+### [Isernia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.internal.md) 
 
-### [Isernia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.private.md) 
+### [Isernia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.protect.md) 
 
-### [Isernia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.personal.md) 
+### [Isernia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.private.md) 
 
-### [Isernia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MoliseIsernia.Province.secret.md)
+### [Isernia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.personal.md) 
+
+### [Isernia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.secret.md)
 

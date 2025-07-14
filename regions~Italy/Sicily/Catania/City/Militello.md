@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Militello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.public.md) 
+### [Militello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.md) 
 
-### [Militello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.internal.md) 
+### [Militello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.public.md) 
 
-### [Militello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.protect.md) 
+### [Militello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.internal.md) 
 
-### [Militello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.private.md) 
+### [Militello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.protect.md) 
 
-### [Militello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.personal.md) 
+### [Militello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.private.md) 
 
-### [Militello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityMilitello.secret.md)
+### [Militello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.personal.md) 
+
+### [Militello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Militello.secret.md)
 

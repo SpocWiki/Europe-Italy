@@ -41,15 +41,17 @@ markerFolder: ./Palermo/
 
 ## Confidential Links & Embeds: 
 
-### [Palermo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.public.md) 
+### [Palermo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.md) 
 
-### [Palermo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.internal.md) 
+### [Palermo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.public.md) 
 
-### [Palermo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.protect.md) 
+### [Palermo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.internal.md) 
 
-### [Palermo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.private.md) 
+### [Palermo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.protect.md) 
 
-### [Palermo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.personal.md) 
+### [Palermo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.private.md) 
 
-### [Palermo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyPalermo.Province.secret.md)
+### [Palermo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.personal.md) 
+
+### [Palermo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.secret.md)
 

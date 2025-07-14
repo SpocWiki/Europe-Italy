@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.public.md) 
+### [Forli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.md) 
 
-### [Forli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.internal.md) 
+### [Forli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.public.md) 
 
-### [Forli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.protect.md) 
+### [Forli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.internal.md) 
 
-### [Forli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.private.md) 
+### [Forli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.protect.md) 
 
-### [Forli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.personal.md) 
+### [Forli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.private.md) 
 
-### [Forli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityForli.secret.md)
+### [Forli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.personal.md) 
+
+### [Forli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Forli.secret.md)
 

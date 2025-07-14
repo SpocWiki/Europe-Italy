@@ -41,15 +41,17 @@ markerFolder: ./Pordenone.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pordenone.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.public.md) 
+### [Pordenone.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.md) 
 
-### [Pordenone.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.internal.md) 
+### [Pordenone.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.public.md) 
 
-### [Pordenone.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.protect.md) 
+### [Pordenone.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.internal.md) 
 
-### [Pordenone.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.private.md) 
+### [Pordenone.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.protect.md) 
 
-### [Pordenone.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.personal.md) 
+### [Pordenone.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.private.md) 
 
-### [Pordenone.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaPordenone.Province.secret.md)
+### [Pordenone.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.personal.md) 
+
+### [Pordenone.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.secret.md)
 

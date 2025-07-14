@@ -41,15 +41,17 @@ markerFolder: ./Lodi.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Lodi.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.public.md) 
+### [Lodi.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.md) 
 
-### [Lodi.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.internal.md) 
+### [Lodi.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.public.md) 
 
-### [Lodi.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.protect.md) 
+### [Lodi.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.internal.md) 
 
-### [Lodi.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.private.md) 
+### [Lodi.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.protect.md) 
 
-### [Lodi.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.personal.md) 
+### [Lodi.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.private.md) 
 
-### [Lodi.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyLodi.Province.secret.md)
+### [Lodi.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.personal.md) 
+
+### [Lodi.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.secret.md)
 

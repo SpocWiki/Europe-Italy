@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calimera.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.public.md) 
+### [Calimera](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.md) 
 
-### [Calimera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.internal.md) 
+### [Calimera.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.public.md) 
 
-### [Calimera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.protect.md) 
+### [Calimera.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.internal.md) 
 
-### [Calimera.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.private.md) 
+### [Calimera.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.protect.md) 
 
-### [Calimera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.personal.md) 
+### [Calimera.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.private.md) 
 
-### [Calimera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCalimera.secret.md)
+### [Calimera.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.personal.md) 
+
+### [Calimera.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.secret.md)
 

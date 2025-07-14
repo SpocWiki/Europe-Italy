@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.public.md) 
+### [Trani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trani.md) 
 
-### [Trani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.internal.md) 
+### [Trani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trani.public.md) 
 
-### [Trani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.protect.md) 
+### [Trani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.internal.md) 
 
-### [Trani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.private.md) 
+### [Trani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trani.protect.md) 
 
-### [Trani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.personal.md) 
+### [Trani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trani.private.md) 
 
-### [Trani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTrani.secret.md)
+### [Trani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.personal.md) 
+
+### [Trani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trani.secret.md)
 

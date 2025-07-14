@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sirmione.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.public.md) 
+### [Sirmione](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.md) 
 
-### [Sirmione.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.internal.md) 
+### [Sirmione.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.public.md) 
 
-### [Sirmione.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.protect.md) 
+### [Sirmione.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.internal.md) 
 
-### [Sirmione.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.private.md) 
+### [Sirmione.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.protect.md) 
 
-### [Sirmione.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.personal.md) 
+### [Sirmione.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.private.md) 
 
-### [Sirmione.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CitySirmione.secret.md)
+### [Sirmione.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.personal.md) 
+
+### [Sirmione.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Sirmione.secret.md)
 

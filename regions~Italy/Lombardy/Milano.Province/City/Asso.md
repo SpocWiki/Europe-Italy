@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Asso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.public.md) 
+### [Asso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.md) 
 
-### [Asso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.internal.md) 
+### [Asso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.public.md) 
 
-### [Asso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.protect.md) 
+### [Asso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.internal.md) 
 
-### [Asso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.private.md) 
+### [Asso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.protect.md) 
 
-### [Asso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.personal.md) 
+### [Asso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.private.md) 
 
-### [Asso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAsso.secret.md)
+### [Asso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.personal.md) 
+
+### [Asso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crevalcuore.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.public.md) 
+### [Crevalcuore](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.md) 
 
-### [Crevalcuore.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.internal.md) 
+### [Crevalcuore.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.public.md) 
 
-### [Crevalcuore.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.protect.md) 
+### [Crevalcuore.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.internal.md) 
 
-### [Crevalcuore.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.private.md) 
+### [Crevalcuore.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.protect.md) 
 
-### [Crevalcuore.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.personal.md) 
+### [Crevalcuore.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.private.md) 
 
-### [Crevalcuore.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityCrevalcuore.secret.md)
+### [Crevalcuore.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.personal.md) 
+
+### [Crevalcuore.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Crevalcuore.secret.md)
 

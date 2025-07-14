@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ossero.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.public.md) 
+### [Ossero](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.md) 
 
-### [Ossero.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.internal.md) 
+### [Ossero.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.public.md) 
 
-### [Ossero.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.protect.md) 
+### [Ossero.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.internal.md) 
 
-### [Ossero.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.private.md) 
+### [Ossero.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.protect.md) 
 
-### [Ossero.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.personal.md) 
+### [Ossero.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.private.md) 
 
-### [Ossero.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityOssero.secret.md)
+### [Ossero.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.personal.md) 
+
+### [Ossero.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Ossero.secret.md)
 

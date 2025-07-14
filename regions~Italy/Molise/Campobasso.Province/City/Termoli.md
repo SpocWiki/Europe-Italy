@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Termoli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.public.md) 
+### [Termoli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.md) 
 
-### [Termoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.internal.md) 
+### [Termoli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.public.md) 
 
-### [Termoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.protect.md) 
+### [Termoli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.internal.md) 
 
-### [Termoli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.private.md) 
+### [Termoli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.protect.md) 
 
-### [Termoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.personal.md) 
+### [Termoli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.private.md) 
 
-### [Termoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Molise\Campobasso.Province\CityTermoli.secret.md)
+### [Termoli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.personal.md) 
+
+### [Termoli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Termoli.secret.md)
 

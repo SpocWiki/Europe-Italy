@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grosseto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.public.md) 
+### [Grosseto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.md) 
 
-### [Grosseto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.internal.md) 
+### [Grosseto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.public.md) 
 
-### [Grosseto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.protect.md) 
+### [Grosseto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.internal.md) 
 
-### [Grosseto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.private.md) 
+### [Grosseto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.protect.md) 
 
-### [Grosseto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.personal.md) 
+### [Grosseto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.private.md) 
 
-### [Grosseto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityGrosseto.secret.md)
+### [Grosseto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.personal.md) 
+
+### [Grosseto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.secret.md)
 

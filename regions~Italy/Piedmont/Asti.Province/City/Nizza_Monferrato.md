@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nizza_Monferrato.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.public.md) 
+### [Nizza_Monferrato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.md) 
 
-### [Nizza_Monferrato.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.internal.md) 
+### [Nizza_Monferrato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.public.md) 
 
-### [Nizza_Monferrato.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.protect.md) 
+### [Nizza_Monferrato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.internal.md) 
 
-### [Nizza_Monferrato.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.private.md) 
+### [Nizza_Monferrato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.protect.md) 
 
-### [Nizza_Monferrato.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.personal.md) 
+### [Nizza_Monferrato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.private.md) 
 
-### [Nizza_Monferrato.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CityNizza_Monferrato.secret.md)
+### [Nizza_Monferrato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.personal.md) 
+
+### [Nizza_Monferrato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Nizza_Monferrato.secret.md)
 

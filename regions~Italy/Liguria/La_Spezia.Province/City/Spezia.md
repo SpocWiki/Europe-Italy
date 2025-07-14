@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spezia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.public.md) 
+### [Spezia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.md) 
 
-### [Spezia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.internal.md) 
+### [Spezia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.public.md) 
 
-### [Spezia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.protect.md) 
+### [Spezia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.internal.md) 
 
-### [Spezia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.private.md) 
+### [Spezia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.protect.md) 
 
-### [Spezia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.personal.md) 
+### [Spezia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.private.md) 
 
-### [Spezia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\La_Spezia.Province\CitySpezia.secret.md)
+### [Spezia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.personal.md) 
+
+### [Spezia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Spezia.secret.md)
 

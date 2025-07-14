@@ -266,15 +266,17 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\ItalyReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Italy/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\ItalyReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Italy/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\ItalyReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\ItalyReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\ItalyReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Italy/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\ItalyReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/ReadMe.secret.md)
 

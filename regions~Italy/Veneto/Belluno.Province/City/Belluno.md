@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belluno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.public.md) 
+### [Belluno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.md) 
 
-### [Belluno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.internal.md) 
+### [Belluno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.public.md) 
 
-### [Belluno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.protect.md) 
+### [Belluno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.internal.md) 
 
-### [Belluno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.private.md) 
+### [Belluno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.protect.md) 
 
-### [Belluno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.personal.md) 
+### [Belluno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.private.md) 
 
-### [Belluno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityBelluno.secret.md)
+### [Belluno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.personal.md) 
+
+### [Belluno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.secret.md)
 

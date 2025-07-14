@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vetriano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.public.md) 
+### [Vetriano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.md) 
 
-### [Vetriano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.internal.md) 
+### [Vetriano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.public.md) 
 
-### [Vetriano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.protect.md) 
+### [Vetriano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.internal.md) 
 
-### [Vetriano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.private.md) 
+### [Vetriano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.protect.md) 
 
-### [Vetriano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.personal.md) 
+### [Vetriano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.private.md) 
 
-### [Vetriano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityVetriano.secret.md)
+### [Vetriano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.personal.md) 
+
+### [Vetriano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Vetriano.secret.md)
 

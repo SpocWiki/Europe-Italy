@@ -41,15 +41,17 @@ markerFolder: ./Teramo/
 
 ## Confidential Links & Embeds: 
 
-### [Teramo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.public.md) 
+### [Teramo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.md) 
 
-### [Teramo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.internal.md) 
+### [Teramo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.public.md) 
 
-### [Teramo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.protect.md) 
+### [Teramo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.internal.md) 
 
-### [Teramo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.private.md) 
+### [Teramo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.protect.md) 
 
-### [Teramo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.personal.md) 
+### [Teramo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.private.md) 
 
-### [Teramo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoTeramo.secret.md)
+### [Teramo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.personal.md) 
+
+### [Teramo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Teramo.secret.md)
 

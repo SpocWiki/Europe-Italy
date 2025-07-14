@@ -41,15 +41,17 @@ markerFolder: ./Massa-Carrara/
 
 ## Confidential Links & Embeds: 
 
-### [Massa-Carrara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.public.md) 
+### [Massa-Carrara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.md) 
 
-### [Massa-Carrara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.internal.md) 
+### [Massa-Carrara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.public.md) 
 
-### [Massa-Carrara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.protect.md) 
+### [Massa-Carrara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.internal.md) 
 
-### [Massa-Carrara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.private.md) 
+### [Massa-Carrara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.protect.md) 
 
-### [Massa-Carrara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.personal.md) 
+### [Massa-Carrara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.private.md) 
 
-### [Massa-Carrara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyMassa-Carrara.secret.md)
+### [Massa-Carrara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.personal.md) 
+
+### [Massa-Carrara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.secret.md)
 

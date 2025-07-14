@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linguaglossa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.public.md) 
+### [Linguaglossa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.md) 
 
-### [Linguaglossa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.internal.md) 
+### [Linguaglossa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.public.md) 
 
-### [Linguaglossa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.protect.md) 
+### [Linguaglossa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.internal.md) 
 
-### [Linguaglossa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.private.md) 
+### [Linguaglossa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.protect.md) 
 
-### [Linguaglossa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.personal.md) 
+### [Linguaglossa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.private.md) 
 
-### [Linguaglossa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Catania\CityLinguaglossa.secret.md)
+### [Linguaglossa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.personal.md) 
+
+### [Linguaglossa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Linguaglossa.secret.md)
 

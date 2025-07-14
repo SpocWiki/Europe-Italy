@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crosara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.public.md) 
+### [Crosara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.md) 
 
-### [Crosara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.internal.md) 
+### [Crosara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.public.md) 
 
-### [Crosara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.protect.md) 
+### [Crosara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.internal.md) 
 
-### [Crosara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.private.md) 
+### [Crosara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.protect.md) 
 
-### [Crosara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.personal.md) 
+### [Crosara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.private.md) 
 
-### [Crosara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Treviso.Province\CityCrosara.secret.md)
+### [Crosara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.personal.md) 
+
+### [Crosara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.secret.md)
 

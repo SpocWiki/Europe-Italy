@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Felice_sul_Panard.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.public.md) 
+### [San_Felice_sul_Panard](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.md) 
 
-### [San_Felice_sul_Panard.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.internal.md) 
+### [San_Felice_sul_Panard.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.public.md) 
 
-### [San_Felice_sul_Panard.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.protect.md) 
+### [San_Felice_sul_Panard.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.internal.md) 
 
-### [San_Felice_sul_Panard.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.private.md) 
+### [San_Felice_sul_Panard.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.protect.md) 
 
-### [San_Felice_sul_Panard.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.personal.md) 
+### [San_Felice_sul_Panard.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.private.md) 
 
-### [San_Felice_sul_Panard.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CitySan_Felice_sul_Panard.secret.md)
+### [San_Felice_sul_Panard.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.personal.md) 
+
+### [San_Felice_sul_Panard.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/San_Felice_sul_Panard.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sermido.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.public.md) 
+### [Sermido](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.md) 
 
-### [Sermido.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.internal.md) 
+### [Sermido.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.public.md) 
 
-### [Sermido.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.protect.md) 
+### [Sermido.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.internal.md) 
 
-### [Sermido.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.private.md) 
+### [Sermido.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.protect.md) 
 
-### [Sermido.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.personal.md) 
+### [Sermido.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.private.md) 
 
-### [Sermido.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CitySermido.secret.md)
+### [Sermido.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.personal.md) 
+
+### [Sermido.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Sermido.secret.md)
 

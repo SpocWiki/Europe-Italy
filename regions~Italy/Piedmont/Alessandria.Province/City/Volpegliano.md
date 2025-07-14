@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Volpegliano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.public.md) 
+### [Volpegliano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.md) 
 
-### [Volpegliano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.internal.md) 
+### [Volpegliano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.public.md) 
 
-### [Volpegliano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.protect.md) 
+### [Volpegliano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.internal.md) 
 
-### [Volpegliano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.private.md) 
+### [Volpegliano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.protect.md) 
 
-### [Volpegliano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.personal.md) 
+### [Volpegliano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.private.md) 
 
-### [Volpegliano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityVolpegliano.secret.md)
+### [Volpegliano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.personal.md) 
+
+### [Volpegliano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Volpegliano.secret.md)
 

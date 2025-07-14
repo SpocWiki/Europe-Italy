@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Milazzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.public.md) 
+### [Milazzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.md) 
 
-### [Milazzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.internal.md) 
+### [Milazzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.public.md) 
 
-### [Milazzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.protect.md) 
+### [Milazzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.internal.md) 
 
-### [Milazzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.private.md) 
+### [Milazzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.protect.md) 
 
-### [Milazzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.personal.md) 
+### [Milazzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.private.md) 
 
-### [Milazzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityMilazzo.secret.md)
+### [Milazzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.personal.md) 
+
+### [Milazzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.secret.md)
 

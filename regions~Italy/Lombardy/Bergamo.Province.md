@@ -41,15 +41,17 @@ markerFolder: ./Bergamo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Bergamo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.public.md) 
+### [Bergamo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.md) 
 
-### [Bergamo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.internal.md) 
+### [Bergamo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.public.md) 
 
-### [Bergamo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.protect.md) 
+### [Bergamo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.internal.md) 
 
-### [Bergamo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.private.md) 
+### [Bergamo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.protect.md) 
 
-### [Bergamo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.personal.md) 
+### [Bergamo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.private.md) 
 
-### [Bergamo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyBergamo.Province.secret.md)
+### [Bergamo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.personal.md) 
+
+### [Bergamo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.secret.md)
 

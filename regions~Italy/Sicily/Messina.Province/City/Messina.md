@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Messina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.public.md) 
+### [Messina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.md) 
 
-### [Messina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.internal.md) 
+### [Messina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.public.md) 
 
-### [Messina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.protect.md) 
+### [Messina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.internal.md) 
 
-### [Messina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.private.md) 
+### [Messina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.protect.md) 
 
-### [Messina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.personal.md) 
+### [Messina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.private.md) 
 
-### [Messina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Messina.Province\CityMessina.secret.md)
+### [Messina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.personal.md) 
+
+### [Messina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.secret.md)
 

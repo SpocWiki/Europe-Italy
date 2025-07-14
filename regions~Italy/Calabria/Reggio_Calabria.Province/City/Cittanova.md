@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cittanova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.public.md) 
+### [Cittanova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.md) 
 
-### [Cittanova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.internal.md) 
+### [Cittanova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.public.md) 
 
-### [Cittanova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.protect.md) 
+### [Cittanova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.internal.md) 
 
-### [Cittanova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.private.md) 
+### [Cittanova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.protect.md) 
 
-### [Cittanova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.personal.md) 
+### [Cittanova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.private.md) 
 
-### [Cittanova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityCittanova.secret.md)
+### [Cittanova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.personal.md) 
+
+### [Cittanova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Cittanova.secret.md)
 

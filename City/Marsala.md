@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marsala.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.public.md) 
+### [Marsala](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.md) 
 
-### [Marsala.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.internal.md) 
+### [Marsala.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.public.md) 
 
-### [Marsala.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.protect.md) 
+### [Marsala.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.internal.md) 
 
-### [Marsala.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.private.md) 
+### [Marsala.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.protect.md) 
 
-### [Marsala.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.personal.md) 
+### [Marsala.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.private.md) 
 
-### [Marsala.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityMarsala.secret.md)
+### [Marsala.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.personal.md) 
+
+### [Marsala.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sestri_Levante.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.public.md) 
+### [Sestri_Levante](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.md) 
 
-### [Sestri_Levante.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.internal.md) 
+### [Sestri_Levante.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.public.md) 
 
-### [Sestri_Levante.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.protect.md) 
+### [Sestri_Levante.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.internal.md) 
 
-### [Sestri_Levante.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.private.md) 
+### [Sestri_Levante.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.protect.md) 
 
-### [Sestri_Levante.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.personal.md) 
+### [Sestri_Levante.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.private.md) 
 
-### [Sestri_Levante.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CitySestri_Levante.secret.md)
+### [Sestri_Levante.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.personal.md) 
+
+### [Sestri_Levante.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.secret.md)
 

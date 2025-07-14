@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trapani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.public.md) 
+### [Trapani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.md) 
 
-### [Trapani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.internal.md) 
+### [Trapani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.public.md) 
 
-### [Trapani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.protect.md) 
+### [Trapani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.internal.md) 
 
-### [Trapani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.private.md) 
+### [Trapani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.protect.md) 
 
-### [Trapani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.personal.md) 
+### [Trapani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.private.md) 
 
-### [Trapani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTrapani.secret.md)
+### [Trapani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.personal.md) 
+
+### [Trapani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.secret.md)
 

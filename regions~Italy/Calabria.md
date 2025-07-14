@@ -9,18 +9,19 @@ markerFolder: ./Calabria//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Calabria.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.public.md) 
+### [Calabria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.md) 
 
-### [Calabria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.internal.md) 
+### [Calabria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.public.md) 
 
-### [Calabria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.protect.md) 
+### [Calabria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.internal.md) 
 
-### [Calabria.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.private.md) 
+### [Calabria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.protect.md) 
 
-### [Calabria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.personal.md) 
+### [Calabria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.private.md) 
 
-### [Calabria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyCalabria.secret.md)
+### [Calabria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.personal.md) 
+
+### [Calabria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.secret.md)
 

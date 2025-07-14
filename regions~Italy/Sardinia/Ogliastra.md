@@ -41,15 +41,17 @@ markerFolder: ./Ogliastra/
 
 ## Confidential Links & Embeds: 
 
-### [Ogliastra.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.public.md) 
+### [Ogliastra](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.md) 
 
-### [Ogliastra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.internal.md) 
+### [Ogliastra.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.public.md) 
 
-### [Ogliastra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.protect.md) 
+### [Ogliastra.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.internal.md) 
 
-### [Ogliastra.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.private.md) 
+### [Ogliastra.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.protect.md) 
 
-### [Ogliastra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.personal.md) 
+### [Ogliastra.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.private.md) 
 
-### [Ogliastra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOgliastra.secret.md)
+### [Ogliastra.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.personal.md) 
+
+### [Ogliastra.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Ogliastra.secret.md)
 

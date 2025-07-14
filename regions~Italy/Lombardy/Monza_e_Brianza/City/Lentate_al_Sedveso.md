@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lentate_al_Sedveso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.public.md) 
+### [Lentate_al_Sedveso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.md) 
 
-### [Lentate_al_Sedveso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.internal.md) 
+### [Lentate_al_Sedveso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.public.md) 
 
-### [Lentate_al_Sedveso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.protect.md) 
+### [Lentate_al_Sedveso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.internal.md) 
 
-### [Lentate_al_Sedveso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.private.md) 
+### [Lentate_al_Sedveso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.protect.md) 
 
-### [Lentate_al_Sedveso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.personal.md) 
+### [Lentate_al_Sedveso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.private.md) 
 
-### [Lentate_al_Sedveso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Monza_e_Brianza\CityLentate_al_Sedveso.secret.md)
+### [Lentate_al_Sedveso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.personal.md) 
+
+### [Lentate_al_Sedveso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.secret.md)
 

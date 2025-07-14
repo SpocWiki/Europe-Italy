@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sassari~Sardinien.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.public.md) 
+### [Sassari~Sardinien](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.md) 
 
-### [Sassari~Sardinien.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.internal.md) 
+### [Sassari~Sardinien.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.public.md) 
 
-### [Sassari~Sardinien.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.protect.md) 
+### [Sassari~Sardinien.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.internal.md) 
 
-### [Sassari~Sardinien.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.private.md) 
+### [Sassari~Sardinien.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.protect.md) 
 
-### [Sassari~Sardinien.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.personal.md) 
+### [Sassari~Sardinien.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.private.md) 
 
-### [Sassari~Sardinien.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CitySassari~Sardinien.secret.md)
+### [Sassari~Sardinien.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.personal.md) 
+
+### [Sassari~Sardinien.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.secret.md)
 

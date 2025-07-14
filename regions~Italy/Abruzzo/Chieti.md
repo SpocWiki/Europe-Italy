@@ -41,15 +41,17 @@ markerFolder: ./Chieti/
 
 ## Confidential Links & Embeds: 
 
-### [Chieti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.public.md) 
+### [Chieti](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.md) 
 
-### [Chieti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.internal.md) 
+### [Chieti.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.public.md) 
 
-### [Chieti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.protect.md) 
+### [Chieti.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.internal.md) 
 
-### [Chieti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.private.md) 
+### [Chieti.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.protect.md) 
 
-### [Chieti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.personal.md) 
+### [Chieti.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.private.md) 
 
-### [Chieti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoChieti.secret.md)
+### [Chieti.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.personal.md) 
+
+### [Chieti.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti.secret.md)
 

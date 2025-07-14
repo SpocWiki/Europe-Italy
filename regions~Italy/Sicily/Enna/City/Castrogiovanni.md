@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castrogiovanni.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.public.md) 
+### [Castrogiovanni](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.md) 
 
-### [Castrogiovanni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.internal.md) 
+### [Castrogiovanni.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.public.md) 
 
-### [Castrogiovanni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.protect.md) 
+### [Castrogiovanni.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.internal.md) 
 
-### [Castrogiovanni.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.private.md) 
+### [Castrogiovanni.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.protect.md) 
 
-### [Castrogiovanni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.personal.md) 
+### [Castrogiovanni.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.private.md) 
 
-### [Castrogiovanni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Enna\CityCastrogiovanni.secret.md)
+### [Castrogiovanni.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.personal.md) 
+
+### [Castrogiovanni.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.secret.md)
 

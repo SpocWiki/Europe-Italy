@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pragelato.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.public.md) 
+### [Pragelato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.md) 
 
-### [Pragelato.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.internal.md) 
+### [Pragelato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.public.md) 
 
-### [Pragelato.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.protect.md) 
+### [Pragelato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.internal.md) 
 
-### [Pragelato.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.private.md) 
+### [Pragelato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.protect.md) 
 
-### [Pragelato.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.personal.md) 
+### [Pragelato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.private.md) 
 
-### [Pragelato.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityPragelato.secret.md)
+### [Pragelato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.personal.md) 
+
+### [Pragelato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.secret.md)
 

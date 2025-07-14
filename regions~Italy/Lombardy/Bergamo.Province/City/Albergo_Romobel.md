@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Albergo_Romobel.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.public.md) 
+### [Albergo_Romobel](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.md) 
 
-### [Albergo_Romobel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.internal.md) 
+### [Albergo_Romobel.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.public.md) 
 
-### [Albergo_Romobel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.protect.md) 
+### [Albergo_Romobel.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.internal.md) 
 
-### [Albergo_Romobel.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.private.md) 
+### [Albergo_Romobel.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.protect.md) 
 
-### [Albergo_Romobel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.personal.md) 
+### [Albergo_Romobel.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.private.md) 
 
-### [Albergo_Romobel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityAlbergo_Romobel.secret.md)
+### [Albergo_Romobel.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.personal.md) 
+
+### [Albergo_Romobel.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Albergo_Romobel.secret.md)
 

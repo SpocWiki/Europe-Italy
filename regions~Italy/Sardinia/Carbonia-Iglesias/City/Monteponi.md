@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monteponi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.public.md) 
+### [Monteponi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.md) 
 
-### [Monteponi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.internal.md) 
+### [Monteponi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.public.md) 
 
-### [Monteponi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.protect.md) 
+### [Monteponi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.internal.md) 
 
-### [Monteponi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.private.md) 
+### [Monteponi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.protect.md) 
 
-### [Monteponi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.personal.md) 
+### [Monteponi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.private.md) 
 
-### [Monteponi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityMonteponi.secret.md)
+### [Monteponi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.personal.md) 
+
+### [Monteponi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.secret.md)
 

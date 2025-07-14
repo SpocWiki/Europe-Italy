@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pescara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.public.md) 
+### [Pescara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.md) 
 
-### [Pescara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.internal.md) 
+### [Pescara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.public.md) 
 
-### [Pescara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.protect.md) 
+### [Pescara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.internal.md) 
 
-### [Pescara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.private.md) 
+### [Pescara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.protect.md) 
 
-### [Pescara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.personal.md) 
+### [Pescara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.private.md) 
 
-### [Pescara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\Pescara\CityPescara.secret.md)
+### [Pescara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.personal.md) 
+
+### [Pescara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara/City/Pescara.secret.md)
 

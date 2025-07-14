@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Giarratana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.public.md) 
+### [Giarratana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.md) 
 
-### [Giarratana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.internal.md) 
+### [Giarratana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.public.md) 
 
-### [Giarratana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.protect.md) 
+### [Giarratana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.internal.md) 
 
-### [Giarratana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.private.md) 
+### [Giarratana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.protect.md) 
 
-### [Giarratana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.personal.md) 
+### [Giarratana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.private.md) 
 
-### [Giarratana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Ragusa\CityGiarratana.secret.md)
+### [Giarratana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.personal.md) 
+
+### [Giarratana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Ragusa/City/Giarratana.secret.md)
 

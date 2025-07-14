@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moncalieri.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.public.md) 
+### [Moncalieri](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.md) 
 
-### [Moncalieri.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.internal.md) 
+### [Moncalieri.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.public.md) 
 
-### [Moncalieri.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.protect.md) 
+### [Moncalieri.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.internal.md) 
 
-### [Moncalieri.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.private.md) 
+### [Moncalieri.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.protect.md) 
 
-### [Moncalieri.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.personal.md) 
+### [Moncalieri.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.private.md) 
 
-### [Moncalieri.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Turin.Province\CityMoncalieri.secret.md)
+### [Moncalieri.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.personal.md) 
+
+### [Moncalieri.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Moncalieri.secret.md)
 

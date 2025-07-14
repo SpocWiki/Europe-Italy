@@ -41,15 +41,17 @@ markerFolder: ./Pisa.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pisa.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.public.md) 
+### [Pisa.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.md) 
 
-### [Pisa.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.internal.md) 
+### [Pisa.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.public.md) 
 
-### [Pisa.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.protect.md) 
+### [Pisa.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.internal.md) 
 
-### [Pisa.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.private.md) 
+### [Pisa.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.protect.md) 
 
-### [Pisa.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.personal.md) 
+### [Pisa.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.private.md) 
 
-### [Pisa.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPisa.Province.secret.md)
+### [Pisa.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.personal.md) 
+
+### [Pisa.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province.secret.md)
 

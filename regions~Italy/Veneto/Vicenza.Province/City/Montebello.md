@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montebello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.public.md) 
+### [Montebello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.md) 
 
-### [Montebello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.internal.md) 
+### [Montebello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.public.md) 
 
-### [Montebello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.protect.md) 
+### [Montebello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.internal.md) 
 
-### [Montebello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.private.md) 
+### [Montebello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.protect.md) 
 
-### [Montebello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.personal.md) 
+### [Montebello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.private.md) 
 
-### [Montebello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityMontebello.secret.md)
+### [Montebello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.personal.md) 
+
+### [Montebello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Montebello.secret.md)
 

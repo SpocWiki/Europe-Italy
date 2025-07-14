@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lussingrande.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.public.md) 
+### [Lussingrande](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.md) 
 
-### [Lussingrande.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.internal.md) 
+### [Lussingrande.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.public.md) 
 
-### [Lussingrande.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.protect.md) 
+### [Lussingrande.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.internal.md) 
 
-### [Lussingrande.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.private.md) 
+### [Lussingrande.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.protect.md) 
 
-### [Lussingrande.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.personal.md) 
+### [Lussingrande.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.private.md) 
 
-### [Lussingrande.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityLussingrande.secret.md)
+### [Lussingrande.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.personal.md) 
+
+### [Lussingrande.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Lussingrande.secret.md)
 

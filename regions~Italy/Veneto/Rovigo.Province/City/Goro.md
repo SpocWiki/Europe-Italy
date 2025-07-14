@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.public.md) 
+### [Goro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.md) 
 
-### [Goro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.internal.md) 
+### [Goro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.public.md) 
 
-### [Goro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.protect.md) 
+### [Goro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.internal.md) 
 
-### [Goro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.private.md) 
+### [Goro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.protect.md) 
 
-### [Goro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.personal.md) 
+### [Goro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.private.md) 
 
-### [Goro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Rovigo.Province\CityGoro.secret.md)
+### [Goro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.personal.md) 
+
+### [Goro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province/City/Goro.secret.md)
 

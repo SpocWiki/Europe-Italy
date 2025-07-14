@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bellano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.public.md) 
+### [Bellano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.md) 
 
-### [Bellano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.internal.md) 
+### [Bellano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.public.md) 
 
-### [Bellano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.protect.md) 
+### [Bellano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.internal.md) 
 
-### [Bellano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.private.md) 
+### [Bellano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.protect.md) 
 
-### [Bellano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.personal.md) 
+### [Bellano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.private.md) 
 
-### [Bellano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Sondrio.Province\CityBellano.secret.md)
+### [Bellano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.personal.md) 
+
+### [Bellano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bellano.secret.md)
 

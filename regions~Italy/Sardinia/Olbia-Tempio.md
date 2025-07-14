@@ -41,15 +41,17 @@ markerFolder: ./Olbia-Tempio/
 
 ## Confidential Links & Embeds: 
 
-### [Olbia-Tempio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.public.md) 
+### [Olbia-Tempio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.md) 
 
-### [Olbia-Tempio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.internal.md) 
+### [Olbia-Tempio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.public.md) 
 
-### [Olbia-Tempio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.protect.md) 
+### [Olbia-Tempio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.internal.md) 
 
-### [Olbia-Tempio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.private.md) 
+### [Olbia-Tempio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.protect.md) 
 
-### [Olbia-Tempio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.personal.md) 
+### [Olbia-Tempio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.private.md) 
 
-### [Olbia-Tempio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaOlbia-Tempio.secret.md)
+### [Olbia-Tempio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.personal.md) 
+
+### [Olbia-Tempio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio.secret.md)
 

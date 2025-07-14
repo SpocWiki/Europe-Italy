@@ -41,15 +41,17 @@ markerFolder: ./Lombardy/
 
 ## Confidential Links & Embeds: 
 
-### [Lombardy.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.public.md) 
+### [Lombardy](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.md) 
 
-### [Lombardy.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.internal.md) 
+### [Lombardy.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.public.md) 
 
-### [Lombardy.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.protect.md) 
+### [Lombardy.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.internal.md) 
 
-### [Lombardy.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.private.md) 
+### [Lombardy.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.protect.md) 
 
-### [Lombardy.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.personal.md) 
+### [Lombardy.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.private.md) 
 
-### [Lombardy.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLombardy.secret.md)
+### [Lombardy.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.personal.md) 
+
+### [Lombardy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy.secret.md)
 

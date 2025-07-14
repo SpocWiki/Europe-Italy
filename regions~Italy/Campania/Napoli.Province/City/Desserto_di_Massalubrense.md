@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Desserto_di_Massalubrense.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.public.md) 
+### [Desserto_di_Massalubrense](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.md) 
 
-### [Desserto_di_Massalubrense.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.internal.md) 
+### [Desserto_di_Massalubrense.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.public.md) 
 
-### [Desserto_di_Massalubrense.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.protect.md) 
+### [Desserto_di_Massalubrense.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.internal.md) 
 
-### [Desserto_di_Massalubrense.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.private.md) 
+### [Desserto_di_Massalubrense.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.protect.md) 
 
-### [Desserto_di_Massalubrense.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.personal.md) 
+### [Desserto_di_Massalubrense.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.private.md) 
 
-### [Desserto_di_Massalubrense.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityDesserto_di_Massalubrense.secret.md)
+### [Desserto_di_Massalubrense.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.personal.md) 
+
+### [Desserto_di_Massalubrense.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monvalvo_Irpinio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.public.md) 
+### [Monvalvo_Irpinio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.md) 
 
-### [Monvalvo_Irpinio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.internal.md) 
+### [Monvalvo_Irpinio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.public.md) 
 
-### [Monvalvo_Irpinio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.protect.md) 
+### [Monvalvo_Irpinio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.internal.md) 
 
-### [Monvalvo_Irpinio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.private.md) 
+### [Monvalvo_Irpinio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.protect.md) 
 
-### [Monvalvo_Irpinio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.personal.md) 
+### [Monvalvo_Irpinio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.private.md) 
 
-### [Monvalvo_Irpinio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMonvalvo_Irpinio.secret.md)
+### [Monvalvo_Irpinio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.personal.md) 
+
+### [Monvalvo_Irpinio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.secret.md)
 

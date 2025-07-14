@@ -41,15 +41,17 @@ markerFolder: ./Caltanissetta/
 
 ## Confidential Links & Embeds: 
 
-### [Caltanissetta.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.public.md) 
+### [Caltanissetta.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.md) 
 
-### [Caltanissetta.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.internal.md) 
+### [Caltanissetta.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.public.md) 
 
-### [Caltanissetta.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.protect.md) 
+### [Caltanissetta.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.internal.md) 
 
-### [Caltanissetta.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.private.md) 
+### [Caltanissetta.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.protect.md) 
 
-### [Caltanissetta.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.personal.md) 
+### [Caltanissetta.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.private.md) 
 
-### [Caltanissetta.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilyCaltanissetta.Province.secret.md)
+### [Caltanissetta.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.personal.md) 
+
+### [Caltanissetta.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.secret.md)
 

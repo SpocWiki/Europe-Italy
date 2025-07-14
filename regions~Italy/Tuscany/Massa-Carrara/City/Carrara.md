@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carrara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.public.md) 
+### [Carrara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.md) 
 
-### [Carrara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.internal.md) 
+### [Carrara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.public.md) 
 
-### [Carrara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.protect.md) 
+### [Carrara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.internal.md) 
 
-### [Carrara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.private.md) 
+### [Carrara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.protect.md) 
 
-### [Carrara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.personal.md) 
+### [Carrara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.private.md) 
 
-### [Carrara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Massa-Carrara\CityCarrara.secret.md)
+### [Carrara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.personal.md) 
+
+### [Carrara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara/City/Carrara.secret.md)
 

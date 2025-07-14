@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Remo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.public.md) 
+### [San_Remo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.md) 
 
-### [San_Remo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.internal.md) 
+### [San_Remo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.public.md) 
 
-### [San_Remo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.protect.md) 
+### [San_Remo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.internal.md) 
 
-### [San_Remo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.private.md) 
+### [San_Remo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.protect.md) 
 
-### [San_Remo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.personal.md) 
+### [San_Remo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.private.md) 
 
-### [San_Remo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Liguria\Imperia.Province\CitySan_Remo.secret.md)
+### [San_Remo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.personal.md) 
+
+### [San_Remo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.secret.md)
 

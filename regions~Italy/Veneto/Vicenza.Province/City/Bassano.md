@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bassano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.public.md) 
+### [Bassano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.md) 
 
-### [Bassano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.internal.md) 
+### [Bassano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.public.md) 
 
-### [Bassano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.protect.md) 
+### [Bassano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.internal.md) 
 
-### [Bassano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.private.md) 
+### [Bassano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.protect.md) 
 
-### [Bassano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.personal.md) 
+### [Bassano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.private.md) 
 
-### [Bassano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Vicenza.Province\CityBassano.secret.md)
+### [Bassano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.personal.md) 
+
+### [Bassano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Bassano.secret.md)
 

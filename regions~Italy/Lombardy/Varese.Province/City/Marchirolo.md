@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marchirolo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.public.md) 
+### [Marchirolo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.md) 
 
-### [Marchirolo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.internal.md) 
+### [Marchirolo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.public.md) 
 
-### [Marchirolo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.protect.md) 
+### [Marchirolo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.internal.md) 
 
-### [Marchirolo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.private.md) 
+### [Marchirolo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.protect.md) 
 
-### [Marchirolo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.personal.md) 
+### [Marchirolo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.private.md) 
 
-### [Marchirolo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityMarchirolo.secret.md)
+### [Marchirolo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.personal.md) 
+
+### [Marchirolo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.secret.md)
 

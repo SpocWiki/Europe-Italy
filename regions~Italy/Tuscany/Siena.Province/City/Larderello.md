@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Larderello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.public.md) 
+### [Larderello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.md) 
 
-### [Larderello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.internal.md) 
+### [Larderello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.public.md) 
 
-### [Larderello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.protect.md) 
+### [Larderello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.internal.md) 
 
-### [Larderello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.private.md) 
+### [Larderello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.protect.md) 
 
-### [Larderello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.personal.md) 
+### [Larderello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.private.md) 
 
-### [Larderello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityLarderello.secret.md)
+### [Larderello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.personal.md) 
+
+### [Larderello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontedera.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.public.md) 
+### [Pontedera](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.md) 
 
-### [Pontedera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.internal.md) 
+### [Pontedera.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.public.md) 
 
-### [Pontedera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.protect.md) 
+### [Pontedera.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.internal.md) 
 
-### [Pontedera.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.private.md) 
+### [Pontedera.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.protect.md) 
 
-### [Pontedera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.personal.md) 
+### [Pontedera.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.private.md) 
 
-### [Pontedera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPontedera.secret.md)
+### [Pontedera.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.personal.md) 
+
+### [Pontedera.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ravenna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.public.md) 
+### [Ravenna](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.md) 
 
-### [Ravenna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.internal.md) 
+### [Ravenna.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.public.md) 
 
-### [Ravenna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.protect.md) 
+### [Ravenna.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.internal.md) 
 
-### [Ravenna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.private.md) 
+### [Ravenna.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.protect.md) 
 
-### [Ravenna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.personal.md) 
+### [Ravenna.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.private.md) 
 
-### [Ravenna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Ravenna.Province\CityRavenna.secret.md)
+### [Ravenna.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.personal.md) 
+
+### [Ravenna.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Ravenna.secret.md)
 

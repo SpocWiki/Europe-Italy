@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barletta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.public.md) 
+### [Barletta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.md) 
 
-### [Barletta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.internal.md) 
+### [Barletta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.public.md) 
 
-### [Barletta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.protect.md) 
+### [Barletta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.internal.md) 
 
-### [Barletta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.private.md) 
+### [Barletta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.protect.md) 
 
-### [Barletta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.personal.md) 
+### [Barletta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.private.md) 
 
-### [Barletta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Foggia\CityBarletta.secret.md)
+### [Barletta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.personal.md) 
+
+### [Barletta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.secret.md)
 

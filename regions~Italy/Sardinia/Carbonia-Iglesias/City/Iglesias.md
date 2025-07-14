@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Iglesias.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.public.md) 
+### [Iglesias](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.md) 
 
-### [Iglesias.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.internal.md) 
+### [Iglesias.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.public.md) 
 
-### [Iglesias.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.protect.md) 
+### [Iglesias.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.internal.md) 
 
-### [Iglesias.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.private.md) 
+### [Iglesias.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.protect.md) 
 
-### [Iglesias.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.personal.md) 
+### [Iglesias.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.private.md) 
 
-### [Iglesias.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Carbonia-Iglesias\CityIglesias.secret.md)
+### [Iglesias.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.personal.md) 
+
+### [Iglesias.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Iglesias.secret.md)
 

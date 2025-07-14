@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jesi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.public.md) 
+### [Jesi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.md) 
 
-### [Jesi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.internal.md) 
+### [Jesi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.public.md) 
 
-### [Jesi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.protect.md) 
+### [Jesi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.internal.md) 
 
-### [Jesi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.private.md) 
+### [Jesi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.protect.md) 
 
-### [Jesi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.personal.md) 
+### [Jesi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.private.md) 
 
-### [Jesi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ancona.Province\CityJesi.secret.md)
+### [Jesi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.personal.md) 
+
+### [Jesi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Jesi.secret.md)
 

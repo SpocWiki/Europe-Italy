@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finale_Emilia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.public.md) 
+### [Finale_Emilia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.md) 
 
-### [Finale_Emilia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.internal.md) 
+### [Finale_Emilia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.public.md) 
 
-### [Finale_Emilia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.protect.md) 
+### [Finale_Emilia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.internal.md) 
 
-### [Finale_Emilia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.private.md) 
+### [Finale_Emilia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.protect.md) 
 
-### [Finale_Emilia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.personal.md) 
+### [Finale_Emilia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.private.md) 
 
-### [Finale_Emilia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityFinale_Emilia.secret.md)
+### [Finale_Emilia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.personal.md) 
+
+### [Finale_Emilia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Finale_Emilia.secret.md)
 

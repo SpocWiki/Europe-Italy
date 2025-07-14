@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varallo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.public.md) 
+### [Varallo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.md) 
 
-### [Varallo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.internal.md) 
+### [Varallo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.public.md) 
 
-### [Varallo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.protect.md) 
+### [Varallo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.internal.md) 
 
-### [Varallo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.private.md) 
+### [Varallo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.protect.md) 
 
-### [Varallo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.personal.md) 
+### [Varallo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.private.md) 
 
-### [Varallo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Vercelli\CityVarallo.secret.md)
+### [Varallo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.personal.md) 
+
+### [Varallo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli/City/Varallo.secret.md)
 

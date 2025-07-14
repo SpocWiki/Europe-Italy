@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cervittela.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.public.md) 
+### [Cervittela](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.md) 
 
-### [Cervittela.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.internal.md) 
+### [Cervittela.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.public.md) 
 
-### [Cervittela.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.protect.md) 
+### [Cervittela.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.internal.md) 
 
-### [Cervittela.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.private.md) 
+### [Cervittela.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.protect.md) 
 
-### [Cervittela.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.personal.md) 
+### [Cervittela.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.private.md) 
 
-### [Cervittela.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Forlì-Cesena\CityCervittela.secret.md)
+### [Cervittela.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.personal.md) 
+
+### [Cervittela.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena/City/Cervittela.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caltanisetta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.public.md) 
+### [Caltanisetta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.md) 
 
-### [Caltanisetta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.internal.md) 
+### [Caltanisetta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.public.md) 
 
-### [Caltanisetta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.protect.md) 
+### [Caltanisetta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.internal.md) 
 
-### [Caltanisetta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.private.md) 
+### [Caltanisetta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.protect.md) 
 
-### [Caltanisetta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.personal.md) 
+### [Caltanisetta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.private.md) 
 
-### [Caltanisetta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCaltanisetta.secret.md)
+### [Caltanisetta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.personal.md) 
+
+### [Caltanisetta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.secret.md)
 

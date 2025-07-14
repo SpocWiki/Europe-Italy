@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paullo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.public.md) 
+### [Paullo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.md) 
 
-### [Paullo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.internal.md) 
+### [Paullo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.public.md) 
 
-### [Paullo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.protect.md) 
+### [Paullo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.internal.md) 
 
-### [Paullo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.private.md) 
+### [Paullo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.protect.md) 
 
-### [Paullo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.personal.md) 
+### [Paullo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.private.md) 
 
-### [Paullo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CityPaullo.secret.md)
+### [Paullo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.personal.md) 
+
+### [Paullo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Paullo.secret.md)
 

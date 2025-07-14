@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vizzola_Ticino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.public.md) 
+### [Vizzola_Ticino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.md) 
 
-### [Vizzola_Ticino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.internal.md) 
+### [Vizzola_Ticino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.public.md) 
 
-### [Vizzola_Ticino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.protect.md) 
+### [Vizzola_Ticino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.internal.md) 
 
-### [Vizzola_Ticino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.private.md) 
+### [Vizzola_Ticino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.protect.md) 
 
-### [Vizzola_Ticino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.personal.md) 
+### [Vizzola_Ticino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.private.md) 
 
-### [Vizzola_Ticino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVizzola_Ticino.secret.md)
+### [Vizzola_Ticino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.personal.md) 
+
+### [Vizzola_Ticino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Vizzola_Ticino.secret.md)
 

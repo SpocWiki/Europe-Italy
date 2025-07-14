@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ascoli_Piceno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.public.md) 
+### [Ascoli_Piceno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.md) 
 
-### [Ascoli_Piceno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.internal.md) 
+### [Ascoli_Piceno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.public.md) 
 
-### [Ascoli_Piceno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.protect.md) 
+### [Ascoli_Piceno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.internal.md) 
 
-### [Ascoli_Piceno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.private.md) 
+### [Ascoli_Piceno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.protect.md) 
 
-### [Ascoli_Piceno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.personal.md) 
+### [Ascoli_Piceno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.private.md) 
 
-### [Ascoli_Piceno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityAscoli_Piceno.secret.md)
+### [Ascoli_Piceno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.personal.md) 
+
+### [Ascoli_Piceno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.secret.md)
 

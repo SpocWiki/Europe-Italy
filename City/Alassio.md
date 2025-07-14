@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alassio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.public.md) 
+### [Alassio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.md) 
 
-### [Alassio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.internal.md) 
+### [Alassio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.public.md) 
 
-### [Alassio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.protect.md) 
+### [Alassio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.internal.md) 
 
-### [Alassio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.private.md) 
+### [Alassio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.protect.md) 
 
-### [Alassio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.personal.md) 
+### [Alassio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.private.md) 
 
-### [Alassio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlassio.secret.md)
+### [Alassio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.personal.md) 
+
+### [Alassio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.secret.md)
 

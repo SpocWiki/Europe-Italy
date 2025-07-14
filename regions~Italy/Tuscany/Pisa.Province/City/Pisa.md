@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pisa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.public.md) 
+### [Pisa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.md) 
 
-### [Pisa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.internal.md) 
+### [Pisa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.public.md) 
 
-### [Pisa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.protect.md) 
+### [Pisa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.internal.md) 
 
-### [Pisa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.private.md) 
+### [Pisa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.protect.md) 
 
-### [Pisa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.personal.md) 
+### [Pisa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.private.md) 
 
-### [Pisa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pisa.Province\CityPisa.secret.md)
+### [Pisa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.personal.md) 
+
+### [Pisa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pisa.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cuneo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.public.md) 
+### [Cuneo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.md) 
 
-### [Cuneo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.internal.md) 
+### [Cuneo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.public.md) 
 
-### [Cuneo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.protect.md) 
+### [Cuneo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.internal.md) 
 
-### [Cuneo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.private.md) 
+### [Cuneo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.protect.md) 
 
-### [Cuneo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.personal.md) 
+### [Cuneo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.private.md) 
 
-### [Cuneo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Cuneo.Province\CityCuneo.secret.md)
+### [Cuneo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.personal.md) 
+
+### [Cuneo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Cuneo.secret.md)
 

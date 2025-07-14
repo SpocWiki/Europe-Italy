@@ -41,15 +41,17 @@ markerFolder: ./Terni.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Terni.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.public.md) 
+### [Terni.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.md) 
 
-### [Terni.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.internal.md) 
+### [Terni.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.public.md) 
 
-### [Terni.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.protect.md) 
+### [Terni.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.internal.md) 
 
-### [Terni.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.private.md) 
+### [Terni.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.protect.md) 
 
-### [Terni.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.personal.md) 
+### [Terni.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.private.md) 
 
-### [Terni.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\UmbriaTerni.Province.secret.md)
+### [Terni.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.personal.md) 
+
+### [Terni.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.secret.md)
 

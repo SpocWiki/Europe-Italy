@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbiategrosso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.public.md) 
+### [Abbiategrosso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.md) 
 
-### [Abbiategrosso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.internal.md) 
+### [Abbiategrosso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.public.md) 
 
-### [Abbiategrosso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.protect.md) 
+### [Abbiategrosso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.internal.md) 
 
-### [Abbiategrosso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.private.md) 
+### [Abbiategrosso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.protect.md) 
 
-### [Abbiategrosso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.personal.md) 
+### [Abbiategrosso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.private.md) 
 
-### [Abbiategrosso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityAbbiategrosso.secret.md)
+### [Abbiategrosso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.personal.md) 
+
+### [Abbiategrosso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Abbiategrosso.secret.md)
 

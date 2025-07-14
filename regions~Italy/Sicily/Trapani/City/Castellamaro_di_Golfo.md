@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castellamaro_di_Golfo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.public.md) 
+### [Castellamaro_di_Golfo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.md) 
 
-### [Castellamaro_di_Golfo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.internal.md) 
+### [Castellamaro_di_Golfo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.public.md) 
 
-### [Castellamaro_di_Golfo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.protect.md) 
+### [Castellamaro_di_Golfo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.internal.md) 
 
-### [Castellamaro_di_Golfo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.private.md) 
+### [Castellamaro_di_Golfo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.protect.md) 
 
-### [Castellamaro_di_Golfo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.personal.md) 
+### [Castellamaro_di_Golfo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.private.md) 
 
-### [Castellamaro_di_Golfo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityCastellamaro_di_Golfo.secret.md)
+### [Castellamaro_di_Golfo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.personal.md) 
+
+### [Castellamaro_di_Golfo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Castellamaro_di_Golfo.secret.md)
 

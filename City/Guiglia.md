@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guiglia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.public.md) 
+### [Guiglia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.md) 
 
-### [Guiglia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.internal.md) 
+### [Guiglia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.public.md) 
 
-### [Guiglia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.protect.md) 
+### [Guiglia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.internal.md) 
 
-### [Guiglia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.private.md) 
+### [Guiglia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.protect.md) 
 
-### [Guiglia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.personal.md) 
+### [Guiglia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.private.md) 
 
-### [Guiglia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityGuiglia.secret.md)
+### [Guiglia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.personal.md) 
+
+### [Guiglia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.secret.md)
 

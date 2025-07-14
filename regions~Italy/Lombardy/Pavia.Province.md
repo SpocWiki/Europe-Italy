@@ -41,15 +41,17 @@ markerFolder: ./Pavia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pavia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.public.md) 
+### [Pavia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.md) 
 
-### [Pavia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.internal.md) 
+### [Pavia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.public.md) 
 
-### [Pavia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.protect.md) 
+### [Pavia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.internal.md) 
 
-### [Pavia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.private.md) 
+### [Pavia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.protect.md) 
 
-### [Pavia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.personal.md) 
+### [Pavia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.private.md) 
 
-### [Pavia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyPavia.Province.secret.md)
+### [Pavia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.personal.md) 
+
+### [Pavia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province.secret.md)
 

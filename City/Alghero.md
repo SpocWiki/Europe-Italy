@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alghero.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.public.md) 
+### [Alghero](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.md) 
 
-### [Alghero.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.internal.md) 
+### [Alghero.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.public.md) 
 
-### [Alghero.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.protect.md) 
+### [Alghero.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.internal.md) 
 
-### [Alghero.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.private.md) 
+### [Alghero.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.protect.md) 
 
-### [Alghero.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.personal.md) 
+### [Alghero.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.private.md) 
 
-### [Alghero.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlghero.secret.md)
+### [Alghero.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.personal.md) 
+
+### [Alghero.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.secret.md)
 

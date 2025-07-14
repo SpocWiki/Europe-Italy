@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fasano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.public.md) 
+### [Fasano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.md) 
 
-### [Fasano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.internal.md) 
+### [Fasano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.public.md) 
 
-### [Fasano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.protect.md) 
+### [Fasano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.internal.md) 
 
-### [Fasano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.private.md) 
+### [Fasano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.protect.md) 
 
-### [Fasano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.personal.md) 
+### [Fasano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.private.md) 
 
-### [Fasano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Brindisi.Province\CityFasano.secret.md)
+### [Fasano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.personal.md) 
+
+### [Fasano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Fasano.secret.md)
 

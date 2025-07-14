@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Subiaco~Abruzzen.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.public.md) 
+### [Subiaco~Abruzzen](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.md) 
 
-### [Subiaco~Abruzzen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.internal.md) 
+### [Subiaco~Abruzzen.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.public.md) 
 
-### [Subiaco~Abruzzen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.protect.md) 
+### [Subiaco~Abruzzen.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.internal.md) 
 
-### [Subiaco~Abruzzen.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.private.md) 
+### [Subiaco~Abruzzen.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.protect.md) 
 
-### [Subiaco~Abruzzen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.personal.md) 
+### [Subiaco~Abruzzen.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.private.md) 
 
-### [Subiaco~Abruzzen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CitySubiaco~Abruzzen.secret.md)
+### [Subiaco~Abruzzen.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.personal.md) 
+
+### [Subiaco~Abruzzen.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco~Abruzzen.secret.md)
 

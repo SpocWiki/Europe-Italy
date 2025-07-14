@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Taormina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.public.md) 
+### [Taormina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.md) 
 
-### [Taormina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.internal.md) 
+### [Taormina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.public.md) 
 
-### [Taormina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.protect.md) 
+### [Taormina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.internal.md) 
 
-### [Taormina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.private.md) 
+### [Taormina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.protect.md) 
 
-### [Taormina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.personal.md) 
+### [Taormina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.private.md) 
 
-### [Taormina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTaormina.secret.md)
+### [Taormina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.personal.md) 
+
+### [Taormina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Taormina.secret.md)
 

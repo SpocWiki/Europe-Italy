@@ -41,15 +41,17 @@ markerFolder: ./Barletta-Andria_Trani/
 
 ## Confidential Links & Embeds: 
 
-### [Barletta-Andria_Trani.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.public.md) 
+### [Barletta-Andria_Trani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.md) 
 
-### [Barletta-Andria_Trani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.internal.md) 
+### [Barletta-Andria_Trani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.public.md) 
 
-### [Barletta-Andria_Trani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.protect.md) 
+### [Barletta-Andria_Trani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.internal.md) 
 
-### [Barletta-Andria_Trani.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.private.md) 
+### [Barletta-Andria_Trani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.protect.md) 
 
-### [Barletta-Andria_Trani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.personal.md) 
+### [Barletta-Andria_Trani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.private.md) 
 
-### [Barletta-Andria_Trani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBarletta-Andria_Trani.secret.md)
+### [Barletta-Andria_Trani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.personal.md) 
+
+### [Barletta-Andria_Trani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.secret.md)
 

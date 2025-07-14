@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mater_domini.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.public.md) 
+### [Mater_domini](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.md) 
 
-### [Mater_domini.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.internal.md) 
+### [Mater_domini.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.public.md) 
 
-### [Mater_domini.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.protect.md) 
+### [Mater_domini.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.internal.md) 
 
-### [Mater_domini.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.private.md) 
+### [Mater_domini.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.protect.md) 
 
-### [Mater_domini.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.personal.md) 
+### [Mater_domini.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.private.md) 
 
-### [Mater_domini.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Avellino.Province\CityMater_domini.secret.md)
+### [Mater_domini.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.personal.md) 
+
+### [Mater_domini.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.secret.md)
 

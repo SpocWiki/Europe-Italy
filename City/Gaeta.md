@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gaeta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.public.md) 
+### [Gaeta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.md) 
 
-### [Gaeta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.internal.md) 
+### [Gaeta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.public.md) 
 
-### [Gaeta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.protect.md) 
+### [Gaeta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.internal.md) 
 
-### [Gaeta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.private.md) 
+### [Gaeta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.protect.md) 
 
-### [Gaeta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.personal.md) 
+### [Gaeta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.private.md) 
 
-### [Gaeta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityGaeta.secret.md)
+### [Gaeta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.personal.md) 
+
+### [Gaeta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Gaeta.secret.md)
 

@@ -9,18 +9,19 @@ markerFolder: ./Marche//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Marche.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.public.md) 
+### [Marche](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.md) 
 
-### [Marche.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.internal.md) 
+### [Marche.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.public.md) 
 
-### [Marche.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.protect.md) 
+### [Marche.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.internal.md) 
 
-### [Marche.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.private.md) 
+### [Marche.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.protect.md) 
 
-### [Marche.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.personal.md) 
+### [Marche.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.private.md) 
 
-### [Marche.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyMarche.secret.md)
+### [Marche.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.personal.md) 
+
+### [Marche.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.secret.md)
 

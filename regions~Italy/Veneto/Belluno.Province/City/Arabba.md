@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arabba.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.public.md) 
+### [Arabba](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.md) 
 
-### [Arabba.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.internal.md) 
+### [Arabba.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.public.md) 
 
-### [Arabba.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.protect.md) 
+### [Arabba.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.internal.md) 
 
-### [Arabba.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.private.md) 
+### [Arabba.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.protect.md) 
 
-### [Arabba.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.personal.md) 
+### [Arabba.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.private.md) 
 
-### [Arabba.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Belluno.Province\CityArabba.secret.md)
+### [Arabba.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.personal.md) 
+
+### [Arabba.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.secret.md)
 

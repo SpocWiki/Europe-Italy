@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Presa_Ticino.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.public.md) 
+### [Presa_Ticino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.md) 
 
-### [Presa_Ticino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.internal.md) 
+### [Presa_Ticino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.public.md) 
 
-### [Presa_Ticino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.protect.md) 
+### [Presa_Ticino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.internal.md) 
 
-### [Presa_Ticino.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.private.md) 
+### [Presa_Ticino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.protect.md) 
 
-### [Presa_Ticino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.personal.md) 
+### [Presa_Ticino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.private.md) 
 
-### [Presa_Ticino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityPresa_Ticino.secret.md)
+### [Presa_Ticino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.personal.md) 
+
+### [Presa_Ticino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.secret.md)
 

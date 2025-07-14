@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Casteinuova_Monti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.public.md) 
+### [Casteinuova_Monti](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.md) 
 
-### [Casteinuova_Monti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.internal.md) 
+### [Casteinuova_Monti.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.public.md) 
 
-### [Casteinuova_Monti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.protect.md) 
+### [Casteinuova_Monti.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.internal.md) 
 
-### [Casteinuova_Monti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.private.md) 
+### [Casteinuova_Monti.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.protect.md) 
 
-### [Casteinuova_Monti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.personal.md) 
+### [Casteinuova_Monti.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.private.md) 
 
-### [Casteinuova_Monti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Reggio_Emilia.Province\CityCasteinuova_Monti.secret.md)
+### [Casteinuova_Monti.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.personal.md) 
+
+### [Casteinuova_Monti.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Casteinuova_Monti.secret.md)
 

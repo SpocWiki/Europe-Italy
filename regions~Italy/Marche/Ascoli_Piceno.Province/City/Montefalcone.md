@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montefalcone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.public.md) 
+### [Montefalcone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.md) 
 
-### [Montefalcone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.internal.md) 
+### [Montefalcone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.public.md) 
 
-### [Montefalcone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.protect.md) 
+### [Montefalcone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.internal.md) 
 
-### [Montefalcone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.private.md) 
+### [Montefalcone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.protect.md) 
 
-### [Montefalcone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.personal.md) 
+### [Montefalcone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.private.md) 
 
-### [Montefalcone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Ascoli_Piceno.Province\CityMontefalcone.secret.md)
+### [Montefalcone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.personal.md) 
+
+### [Montefalcone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Montefalcone.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Albese.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.public.md) 
+### [Albese](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.md) 
 
-### [Albese.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.internal.md) 
+### [Albese.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.public.md) 
 
-### [Albese.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.protect.md) 
+### [Albese.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.internal.md) 
 
-### [Albese.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.private.md) 
+### [Albese.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.protect.md) 
 
-### [Albese.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.personal.md) 
+### [Albese.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.private.md) 
 
-### [Albese.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Milano.Province\CityAlbese.secret.md)
+### [Albese.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.personal.md) 
+
+### [Albese.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Albese.secret.md)
 

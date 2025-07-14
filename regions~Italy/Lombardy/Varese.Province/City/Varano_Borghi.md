@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varano_Borghi.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.public.md) 
+### [Varano_Borghi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.md) 
 
-### [Varano_Borghi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.internal.md) 
+### [Varano_Borghi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.public.md) 
 
-### [Varano_Borghi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.protect.md) 
+### [Varano_Borghi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.internal.md) 
 
-### [Varano_Borghi.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.private.md) 
+### [Varano_Borghi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.protect.md) 
 
-### [Varano_Borghi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.personal.md) 
+### [Varano_Borghi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.private.md) 
 
-### [Varano_Borghi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CityVarano_Borghi.secret.md)
+### [Varano_Borghi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.personal.md) 
+
+### [Varano_Borghi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varano_Borghi.secret.md)
 

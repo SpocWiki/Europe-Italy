@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Generoso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.public.md) 
+### [Monte_Generoso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.md) 
 
-### [Monte_Generoso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.internal.md) 
+### [Monte_Generoso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.public.md) 
 
-### [Monte_Generoso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.protect.md) 
+### [Monte_Generoso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.internal.md) 
 
-### [Monte_Generoso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.private.md) 
+### [Monte_Generoso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.protect.md) 
 
-### [Monte_Generoso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.personal.md) 
+### [Monte_Generoso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.private.md) 
 
-### [Monte_Generoso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Como\CityMonte_Generoso.secret.md)
+### [Monte_Generoso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.personal.md) 
+
+### [Monte_Generoso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Monte_Generoso.secret.md)
 

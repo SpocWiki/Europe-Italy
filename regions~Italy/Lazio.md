@@ -9,18 +9,19 @@ markerFolder: ./Lazio//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lazio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.public.md) 
+### [Lazio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.md) 
 
-### [Lazio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.internal.md) 
+### [Lazio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.public.md) 
 
-### [Lazio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.protect.md) 
+### [Lazio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.internal.md) 
 
-### [Lazio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.private.md) 
+### [Lazio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.protect.md) 
 
-### [Lazio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.personal.md) 
+### [Lazio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.private.md) 
 
-### [Lazio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLazio.secret.md)
+### [Lazio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.personal.md) 
+
+### [Lazio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.secret.md)
 

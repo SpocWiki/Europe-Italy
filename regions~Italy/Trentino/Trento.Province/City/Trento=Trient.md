@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trento=Trient.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.public.md) 
+### [Trento=Trient](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.md) 
 
-### [Trento=Trient.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.internal.md) 
+### [Trento=Trient.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.public.md) 
 
-### [Trento=Trient.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.protect.md) 
+### [Trento=Trient.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.internal.md) 
 
-### [Trento=Trient.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.private.md) 
+### [Trento=Trient.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.protect.md) 
 
-### [Trento=Trient.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.personal.md) 
+### [Trento=Trient.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.private.md) 
 
-### [Trento=Trient.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Trentino\Trento.Province\CityTrento=Trient.secret.md)
+### [Trento=Trient.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.personal.md) 
+
+### [Trento=Trient.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.secret.md)
 

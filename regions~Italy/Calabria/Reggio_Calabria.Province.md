@@ -41,15 +41,17 @@ markerFolder: ./Reggio_Calabria.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Reggio_Calabria.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.public.md) 
+### [Reggio_Calabria.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.md) 
 
-### [Reggio_Calabria.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.internal.md) 
+### [Reggio_Calabria.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.public.md) 
 
-### [Reggio_Calabria.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.protect.md) 
+### [Reggio_Calabria.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.internal.md) 
 
-### [Reggio_Calabria.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.private.md) 
+### [Reggio_Calabria.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.protect.md) 
 
-### [Reggio_Calabria.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.personal.md) 
+### [Reggio_Calabria.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.private.md) 
 
-### [Reggio_Calabria.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaReggio_Calabria.Province.secret.md)
+### [Reggio_Calabria.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.personal.md) 
+
+### [Reggio_Calabria.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.secret.md)
 

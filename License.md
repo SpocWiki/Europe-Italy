@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\ItalyLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Italy/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\ItalyLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Italy/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\ItalyLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\ItalyLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\ItalyLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Italy/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\ItalyLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/License.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elena.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.public.md) 
+### [Elena](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.md) 
 
-### [Elena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.internal.md) 
+### [Elena.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.public.md) 
 
-### [Elena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.protect.md) 
+### [Elena.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.internal.md) 
 
-### [Elena.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.private.md) 
+### [Elena.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.protect.md) 
 
-### [Elena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.personal.md) 
+### [Elena.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.private.md) 
 
-### [Elena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityElena.secret.md)
+### [Elena.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.personal.md) 
+
+### [Elena.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Elena.secret.md)
 

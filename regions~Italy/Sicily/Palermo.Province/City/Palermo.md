@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palermo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.public.md) 
+### [Palermo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.md) 
 
-### [Palermo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.internal.md) 
+### [Palermo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.public.md) 
 
-### [Palermo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.protect.md) 
+### [Palermo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.internal.md) 
 
-### [Palermo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.private.md) 
+### [Palermo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.protect.md) 
 
-### [Palermo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.personal.md) 
+### [Palermo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.private.md) 
 
-### [Palermo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Palermo.Province\CityPalermo.secret.md)
+### [Palermo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.personal.md) 
+
+### [Palermo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo.secret.md)
 

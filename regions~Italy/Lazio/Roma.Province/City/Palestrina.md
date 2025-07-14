@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palestrina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.public.md) 
+### [Palestrina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.md) 
 
-### [Palestrina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.internal.md) 
+### [Palestrina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.public.md) 
 
-### [Palestrina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.protect.md) 
+### [Palestrina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.internal.md) 
 
-### [Palestrina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.private.md) 
+### [Palestrina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.protect.md) 
 
-### [Palestrina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.personal.md) 
+### [Palestrina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.private.md) 
 
-### [Palestrina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Roma.Province\CityPalestrina.secret.md)
+### [Palestrina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.personal.md) 
+
+### [Palestrina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Palestrina.secret.md)
 

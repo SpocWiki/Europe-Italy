@@ -41,15 +41,17 @@ markerFolder: ./Ascoli_Piceno.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Ascoli_Piceno.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.public.md) 
+### [Ascoli_Piceno.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.md) 
 
-### [Ascoli_Piceno.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.internal.md) 
+### [Ascoli_Piceno.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.public.md) 
 
-### [Ascoli_Piceno.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.protect.md) 
+### [Ascoli_Piceno.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.internal.md) 
 
-### [Ascoli_Piceno.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.private.md) 
+### [Ascoli_Piceno.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.protect.md) 
 
-### [Ascoli_Piceno.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.personal.md) 
+### [Ascoli_Piceno.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.private.md) 
 
-### [Ascoli_Piceno.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheAscoli_Piceno.Province.secret.md)
+### [Ascoli_Piceno.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.personal.md) 
+
+### [Ascoli_Piceno.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province.secret.md)
 

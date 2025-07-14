@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crema.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.public.md) 
+### [Crema](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.md) 
 
-### [Crema.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.internal.md) 
+### [Crema.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.public.md) 
 
-### [Crema.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.protect.md) 
+### [Crema.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.internal.md) 
 
-### [Crema.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.private.md) 
+### [Crema.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.protect.md) 
 
-### [Crema.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.personal.md) 
+### [Crema.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.private.md) 
 
-### [Crema.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Cremona.Province\CityCrema.secret.md)
+### [Crema.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.personal.md) 
+
+### [Crema.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.secret.md)
 

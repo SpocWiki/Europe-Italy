@@ -41,15 +41,17 @@ markerFolder: ./Carbonia-Iglesias/
 
 ## Confidential Links & Embeds: 
 
-### [Carbonia-Iglesias.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.public.md) 
+### [Carbonia-Iglesias](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.md) 
 
-### [Carbonia-Iglesias.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.internal.md) 
+### [Carbonia-Iglesias.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.public.md) 
 
-### [Carbonia-Iglesias.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.protect.md) 
+### [Carbonia-Iglesias.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.internal.md) 
 
-### [Carbonia-Iglesias.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.private.md) 
+### [Carbonia-Iglesias.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.protect.md) 
 
-### [Carbonia-Iglesias.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.personal.md) 
+### [Carbonia-Iglesias.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.private.md) 
 
-### [Carbonia-Iglesias.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SardiniaCarbonia-Iglesias.secret.md)
+### [Carbonia-Iglesias.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.personal.md) 
+
+### [Carbonia-Iglesias.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.secret.md)
 

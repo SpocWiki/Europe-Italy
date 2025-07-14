@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Venedig=Venecia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.public.md) 
+### [Venedig=Venecia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.md) 
 
-### [Venedig=Venecia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.internal.md) 
+### [Venedig=Venecia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.public.md) 
 
-### [Venedig=Venecia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.protect.md) 
+### [Venedig=Venecia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.internal.md) 
 
-### [Venedig=Venecia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.private.md) 
+### [Venedig=Venecia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.protect.md) 
 
-### [Venedig=Venecia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.personal.md) 
+### [Venedig=Venecia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.private.md) 
 
-### [Venedig=Venecia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Venezia.Province\CityVenedig=Venecia.secret.md)
+### [Venedig=Venecia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.personal.md) 
+
+### [Venedig=Venecia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.secret.md)
 

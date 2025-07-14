@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reggio_Calabria.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.public.md) 
+### [Reggio_Calabria.City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.md) 
 
-### [Reggio_Calabria.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.internal.md) 
+### [Reggio_Calabria.City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.public.md) 
 
-### [Reggio_Calabria.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.protect.md) 
+### [Reggio_Calabria.City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.internal.md) 
 
-### [Reggio_Calabria.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.private.md) 
+### [Reggio_Calabria.City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.protect.md) 
 
-### [Reggio_Calabria.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.personal.md) 
+### [Reggio_Calabria.City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.private.md) 
 
-### [Reggio_Calabria.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Calabria\Reggio_Calabria.Province\CityReggio_Calabria.City.secret.md)
+### [Reggio_Calabria.City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.personal.md) 
+
+### [Reggio_Calabria.City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Reggio_Calabria.City.secret.md)
 

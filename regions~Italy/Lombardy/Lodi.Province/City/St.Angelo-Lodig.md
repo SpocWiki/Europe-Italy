@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Angelo-Lodig.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.public.md) 
+### [St.Angelo-Lodig](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.md) 
 
-### [St.Angelo-Lodig.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.internal.md) 
+### [St.Angelo-Lodig.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.public.md) 
 
-### [St.Angelo-Lodig.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.protect.md) 
+### [St.Angelo-Lodig.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.internal.md) 
 
-### [St.Angelo-Lodig.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.private.md) 
+### [St.Angelo-Lodig.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.protect.md) 
 
-### [St.Angelo-Lodig.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.personal.md) 
+### [St.Angelo-Lodig.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.private.md) 
 
-### [St.Angelo-Lodig.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lodi.Province\CitySt.Angelo-Lodig.secret.md)
+### [St.Angelo-Lodig.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.personal.md) 
+
+### [St.Angelo-Lodig.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.secret.md)
 

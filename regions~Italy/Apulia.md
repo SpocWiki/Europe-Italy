@@ -9,18 +9,19 @@ markerFolder: ./Apulia//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Apulia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.public.md) 
+### [Apulia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.md) 
 
-### [Apulia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.internal.md) 
+### [Apulia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.public.md) 
 
-### [Apulia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.protect.md) 
+### [Apulia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.internal.md) 
 
-### [Apulia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.private.md) 
+### [Apulia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.protect.md) 
 
-### [Apulia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.personal.md) 
+### [Apulia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.private.md) 
 
-### [Apulia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyApulia.secret.md)
+### [Apulia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.personal.md) 
+
+### [Apulia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia.secret.md)
 

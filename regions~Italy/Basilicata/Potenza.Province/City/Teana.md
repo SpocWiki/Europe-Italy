@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.public.md) 
+### [Teana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.md) 
 
-### [Teana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.internal.md) 
+### [Teana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.public.md) 
 
-### [Teana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.protect.md) 
+### [Teana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.internal.md) 
 
-### [Teana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.private.md) 
+### [Teana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.protect.md) 
 
-### [Teana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.personal.md) 
+### [Teana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.private.md) 
 
-### [Teana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Potenza.Province\CityTeana.secret.md)
+### [Teana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.personal.md) 
+
+### [Teana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Teana.secret.md)
 

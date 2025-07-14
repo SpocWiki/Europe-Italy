@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Firenze,City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.public.md) 
+### [Firenze,City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.md) 
 
-### [Firenze,City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.internal.md) 
+### [Firenze,City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.public.md) 
 
-### [Firenze,City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.protect.md) 
+### [Firenze,City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.internal.md) 
 
-### [Firenze,City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.private.md) 
+### [Firenze,City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.protect.md) 
 
-### [Firenze,City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.personal.md) 
+### [Firenze,City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.private.md) 
 
-### [Firenze,City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CityFirenze,City.secret.md)
+### [Firenze,City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.personal.md) 
+
+### [Firenze,City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City.secret.md)
 

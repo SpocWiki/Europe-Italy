@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Campobello_Ravanusa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.public.md) 
+### [Campobello_Ravanusa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.md) 
 
-### [Campobello_Ravanusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.internal.md) 
+### [Campobello_Ravanusa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.public.md) 
 
-### [Campobello_Ravanusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.protect.md) 
+### [Campobello_Ravanusa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.internal.md) 
 
-### [Campobello_Ravanusa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.private.md) 
+### [Campobello_Ravanusa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.protect.md) 
 
-### [Campobello_Ravanusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.personal.md) 
+### [Campobello_Ravanusa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.private.md) 
 
-### [Campobello_Ravanusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Caltanissetta.Province\CityCampobello_Ravanusa.secret.md)
+### [Campobello_Ravanusa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.personal.md) 
+
+### [Campobello_Ravanusa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Talamone.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.public.md) 
+### [Talamone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.md) 
 
-### [Talamone.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.internal.md) 
+### [Talamone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.public.md) 
 
-### [Talamone.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.protect.md) 
+### [Talamone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.internal.md) 
 
-### [Talamone.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.private.md) 
+### [Talamone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.protect.md) 
 
-### [Talamone.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.personal.md) 
+### [Talamone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.private.md) 
 
-### [Talamone.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTalamone.secret.md)
+### [Talamone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.personal.md) 
+
+### [Talamone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Talamone.secret.md)
 

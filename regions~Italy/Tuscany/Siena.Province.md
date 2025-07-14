@@ -41,15 +41,17 @@ markerFolder: ./Siena.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Siena.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.public.md) 
+### [Siena.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.md) 
 
-### [Siena.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.internal.md) 
+### [Siena.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.public.md) 
 
-### [Siena.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.protect.md) 
+### [Siena.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.internal.md) 
 
-### [Siena.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.private.md) 
+### [Siena.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.protect.md) 
 
-### [Siena.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.personal.md) 
+### [Siena.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.private.md) 
 
-### [Siena.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanySiena.Province.secret.md)
+### [Siena.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.personal.md) 
+
+### [Siena.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.secret.md)
 

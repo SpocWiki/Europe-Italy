@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Madonna_a_Brogli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.public.md) 
+### [Madonna_a_Brogli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.md) 
 
-### [Madonna_a_Brogli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.internal.md) 
+### [Madonna_a_Brogli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.public.md) 
 
-### [Madonna_a_Brogli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.protect.md) 
+### [Madonna_a_Brogli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.internal.md) 
 
-### [Madonna_a_Brogli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.private.md) 
+### [Madonna_a_Brogli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.protect.md) 
 
-### [Madonna_a_Brogli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.personal.md) 
+### [Madonna_a_Brogli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.private.md) 
 
-### [Madonna_a_Brogli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Siena.Province\CityMadonna_a_Brogli.secret.md)
+### [Madonna_a_Brogli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.personal.md) 
+
+### [Madonna_a_Brogli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.secret.md)
 

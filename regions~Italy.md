@@ -13,19 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20Italy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [regions~Italy.public](/_public/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.public.md) 
+### [regions~Italy](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.md) 
 
-### [regions~Italy.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.internal.md) 
+### [regions~Italy.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.public.md) 
 
-### [regions~Italy.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.protect.md) 
+### [regions~Italy.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.internal.md) 
 
-### [regions~Italy.private](/_private/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.private.md) 
+### [regions~Italy.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.protect.md) 
 
-### [regions~Italy.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.personal.md) 
+### [regions~Italy.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.private.md) 
 
-### [regions~Italy.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italyregions~Italy.secret.md)
+### [regions~Italy.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.personal.md) 
+
+### [regions~Italy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy.secret.md)
 

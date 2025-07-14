@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bagni_di_Boretta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.public.md) 
+### [Bagni_di_Boretta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.md) 
 
-### [Bagni_di_Boretta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.internal.md) 
+### [Bagni_di_Boretta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.public.md) 
 
-### [Bagni_di_Boretta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.protect.md) 
+### [Bagni_di_Boretta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.internal.md) 
 
-### [Bagni_di_Boretta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.private.md) 
+### [Bagni_di_Boretta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.protect.md) 
 
-### [Bagni_di_Boretta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.personal.md) 
+### [Bagni_di_Boretta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.private.md) 
 
-### [Bagni_di_Boretta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Modena.Province\CityBagni_di_Boretta.secret.md)
+### [Bagni_di_Boretta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.personal.md) 
+
+### [Bagni_di_Boretta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Bagni_di_Boretta.secret.md)
 

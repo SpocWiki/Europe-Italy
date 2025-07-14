@@ -41,15 +41,17 @@ markerFolder: ./Pescara/
 
 ## Confidential Links & Embeds: 
 
-### [Pescara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.public.md) 
+### [Pescara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.md) 
 
-### [Pescara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.internal.md) 
+### [Pescara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.public.md) 
 
-### [Pescara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.protect.md) 
+### [Pescara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.internal.md) 
 
-### [Pescara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.private.md) 
+### [Pescara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.protect.md) 
 
-### [Pescara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.personal.md) 
+### [Pescara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.private.md) 
 
-### [Pescara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\AbruzzoPescara.secret.md)
+### [Pescara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.personal.md) 
+
+### [Pescara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Pescara.secret.md)
 

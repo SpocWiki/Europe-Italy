@@ -41,15 +41,17 @@ markerFolder: ./Benevento.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Salerno.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.public.md) 
+### [Salerno.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.md) 
 
-### [Salerno.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.internal.md) 
+### [Salerno.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.public.md) 
 
-### [Salerno.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.protect.md) 
+### [Salerno.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.internal.md) 
 
-### [Salerno.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.private.md) 
+### [Salerno.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.protect.md) 
 
-### [Salerno.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.personal.md) 
+### [Salerno.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.private.md) 
 
-### [Salerno.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CampaniaSalerno.Province.secret.md)
+### [Salerno.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.personal.md) 
+
+### [Salerno.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province.secret.md)
 

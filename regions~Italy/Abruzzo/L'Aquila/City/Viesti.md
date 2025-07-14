@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viesti.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.public.md) 
+### [Viesti](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.md) 
 
-### [Viesti.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.internal.md) 
+### [Viesti.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.public.md) 
 
-### [Viesti.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.protect.md) 
+### [Viesti.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.internal.md) 
 
-### [Viesti.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.private.md) 
+### [Viesti.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.protect.md) 
 
-### [Viesti.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.personal.md) 
+### [Viesti.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.private.md) 
 
-### [Viesti.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Abruzzo\L'Aquila\CityViesti.secret.md)
+### [Viesti.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.personal.md) 
+
+### [Viesti.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Viesti.secret.md)
 

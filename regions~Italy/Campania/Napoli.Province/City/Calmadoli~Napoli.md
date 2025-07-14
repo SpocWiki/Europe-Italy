@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli~Napoli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.public.md) 
+### [Calmadoli~Napoli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.md) 
 
-### [Calmadoli~Napoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.internal.md) 
+### [Calmadoli~Napoli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.public.md) 
 
-### [Calmadoli~Napoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.protect.md) 
+### [Calmadoli~Napoli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.internal.md) 
 
-### [Calmadoli~Napoli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.private.md) 
+### [Calmadoli~Napoli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.protect.md) 
 
-### [Calmadoli~Napoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.personal.md) 
+### [Calmadoli~Napoli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.private.md) 
 
-### [Calmadoli~Napoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityCalmadoli~Napoli.secret.md)
+### [Calmadoli~Napoli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.personal.md) 
+
+### [Calmadoli~Napoli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Calmadoli~Napoli.secret.md)
 

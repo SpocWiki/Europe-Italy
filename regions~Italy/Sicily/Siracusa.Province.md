@@ -41,15 +41,17 @@ markerFolder: ./Siracusa/
 
 ## Confidential Links & Embeds: 
 
-### [Siracusa.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.public.md) 
+### [Siracusa.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.md) 
 
-### [Siracusa.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.internal.md) 
+### [Siracusa.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.public.md) 
 
-### [Siracusa.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.protect.md) 
+### [Siracusa.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.internal.md) 
 
-### [Siracusa.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.private.md) 
+### [Siracusa.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.protect.md) 
 
-### [Siracusa.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.personal.md) 
+### [Siracusa.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.private.md) 
 
-### [Siracusa.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\SicilySiracusa.Province.secret.md)
+### [Siracusa.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.personal.md) 
+
+### [Siracusa.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province.secret.md)
 

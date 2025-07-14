@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orbetello.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.public.md) 
+### [Orbetello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.md) 
 
-### [Orbetello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.internal.md) 
+### [Orbetello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.public.md) 
 
-### [Orbetello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.protect.md) 
+### [Orbetello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.internal.md) 
 
-### [Orbetello.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.private.md) 
+### [Orbetello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.protect.md) 
 
-### [Orbetello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.personal.md) 
+### [Orbetello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.private.md) 
 
-### [Orbetello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityOrbetello.secret.md)
+### [Orbetello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.personal.md) 
+
+### [Orbetello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Arcangelo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.public.md) 
+### [St.Arcangelo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.md) 
 
-### [St.Arcangelo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.internal.md) 
+### [St.Arcangelo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.public.md) 
 
-### [St.Arcangelo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.protect.md) 
+### [St.Arcangelo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.internal.md) 
 
-### [St.Arcangelo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.private.md) 
+### [St.Arcangelo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.protect.md) 
 
-### [St.Arcangelo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.personal.md) 
+### [St.Arcangelo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.private.md) 
 
-### [St.Arcangelo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Umbria\Perugia.Province\CitySt.Arcangelo.secret.md)
+### [St.Arcangelo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.personal.md) 
+
+### [St.Arcangelo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/St.Arcangelo.secret.md)
 

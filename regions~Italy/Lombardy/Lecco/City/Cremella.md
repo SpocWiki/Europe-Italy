@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cremella.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.public.md) 
+### [Cremella](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.md) 
 
-### [Cremella.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.internal.md) 
+### [Cremella.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.public.md) 
 
-### [Cremella.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.protect.md) 
+### [Cremella.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.internal.md) 
 
-### [Cremella.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.private.md) 
+### [Cremella.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.protect.md) 
 
-### [Cremella.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.personal.md) 
+### [Cremella.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.private.md) 
 
-### [Cremella.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Lecco\CityCremella.secret.md)
+### [Cremella.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.personal.md) 
+
+### [Cremella.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.secret.md)
 

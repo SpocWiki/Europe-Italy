@@ -47,20 +47,19 @@ markerFolder: ./Aosta//
 > [Wikipedia](https://en.wikipedia.org/wiki/Aosta%20Valley) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aosta_Valley.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.public.md) 
+### [Aosta_Valley](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.md) 
 
-### [Aosta_Valley.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.internal.md) 
+### [Aosta_Valley.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.public.md) 
 
-### [Aosta_Valley.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.protect.md) 
+### [Aosta_Valley.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.internal.md) 
 
-### [Aosta_Valley.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.private.md) 
+### [Aosta_Valley.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.protect.md) 
 
-### [Aosta_Valley.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.personal.md) 
+### [Aosta_Valley.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.private.md) 
 
-### [Aosta_Valley.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyAosta_Valley.secret.md)
+### [Aosta_Valley.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.personal.md) 
+
+### [Aosta_Valley.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley.secret.md)
 

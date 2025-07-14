@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gallipolli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.public.md) 
+### [Gallipolli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.md) 
 
-### [Gallipolli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.internal.md) 
+### [Gallipolli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.public.md) 
 
-### [Gallipolli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.protect.md) 
+### [Gallipolli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.internal.md) 
 
-### [Gallipolli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.private.md) 
+### [Gallipolli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.protect.md) 
 
-### [Gallipolli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.personal.md) 
+### [Gallipolli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.private.md) 
 
-### [Gallipolli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityGallipolli.secret.md)
+### [Gallipolli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.personal.md) 
+
+### [Gallipolli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Gallipolli.secret.md)
 

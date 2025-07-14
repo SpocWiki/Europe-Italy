@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Terricciola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.public.md) 
+### [Terricciola](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.md) 
 
-### [Terricciola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.internal.md) 
+### [Terricciola.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.public.md) 
 
-### [Terricciola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.protect.md) 
+### [Terricciola.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.internal.md) 
 
-### [Terricciola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.private.md) 
+### [Terricciola.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.protect.md) 
 
-### [Terricciola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.personal.md) 
+### [Terricciola.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.private.md) 
 
-### [Terricciola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTerricciola.secret.md)
+### [Terricciola.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.personal.md) 
+
+### [Terricciola.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Terricciola.secret.md)
 

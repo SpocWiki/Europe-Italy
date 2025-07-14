@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tortona.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.public.md) 
+### [Tortona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.md) 
 
-### [Tortona.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.internal.md) 
+### [Tortona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.public.md) 
 
-### [Tortona.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.protect.md) 
+### [Tortona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.internal.md) 
 
-### [Tortona.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.private.md) 
+### [Tortona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.protect.md) 
 
-### [Tortona.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.personal.md) 
+### [Tortona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.private.md) 
 
-### [Tortona.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityTortona.secret.md)
+### [Tortona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.personal.md) 
+
+### [Tortona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Tortona.secret.md)
 

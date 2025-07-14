@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pieve_nel_Cairolt.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.public.md) 
+### [Pieve_nel_Cairolt](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.md) 
 
-### [Pieve_nel_Cairolt.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.internal.md) 
+### [Pieve_nel_Cairolt.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.public.md) 
 
-### [Pieve_nel_Cairolt.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.protect.md) 
+### [Pieve_nel_Cairolt.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.internal.md) 
 
-### [Pieve_nel_Cairolt.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.private.md) 
+### [Pieve_nel_Cairolt.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.protect.md) 
 
-### [Pieve_nel_Cairolt.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.personal.md) 
+### [Pieve_nel_Cairolt.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.private.md) 
 
-### [Pieve_nel_Cairolt.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Pavia.Province\CityPieve_nel_Cairolt.secret.md)
+### [Pieve_nel_Cairolt.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.personal.md) 
+
+### [Pieve_nel_Cairolt.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.secret.md)
 

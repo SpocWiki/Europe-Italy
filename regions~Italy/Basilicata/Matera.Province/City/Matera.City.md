@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Matera.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.public.md) 
+### [Matera.City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.md) 
 
-### [Matera.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.internal.md) 
+### [Matera.City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.public.md) 
 
-### [Matera.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.protect.md) 
+### [Matera.City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.internal.md) 
 
-### [Matera.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.private.md) 
+### [Matera.City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.protect.md) 
 
-### [Matera.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.personal.md) 
+### [Matera.City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.private.md) 
 
-### [Matera.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityMatera.City.secret.md)
+### [Matera.City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.personal.md) 
+
+### [Matera.City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Matera.City.secret.md)
 

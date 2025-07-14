@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Anzio.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.public.md) 
+### [Anzio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.md) 
 
-### [Anzio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.internal.md) 
+### [Anzio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.public.md) 
 
-### [Anzio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.protect.md) 
+### [Anzio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.internal.md) 
 
-### [Anzio.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.private.md) 
+### [Anzio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.protect.md) 
 
-### [Anzio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.personal.md) 
+### [Anzio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.private.md) 
 
-### [Anzio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAnzio.secret.md)
+### [Anzio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.personal.md) 
+
+### [Anzio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.secret.md)
 

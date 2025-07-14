@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sostegno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.public.md) 
+### [Sostegno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.md) 
 
-### [Sostegno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.internal.md) 
+### [Sostegno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.public.md) 
 
-### [Sostegno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.protect.md) 
+### [Sostegno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.internal.md) 
 
-### [Sostegno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.private.md) 
+### [Sostegno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.protect.md) 
 
-### [Sostegno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.personal.md) 
+### [Sostegno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.private.md) 
 
-### [Sostegno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Biella.Province\CitySostegno.secret.md)
+### [Sostegno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.personal.md) 
+
+### [Sostegno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.secret.md)
 

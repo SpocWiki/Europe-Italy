@@ -41,15 +41,17 @@ markerFolder: ./Fermo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Fermo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.public.md) 
+### [Fermo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.md) 
 
-### [Fermo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.internal.md) 
+### [Fermo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.public.md) 
 
-### [Fermo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.protect.md) 
+### [Fermo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.internal.md) 
 
-### [Fermo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.private.md) 
+### [Fermo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.protect.md) 
 
-### [Fermo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.personal.md) 
+### [Fermo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.private.md) 
 
-### [Fermo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\MarcheFermo.Province.secret.md)
+### [Fermo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.personal.md) 
+
+### [Fermo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.secret.md)
 

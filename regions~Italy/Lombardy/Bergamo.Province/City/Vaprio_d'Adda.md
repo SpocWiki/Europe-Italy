@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaprio_d'Adda.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.public.md) 
+### [Vaprio_d'Adda](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.md) 
 
-### [Vaprio_d'Adda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.internal.md) 
+### [Vaprio_d'Adda.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.public.md) 
 
-### [Vaprio_d'Adda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.protect.md) 
+### [Vaprio_d'Adda.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.internal.md) 
 
-### [Vaprio_d'Adda.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.private.md) 
+### [Vaprio_d'Adda.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.protect.md) 
 
-### [Vaprio_d'Adda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.personal.md) 
+### [Vaprio_d'Adda.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.private.md) 
 
-### [Vaprio_d'Adda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Bergamo.Province\CityVaprio_d'Adda.secret.md)
+### [Vaprio_d'Adda.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.personal.md) 
+
+### [Vaprio_d'Adda.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province/City/Vaprio_d'Adda.secret.md)
 

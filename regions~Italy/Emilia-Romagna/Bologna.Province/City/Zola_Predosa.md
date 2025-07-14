@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zola_Predosa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.public.md) 
+### [Zola_Predosa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.md) 
 
-### [Zola_Predosa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.internal.md) 
+### [Zola_Predosa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.public.md) 
 
-### [Zola_Predosa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.protect.md) 
+### [Zola_Predosa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.internal.md) 
 
-### [Zola_Predosa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.private.md) 
+### [Zola_Predosa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.protect.md) 
 
-### [Zola_Predosa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.personal.md) 
+### [Zola_Predosa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.private.md) 
 
-### [Zola_Predosa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Bologna.Province\CityZola_Predosa.secret.md)
+### [Zola_Predosa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.personal.md) 
+
+### [Zola_Predosa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Zola_Predosa.secret.md)
 

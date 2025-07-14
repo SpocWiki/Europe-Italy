@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sparavalle.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.public.md) 
+### [Sparavalle](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.md) 
 
-### [Sparavalle.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.internal.md) 
+### [Sparavalle.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.public.md) 
 
-### [Sparavalle.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.protect.md) 
+### [Sparavalle.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.internal.md) 
 
-### [Sparavalle.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.private.md) 
+### [Sparavalle.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.protect.md) 
 
-### [Sparavalle.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.personal.md) 
+### [Sparavalle.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.private.md) 
 
-### [Sparavalle.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Lucca.Province\CitySparavalle.secret.md)
+### [Sparavalle.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.personal.md) 
+
+### [Sparavalle.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Sparavalle.secret.md)
 

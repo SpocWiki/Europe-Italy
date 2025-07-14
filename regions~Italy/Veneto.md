@@ -9,18 +9,19 @@ markerFolder: ./Veneto//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Veneto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.public.md) 
+### [Veneto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.md) 
 
-### [Veneto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.internal.md) 
+### [Veneto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.public.md) 
 
-### [Veneto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.protect.md) 
+### [Veneto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.internal.md) 
 
-### [Veneto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.private.md) 
+### [Veneto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.protect.md) 
 
-### [Veneto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.personal.md) 
+### [Veneto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.private.md) 
 
-### [Veneto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyVeneto.secret.md)
+### [Veneto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.personal.md) 
+
+### [Veneto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto.secret.md)
 

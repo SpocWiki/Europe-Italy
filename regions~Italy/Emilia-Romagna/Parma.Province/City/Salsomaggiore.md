@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salsomaggiore.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.public.md) 
+### [Salsomaggiore](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.md) 
 
-### [Salsomaggiore.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.internal.md) 
+### [Salsomaggiore.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.public.md) 
 
-### [Salsomaggiore.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.protect.md) 
+### [Salsomaggiore.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.internal.md) 
 
-### [Salsomaggiore.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.private.md) 
+### [Salsomaggiore.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.protect.md) 
 
-### [Salsomaggiore.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.personal.md) 
+### [Salsomaggiore.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.private.md) 
 
-### [Salsomaggiore.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CitySalsomaggiore.secret.md)
+### [Salsomaggiore.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.personal.md) 
+
+### [Salsomaggiore.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Salsomaggiore.secret.md)
 

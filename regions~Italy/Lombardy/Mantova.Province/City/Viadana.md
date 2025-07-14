@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viadana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.public.md) 
+### [Viadana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.md) 
 
-### [Viadana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.internal.md) 
+### [Viadana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.public.md) 
 
-### [Viadana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.protect.md) 
+### [Viadana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.internal.md) 
 
-### [Viadana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.private.md) 
+### [Viadana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.protect.md) 
 
-### [Viadana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.personal.md) 
+### [Viadana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.private.md) 
 
-### [Viadana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Mantova.Province\CityViadana.secret.md)
+### [Viadana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.personal.md) 
+
+### [Viadana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province/City/Viadana.secret.md)
 

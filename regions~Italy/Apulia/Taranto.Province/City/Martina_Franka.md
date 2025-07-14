@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Martina_Franka.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.public.md) 
+### [Martina_Franka](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.md) 
 
-### [Martina_Franka.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.internal.md) 
+### [Martina_Franka.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.public.md) 
 
-### [Martina_Franka.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.protect.md) 
+### [Martina_Franka.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.internal.md) 
 
-### [Martina_Franka.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.private.md) 
+### [Martina_Franka.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.protect.md) 
 
-### [Martina_Franka.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.personal.md) 
+### [Martina_Franka.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.private.md) 
 
-### [Martina_Franka.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Apulia\Taranto.Province\CityMartina_Franka.secret.md)
+### [Martina_Franka.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.personal.md) 
+
+### [Martina_Franka.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lizzano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.public.md) 
+### [Lizzano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.md) 
 
-### [Lizzano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.internal.md) 
+### [Lizzano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.public.md) 
 
-### [Lizzano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.protect.md) 
+### [Lizzano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.internal.md) 
 
-### [Lizzano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.private.md) 
+### [Lizzano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.protect.md) 
 
-### [Lizzano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.personal.md) 
+### [Lizzano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.private.md) 
 
-### [Lizzano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Basilicata\Matera.Province\CityLizzano.secret.md)
+### [Lizzano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.personal.md) 
+
+### [Lizzano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Matera.Province/City/Lizzano.secret.md)
 

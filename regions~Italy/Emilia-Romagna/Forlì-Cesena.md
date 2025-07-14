@@ -41,15 +41,17 @@ markerFolder: ./Forlì-Cesena/
 
 ## Confidential Links & Embeds: 
 
-### [Forlì-Cesena.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.public.md) 
+### [Forlì-Cesena](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.md) 
 
-### [Forlì-Cesena.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.internal.md) 
+### [Forlì-Cesena.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.public.md) 
 
-### [Forlì-Cesena.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.protect.md) 
+### [Forlì-Cesena.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.internal.md) 
 
-### [Forlì-Cesena.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.private.md) 
+### [Forlì-Cesena.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.protect.md) 
 
-### [Forlì-Cesena.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.personal.md) 
+### [Forlì-Cesena.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.private.md) 
 
-### [Forlì-Cesena.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaForlì-Cesena.secret.md)
+### [Forlì-Cesena.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.personal.md) 
+
+### [Forlì-Cesena.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.secret.md)
 

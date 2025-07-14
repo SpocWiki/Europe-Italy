@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sabbioneta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.public.md) 
+### [Sabbioneta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.md) 
 
-### [Sabbioneta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.internal.md) 
+### [Sabbioneta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.public.md) 
 
-### [Sabbioneta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.protect.md) 
+### [Sabbioneta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.internal.md) 
 
-### [Sabbioneta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.private.md) 
+### [Sabbioneta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.protect.md) 
 
-### [Sabbioneta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.personal.md) 
+### [Sabbioneta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.private.md) 
 
-### [Sabbioneta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Asti.Province\CitySabbioneta.secret.md)
+### [Sabbioneta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.personal.md) 
+
+### [Sabbioneta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province/City/Sabbioneta.secret.md)
 

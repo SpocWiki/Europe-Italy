@@ -41,15 +41,17 @@ markerFolder: ./Bari/
 
 ## Confidential Links & Embeds: 
 
-### [Bari.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.public.md) 
+### [Bari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.md) 
 
-### [Bari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.internal.md) 
+### [Bari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.public.md) 
 
-### [Bari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.protect.md) 
+### [Bari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.internal.md) 
 
-### [Bari.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.private.md) 
+### [Bari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.protect.md) 
 
-### [Bari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.personal.md) 
+### [Bari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.private.md) 
 
-### [Bari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\ApuliaBari.secret.md)
+### [Bari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.personal.md) 
+
+### [Bari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari.secret.md)
 

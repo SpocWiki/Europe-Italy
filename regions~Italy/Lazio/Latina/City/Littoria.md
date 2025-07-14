@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Littoria.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.public.md) 
+### [Littoria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.md) 
 
-### [Littoria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.internal.md) 
+### [Littoria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.public.md) 
 
-### [Littoria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.protect.md) 
+### [Littoria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.internal.md) 
 
-### [Littoria.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.private.md) 
+### [Littoria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.protect.md) 
 
-### [Littoria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.personal.md) 
+### [Littoria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.private.md) 
 
-### [Littoria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lazio\Latina\CityLittoria.secret.md)
+### [Littoria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.personal.md) 
+
+### [Littoria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.secret.md)
 

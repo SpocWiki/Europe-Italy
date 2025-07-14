@@ -41,15 +41,17 @@ markerFolder: ./Biella.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Biella.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.public.md) 
+### [Biella.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.md) 
 
-### [Biella.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.internal.md) 
+### [Biella.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.public.md) 
 
-### [Biella.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.protect.md) 
+### [Biella.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.internal.md) 
 
-### [Biella.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.private.md) 
+### [Biella.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.protect.md) 
 
-### [Biella.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.personal.md) 
+### [Biella.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.private.md) 
 
-### [Biella.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontBiella.Province.secret.md)
+### [Biella.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.personal.md) 
+
+### [Biella.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.secret.md)
 

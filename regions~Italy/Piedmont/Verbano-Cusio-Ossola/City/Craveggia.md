@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Craveggia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.public.md) 
+### [Craveggia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.md) 
 
-### [Craveggia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.internal.md) 
+### [Craveggia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.public.md) 
 
-### [Craveggia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.protect.md) 
+### [Craveggia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.internal.md) 
 
-### [Craveggia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.private.md) 
+### [Craveggia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.protect.md) 
 
-### [Craveggia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.personal.md) 
+### [Craveggia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.private.md) 
 
-### [Craveggia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityCraveggia.secret.md)
+### [Craveggia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.personal.md) 
+
+### [Craveggia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Craveggia.secret.md)
 

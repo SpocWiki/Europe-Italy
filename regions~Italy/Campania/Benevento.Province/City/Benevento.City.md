@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Benevento.City.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.public.md) 
+### [Benevento.City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.md) 
 
-### [Benevento.City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.internal.md) 
+### [Benevento.City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.public.md) 
 
-### [Benevento.City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.protect.md) 
+### [Benevento.City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.internal.md) 
 
-### [Benevento.City.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.private.md) 
+### [Benevento.City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.protect.md) 
 
-### [Benevento.City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.personal.md) 
+### [Benevento.City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.private.md) 
 
-### [Benevento.City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityBenevento.City.secret.md)
+### [Benevento.City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.personal.md) 
+
+### [Benevento.City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Benevento.City.secret.md)
 

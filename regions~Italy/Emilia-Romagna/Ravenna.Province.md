@@ -41,15 +41,17 @@ markerFolder: ./Ravenna.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Ravenna.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.public.md) 
+### [Ravenna.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.md) 
 
-### [Ravenna.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.internal.md) 
+### [Ravenna.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.public.md) 
 
-### [Ravenna.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.protect.md) 
+### [Ravenna.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.internal.md) 
 
-### [Ravenna.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.private.md) 
+### [Ravenna.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.protect.md) 
 
-### [Ravenna.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.personal.md) 
+### [Ravenna.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.private.md) 
 
-### [Ravenna.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaRavenna.Province.secret.md)
+### [Ravenna.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.personal.md) 
+
+### [Ravenna.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province.secret.md)
 

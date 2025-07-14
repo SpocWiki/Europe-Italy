@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portotorres.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.public.md) 
+### [Portotorres](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.md) 
 
-### [Portotorres.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.internal.md) 
+### [Portotorres.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.public.md) 
 
-### [Portotorres.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.protect.md) 
+### [Portotorres.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.internal.md) 
 
-### [Portotorres.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.private.md) 
+### [Portotorres.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.protect.md) 
 
-### [Portotorres.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.personal.md) 
+### [Portotorres.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.private.md) 
 
-### [Portotorres.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Sassari.Province\CityPortotorres.secret.md)
+### [Portotorres.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.personal.md) 
+
+### [Portotorres.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Portotorres.secret.md)
 

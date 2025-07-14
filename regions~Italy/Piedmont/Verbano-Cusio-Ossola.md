@@ -41,15 +41,17 @@ markerFolder: ./Verbano-Cusio-Ossola/
 
 ## Confidential Links & Embeds: 
 
-### [Verbano-Cusio-Ossola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.public.md) 
+### [Verbano-Cusio-Ossola](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.md) 
 
-### [Verbano-Cusio-Ossola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.internal.md) 
+### [Verbano-Cusio-Ossola.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.public.md) 
 
-### [Verbano-Cusio-Ossola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.protect.md) 
+### [Verbano-Cusio-Ossola.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.internal.md) 
 
-### [Verbano-Cusio-Ossola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.private.md) 
+### [Verbano-Cusio-Ossola.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.protect.md) 
 
-### [Verbano-Cusio-Ossola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.personal.md) 
+### [Verbano-Cusio-Ossola.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.private.md) 
 
-### [Verbano-Cusio-Ossola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVerbano-Cusio-Ossola.secret.md)
+### [Verbano-Cusio-Ossola.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.personal.md) 
+
+### [Verbano-Cusio-Ossola.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.secret.md)
 

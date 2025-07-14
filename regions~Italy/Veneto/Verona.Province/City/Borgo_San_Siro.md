@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borgo_San_Siro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.public.md) 
+### [Borgo_San_Siro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.md) 
 
-### [Borgo_San_Siro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.internal.md) 
+### [Borgo_San_Siro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.public.md) 
 
-### [Borgo_San_Siro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.protect.md) 
+### [Borgo_San_Siro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.internal.md) 
 
-### [Borgo_San_Siro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.private.md) 
+### [Borgo_San_Siro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.protect.md) 
 
-### [Borgo_San_Siro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.personal.md) 
+### [Borgo_San_Siro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.private.md) 
 
-### [Borgo_San_Siro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityBorgo_San_Siro.secret.md)
+### [Borgo_San_Siro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.personal.md) 
+
+### [Borgo_San_Siro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.secret.md)
 

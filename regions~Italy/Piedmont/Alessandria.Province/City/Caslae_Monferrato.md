@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caslae_Monferrato.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.public.md) 
+### [Caslae_Monferrato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.md) 
 
-### [Caslae_Monferrato.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.internal.md) 
+### [Caslae_Monferrato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.public.md) 
 
-### [Caslae_Monferrato.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.protect.md) 
+### [Caslae_Monferrato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.internal.md) 
 
-### [Caslae_Monferrato.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.private.md) 
+### [Caslae_Monferrato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.protect.md) 
 
-### [Caslae_Monferrato.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.personal.md) 
+### [Caslae_Monferrato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.private.md) 
 
-### [Caslae_Monferrato.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Alessandria.Province\CityCaslae_Monferrato.secret.md)
+### [Caslae_Monferrato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.personal.md) 
+
+### [Caslae_Monferrato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Caslae_Monferrato.secret.md)
 

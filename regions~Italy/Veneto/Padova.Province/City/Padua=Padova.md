@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Padua=Padova.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.public.md) 
+### [Padua=Padova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.md) 
 
-### [Padua=Padova.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.internal.md) 
+### [Padua=Padova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.public.md) 
 
-### [Padua=Padova.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.protect.md) 
+### [Padua=Padova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.internal.md) 
 
-### [Padua=Padova.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.private.md) 
+### [Padua=Padova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.protect.md) 
 
-### [Padua=Padova.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.personal.md) 
+### [Padua=Padova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.private.md) 
 
-### [Padua=Padova.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Padova.Province\CityPadua=Padova.secret.md)
+### [Padua=Padova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.personal.md) 
+
+### [Padua=Padova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.secret.md)
 

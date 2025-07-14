@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Miniato.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.public.md) 
+### [San_Miniato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.md) 
 
-### [San_Miniato.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.internal.md) 
+### [San_Miniato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.public.md) 
 
-### [San_Miniato.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.protect.md) 
+### [San_Miniato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.internal.md) 
 
-### [San_Miniato.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.private.md) 
+### [San_Miniato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.protect.md) 
 
-### [San_Miniato.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.personal.md) 
+### [San_Miniato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.private.md) 
 
-### [San_Miniato.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Firenze.Province\CitySan_Miniato.secret.md)
+### [San_Miniato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.personal.md) 
+
+### [San_Miniato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.secret.md)
 

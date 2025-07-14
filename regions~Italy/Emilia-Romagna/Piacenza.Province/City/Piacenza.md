@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piacenza.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.public.md) 
+### [Piacenza](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.md) 
 
-### [Piacenza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.internal.md) 
+### [Piacenza.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.public.md) 
 
-### [Piacenza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.protect.md) 
+### [Piacenza.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.internal.md) 
 
-### [Piacenza.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.private.md) 
+### [Piacenza.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.protect.md) 
 
-### [Piacenza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.personal.md) 
+### [Piacenza.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.private.md) 
 
-### [Piacenza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Piacenza.Province\CityPiacenza.secret.md)
+### [Piacenza.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.personal.md) 
+
+### [Piacenza.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province/City/Piacenza.secret.md)
 

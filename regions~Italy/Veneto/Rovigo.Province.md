@@ -41,15 +41,17 @@ markerFolder: ./Rovigo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Rovigo.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.public.md) 
+### [Rovigo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.md) 
 
-### [Rovigo.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.internal.md) 
+### [Rovigo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.public.md) 
 
-### [Rovigo.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.protect.md) 
+### [Rovigo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.internal.md) 
 
-### [Rovigo.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.private.md) 
+### [Rovigo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.protect.md) 
 
-### [Rovigo.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.personal.md) 
+### [Rovigo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.private.md) 
 
-### [Rovigo.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoRovigo.Province.secret.md)
+### [Rovigo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.personal.md) 
+
+### [Rovigo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Rovigo.Province.secret.md)
 

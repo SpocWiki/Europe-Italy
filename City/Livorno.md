@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Livorno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.public.md) 
+### [Livorno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.md) 
 
-### [Livorno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.internal.md) 
+### [Livorno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.public.md) 
 
-### [Livorno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.protect.md) 
+### [Livorno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.internal.md) 
 
-### [Livorno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.private.md) 
+### [Livorno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.protect.md) 
 
-### [Livorno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.personal.md) 
+### [Livorno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.private.md) 
 
-### [Livorno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityLivorno.secret.md)
+### [Livorno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.personal.md) 
+
+### [Livorno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.secret.md)
 

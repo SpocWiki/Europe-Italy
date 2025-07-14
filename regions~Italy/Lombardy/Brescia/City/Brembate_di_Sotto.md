@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brembate_di_Sotto.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.public.md) 
+### [Brembate_di_Sotto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.md) 
 
-### [Brembate_di_Sotto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.internal.md) 
+### [Brembate_di_Sotto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.public.md) 
 
-### [Brembate_di_Sotto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.protect.md) 
+### [Brembate_di_Sotto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.internal.md) 
 
-### [Brembate_di_Sotto.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.private.md) 
+### [Brembate_di_Sotto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.protect.md) 
 
-### [Brembate_di_Sotto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.personal.md) 
+### [Brembate_di_Sotto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.private.md) 
 
-### [Brembate_di_Sotto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityBrembate_di_Sotto.secret.md)
+### [Brembate_di_Sotto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.personal.md) 
+
+### [Brembate_di_Sotto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.secret.md)
 

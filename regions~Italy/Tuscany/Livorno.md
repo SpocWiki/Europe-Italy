@@ -41,15 +41,17 @@ markerFolder: ./Livorno/
 
 ## Confidential Links & Embeds: 
 
-### [Livorno.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.public.md) 
+### [Livorno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.md) 
 
-### [Livorno.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.internal.md) 
+### [Livorno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.public.md) 
 
-### [Livorno.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.protect.md) 
+### [Livorno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.internal.md) 
 
-### [Livorno.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.private.md) 
+### [Livorno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.protect.md) 
 
-### [Livorno.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.personal.md) 
+### [Livorno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.private.md) 
 
-### [Livorno.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyLivorno.secret.md)
+### [Livorno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.personal.md) 
+
+### [Livorno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.secret.md)
 

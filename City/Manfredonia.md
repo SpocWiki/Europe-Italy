@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Manfredonia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.public.md) 
+### [Manfredonia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.md) 
 
-### [Manfredonia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.internal.md) 
+### [Manfredonia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.public.md) 
 
-### [Manfredonia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.protect.md) 
+### [Manfredonia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.internal.md) 
 
-### [Manfredonia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.private.md) 
+### [Manfredonia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.protect.md) 
 
-### [Manfredonia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.personal.md) 
+### [Manfredonia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.private.md) 
 
-### [Manfredonia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityManfredonia.secret.md)
+### [Manfredonia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.personal.md) 
+
+### [Manfredonia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Manfredonia.secret.md)
 

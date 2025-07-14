@@ -9,18 +9,19 @@ markerFolder: ./Liguria//
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Liguria.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.public.md) 
+### [Liguria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.md) 
 
-### [Liguria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.internal.md) 
+### [Liguria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.public.md) 
 
-### [Liguria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.protect.md) 
+### [Liguria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.internal.md) 
 
-### [Liguria.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.private.md) 
+### [Liguria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.protect.md) 
 
-### [Liguria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.personal.md) 
+### [Liguria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.private.md) 
 
-### [Liguria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~ItalyLiguria.secret.md)
+### [Liguria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.personal.md) 
+
+### [Liguria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria.secret.md)
 

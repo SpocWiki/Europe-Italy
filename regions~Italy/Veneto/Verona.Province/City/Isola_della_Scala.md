@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isola_della_Scala.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.public.md) 
+### [Isola_della_Scala](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.md) 
 
-### [Isola_della_Scala.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.internal.md) 
+### [Isola_della_Scala.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.public.md) 
 
-### [Isola_della_Scala.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.protect.md) 
+### [Isola_della_Scala.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.internal.md) 
 
-### [Isola_della_Scala.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.private.md) 
+### [Isola_della_Scala.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.protect.md) 
 
-### [Isola_della_Scala.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.personal.md) 
+### [Isola_della_Scala.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.private.md) 
 
-### [Isola_della_Scala.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Veneto\Verona.Province\CityIsola_della_Scala.secret.md)
+### [Isola_della_Scala.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.personal.md) 
+
+### [Isola_della_Scala.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.secret.md)
 

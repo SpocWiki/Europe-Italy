@@ -246,15 +246,17 @@ markerFolder: ./Vatican/
 
 ## Confidential Links & Embeds: 
 
-### [Vatican.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.public.md) 
+### [Vatican](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.md) 
 
-### [Vatican.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.internal.md) 
+### [Vatican.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.public.md) 
 
-### [Vatican.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.protect.md) 
+### [Vatican.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.internal.md) 
 
-### [Vatican.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.private.md) 
+### [Vatican.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.protect.md) 
 
-### [Vatican.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.personal.md) 
+### [Vatican.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.private.md) 
 
-### [Vatican.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LazioVatican.secret.md)
+### [Vatican.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.personal.md) 
+
+### [Vatican.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.secret.md)
 

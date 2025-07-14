@@ -41,15 +41,17 @@ markerFolder: ./Mantova.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Mantova.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.public.md) 
+### [Mantova.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.md) 
 
-### [Mantova.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.internal.md) 
+### [Mantova.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.public.md) 
 
-### [Mantova.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.protect.md) 
+### [Mantova.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.internal.md) 
 
-### [Mantova.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.private.md) 
+### [Mantova.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.protect.md) 
 
-### [Mantova.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.personal.md) 
+### [Mantova.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.private.md) 
 
-### [Mantova.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyMantova.Province.secret.md)
+### [Mantova.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.personal.md) 
+
+### [Mantova.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Mantova.Province.secret.md)
 

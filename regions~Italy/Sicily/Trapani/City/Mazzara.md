@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mazzara.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.public.md) 
+### [Mazzara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.md) 
 
-### [Mazzara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.internal.md) 
+### [Mazzara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.public.md) 
 
-### [Mazzara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.protect.md) 
+### [Mazzara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.internal.md) 
 
-### [Mazzara.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.private.md) 
+### [Mazzara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.protect.md) 
 
-### [Mazzara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.personal.md) 
+### [Mazzara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.private.md) 
 
-### [Mazzara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Trapani\CityMazzara.secret.md)
+### [Mazzara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.personal.md) 
+
+### [Mazzara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.secret.md)
 

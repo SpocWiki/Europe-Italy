@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pitigliano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.public.md) 
+### [Pitigliano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.md) 
 
-### [Pitigliano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.internal.md) 
+### [Pitigliano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.public.md) 
 
-### [Pitigliano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.protect.md) 
+### [Pitigliano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.internal.md) 
 
-### [Pitigliano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.private.md) 
+### [Pitigliano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.protect.md) 
 
-### [Pitigliano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.personal.md) 
+### [Pitigliano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.private.md) 
 
-### [Pitigliano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Grosseto.Province\CityPitigliano.secret.md)
+### [Pitigliano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.personal.md) 
+
+### [Pitigliano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Pitigliano.secret.md)
 

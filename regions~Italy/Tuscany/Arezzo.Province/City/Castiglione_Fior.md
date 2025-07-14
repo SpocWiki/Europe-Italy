@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castiglione_Fior.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.public.md) 
+### [Castiglione_Fior](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.md) 
 
-### [Castiglione_Fior.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.internal.md) 
+### [Castiglione_Fior.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.public.md) 
 
-### [Castiglione_Fior.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.protect.md) 
+### [Castiglione_Fior.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.internal.md) 
 
-### [Castiglione_Fior.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.private.md) 
+### [Castiglione_Fior.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.protect.md) 
 
-### [Castiglione_Fior.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.personal.md) 
+### [Castiglione_Fior.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.private.md) 
 
-### [Castiglione_Fior.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCastiglione_Fior.secret.md)
+### [Castiglione_Fior.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.personal.md) 
+
+### [Castiglione_Fior.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.secret.md)
 

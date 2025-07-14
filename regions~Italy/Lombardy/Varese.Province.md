@@ -41,15 +41,17 @@ markerFolder: ./Varese.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Varese.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.public.md) 
+### [Varese.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.md) 
 
-### [Varese.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.internal.md) 
+### [Varese.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.public.md) 
 
-### [Varese.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.protect.md) 
+### [Varese.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.internal.md) 
 
-### [Varese.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.private.md) 
+### [Varese.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.protect.md) 
 
-### [Varese.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.personal.md) 
+### [Varese.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.private.md) 
 
-### [Varese.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardyVarese.Province.secret.md)
+### [Varese.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.personal.md) 
+
+### [Varese.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.secret.md)
 

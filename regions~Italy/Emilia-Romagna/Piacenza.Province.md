@@ -41,15 +41,17 @@ markerFolder: ./Piacenza.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Piacenza.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.public.md) 
+### [Piacenza.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.md) 
 
-### [Piacenza.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.internal.md) 
+### [Piacenza.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.public.md) 
 
-### [Piacenza.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.protect.md) 
+### [Piacenza.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.internal.md) 
 
-### [Piacenza.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.private.md) 
+### [Piacenza.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.protect.md) 
 
-### [Piacenza.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.personal.md) 
+### [Piacenza.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.private.md) 
 
-### [Piacenza.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-RomagnaPiacenza.Province.secret.md)
+### [Piacenza.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.personal.md) 
+
+### [Piacenza.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.secret.md)
 

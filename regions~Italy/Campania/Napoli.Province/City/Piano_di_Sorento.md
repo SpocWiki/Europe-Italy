@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piano_di_Sorento.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.public.md) 
+### [Piano_di_Sorento](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.md) 
 
-### [Piano_di_Sorento.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.internal.md) 
+### [Piano_di_Sorento.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.public.md) 
 
-### [Piano_di_Sorento.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.protect.md) 
+### [Piano_di_Sorento.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.internal.md) 
 
-### [Piano_di_Sorento.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.private.md) 
+### [Piano_di_Sorento.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.protect.md) 
 
-### [Piano_di_Sorento.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.personal.md) 
+### [Piano_di_Sorento.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.private.md) 
 
-### [Piano_di_Sorento.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CityPiano_di_Sorento.secret.md)
+### [Piano_di_Sorento.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.personal.md) 
+
+### [Piano_di_Sorento.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Piano_di_Sorento.secret.md)
 

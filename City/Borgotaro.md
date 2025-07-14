@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borgotaro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.public.md) 
+### [Borgotaro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.md) 
 
-### [Borgotaro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.internal.md) 
+### [Borgotaro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.public.md) 
 
-### [Borgotaro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.protect.md) 
+### [Borgotaro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.internal.md) 
 
-### [Borgotaro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.private.md) 
+### [Borgotaro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.protect.md) 
 
-### [Borgotaro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.personal.md) 
+### [Borgotaro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.private.md) 
 
-### [Borgotaro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBorgotaro.secret.md)
+### [Borgotaro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.personal.md) 
+
+### [Borgotaro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Borgotaro.secret.md)
 

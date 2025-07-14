@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belforte.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.public.md) 
+### [Belforte](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.md) 
 
-### [Belforte.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.internal.md) 
+### [Belforte.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.public.md) 
 
-### [Belforte.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.protect.md) 
+### [Belforte.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.internal.md) 
 
-### [Belforte.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.private.md) 
+### [Belforte.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.protect.md) 
 
-### [Belforte.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.personal.md) 
+### [Belforte.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.private.md) 
 
-### [Belforte.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Novara.Province\CityBelforte.secret.md)
+### [Belforte.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.personal.md) 
+
+### [Belforte.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Belforte.secret.md)
 

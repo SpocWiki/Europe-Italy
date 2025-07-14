@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Domodossola.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.public.md) 
+### [Domodossola](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.md) 
 
-### [Domodossola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.internal.md) 
+### [Domodossola.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.public.md) 
 
-### [Domodossola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.protect.md) 
+### [Domodossola.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.internal.md) 
 
-### [Domodossola.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.private.md) 
+### [Domodossola.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.protect.md) 
 
-### [Domodossola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.personal.md) 
+### [Domodossola.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.private.md) 
 
-### [Domodossola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityDomodossola.secret.md)
+### [Domodossola.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.personal.md) 
+
+### [Domodossola.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Domodossola.secret.md)
 

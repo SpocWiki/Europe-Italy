@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alicudie.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.public.md) 
+### [Alicudie](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.md) 
 
-### [Alicudie.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.internal.md) 
+### [Alicudie.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.public.md) 
 
-### [Alicudie.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.protect.md) 
+### [Alicudie.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.internal.md) 
 
-### [Alicudie.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.private.md) 
+### [Alicudie.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.protect.md) 
 
-### [Alicudie.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.personal.md) 
+### [Alicudie.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.private.md) 
 
-### [Alicudie.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityAlicudie.secret.md)
+### [Alicudie.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.personal.md) 
+
+### [Alicudie.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.secret.md)
 

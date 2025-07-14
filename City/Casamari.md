@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Casamari.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.public.md) 
+### [Casamari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.md) 
 
-### [Casamari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.internal.md) 
+### [Casamari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.public.md) 
 
-### [Casamari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.protect.md) 
+### [Casamari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.internal.md) 
 
-### [Casamari.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.private.md) 
+### [Casamari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.protect.md) 
 
-### [Casamari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.personal.md) 
+### [Casamari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.private.md) 
 
-### [Casamari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCasamari.secret.md)
+### [Casamari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.personal.md) 
+
+### [Casamari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Casamari.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Sepolcro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.public.md) 
+### [San_Sepolcro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.md) 
 
-### [San_Sepolcro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.internal.md) 
+### [San_Sepolcro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.public.md) 
 
-### [San_Sepolcro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.protect.md) 
+### [San_Sepolcro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.internal.md) 
 
-### [San_Sepolcro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.private.md) 
+### [San_Sepolcro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.protect.md) 
 
-### [San_Sepolcro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.personal.md) 
+### [San_Sepolcro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.private.md) 
 
-### [San_Sepolcro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CitySan_Sepolcro.secret.md)
+### [San_Sepolcro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.personal.md) 
+
+### [San_Sepolcro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.secret.md)
 

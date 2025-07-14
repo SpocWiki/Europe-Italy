@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pesaro.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.public.md) 
+### [Pesaro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.md) 
 
-### [Pesaro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.internal.md) 
+### [Pesaro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.public.md) 
 
-### [Pesaro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.protect.md) 
+### [Pesaro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.internal.md) 
 
-### [Pesaro.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.private.md) 
+### [Pesaro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.protect.md) 
 
-### [Pesaro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.personal.md) 
+### [Pesaro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.private.md) 
 
-### [Pesaro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Marche\Pesaro_e_Urbino\CityPesaro.secret.md)
+### [Pesaro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.personal.md) 
+
+### [Pesaro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siracusa.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.public.md) 
+### [Siracusa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.md) 
 
-### [Siracusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.internal.md) 
+### [Siracusa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.public.md) 
 
-### [Siracusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.protect.md) 
+### [Siracusa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.internal.md) 
 
-### [Siracusa.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.private.md) 
+### [Siracusa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.protect.md) 
 
-### [Siracusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.personal.md) 
+### [Siracusa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.private.md) 
 
-### [Siracusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CitySiracusa.secret.md)
+### [Siracusa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.personal.md) 
+
+### [Siracusa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.secret.md)
 

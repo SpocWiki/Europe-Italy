@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piccolo_S._Bernardo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.public.md) 
+### [Piccolo_S._Bernardo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.md) 
 
-### [Piccolo_S._Bernardo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.internal.md) 
+### [Piccolo_S._Bernardo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.public.md) 
 
-### [Piccolo_S._Bernardo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.protect.md) 
+### [Piccolo_S._Bernardo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.internal.md) 
 
-### [Piccolo_S._Bernardo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.private.md) 
+### [Piccolo_S._Bernardo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.protect.md) 
 
-### [Piccolo_S._Bernardo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.personal.md) 
+### [Piccolo_S._Bernardo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.private.md) 
 
-### [Piccolo_S._Bernardo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Aosta_Valley\Aoste\CityPiccolo_S._Bernardo.secret.md)
+### [Piccolo_S._Bernardo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.personal.md) 
+
+### [Piccolo_S._Bernardo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.secret.md)
 

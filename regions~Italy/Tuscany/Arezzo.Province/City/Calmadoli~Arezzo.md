@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli~Arezzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.public.md) 
+### [Calmadoli~Arezzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.md) 
 
-### [Calmadoli~Arezzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.internal.md) 
+### [Calmadoli~Arezzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.public.md) 
 
-### [Calmadoli~Arezzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.protect.md) 
+### [Calmadoli~Arezzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.internal.md) 
 
-### [Calmadoli~Arezzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.private.md) 
+### [Calmadoli~Arezzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.protect.md) 
 
-### [Calmadoli~Arezzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.personal.md) 
+### [Calmadoli~Arezzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.private.md) 
 
-### [Calmadoli~Arezzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Arezzo.Province\CityCalmadoli~Arezzo.secret.md)
+### [Calmadoli~Arezzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.personal.md) 
+
+### [Calmadoli~Arezzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.secret.md)
 

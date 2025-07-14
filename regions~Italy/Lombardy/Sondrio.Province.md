@@ -41,15 +41,17 @@ markerFolder: ./Sondrio.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Sondrio.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.public.md) 
+### [Sondrio.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.md) 
 
-### [Sondrio.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.internal.md) 
+### [Sondrio.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.public.md) 
 
-### [Sondrio.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.protect.md) 
+### [Sondrio.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.internal.md) 
 
-### [Sondrio.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.private.md) 
+### [Sondrio.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.protect.md) 
 
-### [Sondrio.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.personal.md) 
+### [Sondrio.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.private.md) 
 
-### [Sondrio.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\LombardySondrio.Province.secret.md)
+### [Sondrio.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.personal.md) 
+
+### [Sondrio.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.secret.md)
 

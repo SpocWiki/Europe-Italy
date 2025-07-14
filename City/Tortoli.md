@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tortoli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.public.md) 
+### [Tortoli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.md) 
 
-### [Tortoli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.internal.md) 
+### [Tortoli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.public.md) 
 
-### [Tortoli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.protect.md) 
+### [Tortoli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.internal.md) 
 
-### [Tortoli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.private.md) 
+### [Tortoli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.protect.md) 
 
-### [Tortoli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.personal.md) 
+### [Tortoli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.private.md) 
 
-### [Tortoli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTortoli.secret.md)
+### [Tortoli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.personal.md) 
+
+### [Tortoli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Tortoli.secret.md)
 

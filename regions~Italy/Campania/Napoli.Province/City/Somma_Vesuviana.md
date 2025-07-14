@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Somma_Vesuviana.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.public.md) 
+### [Somma_Vesuviana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.md) 
 
-### [Somma_Vesuviana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.internal.md) 
+### [Somma_Vesuviana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.public.md) 
 
-### [Somma_Vesuviana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.protect.md) 
+### [Somma_Vesuviana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.internal.md) 
 
-### [Somma_Vesuviana.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.private.md) 
+### [Somma_Vesuviana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.protect.md) 
 
-### [Somma_Vesuviana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.personal.md) 
+### [Somma_Vesuviana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.private.md) 
 
-### [Somma_Vesuviana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Napoli.Province\CitySomma_Vesuviana.secret.md)
+### [Somma_Vesuviana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.personal.md) 
+
+### [Somma_Vesuviana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Somma_Vesuviana.secret.md)
 

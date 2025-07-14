@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Civita_Vecchia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.public.md) 
+### [Civita_Vecchia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.md) 
 
-### [Civita_Vecchia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.internal.md) 
+### [Civita_Vecchia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.public.md) 
 
-### [Civita_Vecchia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.protect.md) 
+### [Civita_Vecchia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.internal.md) 
 
-### [Civita_Vecchia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.private.md) 
+### [Civita_Vecchia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.protect.md) 
 
-### [Civita_Vecchia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.personal.md) 
+### [Civita_Vecchia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.private.md) 
 
-### [Civita_Vecchia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCivita_Vecchia.secret.md)
+### [Civita_Vecchia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.personal.md) 
+
+### [Civita_Vecchia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Civita_Vecchia.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brescia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.public.md) 
+### [Brescia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.md) 
 
-### [Brescia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.internal.md) 
+### [Brescia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.public.md) 
 
-### [Brescia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.protect.md) 
+### [Brescia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.internal.md) 
 
-### [Brescia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.private.md) 
+### [Brescia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.protect.md) 
 
-### [Brescia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.personal.md) 
+### [Brescia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.private.md) 
 
-### [Brescia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBrescia.secret.md)
+### [Brescia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.personal.md) 
+
+### [Brescia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.secret.md)
 

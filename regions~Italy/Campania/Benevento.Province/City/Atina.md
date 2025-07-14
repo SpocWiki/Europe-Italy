@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Atina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.public.md) 
+### [Atina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.md) 
 
-### [Atina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.internal.md) 
+### [Atina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.public.md) 
 
-### [Atina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.protect.md) 
+### [Atina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.internal.md) 
 
-### [Atina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.private.md) 
+### [Atina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.protect.md) 
 
-### [Atina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.personal.md) 
+### [Atina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.private.md) 
 
-### [Atina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Campania\Benevento.Province\CityAtina.secret.md)
+### [Atina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.personal.md) 
+
+### [Atina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.secret.md)
 

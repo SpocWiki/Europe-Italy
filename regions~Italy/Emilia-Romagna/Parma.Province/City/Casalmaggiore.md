@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Casalmaggiore.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.public.md) 
+### [Casalmaggiore](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.md) 
 
-### [Casalmaggiore.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.internal.md) 
+### [Casalmaggiore.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.public.md) 
 
-### [Casalmaggiore.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.protect.md) 
+### [Casalmaggiore.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.internal.md) 
 
-### [Casalmaggiore.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.private.md) 
+### [Casalmaggiore.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.protect.md) 
 
-### [Casalmaggiore.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.personal.md) 
+### [Casalmaggiore.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.private.md) 
 
-### [Casalmaggiore.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Emilia-Romagna\Parma.Province\CityCasalmaggiore.secret.md)
+### [Casalmaggiore.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.personal.md) 
+
+### [Casalmaggiore.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Parma.Province/City/Casalmaggiore.secret.md)
 

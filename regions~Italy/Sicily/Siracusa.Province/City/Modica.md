@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Modica.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.public.md) 
+### [Modica](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.md) 
 
-### [Modica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.internal.md) 
+### [Modica.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.public.md) 
 
-### [Modica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.protect.md) 
+### [Modica.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.internal.md) 
 
-### [Modica.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.private.md) 
+### [Modica.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.protect.md) 
 
-### [Modica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.personal.md) 
+### [Modica.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.private.md) 
 
-### [Modica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sicily\Siracusa.Province\CityModica.secret.md)
+### [Modica.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.personal.md) 
+
+### [Modica.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Modica.secret.md)
 

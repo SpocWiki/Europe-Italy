@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Somma_Lombardo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.public.md) 
+### [Somma_Lombardo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.md) 
 
-### [Somma_Lombardo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.internal.md) 
+### [Somma_Lombardo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.public.md) 
 
-### [Somma_Lombardo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.protect.md) 
+### [Somma_Lombardo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.internal.md) 
 
-### [Somma_Lombardo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.private.md) 
+### [Somma_Lombardo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.protect.md) 
 
-### [Somma_Lombardo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.personal.md) 
+### [Somma_Lombardo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.private.md) 
 
-### [Somma_Lombardo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Varese.Province\CitySomma_Lombardo.secret.md)
+### [Somma_Lombardo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.personal.md) 
+
+### [Somma_Lombardo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Somma_Lombardo.secret.md)
 

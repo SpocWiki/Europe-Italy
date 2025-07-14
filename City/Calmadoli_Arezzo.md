@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli_Arezzo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.public.md) 
+### [Calmadoli_Arezzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.md) 
 
-### [Calmadoli_Arezzo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.internal.md) 
+### [Calmadoli_Arezzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.public.md) 
 
-### [Calmadoli_Arezzo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.protect.md) 
+### [Calmadoli_Arezzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.internal.md) 
 
-### [Calmadoli_Arezzo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.private.md) 
+### [Calmadoli_Arezzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.protect.md) 
 
-### [Calmadoli_Arezzo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.personal.md) 
+### [Calmadoli_Arezzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.private.md) 
 
-### [Calmadoli_Arezzo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCalmadoli_Arezzo.secret.md)
+### [Calmadoli_Arezzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.personal.md) 
+
+### [Calmadoli_Arezzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.secret.md)
 

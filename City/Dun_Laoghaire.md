@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dun_Laoghaire.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.public.md) 
+### [Dun_Laoghaire](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.md) 
 
-### [Dun_Laoghaire.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.internal.md) 
+### [Dun_Laoghaire.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.public.md) 
 
-### [Dun_Laoghaire.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.protect.md) 
+### [Dun_Laoghaire.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.internal.md) 
 
-### [Dun_Laoghaire.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.private.md) 
+### [Dun_Laoghaire.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.protect.md) 
 
-### [Dun_Laoghaire.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.personal.md) 
+### [Dun_Laoghaire.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.private.md) 
 
-### [Dun_Laoghaire.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityDun_Laoghaire.secret.md)
+### [Dun_Laoghaire.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.personal.md) 
+
+### [Dun_Laoghaire.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.secret.md)
 

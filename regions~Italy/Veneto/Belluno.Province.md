@@ -41,15 +41,17 @@ markerFolder: ./Belluno.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Belluno.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.public.md) 
+### [Belluno.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.md) 
 
-### [Belluno.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.internal.md) 
+### [Belluno.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.public.md) 
 
-### [Belluno.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.protect.md) 
+### [Belluno.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.internal.md) 
 
-### [Belluno.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.private.md) 
+### [Belluno.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.protect.md) 
 
-### [Belluno.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.personal.md) 
+### [Belluno.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.private.md) 
 
-### [Belluno.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\VenetoBelluno.Province.secret.md)
+### [Belluno.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.personal.md) 
+
+### [Belluno.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.secret.md)
 

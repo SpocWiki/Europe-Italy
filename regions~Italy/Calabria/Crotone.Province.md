@@ -41,15 +41,17 @@ markerFolder: ./Crotone.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Crotone.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.public.md) 
+### [Crotone.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.md) 
 
-### [Crotone.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.internal.md) 
+### [Crotone.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.public.md) 
 
-### [Crotone.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.protect.md) 
+### [Crotone.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.internal.md) 
 
-### [Crotone.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.private.md) 
+### [Crotone.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.protect.md) 
 
-### [Crotone.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.personal.md) 
+### [Crotone.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.private.md) 
 
-### [Crotone.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\CalabriaCrotone.Province.secret.md)
+### [Crotone.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.personal.md) 
+
+### [Crotone.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province.secret.md)
 

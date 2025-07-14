@@ -41,15 +41,17 @@ markerFolder: ./Pistoia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pistoia.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.public.md) 
+### [Pistoia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.md) 
 
-### [Pistoia.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.internal.md) 
+### [Pistoia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.public.md) 
 
-### [Pistoia.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.protect.md) 
+### [Pistoia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.internal.md) 
 
-### [Pistoia.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.private.md) 
+### [Pistoia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.protect.md) 
 
-### [Pistoia.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.personal.md) 
+### [Pistoia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.private.md) 
 
-### [Pistoia.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TuscanyPistoia.Province.secret.md)
+### [Pistoia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.personal.md) 
+
+### [Pistoia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.secret.md)
 

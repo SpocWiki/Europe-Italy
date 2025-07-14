@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agnano.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.public.md) 
+### [Agnano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.md) 
 
-### [Agnano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.internal.md) 
+### [Agnano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.public.md) 
 
-### [Agnano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.protect.md) 
+### [Agnano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.internal.md) 
 
-### [Agnano.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.private.md) 
+### [Agnano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.protect.md) 
 
-### [Agnano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.personal.md) 
+### [Agnano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.private.md) 
 
-### [Agnano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Livorno\CityAgnano.secret.md)
+### [Agnano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.personal.md) 
+
+### [Agnano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.secret.md)
 

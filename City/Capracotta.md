@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Capracotta.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.public.md) 
+### [Capracotta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.md) 
 
-### [Capracotta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.internal.md) 
+### [Capracotta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.public.md) 
 
-### [Capracotta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.protect.md) 
+### [Capracotta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.internal.md) 
 
-### [Capracotta.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.private.md) 
+### [Capracotta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.protect.md) 
 
-### [Capracotta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.personal.md) 
+### [Capracotta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.private.md) 
 
-### [Capracotta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCapracotta.secret.md)
+### [Capracotta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.personal.md) 
+
+### [Capracotta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.secret.md)
 

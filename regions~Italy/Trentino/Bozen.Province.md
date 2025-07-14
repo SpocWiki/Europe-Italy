@@ -41,15 +41,17 @@ markerFolder: ./Bozen.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Bozen.Province.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.public.md) 
+### [Bozen.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.md) 
 
-### [Bozen.Province.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.internal.md) 
+### [Bozen.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.public.md) 
 
-### [Bozen.Province.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.protect.md) 
+### [Bozen.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.internal.md) 
 
-### [Bozen.Province.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.private.md) 
+### [Bozen.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.protect.md) 
 
-### [Bozen.Province.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.personal.md) 
+### [Bozen.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.private.md) 
 
-### [Bozen.Province.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\TrentinoBozen.Province.secret.md)
+### [Bozen.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.personal.md) 
+
+### [Bozen.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province.secret.md)
 

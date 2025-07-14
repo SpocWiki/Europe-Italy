@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciminna.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.public.md) 
+### [Ciminna](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.md) 
 
-### [Ciminna.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.internal.md) 
+### [Ciminna.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.public.md) 
 
-### [Ciminna.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.protect.md) 
+### [Ciminna.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.internal.md) 
 
-### [Ciminna.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.private.md) 
+### [Ciminna.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.protect.md) 
 
-### [Ciminna.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.personal.md) 
+### [Ciminna.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.private.md) 
 
-### [Ciminna.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityCiminna.secret.md)
+### [Ciminna.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.personal.md) 
+
+### [Ciminna.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.secret.md)
 

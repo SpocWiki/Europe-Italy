@@ -41,15 +41,17 @@ markerFolder: ./Trieste.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Trieste.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.public.md) 
+### [Trieste](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.md) 
 
-### [Trieste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.internal.md) 
+### [Trieste.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.public.md) 
 
-### [Trieste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.protect.md) 
+### [Trieste.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.internal.md) 
 
-### [Trieste.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.private.md) 
+### [Trieste.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.protect.md) 
 
-### [Trieste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.personal.md) 
+### [Trieste.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.private.md) 
 
-### [Trieste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Friuli-Venezia_GiuliaTrieste.secret.md)
+### [Trieste.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.personal.md) 
+
+### [Trieste.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bari.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityBari.public.md) 
+### [Bari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Bari.md) 
 
-### [Bari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityBari.internal.md) 
+### [Bari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Bari.public.md) 
 
-### [Bari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityBari.protect.md) 
+### [Bari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.internal.md) 
 
-### [Bari.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityBari.private.md) 
+### [Bari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Bari.protect.md) 
 
-### [Bari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityBari.personal.md) 
+### [Bari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Bari.private.md) 
 
-### [Bari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityBari.secret.md)
+### [Bari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.personal.md) 
+
+### [Bari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Bari.secret.md)
 

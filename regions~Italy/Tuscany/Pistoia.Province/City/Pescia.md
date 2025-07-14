@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pescia.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.public.md) 
+### [Pescia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.md) 
 
-### [Pescia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.internal.md) 
+### [Pescia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.public.md) 
 
-### [Pescia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.protect.md) 
+### [Pescia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.internal.md) 
 
-### [Pescia.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.private.md) 
+### [Pescia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.protect.md) 
 
-### [Pescia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.personal.md) 
+### [Pescia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.private.md) 
 
-### [Pescia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Tuscany\Pistoia.Province\CityPescia.secret.md)
+### [Pescia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.personal.md) 
+
+### [Pescia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pescia.secret.md)
 

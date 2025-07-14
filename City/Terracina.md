@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Terracina.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.public.md) 
+### [Terracina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.md) 
 
-### [Terracina.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.internal.md) 
+### [Terracina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.public.md) 
 
-### [Terracina.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.protect.md) 
+### [Terracina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.internal.md) 
 
-### [Terracina.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.private.md) 
+### [Terracina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.protect.md) 
 
-### [Terracina.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.personal.md) 
+### [Terracina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.private.md) 
 
-### [Terracina.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\CityTerracina.secret.md)
+### [Terracina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.personal.md) 
+
+### [Terracina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Terracina.secret.md)
 

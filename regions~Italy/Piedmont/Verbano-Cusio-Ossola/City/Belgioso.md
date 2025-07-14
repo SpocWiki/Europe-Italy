@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belgioso.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.public.md) 
+### [Belgioso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.md) 
 
-### [Belgioso.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.internal.md) 
+### [Belgioso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.public.md) 
 
-### [Belgioso.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.protect.md) 
+### [Belgioso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.internal.md) 
 
-### [Belgioso.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.private.md) 
+### [Belgioso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.protect.md) 
 
-### [Belgioso.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.personal.md) 
+### [Belgioso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.private.md) 
 
-### [Belgioso.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Piedmont\Verbano-Cusio-Ossola\CityBelgioso.secret.md)
+### [Belgioso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.personal.md) 
+
+### [Belgioso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola/City/Belgioso.secret.md)
 

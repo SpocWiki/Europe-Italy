@@ -41,15 +41,17 @@ markerFolder: ./Vercelli/
 
 ## Confidential Links & Embeds: 
 
-### [Vercelli.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.public.md) 
+### [Vercelli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.md) 
 
-### [Vercelli.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.internal.md) 
+### [Vercelli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.public.md) 
 
-### [Vercelli.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.protect.md) 
+### [Vercelli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.internal.md) 
 
-### [Vercelli.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.private.md) 
+### [Vercelli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.protect.md) 
 
-### [Vercelli.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.personal.md) 
+### [Vercelli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.private.md) 
 
-### [Vercelli.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\PiedmontVercelli.secret.md)
+### [Vercelli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.personal.md) 
+
+### [Vercelli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Vercelli.secret.md)
 

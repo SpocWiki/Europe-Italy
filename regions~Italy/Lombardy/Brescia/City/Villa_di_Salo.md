@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villa_di_Salo.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.public.md) 
+### [Villa_di_Salo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.md) 
 
-### [Villa_di_Salo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.internal.md) 
+### [Villa_di_Salo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.public.md) 
 
-### [Villa_di_Salo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.protect.md) 
+### [Villa_di_Salo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.internal.md) 
 
-### [Villa_di_Salo.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.private.md) 
+### [Villa_di_Salo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.protect.md) 
 
-### [Villa_di_Salo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.personal.md) 
+### [Villa_di_Salo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.private.md) 
 
-### [Villa_di_Salo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Lombardy\Brescia\CityVilla_di_Salo.secret.md)
+### [Villa_di_Salo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.personal.md) 
+
+### [Villa_di_Salo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.secret.md)
 

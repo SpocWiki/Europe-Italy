@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valsinni.public](/_public/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.public.md) 
+### [Valsinni](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.md) 
 
-### [Valsinni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.internal.md) 
+### [Valsinni.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.public.md) 
 
-### [Valsinni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.protect.md) 
+### [Valsinni.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.internal.md) 
 
-### [Valsinni.private](/_private/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.private.md) 
+### [Valsinni.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.protect.md) 
 
-### [Valsinni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.personal.md) 
+### [Valsinni.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.private.md) 
 
-### [Valsinni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Italy\regions~Italy\Sardinia\Oristrano.Province\CityValsinni.secret.md)
+### [Valsinni.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.personal.md) 
+
+### [Valsinni.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.secret.md)
 
