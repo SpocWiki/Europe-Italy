@@ -126,3 +126,20 @@ native_label: Colosseum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colosseum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colosseum](Colosseum.md) 
+
+### #is_/same_as :: [Colosseum.public](/_public/Technology/Construction/Architecture/Colosseum.public.md) 
+
+### #is_/same_as :: [Colosseum.internal](/_internal/Technology/Construction/Architecture/Colosseum.internal.md) 
+
+### #is_/same_as :: [Colosseum.protect](/_protect/Technology/Construction/Architecture/Colosseum.protect.md) 
+
+### #is_/same_as :: [Colosseum.private](/_private/Technology/Construction/Architecture/Colosseum.private.md) 
+
+### #is_/same_as :: [Colosseum.personal](/_personal/Technology/Construction/Architecture/Colosseum.personal.md) 
+
+### #is_/same_as :: [Colosseum.secret](/_secret/Technology/Construction/Architecture/Colosseum.secret.md)
+

@@ -1,17 +1,22 @@
 ---
 aliases:
   - Rome
-location: [41.89,12.49] 
-mapzoom: [7,12] 
-mapmarker: city 
+  - Rom
+  - Roma
+location:
+  - 41.89
+  - 12.49
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
+  - geo/City
 has_id_wikidata: Q220
 SpocWebEntityId: 33750
 isDeleted: false
 confidential: public
-
 culture:
   - "[[_Standards/WikiData/WD~Ostrogoths,103122]]"
   - "[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]"
@@ -129,11 +134,13 @@ member_of:
 founded_by:
   - "[[_Standards/WikiData/WD~Remus,1242632]]"
   - "[[_Standards/WikiData/WD~Romulus,2186]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museum_of_Roman_Civilization,1275123]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~Museum_of_Roman_Civilization,1275123]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Rome,3705360]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Rome,4909769]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Rome,5333757]]"
-different_from: "[[_Standards/WikiData/WD~Rzym,7385796]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Rzym,7385796]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Rome,9260409]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rome,11381903]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Roma,18287233]]"
@@ -151,7 +158,8 @@ seismic_classification: "[[_Standards/WikiData/WD~2A_3A_3B,106435259]]"
 coordinate_location: Point(12.482777777 41.893055555)
 coordinates_of_northernmost_point: Point(12.3071373 42.1410285)
 inception: -0752-04-13T00:00:00Z
-official_language: "[[_Standards/WikiData/WD~Italian,652]]"
+official_language:
+  - "[[_Standards/WikiData/WD~Italian,652]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
   - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
@@ -178,7 +186,8 @@ Instagram_username: roma
 X_Twitter_username: roma
 GitHub_topic: roma
 Commons_category: Rome
-Google_Doodle: 140th-anniversary-of-rome
+Google_Doodle:
+  - 140th-anniversary-of-rome
 Dewey_Decimal_Classification: 2--45632
 Provenio_UUID: 41e36f13-883a-4272-93fd-6dd747d262da
 P8189: "987007554809305171"
@@ -241,7 +250,8 @@ coordinates_of_westernmost_point: Point(12.2344985 41.7399709)
 coordinates_of_southernmost_point: Point(12.4159448 41.6556417)
 local_dialing_code: "06"
 licence_plate_code: RM
-native_label: Roma
+native_label:
+  - Roma
 official_name: Roma
 population: 2748109
 WOEID: "721943"
@@ -250,7 +260,8 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Rzym.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rome%20Skyline%20%288012016319%29.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rome.svg
-detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20Italy%20Rome.png
+detail_map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20Italy%20Rome.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationRoma.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Roma-Stemma-2.svg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Roma%20-%20Municipi%20numerata%20%282001-2013%29.png
@@ -284,8 +295,8 @@ Country :: [[../../../../../../Italy]]
 
 ```leaflet
 id: Roma
-coordinates: [[Roma]] 
-markerFile: [[Roma]] 
+coordinates: [[Roma,Città]] 
+markerFile: [[Roma,Città]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
