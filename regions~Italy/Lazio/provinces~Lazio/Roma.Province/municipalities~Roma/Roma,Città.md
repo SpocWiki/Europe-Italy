@@ -301,6 +301,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+## #has_/parts 
+
+- [[../../../../../../../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Landmark/Colosseum|Colosseum]] 
+- [[Roma,Città/Forum_Romanum]] 
 
 ## #has_/text_of_/abstract 
 
