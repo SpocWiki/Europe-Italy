@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::41.97] 
 [name::Tivoli] 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country :: [[../../../../../../Italy]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

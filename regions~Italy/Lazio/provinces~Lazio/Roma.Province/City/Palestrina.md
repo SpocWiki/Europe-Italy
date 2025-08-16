@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::41.83] 
 [name::Palestrina] 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country :: [[../../../../../../Italy]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
