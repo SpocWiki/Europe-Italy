@@ -1,30 +1,29 @@
 ---
-location: [ 46.1 , 12.7 ] 
+location:
+  - 46.1
+  - 12.7
 type: geo-Region
 title: Pordenone.Province
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Pordenone.Province
-
+  - Pordenone.Province
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Pordenone.Province

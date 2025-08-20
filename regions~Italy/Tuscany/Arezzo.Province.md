@@ -1,30 +1,29 @@
 ---
-location: [ 43.5 , 11.8 ] 
+location:
+  - 43.5
+  - 11.8
 type: geo-Region
 title: Arezzo.Province
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Arezzo.Province
-
+  - Arezzo.Province
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Arezzo.Province
