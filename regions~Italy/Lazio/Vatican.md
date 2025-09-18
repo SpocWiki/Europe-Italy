@@ -223,7 +223,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 ```leaflet
 id: Vatican
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vatican/
 markerFolder: ./Vatican/

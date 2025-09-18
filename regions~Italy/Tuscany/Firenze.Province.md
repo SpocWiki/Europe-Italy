@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Firenze.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Firenze.Province/
 markerFolder: ./Firenze.Province/

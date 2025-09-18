@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ravenna.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ravenna.Province/
 markerFolder: ./Ravenna.Province/

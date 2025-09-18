@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Biella.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Biella.Province/
 markerFolder: ./Biella.Province/

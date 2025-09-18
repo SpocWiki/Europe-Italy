@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Imperia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Imperia.Province/
 markerFolder: ./Imperia.Province/

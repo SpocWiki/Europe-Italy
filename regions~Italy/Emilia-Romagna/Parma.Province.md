@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Parma.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Parma.Province/
 markerFolder: ./Parma.Province/

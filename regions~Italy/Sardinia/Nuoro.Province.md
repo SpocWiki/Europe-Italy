@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nuoro.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nuoro.Province/
 markerFolder: ./Nuoro.Province/

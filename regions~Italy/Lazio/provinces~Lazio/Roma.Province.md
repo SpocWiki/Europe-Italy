@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Roma.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Roma.Province/
 markerFolder: ./Roma.Province/

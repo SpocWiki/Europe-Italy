@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Isernia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Isernia.Province/
 markerFolder: ./Isernia.Province/

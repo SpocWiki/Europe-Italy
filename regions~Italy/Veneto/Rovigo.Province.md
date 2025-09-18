@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rovigo.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rovigo.Province/
 markerFolder: ./Rovigo.Province/

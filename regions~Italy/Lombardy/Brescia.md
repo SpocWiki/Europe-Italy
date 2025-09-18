@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Brescia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brescia/
 markerFolder: ./Brescia/

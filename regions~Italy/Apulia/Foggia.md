@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Foggia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Foggia/
 markerFolder: ./Foggia/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Verbano-Cusio-Ossola
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Verbano-Cusio-Ossola/
 markerFolder: ./Verbano-Cusio-Ossola/

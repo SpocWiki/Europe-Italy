@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Venezia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Venezia.Province/
 markerFolder: ./Venezia.Province/

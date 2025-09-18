@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ferrara.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ferrara.Province/
 markerFolder: ./Ferrara.Province/

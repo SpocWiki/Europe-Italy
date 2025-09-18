@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Perugia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Perugia.Province/
 markerFolder: ./Perugia.Province/

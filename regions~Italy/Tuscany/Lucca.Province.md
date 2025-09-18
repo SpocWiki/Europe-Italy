@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lucca.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lucca.Province/
 markerFolder: ./Lucca.Province/

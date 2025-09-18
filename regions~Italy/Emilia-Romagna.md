@@ -2,7 +2,7 @@
 ```leaflet
 id: Israel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Emilia-Romagna/
 markerFolder: ./Emilia-Romagna//

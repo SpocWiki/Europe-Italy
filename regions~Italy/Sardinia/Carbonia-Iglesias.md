@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Carbonia-Iglesias
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Carbonia-Iglesias/
 markerFolder: ./Carbonia-Iglesias/

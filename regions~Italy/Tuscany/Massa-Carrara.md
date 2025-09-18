@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Massa-Carrara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Massa-Carrara/
 markerFolder: ./Massa-Carrara/

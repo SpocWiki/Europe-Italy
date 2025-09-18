@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Frosinone.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Frosinone.Province/
 markerFolder: ./Frosinone.Province/

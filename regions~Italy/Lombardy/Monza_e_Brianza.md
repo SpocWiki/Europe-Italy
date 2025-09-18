@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Monza_e_Brianza
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Monza_e_Brianza/
 markerFolder: ./Monza_e_Brianza/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Turin.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Turin.Province/
 markerFolder: ./Turin.Province/

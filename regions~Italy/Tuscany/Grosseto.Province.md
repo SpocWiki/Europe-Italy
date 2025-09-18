@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Grosseto.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grosseto.Province/
 markerFolder: ./Grosseto.Province/

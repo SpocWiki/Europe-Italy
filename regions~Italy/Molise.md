@@ -9,7 +9,7 @@
 ```leaflet
 id: Israel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Molise/
 markerFolder: ./Molise//

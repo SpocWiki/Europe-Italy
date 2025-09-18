@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ascoli_Piceno.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ascoli_Piceno.Province/
 markerFolder: ./Ascoli_Piceno.Province/

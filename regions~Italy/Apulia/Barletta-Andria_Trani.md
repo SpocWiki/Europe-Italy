@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Barletta-Andria_Trani
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Barletta-Andria_Trani/
 markerFolder: ./Barletta-Andria_Trani/

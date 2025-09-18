@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pesaro_e_Urbino
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pesaro_e_Urbino/
 markerFolder: ./Pesaro_e_Urbino/

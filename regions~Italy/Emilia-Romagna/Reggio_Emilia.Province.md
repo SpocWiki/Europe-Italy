@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Reggio_Emilia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Reggio_Emilia.Province/
 markerFolder: ./Reggio_Emilia.Province/

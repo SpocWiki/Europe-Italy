@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Asti.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Asti.Province/
 markerFolder: ./Asti.Province/

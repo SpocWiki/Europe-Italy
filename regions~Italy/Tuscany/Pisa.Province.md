@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pisa.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pisa.Province/
 markerFolder: ./Pisa.Province/

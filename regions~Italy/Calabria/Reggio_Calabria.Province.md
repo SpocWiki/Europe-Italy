@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Reggio_Calabria.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Reggio_Calabria.Province/
 markerFolder: ./Reggio_Calabria.Province/

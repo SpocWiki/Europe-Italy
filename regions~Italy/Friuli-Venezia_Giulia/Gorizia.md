@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gorizia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gorizia/
 markerFolder: ./Gorizia/

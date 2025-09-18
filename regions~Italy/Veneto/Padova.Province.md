@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Padova.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Padova.Province/
 markerFolder: ./Padova.Province/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pordenone.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pordenone.Province/
 markerFolder: ./Pordenone.Province/

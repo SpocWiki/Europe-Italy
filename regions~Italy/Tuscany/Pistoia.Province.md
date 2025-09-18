@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Pistoia.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Pistoia.Province/
 markerFolder: ./Pistoia.Province/

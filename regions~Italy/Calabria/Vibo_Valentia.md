@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vibo_Valentia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vibo_Valentia/
 markerFolder: ./Vibo_Valentia/

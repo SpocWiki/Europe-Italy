@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Trento.Province
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Trento.Province/
 markerFolder: ./Trento.Province/
