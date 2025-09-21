@@ -163,7 +163,7 @@ Krugosvet_article: istoriya/GARIBALDI_DZHUZEPPE.html
 
 # [[Garibaldi,Giuseppe]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Giuseppe_Garibaldi,539|WD~Giuseppe_Garibaldi,539]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Giuseppe_Garibaldi,539|WD~Giuseppe_Garibaldi,539]] 
 ## #has_/text_of_/abstract 
 
 > Giuseppe Maria Garibaldi ( GARR-ib-AHL-dee, Italian: [dʒuˈzɛppe ɡariˈbaldi] ; 
