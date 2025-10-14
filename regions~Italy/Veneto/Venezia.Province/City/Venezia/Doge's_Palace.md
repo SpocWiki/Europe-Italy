@@ -58,7 +58,7 @@ collection_or_exhibition_size:
   - 3000
   - 1130
 floors_above_ground: 4
-location: "[[_Standards/WikiData/WD~San_Marco,52427]]"
+locations: "[[_Standards/WikiData/WD~San_Marco,52427]]"
 area:
   - 10281
   - 12578

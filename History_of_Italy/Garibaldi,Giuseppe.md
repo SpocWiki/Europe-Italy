@@ -140,7 +140,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~German,188]]"
 native_language: "[[_Standards/WikiData/WD~Italian,652]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 place_of_birth: "[[_Standards/WikiData/WD~Nice,33959]]"
 Commons_Creator_page: Giuseppe Garibaldi
 Commons_gallery: Giuseppe Garibaldi
