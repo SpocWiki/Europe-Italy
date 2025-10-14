@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../../../Europe~Central/Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

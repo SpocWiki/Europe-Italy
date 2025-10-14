@@ -256,7 +256,7 @@ State ::
 Country :: [[../../../../../Italy]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Milan,490|WD~Milan,490]] 
 

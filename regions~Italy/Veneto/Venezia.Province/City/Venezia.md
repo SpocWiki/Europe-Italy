@@ -226,7 +226,7 @@ State ::
 Country :: [[../../../../../Italy]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]] 
 

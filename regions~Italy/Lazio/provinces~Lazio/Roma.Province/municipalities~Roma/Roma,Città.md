@@ -288,7 +288,7 @@ State ::
 Country :: [[../../../../../../Italy]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Rome,220|WD~Rome,220]]  
 
