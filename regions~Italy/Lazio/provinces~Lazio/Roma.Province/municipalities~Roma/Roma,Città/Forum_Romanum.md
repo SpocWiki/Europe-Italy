@@ -6,7 +6,6 @@ aliases:
 
 # [[Forum_Romanum]] 
 
-
 ## #has_/text_of_/abstract 
 
 > The Roman Forum (Italian: Foro Romano), also known by its Latin name **Forum Romanum**, 

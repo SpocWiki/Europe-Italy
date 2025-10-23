@@ -289,14 +289,16 @@ Country :: [[../../../../../../Italy]]
 [StateId::] 
 [Population::] 
 
-
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Rome,220|WD~Rome,220]]  
 
+## #has_/map 
 
 ```leaflet
 id: Roma
 coordinates: [[Roma,Città]] 
 markerFile: [[Roma,Città]] 
+geojsonFolder: ./Roma,Città/
+markerFolder: ./Roma,Città/
 defaultZoom: 11 
 maxZoom: 18
 ```
