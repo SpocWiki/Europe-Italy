@@ -28,6 +28,9 @@ Country :: [[../../../../../Italy]]
 id: Ramiseto
 coordinates: [[Ramiseto]] 
 markerFile: [[Ramiseto]] 
+geojsonFolder: ./Maglie,City/
+markerFolder: ./Maglie,City/
+zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 ```

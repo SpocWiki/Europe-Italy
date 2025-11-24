@@ -1,5 +1,16 @@
 ---
+aliases:
+  - Apennine Mountains
+  - Apennin
+  - Apennines
+  - Apenninus Mons
+  - Appenninus
+  - Appennini
 has_id_wikidata: Q1285
+location:
+  - 42.469166666
+  - 13.565555555
+coordinate_location: Point(13.565555555 42.469166666)
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -11,7 +22,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 highest_point: "[[_Standards/WikiData/WD~Corno_Grande,636540]]"
 part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
-coordinate_location: Point(13.565555555 42.469166666)
 country:
   - "[[_Standards/WikiData/WD~Italy,38]]"
   - "[[_Standards/WikiData/WD~San_Marino,238]]"
@@ -28,20 +38,18 @@ Commons_category: Apennine mountains
 Commons_gallery: Apennine Mountains
 Wolfram_Language_entity_code: Entity["Concept", "Apennines::wh3b2"]
 native_label: Appennini
-aliases:
-  - Apennine Mountains
-  - Apennin
-  - Apennines
-  - Apenninus Mons
-  - Appenninus
-  - Appennini
 ---
 
 # [[Apennine_Mountains]] 
 
 ```leaflet 
 id: Apennine_Mountains
-geojson: Apennine_Mountains.geojson
+coordinates: [[Apennine_Mountains]] 
+markerFile: [[Apennine_Mountains]] 
+geojsonFolder: ./Apennine_Mountains/
+markerFolder: ./Apennine_Mountains/
+zoomFeatures: false
+defaultZoom: 5 
 ```
 
 
