@@ -37,6 +37,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Roma.Province/
 markerFolder: ./Roma.Province/
+coordinates: [[Roma.Province]] 
+markerFile: [[Roma.Province]] 
 ```
 
 
