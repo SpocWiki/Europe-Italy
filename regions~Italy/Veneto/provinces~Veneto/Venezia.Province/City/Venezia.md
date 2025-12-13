@@ -5,6 +5,7 @@ aliases:
   - Venezia
   - Venesia
   - Venexia
+has_id_wikidata: Q641
 location:
   - 45.43
   - 12.33
@@ -18,7 +19,6 @@ tags:
 SpocWebEntityId: 35240
 isDeleted: false
 confidential: public
-has_id_wikidata: Q641
 located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Venetian_Lagoon,76925]]"
   - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
@@ -227,8 +227,7 @@ Country :: [[../../../../../Italy]]
 [StateId::] 
 [Population::] 
 
-
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]  
 
 ## #has_/map 
 
