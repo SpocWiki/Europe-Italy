@@ -3,7 +3,9 @@ aliases:
   - Pitti Palace
   - Palazzo Pitti
 has_id_wikidata: Q29286
-location: [43.765153, 11.250008]
+location:
+  - 43.765153
+  - 11.250008
 coordinate_location: Point(11.250008 43.765153)
 architect:
   - "[[_Standards/WikiData/WD~Filippo_Brunelleschi,174330]]"
@@ -17,7 +19,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]"
 architectural_style: "[[_Standards/WikiData/WD~Renaissance_architecture,236122]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

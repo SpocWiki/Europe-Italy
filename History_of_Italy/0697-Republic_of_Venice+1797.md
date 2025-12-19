@@ -38,7 +38,7 @@ legislative_body:
   - "[[_Standards/WikiData/WD~Great_Council_of_Venice,583190]]"
   - "[[_Standards/WikiData/WD~Senate_of_the_Republic_of_Venice,767590]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 owner_of:
   - "[[_Standards/WikiData/WD~Rocca_a_Mare,603920]]"

@@ -69,7 +69,7 @@ heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~pope,19546]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"

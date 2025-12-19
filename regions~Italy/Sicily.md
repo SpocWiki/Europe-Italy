@@ -4,11 +4,13 @@ aliases:
 has_id_wikidata: Q1460
 coordinates_of_northernmost_point: Point(15.25164 38.81771)
 coordinates_of_westernmost_point: Point(11.92587 36.81632)
-location: [ 37.599958333, 14.015377777]
+location:
+  - 37.599958333
+  - 14.015377777
 coordinate_location: Point(14.015377777 37.599958333)
 different_from: "[[_Standards/WikiData/WD~Isles_of_Scilly,180209]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"

@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q99309
 location: Point(12.476944444 41.898611111)
-coordinate_location: [41.898611111, 12.476944444]
+coordinate_location:
+  - 41.898611111
+  - 12.476944444
 instance_of:
   - "[[_Standards/WikiData/WD~minor_basilica,120560]]"
   - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
@@ -18,7 +20,7 @@ instance_of:
 architect: "[[_Standards/WikiData/WD~Apollodorus_of_Damascus,189375]]"
 architectural_style: "[[_Standards/WikiData/WD~ancient_Roman_architecture,223750]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

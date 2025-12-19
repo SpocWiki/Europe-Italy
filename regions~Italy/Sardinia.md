@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Autonomous Region of Sardinia 
-  - Regione Autonoma della Sardegna 
+  - Autonomous Region of Sardinia
+  - Regione Autonoma della Sardegna
   - Regione Autònoma de Sardigna
   - Sardigna
   - Sardegna
-  - Sardinien 
+  - Sardinien
 has_id_wikidata: Q1462
 different_from: "[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]"
 language_used:
@@ -19,7 +19,7 @@ language_used:
   - "[[_Standards/WikiData/WD~Ligurian,36106]]"
 anthem: "[[_Standards/WikiData/WD~Su_patriottu_sardu_a_sos_feudatarios,543830]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"

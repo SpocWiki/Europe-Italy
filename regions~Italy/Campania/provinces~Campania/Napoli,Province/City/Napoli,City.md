@@ -85,7 +85,7 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Naples,20
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
   - "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

@@ -6,7 +6,9 @@ aliases:
   - Vatican Library
 has_id_wikidata: Q213678
 coordinate_location: Point(12.454444444 41.904722222)
-location: [41.904722222, 12.454444444] 
+location:
+  - 41.904722222
+  - 12.454444444
 Libris_URI: pm1319975v20k5z
 Royal_Academy_new_identifier: vatican-library
 Code_List_for_Cultural_Heritage_Organizations: vcba
@@ -15,7 +17,7 @@ street_address: Cortile del Belvedere, V-00120 Città del Vaticano
 child_organization_or_unit:
   - "[[_Standards/WikiData/WD~Vatican_Apostolic_Archives,536580]]"
   - "[[_Standards/WikiData/WD~R._Pfister_Collection,119841801]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 member_of:
   - "[[_Standards/WikiData/WD~Conference_of_European_National_Librarians,1255790]]"
   - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"

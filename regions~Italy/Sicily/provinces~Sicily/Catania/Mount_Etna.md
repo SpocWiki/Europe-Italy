@@ -5,7 +5,9 @@ aliases:
 has_id_wikidata: Q16990
 Colon_Classification: H411.52813
 Commons_category: Mount Etna
-location: [37.750834514, 14.993220288]
+location:
+  - 37.750834514
+  - 14.993220288
 coordinate_location: Point(14.993220288 37.750834514)
 located_in_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Zafferana_Etnea,140202]]"
@@ -34,7 +36,7 @@ made_from_material:
   - "[[_Standards/WikiData/WD~basalt,43338]]"
 located_in_protected_area: "[[_Standards/WikiData/WD~Etna_Park,499242]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
