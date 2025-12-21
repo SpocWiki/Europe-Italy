@@ -1,16 +1,19 @@
 ---
-location: [54.73,7.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Aosta
+location:
+  - 54.73
+  - 7.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28839
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

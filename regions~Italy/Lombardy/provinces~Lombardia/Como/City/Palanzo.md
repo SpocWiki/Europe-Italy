@@ -1,16 +1,19 @@
 ---
-location: [45.87,9.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Palanzo
+location:
+  - 45.87
+  - 9.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33220
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

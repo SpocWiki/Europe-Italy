@@ -1,16 +1,19 @@
 ---
-location: [44.8,10.31] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Parma
+location:
+  - 44.8
+  - 10.31
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33252
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

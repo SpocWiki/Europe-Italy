@@ -1,16 +1,19 @@
 ---
-location: [45.18,10.37] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ligonchio
+location:
+  - 45.18
+  - 10.37
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32008
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

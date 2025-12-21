@@ -1,8 +1,18 @@
 ---
-title: Italy
-linkTitle:
-type: Country
+aliases:
+  - Italy
+  - Italia
+  - Italie
+  - إيطاليا
+  - 意大利
+  - Италия
+  - the Republic of Italy
+  - la República Italiana
+  - ReadMe
 has_id_wikidata: Q38
+title: Italy
+linkTitle: ''
+type: Country
 location:
   - 43.4809
   - 11.8169
@@ -17,20 +27,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Italy
-  - Italia
-  - Italie
-  - إيطاليا
-  - 意大利
-  - Италия
-  - the Republic of Italy
-  - la República Italiana
+publishDate: ''
+expiryDate: ''
 Languages:
   - it-IT
   - de-IT

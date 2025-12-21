@@ -1,16 +1,19 @@
 ---
-location: [41.83,12.9] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Palestrina
+location:
+  - 41.83
+  - 12.9
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33224
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Palestrina]] 

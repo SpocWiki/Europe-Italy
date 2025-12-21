@@ -1,16 +1,19 @@
 ---
-location: [40.82,14.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Portici
+location:
+  - 40.82
+  - 14.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33477
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,20 @@
 ---
-location: [44.43,10.43] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Casteinuova_Monti
+  - Casteinuova Monti
+location:
+  - 44.43
+  - 10.43
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29503
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

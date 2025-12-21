@@ -1,16 +1,19 @@
 ---
-location: [44.27,10.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bismantova
+location:
+  - 44.27
+  - 10.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29202
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

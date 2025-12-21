@@ -1,16 +1,19 @@
 ---
-location: [37.5,13.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sciacca
+location:
+  - 37.5
+  - 13.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34153
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

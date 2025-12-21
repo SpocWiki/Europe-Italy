@@ -1,16 +1,19 @@
 ---
-location: [41.17,17.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bari
+location:
+  - 41.17
+  - 17.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29022
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

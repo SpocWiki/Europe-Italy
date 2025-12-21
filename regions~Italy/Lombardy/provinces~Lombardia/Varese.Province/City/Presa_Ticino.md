@@ -1,16 +1,20 @@
 ---
-location: [45.67,8.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Presa_Ticino
+  - Presa Ticino
+location:
+  - 45.67
+  - 8.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33514
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

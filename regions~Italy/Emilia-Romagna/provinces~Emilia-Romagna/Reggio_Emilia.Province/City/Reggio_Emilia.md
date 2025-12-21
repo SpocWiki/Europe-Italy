@@ -1,16 +1,20 @@
 ---
-location: [44.7,10.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Reggio_Emilia
+  - Reggio Emilia
+location:
+  - 44.7
+  - 10.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33676
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

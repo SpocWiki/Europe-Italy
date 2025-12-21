@@ -1,16 +1,19 @@
 ---
-location: [41.5,13.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cassino
+location:
+  - 41.5
+  - 13.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29501
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

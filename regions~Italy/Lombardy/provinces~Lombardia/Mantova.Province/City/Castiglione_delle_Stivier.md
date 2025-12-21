@@ -1,16 +1,20 @@
 ---
-location: [45.38,10.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Castiglione_delle_Stivier
+  - Castiglione delle Stivier
+location:
+  - 45.38
+  - 10.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29513
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

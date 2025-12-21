@@ -1,16 +1,19 @@
 ---
-location: [44.8,12.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Codigoro
+location:
+  - 44.8
+  - 12.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29636
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

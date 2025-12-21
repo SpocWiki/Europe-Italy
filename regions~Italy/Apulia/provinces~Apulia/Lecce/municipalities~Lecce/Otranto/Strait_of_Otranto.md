@@ -1,19 +1,22 @@
 ---
 aliases:
   - Strait of Otranto
+  - Strait_of_Otranto
 has_id_wikidata: Q164070
-location: [ 40.219438888, 18.925561111]
+location:
+  - 40.219438888
+  - 18.925561111
 coordinate_location: Point(18.925561111 40.219438888)
 instance_of:
-  - "[[_Standards/WikiData/WD~sound,491713]]"
-  - "[[_Standards/WikiData/WD~strait,37901]]"
-described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - '[[_Standards/WikiData/WD~sound,491713]]'
+  - '[[_Standards/WikiData/WD~strait,37901]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 country:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~Albania,222]]'
 vertical_depth: 850
-named_after: "[[_Standards/WikiData/WD~Otranto,52174]]"
-OmegaWiki_Defined_Meaning: "739224"
+named_after: '[[_Standards/WikiData/WD~Otranto,52174]]'
+OmegaWiki_Defined_Meaning: 739224
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gulf%20of%20Taranto%20map.png
 Commons_category: Strait of Otranto
 native_label: Canale d'Otranto

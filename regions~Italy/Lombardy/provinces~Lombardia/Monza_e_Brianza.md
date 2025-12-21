@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Monza_e_Brianza
+  - Monza e Brianza
 location:
   - 45.6
   - 9.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Monza_e_Brianza
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Monza_e_Brianza

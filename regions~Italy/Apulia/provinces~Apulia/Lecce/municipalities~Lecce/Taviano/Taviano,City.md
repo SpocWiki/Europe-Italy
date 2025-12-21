@@ -1,16 +1,19 @@
 ---
-location: [39.98,18.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Taviano,City
+location:
+  - 39.98
+  - 18.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34782
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Taviano,City]] 

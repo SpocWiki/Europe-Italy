@@ -1,23 +1,25 @@
 ---
 aliases:
   - Italian literature
+  - Italian_Literature
+  - Italian Literature
 has_id_wikidata: Q74217
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-studied_by: "[[_Standards/WikiData/WD~Italian_literature,109587724]]"
-different_from: "[[_Standards/WikiData/WD~Italian_literature,109587724]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
-Dewey_Decimal_Classification: "850"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+studied_by: '[[_Standards/WikiData/WD~Italian_literature,109587724]]'
+different_from: '[[_Standards/WikiData/WD~Italian_literature,109587724]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+Dewey_Decimal_Classification: 850
 Commons_category: Literature of Italy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Divina%20Comedia%2C%20Dante%20Alighier%2C%20Veneza%2C%201529.jpg
-Basisklassifikation: "18.27"
+Basisklassifikation: 18.27
 Provenio_UUID: 6d3b645d-70f9-4c81-8660-28d968f4db0e
 Krugosvet_article_archived_: literatura/italyanskaya-literatura
 Colon_Classification: O111v

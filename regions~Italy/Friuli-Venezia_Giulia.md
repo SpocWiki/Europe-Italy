@@ -3,6 +3,7 @@ aliases:
   - Friuli-Venezia Giulia
   - Friaul
   - Friaul-Julisch Venetien
+  - Friuli-Venezia_Giulia
 ---
 
 ```leaflet

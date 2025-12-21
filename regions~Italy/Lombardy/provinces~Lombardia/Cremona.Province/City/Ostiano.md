@@ -1,16 +1,19 @@
 ---
-location: [45.22,10.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ostiano
+location:
+  - 45.22
+  - 10.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33179
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

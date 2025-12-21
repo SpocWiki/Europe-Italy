@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Subiaco,Lazio
 location:
   - 41.93
   - 13.08

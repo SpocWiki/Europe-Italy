@@ -1,16 +1,19 @@
 ---
-location: [45.5,9.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Brunate
+location:
+  - 45.5
+  - 9.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29373
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

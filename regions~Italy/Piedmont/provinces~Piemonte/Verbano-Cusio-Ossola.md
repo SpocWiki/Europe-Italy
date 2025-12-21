@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Verbano-Cusio-Ossola
 location:
   - 46.1
   - 8.4
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Verbano-Cusio-Ossola
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Verbano-Cusio-Ossola

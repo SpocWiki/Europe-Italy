@@ -1,16 +1,19 @@
 ---
-location: [46.95,12.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rain,Lucerne
+location:
+  - 46.95
+  - 12.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33619
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Rain,Lucerne]] 

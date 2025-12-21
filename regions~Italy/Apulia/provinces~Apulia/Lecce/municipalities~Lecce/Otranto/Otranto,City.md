@@ -1,16 +1,19 @@
 ---
-location: [40.15,18.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Otranto,City
+location:
+  - 40.15
+  - 18.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33184
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Otranto,City]] 

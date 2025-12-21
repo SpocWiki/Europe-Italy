@@ -1,16 +1,19 @@
 ---
-location: [43.07,12.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Assisi
+location:
+  - 43.07
+  - 12.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28903
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

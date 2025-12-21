@@ -1,16 +1,19 @@
 ---
-location: [41.68,12.78] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Velletri
+location:
+  - 41.68
+  - 12.78
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35236
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Velletri]] 

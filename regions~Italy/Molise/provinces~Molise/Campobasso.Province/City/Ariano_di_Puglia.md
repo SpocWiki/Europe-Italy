@@ -1,16 +1,20 @@
 ---
-location: [41.92,14.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ariano_di_Puglia
+  - Ariano di Puglia
+location:
+  - 41.92
+  - 14.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28868
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

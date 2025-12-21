@@ -2,39 +2,40 @@
 aliases:
   - Pitti Palace
   - Palazzo Pitti
+  - Palazzo_Pitti
 has_id_wikidata: Q29286
 location:
   - 43.765153
   - 11.250008
 coordinate_location: Point(11.250008 43.765153)
 architect:
-  - "[[_Standards/WikiData/WD~Filippo_Brunelleschi,174330]]"
-  - "[[_Standards/WikiData/WD~Luca_Fancelli,2255983]]"
-has_use: "[[_Standards/WikiData/WD~art_museum,207694]]"
+  - '[[_Standards/WikiData/WD~Filippo_Brunelleschi,174330]]'
+  - '[[_Standards/WikiData/WD~Luca_Fancelli,2255983]]'
+has_use: '[[_Standards/WikiData/WD~art_museum,207694]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_museum,207694]]"
-  - "[[_Standards/WikiData/WD~mansion,1802963]]"
-  - "[[_Standards/WikiData/WD~Italian_national_museum,3867560]]"
-  - "[[_Standards/WikiData/WD~museum_of_modern_art,108860593]]"
-  - "[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]"
-architectural_style: "[[_Standards/WikiData/WD~Renaissance_architecture,236122]]"
+  - '[[_Standards/WikiData/WD~art_museum,207694]]'
+  - '[[_Standards/WikiData/WD~mansion,1802963]]'
+  - '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
+  - '[[_Standards/WikiData/WD~museum_of_modern_art,108860593]]'
+  - '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
+architectural_style: '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Museums_of_Florence,913019]]"
-  - "[[_Standards/WikiData/WD~Gallerie_degli_Uffizi,28647411]]"
+  - '[[_Standards/WikiData/WD~Museums_of_Florence,913019]]'
+  - '[[_Standards/WikiData/WD~Gallerie_degli_Uffizi,28647411]]'
 located_on_street: "[[_Standards/WikiData/WD~Piazza_de'_Pitti,913088]]"
-owner_of: "[[_Standards/WikiData/WD~Roman_carts,1121644]]"
-locations: "[[_Standards/WikiData/WD~Historic_Centre_of_Florence,2707802]]"
-heritage_designation: "[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q114585528,114585528]]"
-has_part_s_: "[[_Standards/WikiData/WD~Education_of_Jupiter_Room,123498697]]"
+owner_of: '[[_Standards/WikiData/WD~Roman_carts,1121644]]'
+locations: '[[_Standards/WikiData/WD~Historic_Centre_of_Florence,2707802]]'
+heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q114585528,114585528]]'
+has_part_s_: '[[_Standards/WikiData/WD~Education_of_Jupiter_Room,123498697]]'
 inception: 1458-01-01T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Florence,2044]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Florence,2044]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 employees: 112
 visitors_per_year:
   - 198270

@@ -1,16 +1,19 @@
 ---
-location: [37.73,15.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Alfio
+location:
+  - 37.73
+  - 15.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34432
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

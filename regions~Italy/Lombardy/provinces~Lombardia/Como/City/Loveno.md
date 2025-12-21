@@ -1,16 +1,19 @@
 ---
-location: [46.05,9.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Loveno
+location:
+  - 46.05
+  - 9.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32109
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

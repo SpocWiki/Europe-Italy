@@ -1,16 +1,19 @@
 ---
-location: [43.88,8.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Oneglia
+location:
+  - 43.88
+  - 8.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33111
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

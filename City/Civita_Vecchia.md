@@ -1,16 +1,20 @@
 ---
-location: [42.08,11.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Civita_Vecchia
+  - Civita Vecchia
+location:
+  - 42.08
+  - 11.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29616
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

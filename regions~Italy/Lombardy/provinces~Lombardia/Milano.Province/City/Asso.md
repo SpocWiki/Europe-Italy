@@ -1,16 +1,19 @@
 ---
-location: [45.52,9.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Asso
+location:
+  - 45.52
+  - 9.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28905
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

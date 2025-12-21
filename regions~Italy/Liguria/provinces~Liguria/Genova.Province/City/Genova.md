@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Genua
+  - Genoa
+  - Genova
+has_id_wikidata: Q1449
 location:
   - 44.42
   - 8.95
@@ -12,120 +17,116 @@ tags:
 SpocWebEntityId: 30415
 isDeleted: false
 confidential: public
-aliases:
-  - Genua
-  - Genoa
-has_id_wikidata: Q1449
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Timișoara,83404]]"
-  - "[[_Standards/WikiData/WD~Latakia,200030]]"
-  - "[[_Standards/WikiData/WD~Beyoğlu,217411]]"
-  - "[[_Standards/WikiData/WD~Chios,748832]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~Rijeka,1647]]"
-  - "[[_Standards/WikiData/WD~Odesa,1874]]"
-  - "[[_Standards/WikiData/WD~Ryazan,2746]]"
-  - "[[_Standards/WikiData/WD~Baltimore,5092]]"
-  - "[[_Standards/WikiData/WD~Varna,6506]]"
-  - "[[_Standards/WikiData/WD~Columbus,16567]]"
-  - "[[_Standards/WikiData/WD~Acqui_Terme,17244]]"
-  - "[[_Standards/WikiData/WD~Tirana,19689]]"
-  - "[[_Standards/WikiData/WD~Marseille,23482]]"
-  - "[[_Standards/WikiData/WD~Kharkiv,42308]]"
-  - "[[_Standards/WikiData/WD~Tursi,52337]]"
-  - "[[_Standards/WikiData/WD~Aue,57948]]"
+  - '[[_Standards/WikiData/WD~Timișoara,83404]]'
+  - '[[_Standards/WikiData/WD~Latakia,200030]]'
+  - '[[_Standards/WikiData/WD~Beyoğlu,217411]]'
+  - '[[_Standards/WikiData/WD~Chios,748832]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
+  - '[[_Standards/WikiData/WD~Athens,1524]]'
+  - '[[_Standards/WikiData/WD~Rijeka,1647]]'
+  - '[[_Standards/WikiData/WD~Odesa,1874]]'
+  - '[[_Standards/WikiData/WD~Ryazan,2746]]'
+  - '[[_Standards/WikiData/WD~Baltimore,5092]]'
+  - '[[_Standards/WikiData/WD~Varna,6506]]'
+  - '[[_Standards/WikiData/WD~Columbus,16567]]'
+  - '[[_Standards/WikiData/WD~Acqui_Terme,17244]]'
+  - '[[_Standards/WikiData/WD~Tirana,19689]]'
+  - '[[_Standards/WikiData/WD~Marseille,23482]]'
+  - '[[_Standards/WikiData/WD~Kharkiv,42308]]'
+  - '[[_Standards/WikiData/WD~Tursi,52337]]'
+  - '[[_Standards/WikiData/WD~Aue,57948]]'
 award_received:
-  - "[[_Standards/WikiData/WD~European_Capital_of_Culture,129372]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_Military_Valour,15042072]]"
+  - '[[_Standards/WikiData/WD~European_Capital_of_Culture,129372]]'
+  - '[[_Standards/WikiData/WD~Gold_Medal_of_Military_Valour,15042072]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Palazzo_Doria_Tursi,162965]]"
-  - "[[_Standards/WikiData/WD~Stadio_Luigi_Ferraris,271568]]"
-  - "[[_Standards/WikiData/WD~Forte_Sperone,661321]]"
-  - "[[_Standards/WikiData/WD~Palazzo_Bianco,1808872]]"
-  - "[[_Standards/WikiData/WD~Palazzo_Rosso,2034331]]"
+  - '[[_Standards/WikiData/WD~Palazzo_Doria_Tursi,162965]]'
+  - '[[_Standards/WikiData/WD~Stadio_Luigi_Ferraris,271568]]'
+  - '[[_Standards/WikiData/WD~Forte_Sperone,661321]]'
+  - '[[_Standards/WikiData/WD~Palazzo_Bianco,1808872]]'
+  - '[[_Standards/WikiData/WD~Palazzo_Rosso,2034331]]'
   - "[[_Standards/WikiData/WD~Doge's_Palace,_Genoa,2047566]]"
-  - "[[_Standards/WikiData/WD~Monte_Moro_Battery,3636722]]"
-  - "[[_Standards/WikiData/WD~Batteria_Mameli,3636721]]"
-  - "[[_Standards/WikiData/WD~Q3636724,3636724]]"
-  - "[[_Standards/WikiData/WD~Q3636725,3636725]]"
-  - "[[_Standards/WikiData/WD~Albertis_Castle,3662403]]"
-  - "[[_Standards/WikiData/WD~Forte_Begato,3748517]]"
-  - "[[_Standards/WikiData/WD~Forte_Crocetta,3748544]]"
-  - "[[_Standards/WikiData/WD~Forte_Puin,3748601]]"
-  - "[[_Standards/WikiData/WD~Forte_Tenaglia,3748648]]"
-  - "[[_Standards/WikiData/WD~Stadio_Carlini_Bollesan,3967756]]"
-  - "[[_Standards/WikiData/WD~villa_Centurione_Doria,4011948]]"
-  - "[[_Standards/WikiData/WD~Villa_Durazzo_Pallavicini,4011961]]"
-  - "[[_Standards/WikiData/WD~Villa_Imperiale,4012131]]"
-  - "[[_Standards/WikiData/WD~Villa_Grimaldi,15845579]]"
-  - "[[_Standards/WikiData/WD~Villa_Spinola_di_San_Pietro,15845585]]"
-  - "[[_Standards/WikiData/WD~Villa_Imperiale_Scassi,16621442]]"
-  - "[[_Standards/WikiData/WD~Villa_Gruber_De_Mari,26828180]]"
-  - "[[_Standards/WikiData/WD~Villa_Croce,50919233]]"
+  - '[[_Standards/WikiData/WD~Monte_Moro_Battery,3636722]]'
+  - '[[_Standards/WikiData/WD~Batteria_Mameli,3636721]]'
+  - '[[_Standards/WikiData/WD~Q3636724,3636724]]'
+  - '[[_Standards/WikiData/WD~Q3636725,3636725]]'
+  - '[[_Standards/WikiData/WD~Albertis_Castle,3662403]]'
+  - '[[_Standards/WikiData/WD~Forte_Begato,3748517]]'
+  - '[[_Standards/WikiData/WD~Forte_Crocetta,3748544]]'
+  - '[[_Standards/WikiData/WD~Forte_Puin,3748601]]'
+  - '[[_Standards/WikiData/WD~Forte_Tenaglia,3748648]]'
+  - '[[_Standards/WikiData/WD~Stadio_Carlini_Bollesan,3967756]]'
+  - '[[_Standards/WikiData/WD~villa_Centurione_Doria,4011948]]'
+  - '[[_Standards/WikiData/WD~Villa_Durazzo_Pallavicini,4011961]]'
+  - '[[_Standards/WikiData/WD~Villa_Imperiale,4012131]]'
+  - '[[_Standards/WikiData/WD~Villa_Grimaldi,15845579]]'
+  - '[[_Standards/WikiData/WD~Villa_Spinola_di_San_Pietro,15845585]]'
+  - '[[_Standards/WikiData/WD~Villa_Imperiale_Scassi,16621442]]'
+  - '[[_Standards/WikiData/WD~Villa_Gruber_De_Mari,26828180]]'
+  - '[[_Standards/WikiData/WD~Villa_Croce,50919233]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Republic_of_Genoa,174306]]"
-  - "[[_Standards/WikiData/WD~Ligurian_Republic,659312]]"
-  - "[[_Standards/WikiData/WD~Gênes,1098820]]"
-  - "[[_Standards/WikiData/WD~Genoese_Republic,16595757]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]"
-  - "[[_Standards/WikiData/WD~Liguria,1256]]"
-  - "[[_Standards/WikiData/WD~Province_of_Genoa,16183]]"
+  - '[[_Standards/WikiData/WD~Republic_of_Genoa,174306]]'
+  - '[[_Standards/WikiData/WD~Ligurian_Republic,659312]]'
+  - '[[_Standards/WikiData/WD~Gênes,1098820]]'
+  - '[[_Standards/WikiData/WD~Genoese_Republic,16595757]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]'
+  - '[[_Standards/WikiData/WD~Liguria,1256]]'
+  - '[[_Standards/WikiData/WD~Province_of_Genoa,16183]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Arenzano,265257]]"
-  - "[[_Standards/WikiData/WD~Mele,265284]]"
-  - "[[_Standards/WikiData/WD~Masone,265311]]"
-  - "[[_Standards/WikiData/WD~Campomorone,265483]]"
-  - "[[_Standards/WikiData/WD~Ceranesi,265498]]"
-  - "[[_Standards/WikiData/WD~Mignanego,265514]]"
-  - "[[_Standards/WikiData/WD~Serra_Riccò,265528]]"
+  - '[[_Standards/WikiData/WD~Arenzano,265257]]'
+  - '[[_Standards/WikiData/WD~Mele,265284]]'
+  - '[[_Standards/WikiData/WD~Masone,265311]]'
+  - '[[_Standards/WikiData/WD~Campomorone,265483]]'
+  - '[[_Standards/WikiData/WD~Ceranesi,265498]]'
+  - '[[_Standards/WikiData/WD~Mignanego,265514]]'
+  - '[[_Standards/WikiData/WD~Serra_Riccò,265528]]'
   - "[[_Standards/WikiData/WD~Sant'Olcese,265539]]"
-  - "[[_Standards/WikiData/WD~Montoggio,265616]]"
-  - "[[_Standards/WikiData/WD~Tiglieto,266259]]"
-  - "[[_Standards/WikiData/WD~Bargagli,266272]]"
-  - "[[_Standards/WikiData/WD~Davagna,266283]]"
-  - "[[_Standards/WikiData/WD~Bogliasco,266592]]"
-  - "[[_Standards/WikiData/WD~Sori,266630]]"
-  - "[[_Standards/WikiData/WD~Sassello,271225]]"
-  - "[[_Standards/WikiData/WD~Urbe,271341]]"
-  - "[[_Standards/WikiData/WD~Bosio,17287]]"
+  - '[[_Standards/WikiData/WD~Montoggio,265616]]'
+  - '[[_Standards/WikiData/WD~Tiglieto,266259]]'
+  - '[[_Standards/WikiData/WD~Bargagli,266272]]'
+  - '[[_Standards/WikiData/WD~Davagna,266283]]'
+  - '[[_Standards/WikiData/WD~Bogliasco,266592]]'
+  - '[[_Standards/WikiData/WD~Sori,266630]]'
+  - '[[_Standards/WikiData/WD~Sassello,271225]]'
+  - '[[_Standards/WikiData/WD~Urbe,271341]]'
+  - '[[_Standards/WikiData/WD~Bosio,17287]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"
+  - '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~commune_of_Italy,747074]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-head_of_government: "[[_Standards/WikiData/WD~Silvia_Salis,1464665]]"
-has_part_s_: "[[_Standards/WikiData/WD~Palazzi_dei_Rolli,1638371]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Genoa_history,7805726]]"
+  - '[[_Standards/WikiData/WD~commune_of_Italy,747074]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~port_city,2264924]]'
+head_of_government: '[[_Standards/WikiData/WD~Silvia_Salis,1464665]]'
+has_part_s_: '[[_Standards/WikiData/WD~Palazzi_dei_Rolli,1638371]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Genoa_history,7805726]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]"
-  - "[[_Standards/WikiData/WD~Liguria,1256]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Genoa,22871590]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]'
+  - '[[_Standards/WikiData/WD~Liguria,1256]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Metropolitan_City_of_Genoa,18288152]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Genoa,22871590]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q48746686,48746686]]"
-  - "[[_Standards/WikiData/WD~gene,7187]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Genoa,50189121]]"
-legislative_body: "[[_Standards/WikiData/WD~Genoa_City_Council,50189268]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Genoa,100868301]]"
-seismic_classification: "[[_Standards/WikiData/WD~3,106435261]]"
-official_language: "[[_Standards/WikiData/WD~Italian,652]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
+  - '[[_Standards/WikiData/WD~Q48746686,48746686]]'
+  - '[[_Standards/WikiData/WD~gene,7187]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor_of_Genoa,50189121]]'
+legislative_body: '[[_Standards/WikiData/WD~Genoa_City_Council,50189268]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Genoa,100868301]]'
+seismic_classification: '[[_Standards/WikiData/WD~3,106435261]]'
+official_language: '[[_Standards/WikiData/WD~Italian,652]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 subreddit: genova
 EU_VAT_number: IT00856930102
 Colon_Classification: SG--521821
@@ -134,20 +135,20 @@ demonym:
   - Génoise
   - genovesi
 native_label: Zena
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 elevation_above_sea_level: 20
-patron_saint: "[[_Standards/WikiData/WD~John_the_Baptist,40662]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Ligurian_Sea,42820]]"
-OmegaWiki_Defined_Meaning: "7330"
+patron_saint: '[[_Standards/WikiData/WD~John_the_Baptist,40662]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Ligurian_Sea,42820]]'
+OmegaWiki_Defined_Meaning: 7330
 area: 240.29
 population: 558745
 Commons_gallery: Genova
-ISNI: "0000000122851461"
+ISNI: 0000000122851461
 Provenio_UUID: 70c6da84-2f12-43cd-8f04-4416f40e9acc
 BHCL_UUID: 995e7d71-cac6-44bc-ad8d-5854b4b481b1
 licence_plate_code: GE
 official_name: Genova
-local_dialing_code: "010"
+local_dialing_code: 010
 UN_LOCODE: ITGOA
 Italian_cadastre_code_municipality_: D969
 coordinate_location: Point(8.933983333 44.407186111)
@@ -161,10 +162,10 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Genova%20banner%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Genova%20panorama%20centro%20storico%20da%20villetta%20Di%20Negro.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20comune%20of%20Genoa%20%28metropolitan%20city%20of%20Genoa%2C%20region%20Liguria%2C%20Italy%29.svg
 official_website: https://www.comune.genova.it/
-U_S_National_Archives_Identifier: "10045144"
+U_S_National_Archives_Identifier: 10045144
 postal_code: 16121–16167
 Dewey_Decimal_Classification: 2--451821
-EU_Participant_Identification_Code: "998295095"
+EU_Participant_Identification_Code: 998295095
 ---
 
 # [[Genova]] 

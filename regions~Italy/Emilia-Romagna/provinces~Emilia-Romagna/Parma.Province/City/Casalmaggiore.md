@@ -1,16 +1,19 @@
 ---
-location: [44.83,10.32] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Casalmaggiore
+location:
+  - 44.83
+  - 10.32
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29496
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

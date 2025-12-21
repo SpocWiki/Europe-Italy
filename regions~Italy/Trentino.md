@@ -2,6 +2,7 @@
 aliases:
   - Alto Adige
   - Südtirol
+  - Trentino
 ---
 
 ```leaflet

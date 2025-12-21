@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Pesaro_e_Urbino
+  - Pesaro e Urbino
 location:
   - 43.7
   - 12.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Pesaro_e_Urbino
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Pesaro_e_Urbino

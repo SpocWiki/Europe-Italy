@@ -1,16 +1,19 @@
 ---
-location: [41.47,12.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nettuno
+location:
+  - 41.47
+  - 12.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32787
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Nettuno]] 

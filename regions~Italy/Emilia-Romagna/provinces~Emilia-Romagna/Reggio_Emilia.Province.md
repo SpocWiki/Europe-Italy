@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Reggio_Emilia.Province
+  - Reggio Emilia.Province
 location:
   - 44.6
   - 10.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Reggio_Emilia.Province
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Reggio_Emilia.Province

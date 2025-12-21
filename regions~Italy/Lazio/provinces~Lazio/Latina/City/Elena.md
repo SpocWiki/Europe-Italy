@@ -1,16 +1,19 @@
 ---
-location: [41.22,13.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Elena
+location:
+  - 41.22
+  - 13.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30023
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

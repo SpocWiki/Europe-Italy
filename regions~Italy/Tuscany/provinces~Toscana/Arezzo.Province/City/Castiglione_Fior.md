@@ -1,16 +1,20 @@
 ---
-location: [43.33,11.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Castiglione_Fior
+  - Castiglione Fior
+location:
+  - 43.33
+  - 11.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29512
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

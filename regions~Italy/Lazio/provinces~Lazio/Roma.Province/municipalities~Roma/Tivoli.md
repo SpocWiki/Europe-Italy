@@ -1,16 +1,19 @@
 ---
-location: [41.97,12.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tivoli
+location:
+  - 41.97
+  - 12.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34890
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Tivoli]] 

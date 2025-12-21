@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sizilien
+  - Sicily
 has_id_wikidata: Q1460
 coordinates_of_northernmost_point: Point(15.25164 38.81771)
 coordinates_of_westernmost_point: Point(11.92587 36.81632)
@@ -8,51 +9,51 @@ location:
   - 37.599958333
   - 14.015377777
 coordinate_location: Point(14.015377777 37.599958333)
-different_from: "[[_Standards/WikiData/WD~Isles_of_Scilly,180209]]"
+different_from: '[[_Standards/WikiData/WD~Isles_of_Scilly,180209]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q111600428,111600428]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q111600428,111600428]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Greek_Theatre_of_Syracuse,1058967]]"
-  - "[[_Standards/WikiData/WD~Regional_Archaeological_Museum_Antonino_Salinas,1954237]]"
+  - '[[_Standards/WikiData/WD~Greek_Theatre_of_Syracuse,1058967]]'
+  - '[[_Standards/WikiData/WD~Regional_Archaeological_Museum_Antonino_Salinas,1954237]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~autonomous_region_with_special_statute,1710033]]"
-  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
-legislative_body: "[[_Standards/WikiData/WD~Sicilian_Regional_Assembly,2707406]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Sicily,3760294]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~president_of_Sicily,3911023]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sicily,13197369]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Sicily,28670947]]"
-coextensive_with: "[[_Standards/WikiData/WD~Q48808392,48808392]]"
-open_data_portal: "[[_Standards/WikiData/WD~Sicilien_Open_data_portal,97125875]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Sicily,100861677]]"
-capital: "[[_Standards/WikiData/WD~Palermo,2656]]"
+  - '[[_Standards/WikiData/WD~autonomous_region_with_special_statute,1710033]]'
+  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+legislative_body: '[[_Standards/WikiData/WD~Sicilian_Regional_Assembly,2707406]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Sicily,3760294]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~president_of_Sicily,3911023]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sicily,13197369]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Sicily,28670947]]'
+coextensive_with: '[[_Standards/WikiData/WD~Q48808392,48808392]]'
+open_data_portal: '[[_Standards/WikiData/WD~Sicilien_Open_data_portal,97125875]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Sicily,100861677]]'
+capital: '[[_Standards/WikiData/WD~Palermo,2656]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Province_of_Agrigento,16112]]"
-  - "[[_Standards/WikiData/WD~Province_of_Caltanissetta,16150]]"
-  - "[[_Standards/WikiData/WD~Province_of_Catania,16154]]"
-  - "[[_Standards/WikiData/WD~Province_of_Enna,16166]]"
-  - "[[_Standards/WikiData/WD~Province_of_Messina,16208]]"
-  - "[[_Standards/WikiData/WD~Province_of_Palermo,16227]]"
-  - "[[_Standards/WikiData/WD~Province_of_Ragusa,16251]]"
-  - "[[_Standards/WikiData/WD~Province_of_Syracuse,16277]]"
-  - "[[_Standards/WikiData/WD~Province_of_Trapani,16288]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Etna,16990]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Italy,38]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
-language_used: "[[_Standards/WikiData/WD~Sicilian,33973]]"
+  - '[[_Standards/WikiData/WD~Province_of_Agrigento,16112]]'
+  - '[[_Standards/WikiData/WD~Province_of_Caltanissetta,16150]]'
+  - '[[_Standards/WikiData/WD~Province_of_Catania,16154]]'
+  - '[[_Standards/WikiData/WD~Province_of_Enna,16166]]'
+  - '[[_Standards/WikiData/WD~Province_of_Messina,16208]]'
+  - '[[_Standards/WikiData/WD~Province_of_Palermo,16227]]'
+  - '[[_Standards/WikiData/WD~Province_of_Ragusa,16251]]'
+  - '[[_Standards/WikiData/WD~Province_of_Syracuse,16277]]'
+  - '[[_Standards/WikiData/WD~Province_of_Trapani,16288]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Etna,16990]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Italy,38]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
+language_used: '[[_Standards/WikiData/WD~Sicilian,33973]]'
 elevation_above_sea_level: 3340
-head_of_government: "[[_Standards/WikiData/WD~Renato_Schifani,47589]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Sicily,59921]]"
-OpenStreetMap_zoom_level: "7"
+head_of_government: '[[_Standards/WikiData/WD~Renato_Schifani,47589]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Sicily,59921]]'
+OpenStreetMap_zoom_level: 7
 area: 25711
 demonym:
   - siciliana
@@ -69,8 +70,8 @@ native_label:
 Commons_category: Sicily
 Commons_gallery: Sicilia
 population: 4983478
-official_name: "-"
-OmegaWiki_Defined_Meaning: "504265"
+official_name: '-'
+OmegaWiki_Defined_Meaning: 504265
 geoshape: http://commons.wikimedia.org/data/main/Data:Italy/Region/Sicily.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20101207-etna-full%20%2814213006863%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20Agrigento%200067.jpg
@@ -80,8 +81,8 @@ location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20regi
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Reliefkarte%20Sizilien%202019.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sicily%20in%20Italy.svg
 official_website: https://www.regione.sicilia.it/
-ISNI: "0000000417561787"
-U_S_National_Archives_Identifier: "10044830"
+ISNI: 0000000417561787
+U_S_National_Archives_Identifier: 10044830
 Dewey_Decimal_Classification: 2--458
 UMLS_CUI: C0037049
 ISO_3166_2_code: IT-82

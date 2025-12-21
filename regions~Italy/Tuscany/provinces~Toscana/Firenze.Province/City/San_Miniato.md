@@ -1,16 +1,20 @@
 ---
-location: [43.65,11.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - San_Miniato
+  - San Miniato
+location:
+  - 43.65
+  - 11.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33918
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

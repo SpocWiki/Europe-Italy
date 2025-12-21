@@ -1,16 +1,19 @@
 ---
-location: [40.93,14.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Montevergine
+location:
+  - 40.93
+  - 14.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32580
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

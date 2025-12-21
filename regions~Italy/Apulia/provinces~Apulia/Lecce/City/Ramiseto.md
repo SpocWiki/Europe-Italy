@@ -1,16 +1,19 @@
 ---
-location: [40.12,18.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ramiseto
+location:
+  - 40.12
+  - 18.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33626
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

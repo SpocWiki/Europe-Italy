@@ -1,16 +1,19 @@
 ---
-location: [40.12,18.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Maglie,City
+location:
+  - 40.12
+  - 18.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32214
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Maglie,City]] 

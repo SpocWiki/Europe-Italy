@@ -1,16 +1,19 @@
 ---
-location: [37.78,12.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Marsala
+location:
+  - 37.78
+  - 12.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32326
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

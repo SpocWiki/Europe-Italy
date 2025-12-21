@@ -1,16 +1,20 @@
 ---
-location: [41.2,15.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Monvalvo_Irpinio
+  - Monvalvo Irpinio
+location:
+  - 41.2
+  - 15.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32593
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

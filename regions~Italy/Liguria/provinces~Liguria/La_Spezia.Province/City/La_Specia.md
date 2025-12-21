@@ -1,16 +1,20 @@
 ---
-location: [44.1,9.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - La_Specia
+  - La Specia
+location:
+  - 44.1
+  - 9.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31769
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

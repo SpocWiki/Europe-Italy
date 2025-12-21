@@ -1,16 +1,19 @@
 ---
-location: [45.77,11.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bassano
+location:
+  - 45.77
+  - 11.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29039
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

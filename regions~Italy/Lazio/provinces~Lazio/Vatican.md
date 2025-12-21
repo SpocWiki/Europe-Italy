@@ -25,11 +25,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
 MeSH_tree_code: Z01.542.961
 official_language:
   - "[[_Standards/WikiData/WD~Latin,397]]"

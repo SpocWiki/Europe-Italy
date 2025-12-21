@@ -1,6 +1,7 @@
 ---
 aliases:
   - Palermu, locally also Paliemmu [paˈljɛmmʊ] or Palèimmu
+  - Palermo
 has_id_wikidata: Q2656
 location:
   - 38.12

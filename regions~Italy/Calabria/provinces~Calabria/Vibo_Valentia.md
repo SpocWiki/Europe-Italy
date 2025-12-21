@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Vibo_Valentia
+  - Vibo Valentia
 location:
   - 38.6
   - 16.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Vibo_Valentia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Vibo_Valentia

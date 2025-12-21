@@ -1,16 +1,19 @@
 ---
-location: [45.62,9.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vimercate
+location:
+  - 45.62
+  - 9.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35311
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [43.05,12.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Arcangelo
+location:
+  - 43.05
+  - 12.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34439
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

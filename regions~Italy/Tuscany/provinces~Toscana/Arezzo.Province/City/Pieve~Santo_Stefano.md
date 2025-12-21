@@ -1,16 +1,20 @@
 ---
-location: [43.67,12.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Pieve~Santo_Stefano
+  - Pieve~Santo Stefano
+location:
+  - 43.67
+  - 12.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33367
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

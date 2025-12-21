@@ -1,16 +1,19 @@
 ---
-location: [38.2,15.55] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Messina
+location:
+  - 38.2
+  - 15.55
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32437
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

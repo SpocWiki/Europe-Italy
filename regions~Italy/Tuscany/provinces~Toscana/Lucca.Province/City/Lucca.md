@@ -1,16 +1,19 @@
 ---
-location: [43.85,10.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lucca
+location:
+  - 43.85
+  - 10.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32121
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [40.53,14.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Capri
+location:
+  - 40.53
+  - 14.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29477
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

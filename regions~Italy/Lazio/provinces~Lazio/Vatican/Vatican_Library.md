@@ -4,6 +4,7 @@ aliases:
   - Bibliotheca Apostolica Vaticana
   - Biblioteca Apostolica Vaticana
   - Vatican Library
+  - Vatican_Library
 has_id_wikidata: Q213678
 coordinate_location: Point(12.454444444 41.904722222)
 location:
@@ -15,28 +16,28 @@ Code_List_for_Cultural_Heritage_Organizations: vcba
 native_label: Biblioteca Apostolica Vaticana
 street_address: Cortile del Belvedere, V-00120 Città del Vaticano
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Vatican_Apostolic_Archives,536580]]"
-  - "[[_Standards/WikiData/WD~R._Pfister_Collection,119841801]]"
-described_by_source: "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[_Standards/WikiData/WD~Vatican_Apostolic_Archives,536580]]'
+  - '[[_Standards/WikiData/WD~R._Pfister_Collection,119841801]]'
+described_by_source: '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Conference_of_European_National_Librarians,1255790]]"
-  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-  - "[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]"
-  - "[[_Standards/WikiData/WD~IIIF_Consortium,35677307]]"
+  - '[[_Standards/WikiData/WD~Conference_of_European_National_Librarians,1255790]]'
+  - '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
+  - '[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]'
+  - '[[_Standards/WikiData/WD~IIIF_Consortium,35677307]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~office_of_the_Roman_Curia,4002648]]"
-  - "[[_Standards/WikiData/WD~Departments_of_the_Roman_Curia,112572558]]"
-  - "[[_Standards/WikiData/WD~national_library,22806]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Prefect_of_the_Vatican_Library,19823475]]"
-director_manager: "[[_Standards/WikiData/WD~Giovanni_Cesare_Pagazzi,93220067]]"
+  - '[[_Standards/WikiData/WD~office_of_the_Roman_Curia,4002648]]'
+  - '[[_Standards/WikiData/WD~Departments_of_the_Roman_Curia,112572558]]'
+  - '[[_Standards/WikiData/WD~national_library,22806]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Prefect_of_the_Vatican_Library,19823475]]'
+director_manager: '[[_Standards/WikiData/WD~Giovanni_Cesare_Pagazzi,93220067]]'
 inception:
   - 1475-06-24T00:00:00Z
   - 1450-01-01T00:00:00Z
 main_Wikidata_property:
   - Vatican Library ID (former scheme)
   - Vatican Library VcBA ID
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Vatican_City,237]]"
-country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Vatican_City,237]]'
+country: '[[_Standards/WikiData/WD~Vatican_City,237]]'
 described_at_URL: http://viaf.org/viaf/partnerpages/BAV.html
 BHCL_UUID: 2cd0c11d-486d-4ad5-9784-82f21c1d2d06
 ISIL: IT-RM1360
@@ -45,8 +46,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Melozzo%20da%20Forl%C3
 official_website: https://www.vaticanlibrary.va
 email_address: mailto:bav@vatlib.it
 phone_number: +39 06698 79411
-ISNI: "0000000121786485"
-P1015: "90524924"
+ISNI: 0000000121786485
+P1015: 90524924
 Commons_Institution_page: Biblioteca Apostolica Vaticana
 Commons_category: Biblioteca Apostolica Vaticana
 X_Twitter_username: bibliovaticana

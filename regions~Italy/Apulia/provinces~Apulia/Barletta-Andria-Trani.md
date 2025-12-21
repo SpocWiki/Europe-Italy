@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Barletta-Andria_Trani
+  - Barletta-Andria-Trani
 location:
   - 41.2
   - 16.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Barletta-Andria_Trani
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Barletta-Andria-Trani]]

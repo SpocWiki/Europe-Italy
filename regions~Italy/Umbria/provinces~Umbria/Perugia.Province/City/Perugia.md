@@ -1,16 +1,19 @@
 ---
-location: [43.12,12.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Perugia
+location:
+  - 43.12
+  - 12.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33315
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

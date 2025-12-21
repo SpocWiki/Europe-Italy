@@ -17,111 +17,111 @@ SpocWebEntityId: 35051
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Bagneux,161884]]"
-  - "[[_Standards/WikiData/WD~Chambéry,165090]]"
-  - "[[_Standards/WikiData/WD~Quetzaltenango,334577]]"
-  - "[[_Standards/WikiData/WD~Cologne,365]]"
-  - "[[_Standards/WikiData/WD~Lille,648]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Volgograd,914]]"
-  - "[[_Standards/WikiData/WD~Bogotá,2841]]"
-  - "[[_Standards/WikiData/WD~Ouagadougou,3777]]"
-  - "[[_Standards/WikiData/WD~Liège,3992]]"
-  - "[[_Standards/WikiData/WD~Glasgow,4093]]"
-  - "[[_Standards/WikiData/WD~Shenyang,11720]]"
-  - "[[_Standards/WikiData/WD~Nagoya,11751]]"
-  - "[[_Standards/WikiData/WD~Detroit,12439]]"
-  - "[[_Standards/WikiData/WD~Esch_sur_Alzette,16010]]"
-  - "[[_Standards/WikiData/WD~Tirana,19689]]"
-  - "[[_Standards/WikiData/WD~Salt_Lake_City,23337]]"
-  - "[[_Standards/WikiData/WD~Rotterdam,34370]]"
-  - "[[_Standards/WikiData/WD~İzmir,35997]]"
-  - "[[_Standards/WikiData/WD~Wenzhou,42635]]"
-  - "[[_Standards/WikiData/WD~Córdoba,44210]]"
-  - "[[_Standards/WikiData/WD~Gaza_City,47492]]"
-  - "[[_Standards/WikiData/WD~Rosario,52535]]"
+  - '[[_Standards/WikiData/WD~Bagneux,161884]]'
+  - '[[_Standards/WikiData/WD~Chambéry,165090]]'
+  - '[[_Standards/WikiData/WD~Quetzaltenango,334577]]'
+  - '[[_Standards/WikiData/WD~Cologne,365]]'
+  - '[[_Standards/WikiData/WD~Lille,648]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Volgograd,914]]'
+  - '[[_Standards/WikiData/WD~Bogotá,2841]]'
+  - '[[_Standards/WikiData/WD~Ouagadougou,3777]]'
+  - '[[_Standards/WikiData/WD~Liège,3992]]'
+  - '[[_Standards/WikiData/WD~Glasgow,4093]]'
+  - '[[_Standards/WikiData/WD~Shenyang,11720]]'
+  - '[[_Standards/WikiData/WD~Nagoya,11751]]'
+  - '[[_Standards/WikiData/WD~Detroit,12439]]'
+  - '[[_Standards/WikiData/WD~Esch_sur_Alzette,16010]]'
+  - '[[_Standards/WikiData/WD~Tirana,19689]]'
+  - '[[_Standards/WikiData/WD~Salt_Lake_City,23337]]'
+  - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
+  - '[[_Standards/WikiData/WD~İzmir,35997]]'
+  - '[[_Standards/WikiData/WD~Wenzhou,42635]]'
+  - '[[_Standards/WikiData/WD~Córdoba,44210]]'
+  - '[[_Standards/WikiData/WD~Gaza_City,47492]]'
+  - '[[_Standards/WikiData/WD~Rosario,52535]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Topographia_Palatinatus_Rheni_et_Vicinarum_Regionum,19230688]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Topographia_Palatinatus_Rheni_et_Vicinarum_Regionum,19230688]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~Dimore_Storiche_Italiane,63137556]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
+  - '[[_Standards/WikiData/WD~Dimore_Storiche_Italiane,63137556]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Stura_di_Lanzo,472813]]"
-  - "[[_Standards/WikiData/WD~Dora_Riparia,670414]]"
-  - "[[_Standards/WikiData/WD~Sangone,851178]]"
-  - "[[_Standards/WikiData/WD~Po,643]]"
+  - '[[_Standards/WikiData/WD~Stura_di_Lanzo,472813]]'
+  - '[[_Standards/WikiData/WD~Dora_Riparia,670414]]'
+  - '[[_Standards/WikiData/WD~Sangone,851178]]'
+  - '[[_Standards/WikiData/WD~Po,643]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~commune_of_Italy,747074]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
+  - '[[_Standards/WikiData/WD~commune_of_Italy,747074]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]'
 patron_saint:
-  - "[[_Standards/WikiData/WD~Our_Lady_of_Consolation,2457205]]"
-  - "[[_Standards/WikiData/WD~John_the_Baptist,40662]]"
+  - '[[_Standards/WikiData/WD~Our_Lady_of_Consolation,2457205]]'
+  - '[[_Standards/WikiData/WD~John_the_Baptist,40662]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Mappano,2655357]]"
-  - "[[_Standards/WikiData/WD~Baldissero_Torinese,9024]]"
-  - "[[_Standards/WikiData/WD~Beinasco,9048]]"
-  - "[[_Standards/WikiData/WD~Borgaro_Torinese,9057]]"
-  - "[[_Standards/WikiData/WD~Collegno,9311]]"
-  - "[[_Standards/WikiData/WD~Grugliasco,9398]]"
-  - "[[_Standards/WikiData/WD~Moncalieri,9474]]"
-  - "[[_Standards/WikiData/WD~Nichelino,9498]]"
-  - "[[_Standards/WikiData/WD~Orbassano,9519]]"
-  - "[[_Standards/WikiData/WD~Pecetto_Torinese,9549]]"
-  - "[[_Standards/WikiData/WD~Pino_Torinese,9574]]"
-  - "[[_Standards/WikiData/WD~Rivoli,10231]]"
-  - "[[_Standards/WikiData/WD~San_Mauro_Torinese,10276]]"
-  - "[[_Standards/WikiData/WD~Settimo_Torinese,10304]]"
-  - "[[_Standards/WikiData/WD~Venaria_Reale,10339]]"
+  - '[[_Standards/WikiData/WD~Mappano,2655357]]'
+  - '[[_Standards/WikiData/WD~Baldissero_Torinese,9024]]'
+  - '[[_Standards/WikiData/WD~Beinasco,9048]]'
+  - '[[_Standards/WikiData/WD~Borgaro_Torinese,9057]]'
+  - '[[_Standards/WikiData/WD~Collegno,9311]]'
+  - '[[_Standards/WikiData/WD~Grugliasco,9398]]'
+  - '[[_Standards/WikiData/WD~Moncalieri,9474]]'
+  - '[[_Standards/WikiData/WD~Nichelino,9498]]'
+  - '[[_Standards/WikiData/WD~Orbassano,9519]]'
+  - '[[_Standards/WikiData/WD~Pecetto_Torinese,9549]]'
+  - '[[_Standards/WikiData/WD~Pino_Torinese,9574]]'
+  - '[[_Standards/WikiData/WD~Rivoli,10231]]'
+  - '[[_Standards/WikiData/WD~San_Mauro_Torinese,10276]]'
+  - '[[_Standards/WikiData/WD~Settimo_Torinese,10304]]'
+  - '[[_Standards/WikiData/WD~Venaria_Reale,10339]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Lingotto,3832904]]"
-  - "[[_Standards/WikiData/WD~Crocetta_Centre,36617857]]"
-  - "[[_Standards/WikiData/WD~Q36618125,36618125]]"
-  - "[[_Standards/WikiData/WD~Q36618297,36618297]]"
-  - "[[_Standards/WikiData/WD~Borgo_San_Donato,36618481]]"
-  - "[[_Standards/WikiData/WD~Q36618680,36618680]]"
-  - "[[_Standards/WikiData/WD~Q36618723,36618723]]"
-  - "[[_Standards/WikiData/WD~Circoscrizione_7,36618792]]"
-  - "[[_Standards/WikiData/WD~Q36618827,36618827]]"
-  - "[[_Standards/WikiData/WD~Q36618875,36618875]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Turin,5333797]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Turin_history,7805953]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Turin,11381980]]"
-award_received: "[[_Standards/WikiData/WD~European_City_of_the_Trees,20198245]]"
-head_of_government: "[[_Standards/WikiData/WD~Chiara_Appendino,24701812]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Turin,24702372]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Turin,48838126]]"
-legislative_body: "[[_Standards/WikiData/WD~Turin_City_Council,50247531]]"
-open_data_portal: "[[_Standards/WikiData/WD~AperTO,97124052]]"
-seismic_classification: "[[_Standards/WikiData/WD~3,106435261]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Municipality_of_Turin,125778229]]"
+  - '[[_Standards/WikiData/WD~Lingotto,3832904]]'
+  - '[[_Standards/WikiData/WD~Crocetta_Centre,36617857]]'
+  - '[[_Standards/WikiData/WD~Q36618125,36618125]]'
+  - '[[_Standards/WikiData/WD~Q36618297,36618297]]'
+  - '[[_Standards/WikiData/WD~Borgo_San_Donato,36618481]]'
+  - '[[_Standards/WikiData/WD~Q36618680,36618680]]'
+  - '[[_Standards/WikiData/WD~Q36618723,36618723]]'
+  - '[[_Standards/WikiData/WD~Circoscrizione_7,36618792]]'
+  - '[[_Standards/WikiData/WD~Q36618827,36618827]]'
+  - '[[_Standards/WikiData/WD~Q36618875,36618875]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Turin,5333797]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Turin_history,7805953]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Turin,11381980]]'
+award_received: '[[_Standards/WikiData/WD~European_City_of_the_Trees,20198245]]'
+head_of_government: '[[_Standards/WikiData/WD~Chiara_Appendino,24701812]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor_of_Turin,24702372]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Turin,48838126]]'
+legislative_body: '[[_Standards/WikiData/WD~Turin_City_Council,50247531]]'
+open_data_portal: '[[_Standards/WikiData/WD~AperTO,97124052]]'
+seismic_classification: '[[_Standards/WikiData/WD~3,106435261]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Municipality_of_Turin,125778229]]'
 coordinates_of_westernmost_point: Point(7.5778348 45.0418278)
 coordinates_of_southernmost_point: Point(7.6443915 45.0067924)
 coordinates_of_northernmost_point: Point(7.6642049 45.1402175)
 coordinates_of_easternmost_point: Point(7.7733388 45.0778731)
-official_language: "[[_Standards/WikiData/WD~Italian,652]]"
-capital_of: "[[_Standards/WikiData/WD~Piedmont,1216]]"
+official_language: '[[_Standards/WikiData/WD~Italian,652]]'
+capital_of: '[[_Standards/WikiData/WD~Piedmont,1216]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level: 239
 population: 841600
 area: 130.01
-OmegaWiki_Defined_Meaning: "655271"
+OmegaWiki_Defined_Meaning: 655271
 Commons_gallery: Torino
 Provenio_UUID: 9d642434-2161-47a2-82a9-9b0cf139eef1
 BHCL_UUID: f6f4417f-3c16-4fae-9ec4-82f9fb2946f3
-U_S_National_Archives_Identifier: "10044702"
+U_S_National_Archives_Identifier: 10044702
 demonym:
   - torinese
   - torinesi
@@ -136,7 +136,7 @@ native_label:
   - Turin
 official_name: Torino
 Commons_category: Turin
-local_dialing_code: "011"
+local_dialing_code: 011
 subreddit: torino
 licence_plate_code: TO
 Italian_cadastre_code_municipality_: L219
@@ -149,7 +149,7 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Torino-St
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Torino%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turin%20Montage.png
 official_website: http://www.comune.torino.it/
-ISNI: "0000000121703379"
+ISNI: 0000000121703379
 Dewey_Decimal_Classification: 2--45121
 Telegram_username: comunetorino
 UN_LOCODE: ITTRN

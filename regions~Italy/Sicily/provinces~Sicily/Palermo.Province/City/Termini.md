@@ -1,16 +1,19 @@
 ---
-location: [37.95,13.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Termini
+location:
+  - 37.95
+  - 13.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34817
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

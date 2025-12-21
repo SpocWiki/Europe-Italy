@@ -1,16 +1,19 @@
 ---
-location: [43.72,10.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Pisa
+location:
+  - 43.72
+  - 10.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33386
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

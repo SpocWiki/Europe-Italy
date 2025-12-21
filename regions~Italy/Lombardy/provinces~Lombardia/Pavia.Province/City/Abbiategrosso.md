@@ -1,16 +1,19 @@
 ---
-location: [45.28,8.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Abbiategrosso
+location:
+  - 45.28
+  - 8.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28646
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

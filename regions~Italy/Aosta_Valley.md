@@ -6,6 +6,7 @@ aliases:
   - Val d'Aoûta
   - Augschtalann
   - Ougstalland
+  - Aosta_Valley
 ---
 
 ```leaflet

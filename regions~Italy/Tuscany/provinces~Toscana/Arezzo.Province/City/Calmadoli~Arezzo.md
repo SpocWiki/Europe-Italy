@@ -1,16 +1,19 @@
 ---
-location: [43.78,11.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Calmadoli~Arezzo
+location:
+  - 43.78
+  - 11.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29453
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

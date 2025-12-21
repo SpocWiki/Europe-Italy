@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Zola Predosa 
+  - Zola Predosa
   - Zôla Predåusa
+  - Zola_Predosa,City
+  - Zola Predosa,City
 location:
   - 44.45
   - 11.2

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Catania
+has_id_wikidata: Q19033
 location:
   - 37.5
   - 14.9
@@ -12,37 +15,34 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Catania
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q19033
-greater_than: "[[_Standards/WikiData/WD~geometric_mean,185049]]"
-less_than: "[[_Standards/WikiData/WD~root_mean_square,223323]]"
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
+greater_than: '[[_Standards/WikiData/WD~geometric_mean,185049]]'
+less_than: '[[_Standards/WikiData/WD~root_mean_square,223323]]'
 different_from:
-  - "[[_Standards/WikiData/WD~median,226995]]"
-  - "[[_Standards/WikiData/WD~sample_mean,105675280]]"
+  - '[[_Standards/WikiData/WD~median,226995]]'
+  - '[[_Standards/WikiData/WD~sample_mean,105675280]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]"
-  - "[[_Standards/WikiData/WD~weighted_mean,729113]]"
-  - "[[_Standards/WikiData/WD~generalized_mean,855729]]"
-  - "[[_Standards/WikiData/WD~statistic,1949963]]"
-  - "[[_Standards/WikiData/WD~mean,2796622]]"
-  - "[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]"
+  - '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]'
+  - '[[_Standards/WikiData/WD~weighted_mean,729113]]'
+  - '[[_Standards/WikiData/WD~generalized_mean,855729]]'
+  - '[[_Standards/WikiData/WD~statistic,1949963]]'
+  - '[[_Standards/WikiData/WD~mean,2796622]]'
+  - '[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_statistic,47103999]]"
+  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mover><mi>x</mi><mo>&#x203E;</mo></mover></mrow></mstyle></mrow></math>

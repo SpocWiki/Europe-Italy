@@ -1,16 +1,19 @@
 ---
-location: [46.88,11.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Peterswald
+location:
+  - 46.88
+  - 11.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33326
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

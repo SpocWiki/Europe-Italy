@@ -1,16 +1,19 @@
 ---
-location: [44.5,11.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bologna,City
+location:
+  - 44.5
+  - 11.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29260
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Bologna,City]] 

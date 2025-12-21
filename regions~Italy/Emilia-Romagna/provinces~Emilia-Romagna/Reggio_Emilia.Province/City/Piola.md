@@ -1,16 +1,19 @@
 ---
-location: [44.33,10.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Piola
+location:
+  - 44.33
+  - 10.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33378
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

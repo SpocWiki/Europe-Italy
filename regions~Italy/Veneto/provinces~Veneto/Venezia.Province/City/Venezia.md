@@ -20,108 +20,108 @@ SpocWebEntityId: 35240
 isDeleted: false
 confidential: public
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Venetian_Lagoon,76925]]"
-  - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+  - '[[_Standards/WikiData/WD~Venetian_Lagoon,76925]]'
+  - '[[_Standards/WikiData/WD~Adriatic_Sea,13924]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Fort_Lauderdale,165972]]"
-  - "[[_Standards/WikiData/WD~Aksaray,182025]]"
-  - "[[_Standards/WikiData/WD~Aveiro,485581]]"
-  - "[[_Standards/WikiData/WD~Contrada_della_Chiocciola,3689054]]"
-  - "[[_Standards/WikiData/WD~Larnaca_Municipality,55099871]]"
-  - "[[_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[_Standards/WikiData/WD~Trieste,546]]"
-  - "[[_Standards/WikiData/WD~Lisbon,597]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Piran,1382]]"
-  - "[[_Standards/WikiData/WD~Dubrovnik,1722]]"
-  - "[[_Standards/WikiData/WD~Tallinn,1770]]"
-  - "[[_Standards/WikiData/WD~Yerevan,1953]]"
-  - "[[_Standards/WikiData/WD~Nuremberg,2090]]"
-  - "[[_Standards/WikiData/WD~Lübeck,2843]]"
-  - "[[_Standards/WikiData/WD~Baku,9248]]"
-  - "[[_Standards/WikiData/WD~Sarajevo,11194]]"
-  - "[[_Standards/WikiData/WD~Rimini,13369]]"
-  - "[[_Standards/WikiData/WD~Thessaloniki,17151]]"
-  - "[[_Standards/WikiData/WD~Tirana,19689]]"
-  - "[[_Standards/WikiData/WD~Tel_Aviv,33935]]"
-  - "[[_Standards/WikiData/WD~Nice,33959]]"
-  - "[[_Standards/WikiData/WD~Isfahan,42053]]"
-  - "[[_Standards/WikiData/WD~Suzhou,42622]]"
-  - "[[_Standards/WikiData/WD~Basra,48195]]"
-  - "[[_Standards/WikiData/WD~Yangzhou,57906]]"
+  - '[[_Standards/WikiData/WD~Fort_Lauderdale,165972]]'
+  - '[[_Standards/WikiData/WD~Aksaray,182025]]'
+  - '[[_Standards/WikiData/WD~Aveiro,485581]]'
+  - '[[_Standards/WikiData/WD~Contrada_della_Chiocciola,3689054]]'
+  - '[[_Standards/WikiData/WD~Larnaca_Municipality,55099871]]'
+  - '[[_Standards/WikiData/WD~Istanbul,406]]'
+  - '[[_Standards/WikiData/WD~Trieste,546]]'
+  - '[[_Standards/WikiData/WD~Lisbon,597]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Piran,1382]]'
+  - '[[_Standards/WikiData/WD~Dubrovnik,1722]]'
+  - '[[_Standards/WikiData/WD~Tallinn,1770]]'
+  - '[[_Standards/WikiData/WD~Yerevan,1953]]'
+  - '[[_Standards/WikiData/WD~Nuremberg,2090]]'
+  - '[[_Standards/WikiData/WD~Lübeck,2843]]'
+  - '[[_Standards/WikiData/WD~Baku,9248]]'
+  - '[[_Standards/WikiData/WD~Sarajevo,11194]]'
+  - '[[_Standards/WikiData/WD~Rimini,13369]]'
+  - '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
+  - '[[_Standards/WikiData/WD~Tirana,19689]]'
+  - '[[_Standards/WikiData/WD~Tel_Aviv,33935]]'
+  - '[[_Standards/WikiData/WD~Nice,33959]]'
+  - '[[_Standards/WikiData/WD~Isfahan,42053]]'
+  - '[[_Standards/WikiData/WD~Suzhou,42622]]'
+  - '[[_Standards/WikiData/WD~Basra,48195]]'
+  - '[[_Standards/WikiData/WD~Yangzhou,57906]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~carfree_city,581830]]"
-  - "[[_Standards/WikiData/WD~commune_of_Italy,747074]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-  - "[[_Standards/WikiData/WD~Italian_city_state,4115680]]"
-  - "[[_Standards/WikiData/WD~car_free_place,64953083]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~carfree_city,581830]]'
+  - '[[_Standards/WikiData/WD~commune_of_Italy,747074]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~port_city,2264924]]'
+  - '[[_Standards/WikiData/WD~Italian_city_state,4115680]]'
+  - '[[_Standards/WikiData/WD~car_free_place,64953083]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q19524027,19524027]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Q108320391,108320391]]"
-  - "[[_Standards/WikiData/WD~Q110952214,110952214]]"
-  - "[[_Standards/WikiData/WD~Q111600428,111600428]]"
-  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]"
-  - "[[_Standards/WikiData/WD~Q121142264,121142264]]"
-  - "[[_Standards/WikiData/WD~Q122577662,122577662]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
-  - "[[_Standards/WikiData/WD~Q127446152,127446152]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]"
-named_after: "[[_Standards/WikiData/WD~Veneti,847760]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Q19524027,19524027]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Q108320391,108320391]]'
+  - '[[_Standards/WikiData/WD~Q110952214,110952214]]'
+  - '[[_Standards/WikiData/WD~Q111600428,111600428]]'
+  - '[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]'
+  - '[[_Standards/WikiData/WD~Q121142264,121142264]]'
+  - '[[_Standards/WikiData/WD~Q122577662,122577662]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+  - '[[_Standards/WikiData/WD~Q127446152,127446152]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]'
+named_after: '[[_Standards/WikiData/WD~Veneti,847760]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Wenecja,1221395]]"
-  - "[[_Standards/WikiData/WD~Venezia,116694869]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Republic_of_Venice,1420736]]"
+  - '[[_Standards/WikiData/WD~Wenecja,1221395]]'
+  - '[[_Standards/WikiData/WD~Venezia,116694869]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Republic_of_Venice,1420736]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Triveneto,2641492]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]"
-  - "[[_Standards/WikiData/WD~Venice_and_its_Lagoon,11352141]]"
-award_received: "[[_Standards/WikiData/WD~Croix_de_guerre_1914_1918,2727598]]"
+  - '[[_Standards/WikiData/WD~Triveneto,2641492]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]'
+  - '[[_Standards/WikiData/WD~Venice_and_its_Lagoon,11352141]]'
+award_received: '[[_Standards/WikiData/WD~Croix_de_guerre_1914_1918,2727598]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Venice_city_dialect,2931445]]"
-  - "[[_Standards/WikiData/WD~Q3706579,3706579]]"
+  - '[[_Standards/WikiData/WD~Venice_city_dialect,2931445]]'
+  - '[[_Standards/WikiData/WD~Q3706579,3706579]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]"
-  - "[[_Standards/WikiData/WD~Veneto,1243]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]"
+  - '[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]'
+  - '[[_Standards/WikiData/WD~Veneto,1243]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Metropolitan_City_of_Venice,3678587]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Municipalità_di_Chirignago_Zelarino,3867170]]"
-  - "[[_Standards/WikiData/WD~Municipality_Lido_PellestrinaLido_Pellestrina,3867174]]"
-  - "[[_Standards/WikiData/WD~Municipalità_di_Marghera,3867175]]"
-  - "[[_Standards/WikiData/WD~Municipalità_di_Favaro_Veneto,3867172]]"
-  - "[[_Standards/WikiData/WD~Municipalità_di_Mestre_Carpenedo,3867176]]"
-  - "[[_Standards/WikiData/WD~Municipality_1_Venezia_Murano_Burano,3867184]]"
-member_of: "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-head_of_government: "[[_Standards/WikiData/WD~Luigi_Brugnaro,17490240]]"
-history_of_topic: "[[_Standards/WikiData/WD~Timeline_of_Venice,18639812]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Venice,50248112]]"
-legislative_body: "[[_Standards/WikiData/WD~Venice_City_Council,50248378]]"
-open_data_portal: "[[_Standards/WikiData/WD~Venice_Project_Center_Open_Data,97061871]]"
-seismic_classification: "[[_Standards/WikiData/WD~3,106435261]]"
+  - '[[_Standards/WikiData/WD~Municipalità_di_Chirignago_Zelarino,3867170]]'
+  - '[[_Standards/WikiData/WD~Municipality_Lido_PellestrinaLido_Pellestrina,3867174]]'
+  - '[[_Standards/WikiData/WD~Municipalità_di_Marghera,3867175]]'
+  - '[[_Standards/WikiData/WD~Municipalità_di_Favaro_Veneto,3867172]]'
+  - '[[_Standards/WikiData/WD~Municipalità_di_Mestre_Carpenedo,3867176]]'
+  - '[[_Standards/WikiData/WD~Municipality_1_Venezia_Murano_Burano,3867184]]'
+member_of: '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
+head_of_government: '[[_Standards/WikiData/WD~Luigi_Brugnaro,17490240]]'
+history_of_topic: '[[_Standards/WikiData/WD~Timeline_of_Venice,18639812]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor_of_Venice,50248112]]'
+legislative_body: '[[_Standards/WikiData/WD~Venice_City_Council,50248378]]'
+open_data_portal: '[[_Standards/WikiData/WD~Venice_Project_Center_Open_Data,97061871]]'
+seismic_classification: '[[_Standards/WikiData/WD~3,106435261]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Venezia_soggiogata,126264368]]"
-  - "[[_Standards/WikiData/WD~Triumphant_Venice,126287802]]"
-  - "[[_Standards/WikiData/WD~Venice_Seated_upon_the_Globe_and_upon_a_Lion,131604561]]"
+  - '[[_Standards/WikiData/WD~Venezia_soggiogata,126264368]]'
+  - '[[_Standards/WikiData/WD~Triumphant_Venice,126287802]]'
+  - '[[_Standards/WikiData/WD~Venice_Seated_upon_the_Globe_and_upon_a_Lion,131604561]]'
 coordinate_location: Point(12.331944444 45.439722222)
 coordinates_of_southernmost_point: Point(12.3139066 45.2313141)
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-patron_saint: "[[_Standards/WikiData/WD~Mark_the_Evangelist,31966]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+patron_saint: '[[_Standards/WikiData/WD~Mark_the_Evangelist,31966]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 elevation_above_sea_level: 2
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Venice%2C%20Italy.webm
 pronunciation_audio:
@@ -139,8 +139,8 @@ webcam_page_URL:
   - https://www.youtube.com/watch?v=JqUREqYduHw
   - https://www.youtube.com/watch?v=ph1vpnYIxJk
 U_S_National_Archives_Identifier:
-  - "10044301"
-  - "10046157"
+  - 10044301
+  - 10046157
 Dewey_Decimal_Classification: 2--45311
 Libris_URI: 75kmmr1r3zx6dkw
 Facebook_username: ComunediVenezia
@@ -171,19 +171,19 @@ inception: 0421-03-26T00:00:00Z
 coordinates_of_easternmost_point: Point(12.5960881 45.5452338)
 coordinates_of_northernmost_point: Point(12.5481053 45.5779793)
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Musile_di_Piave,46759]]"
-  - "[[_Standards/WikiData/WD~Martellago,46761]]"
+  - '[[_Standards/WikiData/WD~Musile_di_Piave,46759]]'
+  - '[[_Standards/WikiData/WD~Martellago,46761]]'
   - "[[_Standards/WikiData/WD~Quarto_d'Altino,46771]]"
-  - "[[_Standards/WikiData/WD~Campagna_Lupia,46810]]"
-  - "[[_Standards/WikiData/WD~Spinea,46948]]"
-  - "[[_Standards/WikiData/WD~Jesolo,47281]]"
-  - "[[_Standards/WikiData/WD~Scorzè,47389]]"
-  - "[[_Standards/WikiData/WD~Marcon,47449]]"
-  - "[[_Standards/WikiData/WD~Cavallino_Treporti,47995]]"
-  - "[[_Standards/WikiData/WD~Mogliano_Veneto,48039]]"
-  - "[[_Standards/WikiData/WD~Mira,48144]]"
-  - "[[_Standards/WikiData/WD~Chioggia,55416]]"
-significant_event: "[[_Standards/WikiData/WD~excommunication,49822]]"
+  - '[[_Standards/WikiData/WD~Campagna_Lupia,46810]]'
+  - '[[_Standards/WikiData/WD~Spinea,46948]]'
+  - '[[_Standards/WikiData/WD~Jesolo,47281]]'
+  - '[[_Standards/WikiData/WD~Scorzè,47389]]'
+  - '[[_Standards/WikiData/WD~Marcon,47449]]'
+  - '[[_Standards/WikiData/WD~Cavallino_Treporti,47995]]'
+  - '[[_Standards/WikiData/WD~Mogliano_Veneto,48039]]'
+  - '[[_Standards/WikiData/WD~Mira,48144]]'
+  - '[[_Standards/WikiData/WD~Chioggia,55416]]'
+significant_event: '[[_Standards/WikiData/WD~excommunication,49822]]'
 area: 415.9
 social_media_followers: 47556
 male_population: 122481
@@ -196,8 +196,8 @@ population: 250369
 GitHub_topic: venice
 Commons_category: Venice
 licence_plate_code: VE
-OmegaWiki_Defined_Meaning: "376788"
-local_dialing_code: "041"
+OmegaWiki_Defined_Meaning: 376788
+local_dialing_code: 041
 Provenio_UUID: 97d4303b-a421-403c-a878-b25faf1ed0a9
 native_label:
   - Venezia

@@ -1,16 +1,20 @@
 ---
-location: [37.63,12.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Campobello_di_Mazzara
+  - Campobello di Mazzara
+location:
+  - 37.63
+  - 12.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29466
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
