@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1560-01-01 
 aliases:
   - Galleria degli Uffizi
   - Uffizi_Gallery

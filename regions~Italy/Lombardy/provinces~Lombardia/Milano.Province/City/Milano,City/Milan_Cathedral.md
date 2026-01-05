@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1386-01-01 
 aliases:
   - Milan Cathedral
   - Duomo di Milano

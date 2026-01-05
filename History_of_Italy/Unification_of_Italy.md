@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1815-01-01 
+has_time_stopped: 1871-01-01 
 aliases:
 has_id_wikidata: Q51122
 has_effect: "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"

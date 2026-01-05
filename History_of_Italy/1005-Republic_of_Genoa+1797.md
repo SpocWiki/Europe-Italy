@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1005-01-01 
+has_time_stopped: 1797-06-14 
 aliases:
 has_id_wikidata: Q174306
 basic_form_of_government: "[[_Standards/WikiData/WD~oligarchy,79751]]"

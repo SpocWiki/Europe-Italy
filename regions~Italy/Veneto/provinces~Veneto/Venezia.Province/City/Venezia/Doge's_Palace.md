@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1340-01-01 
 aliases:
   - Palazzo Ducale
   - Pałaso Dogal

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0697-01-01 
+has_time_stopped: 1797-05-12 
 aliases:
 has_id_wikidata: Q4948
 native_label:
