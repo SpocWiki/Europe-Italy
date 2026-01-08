@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.03
 dv_has_place_latitude: 41.2
-dv_name: Monvalvo Irpinio
+dv_has_name_: Monvalvo Irpinio
 dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  

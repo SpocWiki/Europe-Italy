@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.48
 dv_has_place_latitude: 40.15
-dv_name: Otranto
+dv_has_name_: Otranto
 dv_Country: "[[../../../../../Italy]]"
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Otranto,52174]]"

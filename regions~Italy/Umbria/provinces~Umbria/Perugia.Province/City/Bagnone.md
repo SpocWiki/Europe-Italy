@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.12
 dv_has_place_latitude: 43.2
-dv_name: Bagnone
+dv_has_name_: Bagnone
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

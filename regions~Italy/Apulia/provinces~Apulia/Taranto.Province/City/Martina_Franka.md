@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.37
 dv_has_place_latitude: 40.7
-dv_name: Martina Franka
+dv_has_name_: Martina Franka
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.37
 dv_has_place_latitude: 38.55
-dv_name: Alicudie
+dv_has_name_: Alicudie
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

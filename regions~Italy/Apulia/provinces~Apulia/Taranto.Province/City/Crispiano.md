@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.27
 dv_has_place_latitude: 40.6
-dv_name: Crispiano
+dv_has_name_: Crispiano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

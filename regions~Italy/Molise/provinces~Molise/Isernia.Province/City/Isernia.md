@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.23
 dv_has_place_latitude: 41.58
-dv_name: Isernia
+dv_has_name_: Isernia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

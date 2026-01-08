@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.7
 dv_has_place_latitude: 37.95
-dv_name: Termini
+dv_has_name_: Termini
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

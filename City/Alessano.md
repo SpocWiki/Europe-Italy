@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.38
 dv_has_place_latitude: 39.53
-dv_name: Alessano
+dv_has_name_: Alessano
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.33
 dv_has_place_latitude: 40.12
-dv_name: Ramiseto
+dv_has_name_: Ramiseto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

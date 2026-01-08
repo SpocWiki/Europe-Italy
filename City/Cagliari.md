@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.08
 dv_has_place_latitude: 39.22
-dv_name: Cagliari
+dv_has_name_: Cagliari
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

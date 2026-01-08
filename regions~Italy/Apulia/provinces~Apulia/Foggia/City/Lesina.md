@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.43
 dv_has_place_latitude: 43.17
-dv_name: Lesina
+dv_has_name_: Lesina
 dv_Country: "[[../../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.43
 dv_has_place_latitude: 44.43
-dv_name: Casteinuova Monti
+dv_has_name_: Casteinuova Monti
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

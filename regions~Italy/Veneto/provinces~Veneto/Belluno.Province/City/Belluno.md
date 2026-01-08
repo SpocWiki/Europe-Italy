@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.22
 dv_has_place_latitude: 46.13
-dv_name: Belluno
+dv_has_name_: Belluno
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

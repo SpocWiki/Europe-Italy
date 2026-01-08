@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.12
 dv_has_place_latitude: 42.77
-dv_name: Grosseto
+dv_has_name_: Grosseto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

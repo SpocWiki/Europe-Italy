@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.33
 dv_has_place_latitude: 40.82
-dv_name: Portici
+dv_has_name_: Portici
 dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.08
 dv_has_place_latitude: 46.07
-dv_name: Trento=Trient
+dv_has_name_: Trento=Trient
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.63
 dv_has_place_latitude: 41.63
-dv_name: Campolieto
+dv_has_name_: Campolieto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

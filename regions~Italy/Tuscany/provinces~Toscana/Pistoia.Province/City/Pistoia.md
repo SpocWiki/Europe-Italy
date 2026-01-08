@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.9
 dv_has_place_latitude: 43.93
-dv_name: Pistoia
+dv_has_name_: Pistoia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

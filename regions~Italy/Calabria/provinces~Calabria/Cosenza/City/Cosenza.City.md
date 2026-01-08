@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.28
 dv_has_place_latitude: 39.32
-dv_name: Cosenza.City
+dv_has_name_: Cosenza.City
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

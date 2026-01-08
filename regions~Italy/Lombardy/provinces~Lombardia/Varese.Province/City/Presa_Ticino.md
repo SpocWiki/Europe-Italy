@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.8
 dv_has_place_latitude: 45.67
-dv_name: Presa Ticino
+dv_has_name_: Presa Ticino
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

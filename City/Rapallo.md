@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.23
 dv_has_place_latitude: 44.33
-dv_name: Rapallo
+dv_has_name_: Rapallo
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

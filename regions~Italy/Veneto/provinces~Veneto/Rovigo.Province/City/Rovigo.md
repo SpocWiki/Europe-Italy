@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.8
 dv_has_place_latitude: 45.07
-dv_name: Rovigo
+dv_has_name_: Rovigo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

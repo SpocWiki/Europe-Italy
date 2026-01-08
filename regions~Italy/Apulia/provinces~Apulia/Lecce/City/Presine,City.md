@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.28
 dv_has_place_latitude: 39.9
-dv_name: Presine
+dv_has_name_: Presine
 dv_Country: "[[../../../../../Italy]]"
 ---
 

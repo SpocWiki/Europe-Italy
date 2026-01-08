@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.78
 dv_has_place_latitude: 41.68
-dv_name: Velletri
+dv_has_name_: Velletri
 dv_Country: "[[../../../../../../Italy]]"
 ---
 

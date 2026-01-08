@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.5
 dv_has_place_latitude: 43.48
-dv_name: Osimo
+dv_has_name_: Osimo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

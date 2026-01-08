@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.63
 dv_has_place_latitude: 43.73
-dv_name: Urbino
+dv_has_name_: Urbino
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

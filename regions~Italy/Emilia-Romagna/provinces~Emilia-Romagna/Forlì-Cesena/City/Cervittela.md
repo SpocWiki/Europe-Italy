@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.95
 dv_has_place_latitude: 44.02
-dv_name: Cervittela
+dv_has_name_: Cervittela
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

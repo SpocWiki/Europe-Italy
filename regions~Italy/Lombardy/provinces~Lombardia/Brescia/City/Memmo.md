@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.32
 dv_has_place_latitude: 45.82
-dv_name: Memmo
+dv_has_name_: Memmo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.2
 dv_has_place_latitude: 44.45
-dv_name: Zola Predosa
+dv_has_name_: Zola Predosa
 dv_Country: "[[../../../../../Italy]]"
 ---
 

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.23
 dv_has_place_latitude: 40.73
-dv_name: Mater domini
+dv_has_name_: Mater domini
 dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  

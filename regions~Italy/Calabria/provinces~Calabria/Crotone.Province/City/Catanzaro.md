@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.13
 dv_has_place_latitude: 39.08
-dv_name: Catanzaro
+dv_has_name_: Catanzaro
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

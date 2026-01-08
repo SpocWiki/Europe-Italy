@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.93
 dv_has_place_latitude: 40.63
-dv_name: Castellaneta
+dv_has_name_: Castellaneta
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

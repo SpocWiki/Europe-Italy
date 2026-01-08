@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.87
 dv_has_place_latitude: 44.9
-dv_name: Tortona
+dv_has_name_: Tortona
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

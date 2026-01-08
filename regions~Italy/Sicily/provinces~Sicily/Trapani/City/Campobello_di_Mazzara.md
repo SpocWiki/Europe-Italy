@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.7
 dv_has_place_latitude: 37.63
-dv_name: Campobello di Mazzara
+dv_has_name_: Campobello di Mazzara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

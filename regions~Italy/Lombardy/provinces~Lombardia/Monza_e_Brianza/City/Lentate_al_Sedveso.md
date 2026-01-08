@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.15
 dv_has_place_latitude: 45.68
-dv_name: Lentate al Sedveso
+dv_has_name_: Lentate al Sedveso
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

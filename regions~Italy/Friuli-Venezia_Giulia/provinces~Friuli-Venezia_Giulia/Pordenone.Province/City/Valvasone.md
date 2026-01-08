@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.87
 dv_has_place_latitude: 45.98
-dv_name: Valvasone
+dv_has_name_: Valvasone
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.72
 dv_has_place_latitude: 38.25
-dv_name: Scilla
+dv_has_name_: Scilla
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.25
 dv_has_place_latitude: 44.3
-dv_name: Valigo-Cerreto
+dv_has_name_: Valigo-Cerreto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

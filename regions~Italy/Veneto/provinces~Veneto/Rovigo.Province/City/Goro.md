@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.3
 dv_has_place_latitude: 44.87
-dv_name: Goro
+dv_has_name_: Goro
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.17
 dv_has_place_latitude: 44.85
-dv_name: San Felice sul Panard
+dv_has_name_: San Felice sul Panard
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

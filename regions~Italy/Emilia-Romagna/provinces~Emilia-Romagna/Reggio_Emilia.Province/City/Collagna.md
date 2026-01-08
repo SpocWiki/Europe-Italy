@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.35
 dv_has_place_latitude: 44.35
-dv_name: Collagna
+dv_has_name_: Collagna
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

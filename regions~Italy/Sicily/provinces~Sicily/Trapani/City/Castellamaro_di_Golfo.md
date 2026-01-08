@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.88
 dv_has_place_latitude: 38.03
-dv_name: Castellamaro di Golfo
+dv_has_name_: Castellamaro di Golfo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

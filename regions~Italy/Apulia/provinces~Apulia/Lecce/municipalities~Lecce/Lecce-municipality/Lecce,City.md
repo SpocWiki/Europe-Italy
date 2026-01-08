@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.17
 dv_has_place_latitude: 40.35
-dv_name: Lecce
+dv_has_name_: Lecce
 dv_Country: "[[../../../../../Italy]]"
 ---
 

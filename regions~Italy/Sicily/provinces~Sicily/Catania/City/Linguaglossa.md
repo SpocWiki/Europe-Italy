@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.08
 dv_has_place_latitude: 37.83
-dv_name: Linguaglossa
+dv_has_name_: Linguaglossa
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

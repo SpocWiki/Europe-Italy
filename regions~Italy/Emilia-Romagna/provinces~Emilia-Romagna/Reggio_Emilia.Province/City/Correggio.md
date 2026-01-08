@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.78
 dv_has_place_latitude: 44.77
-dv_name: Correggio
+dv_has_name_: Correggio
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

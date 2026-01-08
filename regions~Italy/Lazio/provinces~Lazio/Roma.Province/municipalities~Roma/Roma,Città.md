@@ -280,7 +280,7 @@ U_S_National_Archives_Identifier: 10044604
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.49
 dv_has_place_latitude: 41.89
-dv_name: Roma
+dv_has_name_: Roma
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Rome,220|WD~Rome,220]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Rome,220|WD~Rome,220]]"

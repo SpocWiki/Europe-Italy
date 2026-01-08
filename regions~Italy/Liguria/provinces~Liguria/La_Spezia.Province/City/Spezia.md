@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.82
 dv_has_place_latitude: 44.12
-dv_name: Spezia
+dv_has_name_: Spezia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

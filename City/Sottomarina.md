@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.28
 dv_has_place_latitude: 45.22
-dv_name: Sottomarina
+dv_has_name_: Sottomarina
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

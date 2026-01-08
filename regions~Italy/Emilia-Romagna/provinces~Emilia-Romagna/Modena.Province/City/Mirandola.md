@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.07
 dv_has_place_latitude: 44.88
-dv_name: Mirandola
+dv_has_name_: Mirandola
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

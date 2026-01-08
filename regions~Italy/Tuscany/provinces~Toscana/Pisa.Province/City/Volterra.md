@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.77
 dv_has_place_latitude: 43.4
-dv_name: Volterra
+dv_has_name_: Volterra
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

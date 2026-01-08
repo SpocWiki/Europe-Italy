@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.95
 dv_has_place_latitude: 44.5
-dv_name: Vetriano
+dv_has_name_: Vetriano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.02
 dv_has_place_latitude: 45.93
-dv_name: Monte Generoso
+dv_has_name_: Monte Generoso
 dv_Country: "[[../../../../../../Europe~Central/Switzerland]]"
 ---
 #is_a_/Place  

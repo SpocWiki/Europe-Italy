@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.63
 dv_has_place_latitude: 44.7
-dv_name: Reggio Emilia
+dv_has_name_: Reggio Emilia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

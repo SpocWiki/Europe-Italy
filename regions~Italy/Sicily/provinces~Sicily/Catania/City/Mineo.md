@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.7
 dv_has_place_latitude: 37.27
-dv_name: Mineo
+dv_has_name_: Mineo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

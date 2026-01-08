@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.62
 dv_has_place_latitude: 44.85
-dv_name: Ferrara
+dv_has_name_: Ferrara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

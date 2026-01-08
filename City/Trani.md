@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.43
 dv_has_place_latitude: 41.28
-dv_name: Trani
+dv_has_name_: Trani
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

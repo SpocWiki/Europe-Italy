@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.62
 dv_has_place_latitude: 46.68
-dv_name: Bressanone
+dv_has_name_: Bressanone
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.18
 dv_has_place_latitude: 40.13
-dv_name: Teana
+dv_has_name_: Teana
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

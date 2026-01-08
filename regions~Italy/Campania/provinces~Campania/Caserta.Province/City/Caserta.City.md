@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.35
 dv_has_place_latitude: 41.05
-dv_name: Caserta.City
+dv_has_name_: Caserta.City
 dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  

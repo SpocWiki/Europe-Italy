@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.6
 dv_has_place_latitude: 44.22
-dv_name: Pieve pelago
+dv_has_name_: Pieve pelago
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

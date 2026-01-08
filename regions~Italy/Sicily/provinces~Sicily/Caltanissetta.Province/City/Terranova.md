@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.25
 dv_has_place_latitude: 37.08
-dv_name: Terranova
+dv_has_name_: Terranova
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

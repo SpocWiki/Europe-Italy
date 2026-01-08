@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.3
 dv_has_place_latitude: 44.48
-dv_name: Medicina
+dv_has_name_: Medicina
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

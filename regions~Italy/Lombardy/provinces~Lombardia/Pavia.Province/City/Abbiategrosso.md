@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.95
 dv_has_place_latitude: 45.28
-dv_name: Abbiategrosso
+dv_has_name_: Abbiategrosso
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

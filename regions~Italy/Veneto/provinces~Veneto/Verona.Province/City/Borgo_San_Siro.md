@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.18
 dv_has_place_latitude: 45.53
-dv_name: Borgo San Siro
+dv_has_name_: Borgo San Siro
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

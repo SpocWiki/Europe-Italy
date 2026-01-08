@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.82
 dv_has_place_latitude: 44.1
-dv_name: La Specia
+dv_has_name_: La Specia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

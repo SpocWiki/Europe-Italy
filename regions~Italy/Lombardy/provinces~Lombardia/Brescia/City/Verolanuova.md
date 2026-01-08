@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.05
 dv_has_place_latitude: 45.33
-dv_name: Verolanuova
+dv_has_name_: Verolanuova
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

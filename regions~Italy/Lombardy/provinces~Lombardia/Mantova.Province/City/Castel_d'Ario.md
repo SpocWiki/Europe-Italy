@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.97
 dv_has_place_latitude: 45.17
-dv_name: Castel d'Ario
+dv_has_name_: Castel d'Ario
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

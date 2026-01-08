@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.25
 dv_has_place_latitude: 40.47
-dv_name: Taranto.City
+dv_has_name_: Taranto.City
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

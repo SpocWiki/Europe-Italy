@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.25
 dv_has_place_latitude: 44.2
-dv_name: Cesena
+dv_has_name_: Cesena
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

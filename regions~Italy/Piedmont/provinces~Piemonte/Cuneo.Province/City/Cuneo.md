@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.55
 dv_has_place_latitude: 44.4
-dv_name: Cuneo
+dv_has_name_: Cuneo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

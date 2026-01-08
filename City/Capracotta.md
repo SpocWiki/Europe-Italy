@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.68
 dv_has_place_latitude: 41.83
-dv_name: Capracotta
+dv_has_name_: Capracotta
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

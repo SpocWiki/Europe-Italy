@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.15
 dv_has_place_latitude: 45.18
-dv_name: Pavia
+dv_has_name_: Pavia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

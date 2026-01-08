@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.8
 dv_has_place_latitude: 40.9
-dv_name: Avellino.City
+dv_has_name_: Avellino.City
 dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.93
 dv_has_place_latitude: 45.77
-dv_name: Olgiate Comaseo
+dv_has_name_: Olgiate Comaseo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

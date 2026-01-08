@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: 37.8
-dv_name: Taormina
+dv_has_name_: Taormina
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

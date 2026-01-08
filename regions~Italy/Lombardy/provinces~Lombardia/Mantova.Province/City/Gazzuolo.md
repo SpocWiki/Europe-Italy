@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.98
 dv_has_place_latitude: 45.07
-dv_name: Gazzuolo
+dv_has_name_: Gazzuolo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

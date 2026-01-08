@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 45.63
-dv_name: Vizzola Ticino
+dv_has_name_: Vizzola Ticino
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

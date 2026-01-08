@@ -158,7 +158,7 @@ coordinate_location: Point(7.676111111 45.079166666)
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.68
 dv_has_place_latitude: 45.07
-dv_name: Torino
+dv_has_name_: Torino
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Turin,495|WD~Turin,495]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Turin,495|WD~Turin,495]]"

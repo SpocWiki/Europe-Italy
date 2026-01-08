@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.55
 dv_has_place_latitude: 46.72
-dv_name: Kastelruth
+dv_has_name_: Kastelruth
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

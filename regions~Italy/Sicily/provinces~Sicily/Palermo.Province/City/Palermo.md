@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.35
 dv_has_place_latitude: 38.12
-dv_name: Palermo
+dv_has_name_: Palermo
 dv_Country: "[[../../../../../Italy]]"
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Palermo,2656|WD~Palermo,2656]]"

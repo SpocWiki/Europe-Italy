@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.78
 dv_has_place_latitude: 43.82
-dv_name: San Remo
+dv_has_name_: San Remo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

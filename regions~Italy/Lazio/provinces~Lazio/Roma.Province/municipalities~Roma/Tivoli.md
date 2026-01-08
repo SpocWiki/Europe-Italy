@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.8
 dv_has_place_latitude: 41.97
-dv_name: Tivoli
+dv_has_name_: Tivoli
 dv_Country: "[[../../../../../../Italy]]"
 ---
 

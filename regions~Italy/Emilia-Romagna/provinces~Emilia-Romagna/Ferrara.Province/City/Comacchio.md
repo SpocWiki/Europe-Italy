@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.18
 dv_has_place_latitude: 44.7
-dv_name: Comacchio
+dv_has_name_: Comacchio
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

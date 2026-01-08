@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.02
 dv_has_place_latitude: 44.98
-dv_name: Voghera
+dv_has_name_: Voghera
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

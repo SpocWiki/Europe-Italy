@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.8
 dv_has_place_latitude: 45.93
-dv_name: Marchirolo
+dv_has_name_: Marchirolo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

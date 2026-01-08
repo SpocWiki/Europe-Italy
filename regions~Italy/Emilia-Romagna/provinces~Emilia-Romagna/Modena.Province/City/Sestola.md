@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.77
 dv_has_place_latitude: 44.23
-dv_name: Sestola
+dv_has_name_: Sestola
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

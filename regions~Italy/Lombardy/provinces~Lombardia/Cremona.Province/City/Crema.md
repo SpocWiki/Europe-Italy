@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.68
 dv_has_place_latitude: 45.37
-dv_name: Crema
+dv_has_name_: Crema
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

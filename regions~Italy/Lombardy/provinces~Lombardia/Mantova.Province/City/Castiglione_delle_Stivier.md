@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.5
 dv_has_place_latitude: 45.38
-dv_name: Castiglione delle Stivier
+dv_has_name_: Castiglione delle Stivier
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

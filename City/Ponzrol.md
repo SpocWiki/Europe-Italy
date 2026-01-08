@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.92
 dv_has_place_latitude: 40.83
-dv_name: Ponzrol
+dv_has_name_: Ponzrol
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

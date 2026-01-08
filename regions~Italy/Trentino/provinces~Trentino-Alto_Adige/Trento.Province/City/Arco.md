@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.9
 dv_has_place_latitude: 45.92
-dv_name: Arco
+dv_has_name_: Arco
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

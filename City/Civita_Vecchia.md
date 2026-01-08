@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.75
 dv_has_place_latitude: 42.08
-dv_name: Civita Vecchia
+dv_has_name_: Civita Vecchia
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

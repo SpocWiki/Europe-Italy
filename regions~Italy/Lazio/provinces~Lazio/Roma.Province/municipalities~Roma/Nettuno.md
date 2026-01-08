@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.68
 dv_has_place_latitude: 41.47
-dv_name: Nettuno
+dv_has_name_: Nettuno
 dv_Country: "[[../../../../../../Italy]]"
 ---
 

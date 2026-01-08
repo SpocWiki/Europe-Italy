@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.1
 dv_has_place_latitude: 46.63
-dv_name: Pawigl
+dv_has_name_: Pawigl
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

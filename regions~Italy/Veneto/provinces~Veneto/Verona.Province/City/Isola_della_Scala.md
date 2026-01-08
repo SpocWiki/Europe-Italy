@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.07
 dv_has_place_latitude: 45.2
-dv_name: Isola della Scala
+dv_has_name_: Isola della Scala
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

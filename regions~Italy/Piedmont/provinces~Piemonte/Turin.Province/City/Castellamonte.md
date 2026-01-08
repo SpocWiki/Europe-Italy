@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.68
 dv_has_place_latitude: 45.4
-dv_name: Castellamonte
+dv_has_name_: Castellamonte
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.45
 dv_has_place_latitude: 45.12
-dv_name: Caslae Monferrato
+dv_has_name_: Caslae Monferrato
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

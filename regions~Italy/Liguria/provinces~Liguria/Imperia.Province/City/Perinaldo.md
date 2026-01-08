@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.65
 dv_has_place_latitude: 43.87
-dv_name: Perinaldo
+dv_has_name_: Perinaldo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.93
 dv_has_place_latitude: 44.65
-dv_name: Modena
+dv_has_name_: Modena
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

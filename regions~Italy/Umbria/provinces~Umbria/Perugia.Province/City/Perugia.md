@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.38
 dv_has_place_latitude: 43.12
-dv_name: Perugia
+dv_has_name_: Perugia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

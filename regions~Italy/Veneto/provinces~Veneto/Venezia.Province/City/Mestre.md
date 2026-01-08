@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.23
 dv_has_place_latitude: 45.48
-dv_name: Mestre
+dv_has_name_: Mestre
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

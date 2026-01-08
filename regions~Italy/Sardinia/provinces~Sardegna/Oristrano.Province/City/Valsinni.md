@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.53
 dv_has_place_latitude: 40.37
-dv_name: Valsinni
+dv_has_name_: Valsinni
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

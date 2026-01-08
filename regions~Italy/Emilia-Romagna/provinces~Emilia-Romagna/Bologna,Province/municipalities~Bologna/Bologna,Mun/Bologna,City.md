@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.35
 dv_has_place_latitude: 44.5
-dv_name: Bologna
+dv_has_name_: Bologna
 dv_Country: "[[../../../../../Italy]]"
 ---
 

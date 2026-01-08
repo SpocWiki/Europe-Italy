@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.38
 dv_has_place_latitude: 46.5
-dv_name: Bozen=Bolzano
+dv_has_name_: Bozen=Bolzano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

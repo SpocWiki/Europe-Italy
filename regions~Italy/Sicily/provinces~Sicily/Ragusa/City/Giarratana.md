@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.73
 dv_has_place_latitude: 37.07
-dv_name: Giarratana
+dv_has_name_: Giarratana
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

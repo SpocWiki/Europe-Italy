@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.12
 dv_has_place_latitude: 45.65
-dv_name: Gorla Minore
+dv_has_name_: Gorla Minore
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

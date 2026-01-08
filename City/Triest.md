@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.76
 dv_has_place_latitude: 45.64
-dv_name: Triest
+dv_has_name_: Triest
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

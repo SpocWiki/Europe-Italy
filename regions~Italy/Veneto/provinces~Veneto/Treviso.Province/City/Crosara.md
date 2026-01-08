@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.95
 dv_has_place_latitude: 45.77
-dv_name: Crosara
+dv_has_name_: Crosara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

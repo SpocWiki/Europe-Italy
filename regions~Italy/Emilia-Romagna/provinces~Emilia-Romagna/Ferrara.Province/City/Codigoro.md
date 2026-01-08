@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.12
 dv_has_place_latitude: 44.8
-dv_name: Codigoro
+dv_has_name_: Codigoro
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.25
 dv_has_place_latitude: 43.87
-dv_name: Viareggio
+dv_has_name_: Viareggio
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

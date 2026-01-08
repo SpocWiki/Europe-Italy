@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15
 dv_has_place_latitude: 42
-dv_name: Termoli
+dv_has_name_: Termoli
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

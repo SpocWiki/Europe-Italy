@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.57
 dv_has_place_latitude: 41.47
-dv_name: Foggia
+dv_has_name_: Foggia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

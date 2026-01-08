@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.78
 dv_has_place_latitude: 45.05
-dv_name: Pieve nel Cairolt
+dv_has_name_: Pieve nel Cairolt
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

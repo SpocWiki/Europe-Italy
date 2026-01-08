@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.5
 dv_has_place_latitude: 45.88
-dv_name: Gradisca
+dv_has_name_: Gradisca
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.52
 dv_has_place_latitude: 38.05
-dv_name: Trapani
+dv_has_name_: Trapani
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

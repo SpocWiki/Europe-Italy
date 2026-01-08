@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.3
 dv_has_place_latitude: 46.02
-dv_name: Levico
+dv_has_name_: Levico
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

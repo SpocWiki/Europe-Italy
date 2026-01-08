@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.32
 dv_has_place_latitude: 45.72
-dv_name: St.Ulderico di Tretto
+dv_has_name_: St.Ulderico di Tretto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

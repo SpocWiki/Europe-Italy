@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.57
 dv_has_place_latitude: 45.55
-dv_name: Vicenza
+dv_has_name_: Vicenza
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

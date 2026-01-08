@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.27
 dv_has_place_latitude: 41.28
-dv_name: Terracina
+dv_has_name_: Terracina
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

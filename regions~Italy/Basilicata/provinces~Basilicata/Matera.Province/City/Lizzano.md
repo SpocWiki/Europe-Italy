@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.58
 dv_has_place_latitude: 40.38
-dv_name: Lizzano
+dv_has_name_: Lizzano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.35
 dv_has_place_latitude: 42.98
-dv_name: Cannara
+dv_has_name_: Cannara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

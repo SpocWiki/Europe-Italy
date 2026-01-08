@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.12
 dv_has_place_latitude: 39.98
-dv_name: Taviano
+dv_has_name_: Taviano
 dv_Country: "[[../../../../../Italy]]"
 ---
 

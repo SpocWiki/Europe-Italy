@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.9
 dv_has_place_latitude: 44.35
-dv_name: Montembrara
+dv_has_name_: Montembrara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

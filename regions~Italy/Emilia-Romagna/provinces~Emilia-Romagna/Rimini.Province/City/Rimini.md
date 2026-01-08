@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.57
 dv_has_place_latitude: 44.07
-dv_name: Rimini
+dv_has_name_: Rimini
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

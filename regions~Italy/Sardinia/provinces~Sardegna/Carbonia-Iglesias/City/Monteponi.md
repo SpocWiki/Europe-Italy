@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.43
 dv_has_place_latitude: 39.25
-dv_name: Monteponi
+dv_has_name_: Monteponi
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

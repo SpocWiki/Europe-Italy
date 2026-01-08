@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.87
 dv_has_place_latitude: 46.17
-dv_name: Sondrio
+dv_has_name_: Sondrio
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

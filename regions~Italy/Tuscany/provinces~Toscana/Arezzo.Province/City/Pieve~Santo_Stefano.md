@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.03
 dv_has_place_latitude: 43.67
-dv_name: Pieve~Santo Stefano
+dv_has_name_: Pieve~Santo Stefano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

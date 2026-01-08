@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.72
 dv_has_place_latitude: 42.63
-dv_name: Pitigliano
+dv_has_name_: Pitigliano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

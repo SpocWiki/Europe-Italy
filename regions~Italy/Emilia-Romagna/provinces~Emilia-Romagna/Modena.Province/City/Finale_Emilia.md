@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.28
 dv_has_place_latitude: 44.82
-dv_name: Finale Emilia
+dv_has_name_: Finale Emilia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

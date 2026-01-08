@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.97
 dv_has_place_latitude: 36.8
-dv_name: Modica
+dv_has_name_: Modica
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

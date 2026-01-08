@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.38
 dv_has_place_latitude: 41.83
-dv_name: Troia
+dv_has_name_: Troia
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

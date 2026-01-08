@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.03
 dv_has_place_latitude: 44.42
-dv_name: Guiglia
+dv_has_name_: Guiglia
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.78
 dv_has_place_latitude: 44.77
-dv_name: Novi Ligure
+dv_has_name_: Novi Ligure
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

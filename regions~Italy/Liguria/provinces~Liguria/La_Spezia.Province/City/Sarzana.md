@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.98
 dv_has_place_latitude: 44.12
-dv_name: Sarzana
+dv_has_name_: Sarzana
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

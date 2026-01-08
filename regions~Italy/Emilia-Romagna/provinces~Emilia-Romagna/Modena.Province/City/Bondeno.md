@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.98
 dv_has_place_latitude: 44.55
-dv_name: Bondeno
+dv_has_name_: Bondeno
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

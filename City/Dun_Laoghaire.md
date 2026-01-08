@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.13
 dv_has_place_latitude: 53.3
-dv_name: Dun Laoghaire
+dv_has_name_: Dun Laoghaire
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

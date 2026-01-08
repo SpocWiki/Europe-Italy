@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.55
 dv_has_place_latitude: 37.27
-dv_name: Girgenti=Agrigent
+dv_has_name_: Girgenti=Agrigent
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

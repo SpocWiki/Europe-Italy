@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.68
 dv_has_place_latitude: 44.95
-dv_name: Luzzara
+dv_has_name_: Luzzara
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

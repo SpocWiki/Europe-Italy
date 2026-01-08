@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.47
 dv_has_place_latitude: 44.12
-dv_name: Sparavalle
+dv_has_name_: Sparavalle
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

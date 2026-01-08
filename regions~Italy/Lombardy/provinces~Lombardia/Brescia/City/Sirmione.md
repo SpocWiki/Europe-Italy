@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.6
 dv_has_place_latitude: 45.48
-dv_name: Sirmione
+dv_has_name_: Sirmione
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

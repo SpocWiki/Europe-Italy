@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.53
 dv_has_place_latitude: 45.47
-dv_name: Desenzano
+dv_has_name_: Desenzano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

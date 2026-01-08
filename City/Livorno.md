@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.3
 dv_has_place_latitude: 43.55
-dv_name: Livorno
+dv_has_name_: Livorno
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

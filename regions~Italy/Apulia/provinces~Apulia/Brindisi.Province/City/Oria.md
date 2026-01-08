@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.67
 dv_has_place_latitude: 40.5
-dv_name: Oria
+dv_has_name_: Oria
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

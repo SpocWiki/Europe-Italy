@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.25
 dv_has_place_latitude: 52.95
-dv_name: Foligno
+dv_has_name_: Foligno
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

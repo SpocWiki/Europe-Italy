@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.78
 dv_has_place_latitude: 45.58
-dv_name: Albergo Romobel
+dv_has_name_: Albergo Romobel
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.8
 dv_has_place_latitude: 45.17
-dv_name: Mantova
+dv_has_name_: Mantova
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

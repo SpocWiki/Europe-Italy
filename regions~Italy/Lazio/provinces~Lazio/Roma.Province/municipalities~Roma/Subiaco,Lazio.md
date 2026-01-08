@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.08
 dv_has_place_latitude: 41.93
-dv_name: Subiaco,Lazio
+dv_has_name_: Subiaco,Lazio
 dv_Country: "[[../../../../../../Italy]]"
 ---
 

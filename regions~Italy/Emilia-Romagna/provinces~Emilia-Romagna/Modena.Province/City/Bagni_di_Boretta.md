@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.17
 dv_has_place_latitude: 44.9
-dv_name: Bagni di Boretta
+dv_has_name_: Bagni di Boretta
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

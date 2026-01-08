@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.98
 dv_has_place_latitude: 40.07
-dv_name: Gallipolli
+dv_has_name_: Gallipolli
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

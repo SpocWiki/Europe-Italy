@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.68
 dv_has_place_latitude: 45.7
-dv_name: Bergamo
+dv_has_name_: Bergamo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

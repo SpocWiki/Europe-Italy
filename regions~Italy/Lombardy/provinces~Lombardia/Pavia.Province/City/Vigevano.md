@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.87
 dv_has_place_latitude: 45.32
-dv_name: Vigevano
+dv_has_name_: Vigevano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

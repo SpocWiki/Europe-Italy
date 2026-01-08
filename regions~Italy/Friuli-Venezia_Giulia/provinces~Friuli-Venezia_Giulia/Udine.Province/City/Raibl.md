@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.57
 dv_has_place_latitude: 46.45
-dv_name: Raibl
+dv_has_name_: Raibl
 dv_Country: "[[../../../../../../../Europe~Central/Austria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.23
 dv_has_place_latitude: 44.37
-dv_name: Succiso
+dv_has_name_: Succiso
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

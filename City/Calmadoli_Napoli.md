@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 40
   - 85
-dv_name: Calmadoli/Napoli
+dv_has_name_: Calmadoli/Napoli
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.12
 dv_has_place_latitude: 46.13
-dv_name: Gamparta
+dv_has_name_: Gamparta
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

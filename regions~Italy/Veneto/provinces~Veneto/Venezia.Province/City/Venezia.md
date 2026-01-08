@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.33
 dv_has_place_latitude: 45.43
-dv_name: Venedig=Venecia
+dv_has_name_: Venedig=Venecia
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"

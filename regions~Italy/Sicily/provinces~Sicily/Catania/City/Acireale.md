@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.17
 dv_has_place_latitude: 37.6
-dv_name: Acireale
+dv_has_name_: Acireale
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

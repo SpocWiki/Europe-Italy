@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.62
 dv_has_place_latitude: 40.68
-dv_name: Matera.City
+dv_has_name_: Matera.City
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

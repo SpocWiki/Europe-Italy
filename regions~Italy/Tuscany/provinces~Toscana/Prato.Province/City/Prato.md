@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.08
 dv_has_place_latitude: 43.88
-dv_name: Prato
+dv_has_name_: Prato
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

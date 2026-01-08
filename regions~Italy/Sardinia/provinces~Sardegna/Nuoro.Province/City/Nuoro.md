@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.33
 dv_has_place_latitude: 40.33
-dv_name: Nuoro
+dv_has_name_: Nuoro
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

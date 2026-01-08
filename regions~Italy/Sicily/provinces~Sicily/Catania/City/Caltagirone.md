@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 37.23
-dv_name: Caltagirone
+dv_has_name_: Caltagirone
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -24,7 +24,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 43
   - 78
-dv_name: Calmadoli/Arezzo
+dv_has_name_: Calmadoli/Arezzo
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.23
 dv_has_place_latitude: 42.43
-dv_name: Orbetello
+dv_has_name_: Orbetello
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

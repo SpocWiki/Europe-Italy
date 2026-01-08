@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.67
 dv_has_place_latitude: 45.95
-dv_name: Pordenone
+dv_has_name_: Pordenone
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

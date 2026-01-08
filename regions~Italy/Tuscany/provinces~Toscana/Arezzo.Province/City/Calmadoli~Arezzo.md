@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.83
 dv_has_place_latitude: 43.78
-dv_name: Calmadoli~Arezzo
+dv_has_name_: Calmadoli~Arezzo
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

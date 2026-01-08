@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.8
 dv_has_place_latitude: 44.83
-dv_name: Mondovi
+dv_has_name_: Mondovi
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

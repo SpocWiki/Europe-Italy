@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.32
 dv_has_place_latitude: 45.33
-dv_name: Abbazia
+dv_has_name_: Abbazia
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

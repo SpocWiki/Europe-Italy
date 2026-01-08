@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.07
 dv_has_place_latitude: 46.95
-dv_name: Rain
+dv_has_name_: Rain
 dv_Country: "[[../../../../../Italy]]"
 ---
 

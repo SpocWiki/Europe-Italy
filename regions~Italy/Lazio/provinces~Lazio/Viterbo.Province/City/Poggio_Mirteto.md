@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.28
 dv_has_place_latitude: 42.27
-dv_name: Poggio Mirteto
+dv_has_name_: Poggio Mirteto
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.27
 dv_has_place_latitude: 45.22
-dv_name: Ostiano
+dv_has_name_: Ostiano
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

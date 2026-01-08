@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.68
 dv_has_place_latitude: 45.43
-dv_name: Peschiera
+dv_has_name_: Peschiera
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  

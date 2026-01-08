@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.38
 dv_has_place_latitude: 42.9
-dv_name: Piombino
+dv_has_name_: Piombino
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

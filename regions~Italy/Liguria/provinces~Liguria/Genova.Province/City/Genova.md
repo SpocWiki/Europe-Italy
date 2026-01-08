@@ -169,7 +169,7 @@ EU_Participant_Identification_Code: 998295095
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.95
 dv_has_place_latitude: 44.42
-dv_name: Genua
+dv_has_name_: Genua
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Genoa,1449|WD~Genoa,1449]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Genoa,1449|WD~Genoa,1449]]"

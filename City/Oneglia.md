@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.03
 dv_has_place_latitude: 43.88
-dv_name: Oneglia
+dv_has_name_: Oneglia
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  

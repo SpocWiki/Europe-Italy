@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.35
 dv_has_place_latitude: 44.22
-dv_name: Cesenatico
+dv_has_name_: Cesenatico
 dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
