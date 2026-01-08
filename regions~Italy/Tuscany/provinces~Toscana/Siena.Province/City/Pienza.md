@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33364
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.68
+dv_has_place_latitude: 43.07
+dv_name: Pienza
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.68] 
-[has_place_latitude::43.07] 
-[name::Pienza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pienza](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza|Pienza]] 
 
-### [Pienza.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.public|Pienza.public]] 
 
-### [Pienza.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.internal|Pienza.internal]] 
 
-### [Pienza.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.protect|Pienza.protect]] 
 
-### [Pienza.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.private|Pienza.private]] 
 
-### [Pienza.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.personal|Pienza.personal]] 
 
-### [Pienza.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Pienza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Pienza.secret|Pienza.secret]] 
 

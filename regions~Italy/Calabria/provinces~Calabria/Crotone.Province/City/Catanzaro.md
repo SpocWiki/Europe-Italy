@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29518
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.13
+dv_has_place_latitude: 39.08
+dv_name: Catanzaro
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.13] 
-[has_place_latitude::39.08] 
-[name::Catanzaro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Catanzaro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro|Catanzaro]] 
 
-### [Catanzaro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.public|Catanzaro.public]] 
 
-### [Catanzaro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.internal|Catanzaro.internal]] 
 
-### [Catanzaro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.protect|Catanzaro.protect]] 
 
-### [Catanzaro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.private|Catanzaro.private]] 
 
-### [Catanzaro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.personal|Catanzaro.personal]] 
 
-### [Catanzaro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Catanzaro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Catanzaro.secret|Catanzaro.secret]] 
 

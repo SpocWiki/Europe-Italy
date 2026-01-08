@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28707
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.17
+dv_has_place_latitude: 44
+dv_name: Alassio
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.17] 
-[has_place_latitude::44] 
-[name::Alassio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alassio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alassio|Alassio]] 
 
-### [Alassio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.public|Alassio.public]] 
 
-### [Alassio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.internal|Alassio.internal]] 
 
-### [Alassio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.protect|Alassio.protect]] 
 
-### [Alassio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.private|Alassio.private]] 
 
-### [Alassio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.personal|Alassio.personal]] 
 
-### [Alassio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alassio.secret|Alassio.secret]] 
 

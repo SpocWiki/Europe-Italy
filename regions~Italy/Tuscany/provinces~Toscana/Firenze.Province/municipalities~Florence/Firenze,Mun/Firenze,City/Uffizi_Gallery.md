@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Building", "UffiziGallery: h2733"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../../WikiData/WD~Uffizi_Gallery,51252|WD~Uffizi_Gallery,51252]]"
+dv_building-uffizigallery: h2733"
+dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Uffizi_Gallery,51252|WD~Uffizi_Gallery,51252]]"
+
 has_time_started: 1560-01-01 
 aliases:
   - Galleria degli Uffizi
@@ -83,7 +89,7 @@ official_website:
   - https://www.uffizi.it/
   - https://www.uffizi.it/en
 ISNI: 0000000121721622
-Wolfram_Language_entity_code: Entity["Building", "UffiziGallery::h2733"]
+Wolfram_Language_entity_code: Entity"Building", "UffiziGallery = `=this.dv_"Building", "UffiziGallery`
 Commons_gallery: Galleria degli Uffizi
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/UFFITSI.html
 Commons_category: Uffizi
@@ -95,7 +101,7 @@ described_at_URL:
 
 # [[Uffizi_Gallery]] 
 
-#is_/same_as  :: [[../../../../../../../../../../../../WikiData/WD~Uffizi_Gallery,51252|WD~Uffizi_Gallery,51252]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -117,4 +123,21 @@ described_at_URL:
 > and in 1769 it was officially opened to the public, formally becoming a museum in 1865.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uffizi) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery|Uffizi_Gallery]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.public|Uffizi_Gallery.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.internal|Uffizi_Gallery.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.protect|Uffizi_Gallery.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.private|Uffizi_Gallery.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.personal|Uffizi_Gallery.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/municipalities~Florence/Firenze,Mun/Firenze,City/Uffizi_Gallery.secret|Uffizi_Gallery.secret]] 
 

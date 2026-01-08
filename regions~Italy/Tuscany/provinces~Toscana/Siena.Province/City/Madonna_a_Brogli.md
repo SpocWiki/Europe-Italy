@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32209
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.33
+dv_has_place_latitude: 43.42
+dv_name: Madonna a Brogli
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.33] 
-[has_place_latitude::43.42] 
-[name::Madonna a Brogli] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Madonna_a_Brogli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli|Madonna_a_Brogli]] 
 
-### [Madonna_a_Brogli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.public|Madonna_a_Brogli.public]] 
 
-### [Madonna_a_Brogli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.internal|Madonna_a_Brogli.internal]] 
 
-### [Madonna_a_Brogli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.protect|Madonna_a_Brogli.protect]] 
 
-### [Madonna_a_Brogli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.private|Madonna_a_Brogli.private]] 
 
-### [Madonna_a_Brogli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.personal|Madonna_a_Brogli.personal]] 
 
-### [Madonna_a_Brogli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Madonna_a_Brogli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Madonna_a_Brogli.secret|Madonna_a_Brogli.secret]] 
 

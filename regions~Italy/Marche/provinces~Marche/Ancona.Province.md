@@ -40,17 +40,17 @@ markerFolder: ./Ancona.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Ancona.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province|Ancona.Province]] 
 
-### [Ancona.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.public|Ancona.Province.public]] 
 
-### [Ancona.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.internal|Ancona.Province.internal]] 
 
-### [Ancona.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.protect|Ancona.Province.protect]] 
 
-### [Ancona.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.private|Ancona.Province.private]] 
 
-### [Ancona.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.personal|Ancona.Province.personal]] 
 
-### [Ancona.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province.secret|Ancona.Province.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32418
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.37
+dv_has_place_latitude: 43.52
+dv_name: Mercatello
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.37] 
-[has_place_latitude::43.52] 
-[name::Mercatello] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mercatello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello|Mercatello]] 
 
-### [Mercatello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.public|Mercatello.public]] 
 
-### [Mercatello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.internal|Mercatello.internal]] 
 
-### [Mercatello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.protect|Mercatello.protect]] 
 
-### [Mercatello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.private|Mercatello.private]] 
 
-### [Mercatello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.personal|Mercatello.personal]] 
 
-### [Mercatello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Mercatello.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Mercatello.secret|Mercatello.secret]] 
 

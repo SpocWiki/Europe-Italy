@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32392
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.4
+dv_has_place_latitude: 45.3
+dv_name: Melegnano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.4] 
-[has_place_latitude::45.3] 
-[name::Melegnano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melegnano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano|Melegnano]] 
 
-### [Melegnano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.public|Melegnano.public]] 
 
-### [Melegnano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.internal|Melegnano.internal]] 
 
-### [Melegnano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.protect|Melegnano.protect]] 
 
-### [Melegnano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.private|Melegnano.private]] 
 
-### [Melegnano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.personal|Melegnano.personal]] 
 
-### [Melegnano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Melegnano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Melegnano.secret|Melegnano.secret]] 
 

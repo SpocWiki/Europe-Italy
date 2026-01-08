@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29452
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.37
+dv_has_place_latitude: 40.57
+dv_name: Calimera
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.37] 
-[has_place_latitude::40.57] 
-[name::Calimera] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calimera](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calimera|Calimera]] 
 
-### [Calimera.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.public|Calimera.public]] 
 
-### [Calimera.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.internal|Calimera.internal]] 
 
-### [Calimera.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.protect|Calimera.protect]] 
 
-### [Calimera.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.private|Calimera.private]] 
 
-### [Calimera.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.personal|Calimera.personal]] 
 
-### [Calimera.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calimera.secret|Calimera.secret]] 
 

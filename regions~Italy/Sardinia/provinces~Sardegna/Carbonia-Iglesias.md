@@ -40,17 +40,17 @@ markerFolder: ./Carbonia-Iglesias/
 
 ## Confidential Links & Embeds: 
 
-### [Carbonia-Iglesias](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias|Carbonia-Iglesias]] 
 
-### [Carbonia-Iglesias.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.public|Carbonia-Iglesias.public]] 
 
-### [Carbonia-Iglesias.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.internal|Carbonia-Iglesias.internal]] 
 
-### [Carbonia-Iglesias.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.protect|Carbonia-Iglesias.protect]] 
 
-### [Carbonia-Iglesias.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.private|Carbonia-Iglesias.private]] 
 
-### [Carbonia-Iglesias.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.personal|Carbonia-Iglesias.personal]] 
 
-### [Carbonia-Iglesias.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias.secret|Carbonia-Iglesias.secret]] 
 

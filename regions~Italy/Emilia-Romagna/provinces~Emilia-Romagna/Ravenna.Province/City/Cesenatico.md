@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29535
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.35
+dv_has_place_latitude: 44.22
+dv_name: Cesenatico
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.35] 
-[has_place_latitude::44.22] 
-[name::Cesenatico] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cesenatico](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico|Cesenatico]] 
 
-### [Cesenatico.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.public|Cesenatico.public]] 
 
-### [Cesenatico.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.internal|Cesenatico.internal]] 
 
-### [Cesenatico.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.protect|Cesenatico.protect]] 
 
-### [Cesenatico.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.private|Cesenatico.private]] 
 
-### [Cesenatico.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.personal|Cesenatico.personal]] 
 
-### [Cesenatico.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Ravenna.Province/City/Cesenatico.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Ravenna.Province/City/Cesenatico.secret|Cesenatico.secret]] 
 

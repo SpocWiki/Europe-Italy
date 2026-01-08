@@ -62,15 +62,20 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20DOSSI%20%2C%20Battista%20DOSSI%20%28attributed%20to%29%20-%20Lucrezia%20Borgia%2C%20Duchess%20of%20Ferrara%20-%20Google%20Art%20Project.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/LucSignatur.png
 ISNI: "0000000108719739"
-Wolfram_Language_entity_code: Entity["Person", "LucreziaBorgia::2646k"]
+Wolfram_Language_entity_code: Entity"Person", "LucreziaBorgia = `=this.dv_"Person", "LucreziaBorgia`
 Libris_URI: xfb5spmbvqmwxbpq
 name_in_native_language: Lucrezia di Borgia
 date_of_death: 1519-07-04T00:00:00Z
+dv_"Person", "LucreziaBorgia: 2646k"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Lucrezia_Borgia,191103]]"
+dv_person-lucreziaborgia: 2646k"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Lucrezia_Borgia,191103]]"
 ---
 
 # [[Lucrezia_Borgia]] 
 
-#is_/same_as :: [[WD~Lucrezia_Borgia,191103]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -90,4 +95,21 @@ date_of_death: 1519-07-04T00:00:00Z
 > a controversial role in which she has been portrayed in many artworks, novels, and films.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lucrezia%20Borgia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia|Lucrezia_Borgia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.public|Lucrezia_Borgia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.internal|Lucrezia_Borgia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.protect|Lucrezia_Borgia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.private|Lucrezia_Borgia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.personal|Lucrezia_Borgia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Lucrezia_Borgia.secret|Lucrezia_Borgia.secret]] 
 

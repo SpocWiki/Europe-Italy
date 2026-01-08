@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29520
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.48
+dv_has_place_latitude: 46.3
+dv_name: Cavalese
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.48] 
-[has_place_latitude::46.3] 
-[name::Cavalese] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cavalese](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese|Cavalese]] 
 
-### [Cavalese.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.public|Cavalese.public]] 
 
-### [Cavalese.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.internal|Cavalese.internal]] 
 
-### [Cavalese.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.protect|Cavalese.protect]] 
 
-### [Cavalese.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.private|Cavalese.private]] 
 
-### [Cavalese.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.personal|Cavalese.personal]] 
 
-### [Cavalese.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Cavalese.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Cavalese.secret|Cavalese.secret]] 
 

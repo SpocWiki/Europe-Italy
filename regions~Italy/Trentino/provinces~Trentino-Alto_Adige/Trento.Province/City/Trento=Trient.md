@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34966
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.08
+dv_has_place_latitude: 46.07
+dv_name: Trento=Trient
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.08] 
-[has_place_latitude::46.07] 
-[name::Trento=Trient] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trento=Trient](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient|Trento=Trient]] 
 
-### [Trento=Trient.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.public|Trento=Trient.public]] 
 
-### [Trento=Trient.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.internal|Trento=Trient.internal]] 
 
-### [Trento=Trient.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.protect|Trento=Trient.protect]] 
 
-### [Trento=Trient.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.private|Trento=Trient.private]] 
 
-### [Trento=Trient.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.personal|Trento=Trient.personal]] 
 
-### [Trento=Trient.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Trento=Trient.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Trento=Trient.secret|Trento=Trient.secret]] 
 

@@ -14,21 +14,29 @@ tags:
 SpocWebEntityId: 33184
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.48
+dv_has_place_latitude: 40.15
+dv_name: Otranto
+dv_Country: "[[../../../../../Italy]]"
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Otranto,52174]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Otranto,52174]]"
 ---
 
 # [[Otranto,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.48] 
-[has_place_latitude::40.15] 
-[name::Otranto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Otranto,52174]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -46,17 +54,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Otranto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City|Otranto,City]] 
 
-### [Otranto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.public|Otranto,City.public]] 
 
-### [Otranto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.internal|Otranto,City.internal]] 
 
-### [Otranto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.protect|Otranto,City.protect]] 
 
-### [Otranto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.private|Otranto,City.private]] 
 
-### [Otranto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.personal|Otranto,City.personal]] 
 
-### [Otranto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Otranto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Otranto/Otranto,City.secret|Otranto,City.secret]] 
 

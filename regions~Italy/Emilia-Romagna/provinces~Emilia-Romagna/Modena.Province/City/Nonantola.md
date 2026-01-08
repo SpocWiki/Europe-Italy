@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32941
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.03
+dv_has_place_latitude: 44.7
+dv_name: Nonantola
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.03] 
-[has_place_latitude::44.7] 
-[name::Nonantola] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nonantola](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola|Nonantola]] 
 
-### [Nonantola.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.public|Nonantola.public]] 
 
-### [Nonantola.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.internal|Nonantola.internal]] 
 
-### [Nonantola.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.protect|Nonantola.protect]] 
 
-### [Nonantola.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.private|Nonantola.private]] 
 
-### [Nonantola.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.personal|Nonantola.personal]] 
 
-### [Nonantola.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Nonantola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Nonantola.secret|Nonantola.secret]] 
 

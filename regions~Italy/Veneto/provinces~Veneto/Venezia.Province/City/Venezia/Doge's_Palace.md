@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Doge's_Palace,189883|WD~Doge's_Palace,189883]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Doge's_Palace,189883|WD~Doge's_Palace,189883]]"
+
 has_time_started: 1340-01-01 
 aliases:
   - Palazzo Ducale
@@ -99,7 +103,7 @@ street_address:
 
 # [[Doge's_Palace]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Doge's_Palace,189883|WD~Doge's_Palace,189883]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -117,4 +121,21 @@ street_address:
 > and is one of 11 museums run by the Fondazione Musei Civici di Venezia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doge's%20Palace) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace|Doge's_Palace]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.public|Doge's_Palace.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.internal|Doge's_Palace.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.protect|Doge's_Palace.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.private|Doge's_Palace.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.personal|Doge's_Palace.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia/Doge's_Palace.secret|Doge's_Palace.secret]] 
 

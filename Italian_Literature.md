@@ -5,17 +5,17 @@ aliases:
   - Italian Literature
 has_id_wikidata: Q74217
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-studied_by: '[[_Standards/WikiData/WD~Italian_literature,109587724]]'
-different_from: '[[_Standards/WikiData/WD~Italian_literature,109587724]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"
+instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
+studied_by: "[[_Standards/WikiData/WD~Italian_literature,109587724]]"
+different_from: "[[_Standards/WikiData/WD~Italian_literature,109587724]]"
+subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
 Dewey_Decimal_Classification: 850
 Commons_category: Literature of Italy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Divina%20Comedia%2C%20Dante%20Alighier%2C%20Veneza%2C%201529.jpg
@@ -23,11 +23,14 @@ Basisklassifikation: 18.27
 Provenio_UUID: 6d3b645d-70f9-4c81-8660-28d968f4db0e
 Krugosvet_article_archived_: literatura/italyanskaya-literatura
 Colon_Classification: O111v
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Italian_literature,74217]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Italian_literature,74217]]"
 ---
 
 # [[Italian_Literature]] 
 
-#is_/same_as :: [[WD~Italian_literature,74217]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -43,4 +46,21 @@ Colon_Classification: O111v
 > After the Risorgimento, political literature became less important. The first part of this period is characterized by two divergent trends of literature that both opposed Romanticism: the Scapigliatura and Verismo. Important early 20th century Italian writers include Giovanni Pascoli, Italo Svevo, Gabriele D'Annunzio, Umberto Saba, Giuseppe Ungaretti, Eugenio Montale, and Luigi Pirandello. Neorealism was developed by Alberto Moravia. Pier Paolo Pasolini became notable for being one of the most controversial authors in the history of Italy. Umberto Eco became internationally successful with the Medieval detective story Il nome della rosa (1980). The Nobel Prize in Literature has been awarded to Italian language authors six times (as of 2019) with winners including Giosuè Carducci, Grazia Deledda, Luigi Pirandello, Salvatore Quasimodo, Eugenio Montale, and Dario Fo.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Italian%20literature) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature|Italian_Literature]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.public|Italian_Literature.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.internal|Italian_Literature.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.protect|Italian_Literature.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.private|Italian_Literature.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.personal|Italian_Literature.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/Italian_Literature.secret|Italian_Literature.secret]] 
 

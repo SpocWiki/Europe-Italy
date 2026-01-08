@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33808
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.08
+dv_has_place_latitude: 45.9
+dv_name: Rovereto
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.08] 
-[has_place_latitude::45.9] 
-[name::Rovereto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovereto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto|Rovereto]] 
 
-### [Rovereto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.public|Rovereto.public]] 
 
-### [Rovereto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.internal|Rovereto.internal]] 
 
-### [Rovereto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.protect|Rovereto.protect]] 
 
-### [Rovereto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.private|Rovereto.private]] 
 
-### [Rovereto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.personal|Rovereto.personal]] 
 
-### [Rovereto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Rovereto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Rovereto.secret|Rovereto.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34919
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.37
+dv_has_place_latitude: 40.78
+dv_name: Torre del Greco
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.37] 
-[has_place_latitude::40.78] 
-[name::Torre del Greco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torre_del_Greco](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco|Torre_del_Greco]] 
 
-### [Torre_del_Greco.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.public|Torre_del_Greco.public]] 
 
-### [Torre_del_Greco.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.internal|Torre_del_Greco.internal]] 
 
-### [Torre_del_Greco.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.protect|Torre_del_Greco.protect]] 
 
-### [Torre_del_Greco.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.private|Torre_del_Greco.private]] 
 
-### [Torre_del_Greco.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.personal|Torre_del_Greco.personal]] 
 
-### [Torre_del_Greco.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Torre_del_Greco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Torre_del_Greco.secret|Torre_del_Greco.secret]] 
 

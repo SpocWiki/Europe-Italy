@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Palazzo_Pitti,29286|WD~Palazzo_Pitti,29286]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Palazzo_Pitti,29286|WD~Palazzo_Pitti,29286]]"
+
 has_time_started: 1458-01-01 
 aliases:
   - Pitti Palace
@@ -63,7 +67,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Pitti%20nel%
 
 # [[Palazzo_Pitti]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Palazzo_Pitti,29286|WD~Palazzo_Pitti,29286]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -100,4 +104,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Pitti%20nel%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palazzo%20Pitti) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti|Palazzo_Pitti]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.public|Palazzo_Pitti.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.internal|Palazzo_Pitti.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.protect|Palazzo_Pitti.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.private|Palazzo_Pitti.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.personal|Palazzo_Pitti.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/Palazzo_Pitti.secret|Palazzo_Pitti.secret]] 
 

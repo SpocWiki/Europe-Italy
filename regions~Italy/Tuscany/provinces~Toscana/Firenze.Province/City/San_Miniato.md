@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33918
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.28
+dv_has_place_latitude: 43.65
+dv_name: San Miniato
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.28] 
-[has_place_latitude::43.65] 
-[name::San Miniato] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Miniato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato|San_Miniato]] 
 
-### [San_Miniato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.public|San_Miniato.public]] 
 
-### [San_Miniato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.internal|San_Miniato.internal]] 
 
-### [San_Miniato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.protect|San_Miniato.protect]] 
 
-### [San_Miniato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.private|San_Miniato.private]] 
 
-### [San_Miniato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.personal|San_Miniato.personal]] 
 
-### [San_Miniato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province/City/San_Miniato.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province/City/San_Miniato.secret|San_Miniato.secret]] 
 

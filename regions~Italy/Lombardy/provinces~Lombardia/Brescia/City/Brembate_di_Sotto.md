@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29331
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.13
+dv_has_place_latitude: 45.47
+dv_name: Brembate di Sotto
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.13] 
-[has_place_latitude::45.47] 
-[name::Brembate di Sotto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brembate_di_Sotto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto|Brembate_di_Sotto]] 
 
-### [Brembate_di_Sotto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.public|Brembate_di_Sotto.public]] 
 
-### [Brembate_di_Sotto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.internal|Brembate_di_Sotto.internal]] 
 
-### [Brembate_di_Sotto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.protect|Brembate_di_Sotto.protect]] 
 
-### [Brembate_di_Sotto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.private|Brembate_di_Sotto.private]] 
 
-### [Brembate_di_Sotto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.personal|Brembate_di_Sotto.personal]] 
 
-### [Brembate_di_Sotto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Brembate_di_Sotto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Brembate_di_Sotto.secret|Brembate_di_Sotto.secret]] 
 

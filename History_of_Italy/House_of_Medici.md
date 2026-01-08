@@ -39,11 +39,14 @@ Commons_gallery: Famiglia Medici
 Commons_category: House of Medici
 Krugosvet_article_archived_: istoriya/MEDICHI.html
 Royal_Academy_new_identifier: medici-family
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~House_of_Medici,170022]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~House_of_Medici,170022]]"
 ---
 
 # [[House_of_Medici]] 
 
-#is_/same_as :: [[WD~House_of_Medici,170022]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -94,4 +97,21 @@ Royal_Academy_new_identifier: medici-family
 > through the Council of Trent and the French Wars of Religion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/House%20of%20Medici) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici|House_of_Medici]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.public|House_of_Medici.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.internal|House_of_Medici.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.protect|House_of_Medici.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.private|House_of_Medici.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.personal|House_of_Medici.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/House_of_Medici.secret|House_of_Medici.secret]] 
 

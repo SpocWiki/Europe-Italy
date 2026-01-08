@@ -40,17 +40,17 @@ markerFolder: ./Benevento.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Benevento.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province|Benevento.Province]] 
 
-### [Benevento.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.public|Benevento.Province.public]] 
 
-### [Benevento.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.internal|Benevento.Province.internal]] 
 
-### [Benevento.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.protect|Benevento.Province.protect]] 
 
-### [Benevento.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.private|Benevento.Province.private]] 
 
-### [Benevento.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.personal|Benevento.Province.personal]] 
 
-### [Benevento.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province.secret|Benevento.Province.secret]] 
 

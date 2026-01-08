@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32110
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.1
+dv_has_place_latitude: 45.82
+dv_name: Lovere
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.1] 
-[has_place_latitude::45.82] 
-[name::Lovere] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lovere](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere|Lovere]] 
 
-### [Lovere.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.public|Lovere.public]] 
 
-### [Lovere.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.internal|Lovere.internal]] 
 
-### [Lovere.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.protect|Lovere.protect]] 
 
-### [Lovere.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.private|Lovere.private]] 
 
-### [Lovere.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.personal|Lovere.personal]] 
 
-### [Lovere.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Lovere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Lovere.secret|Lovere.secret]] 
 

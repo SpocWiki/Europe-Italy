@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32067
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.3
+dv_has_place_latitude: 40.77
+dv_name: Locorotondo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.3] 
-[has_place_latitude::40.77] 
-[name::Locorotondo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Locorotondo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo|Locorotondo]] 
 
-### [Locorotondo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.public|Locorotondo.public]] 
 
-### [Locorotondo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.internal|Locorotondo.internal]] 
 
-### [Locorotondo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.protect|Locorotondo.protect]] 
 
-### [Locorotondo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.private|Locorotondo.private]] 
 
-### [Locorotondo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.personal|Locorotondo.personal]] 
 
-### [Locorotondo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Bari/City/Locorotondo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Bari/City/Locorotondo.secret|Locorotondo.secret]] 
 

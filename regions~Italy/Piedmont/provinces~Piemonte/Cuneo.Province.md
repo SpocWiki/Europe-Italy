@@ -40,17 +40,17 @@ markerFolder: ./Cuneo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Cuneo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province|Cuneo.Province]] 
 
-### [Cuneo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.public|Cuneo.Province.public]] 
 
-### [Cuneo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.internal|Cuneo.Province.internal]] 
 
-### [Cuneo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.protect|Cuneo.Province.protect]] 
 
-### [Cuneo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.private|Cuneo.Province.private]] 
 
-### [Cuneo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.personal|Cuneo.Province.personal]] 
 
-### [Cuneo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province.secret|Cuneo.Province.secret]] 
 

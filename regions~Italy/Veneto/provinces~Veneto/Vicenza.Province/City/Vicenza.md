@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35274
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.57
+dv_has_place_latitude: 45.55
+dv_name: Vicenza
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.57] 
-[has_place_latitude::45.55] 
-[name::Vicenza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vicenza](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza|Vicenza]] 
 
-### [Vicenza.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.public|Vicenza.public]] 
 
-### [Vicenza.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.internal|Vicenza.internal]] 
 
-### [Vicenza.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.protect|Vicenza.protect]] 
 
-### [Vicenza.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.private|Vicenza.private]] 
 
-### [Vicenza.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.personal|Vicenza.personal]] 
 
-### [Vicenza.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Vicenza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Vicenza.secret|Vicenza.secret]] 
 

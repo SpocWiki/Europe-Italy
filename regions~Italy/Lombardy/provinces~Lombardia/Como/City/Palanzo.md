@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33220
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.08
+dv_has_place_latitude: 45.87
+dv_name: Palanzo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.08] 
-[has_place_latitude::45.87] 
-[name::Palanzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palanzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo|Palanzo]] 
 
-### [Palanzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.public|Palanzo.public]] 
 
-### [Palanzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.internal|Palanzo.internal]] 
 
-### [Palanzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.protect|Palanzo.protect]] 
 
-### [Palanzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.private|Palanzo.private]] 
 
-### [Palanzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.personal|Palanzo.personal]] 
 
-### [Palanzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Palanzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Palanzo.secret|Palanzo.secret]] 
 

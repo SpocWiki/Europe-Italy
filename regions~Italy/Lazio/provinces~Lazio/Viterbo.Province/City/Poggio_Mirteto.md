@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33424
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.28
+dv_has_place_latitude: 42.27
+dv_name: Poggio Mirteto
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.28] 
-[has_place_latitude::42.27] 
-[name::Poggio Mirteto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poggio_Mirteto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto|Poggio_Mirteto]] 
 
-### [Poggio_Mirteto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.public|Poggio_Mirteto.public]] 
 
-### [Poggio_Mirteto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.internal|Poggio_Mirteto.internal]] 
 
-### [Poggio_Mirteto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.protect|Poggio_Mirteto.protect]] 
 
-### [Poggio_Mirteto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.private|Poggio_Mirteto.private]] 
 
-### [Poggio_Mirteto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.personal|Poggio_Mirteto.personal]] 
 
-### [Poggio_Mirteto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Poggio_Mirteto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Poggio_Mirteto.secret|Poggio_Mirteto.secret]] 
 

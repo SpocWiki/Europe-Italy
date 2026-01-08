@@ -40,17 +40,17 @@ markerFolder: ./Pistoia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pistoia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province|Pistoia.Province]] 
 
-### [Pistoia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.public|Pistoia.Province.public]] 
 
-### [Pistoia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.internal|Pistoia.Province.internal]] 
 
-### [Pistoia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.protect|Pistoia.Province.protect]] 
 
-### [Pistoia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.private|Pistoia.Province.private]] 
 
-### [Pistoia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.personal|Pistoia.Province.personal]] 
 
-### [Pistoia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province.secret|Pistoia.Province.secret]] 
 

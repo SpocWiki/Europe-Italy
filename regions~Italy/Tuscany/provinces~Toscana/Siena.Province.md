@@ -40,17 +40,17 @@ markerFolder: ./Siena.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Siena.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province|Siena.Province]] 
 
-### [Siena.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.public|Siena.Province.public]] 
 
-### [Siena.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.internal|Siena.Province.internal]] 
 
-### [Siena.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.protect|Siena.Province.protect]] 
 
-### [Siena.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.private|Siena.Province.private]] 
 
-### [Siena.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.personal|Siena.Province.personal]] 
 
-### [Siena.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province.secret|Siena.Province.secret]] 
 

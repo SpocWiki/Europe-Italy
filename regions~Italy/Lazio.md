@@ -15,17 +15,17 @@ markerFolder: ./Lazio//
 
 ## Confidential Links & Embeds: 
 
-### [Lazio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio|Lazio]] 
 
-### [Lazio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.public|Lazio.public]] 
 
-### [Lazio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.internal|Lazio.internal]] 
 
-### [Lazio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.protect|Lazio.protect]] 
 
-### [Lazio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.private|Lazio.private]] 
 
-### [Lazio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.personal|Lazio.personal]] 
 
-### [Lazio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio.secret|Lazio.secret]] 
 

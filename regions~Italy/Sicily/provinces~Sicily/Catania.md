@@ -20,29 +20,29 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
-greater_than: '[[_Standards/WikiData/WD~geometric_mean,185049]]'
-less_than: '[[_Standards/WikiData/WD~root_mean_square,223323]]'
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+greater_than: "[[_Standards/WikiData/WD~geometric_mean,185049]]"
+less_than: "[[_Standards/WikiData/WD~root_mean_square,223323]]"
 different_from:
-  - '[[_Standards/WikiData/WD~median,226995]]'
-  - '[[_Standards/WikiData/WD~sample_mean,105675280]]'
+  - "[[_Standards/WikiData/WD~median,226995]]"
+  - "[[_Standards/WikiData/WD~sample_mean,105675280]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]'
-  - '[[_Standards/WikiData/WD~weighted_mean,729113]]'
-  - '[[_Standards/WikiData/WD~generalized_mean,855729]]'
-  - '[[_Standards/WikiData/WD~statistic,1949963]]'
-  - '[[_Standards/WikiData/WD~mean,2796622]]'
-  - '[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]'
+  - "[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]"
+  - "[[_Standards/WikiData/WD~weighted_mean,729113]]"
+  - "[[_Standards/WikiData/WD~generalized_mean,855729]]"
+  - "[[_Standards/WikiData/WD~statistic,1949963]]"
+  - "[[_Standards/WikiData/WD~mean,2796622]]"
+  - "[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]"
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
+  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_statistic,47103999]]"
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mover><mi>x</mi><mo>&#x203E;</mo></mover></mrow></mstyle></mrow></math>
@@ -52,11 +52,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Seesaw%20with%20mean.s
 IEV_number: 103-02-01
 Commons_category: Arithmetic mean
 UMLS_CUI: C0444504
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Catania,Q19033]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Catania,Q19033]]"
 ---
 
 # [[Catania]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Catania,Q19033]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -112,19 +115,20 @@ markerFolder: ./Catania/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Catania) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Catania](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania|Catania]] 
 
-### [Catania.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.public|Catania.public]] 
 
-### [Catania.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.internal|Catania.internal]] 
 
-### [Catania.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.protect|Catania.protect]] 
 
-### [Catania.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.private|Catania.private]] 
 
-### [Catania.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.personal|Catania.personal]] 
 
-### [Catania.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania.secret|Catania.secret]] 
 

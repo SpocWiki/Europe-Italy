@@ -40,17 +40,17 @@ markerFolder: ./Piacenza.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Piacenza.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province|Piacenza.Province]] 
 
-### [Piacenza.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.public|Piacenza.Province.public]] 
 
-### [Piacenza.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.internal|Piacenza.Province.internal]] 
 
-### [Piacenza.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.protect|Piacenza.Province.protect]] 
 
-### [Piacenza.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.private|Piacenza.Province.private]] 
 
-### [Piacenza.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.personal|Piacenza.Province.personal]] 
 
-### [Piacenza.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Piacenza.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Piacenza.Province.secret|Piacenza.Province.secret]] 
 

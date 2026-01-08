@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32214
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.3
+dv_has_place_latitude: 40.12
+dv_name: Maglie
+dv_Country: "[[../../../../../Yugoslavia]]"
 ---
 
 # [[Maglie,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.3] 
-[has_place_latitude::40.12] 
-[name::Maglie] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -44,17 +49,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maglie](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City|Maglie,City]] 
 
-### [Maglie.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.public|Maglie,City.public]] 
 
-### [Maglie.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.internal|Maglie,City.internal]] 
 
-### [Maglie.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.protect|Maglie,City.protect]] 
 
-### [Maglie.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.private|Maglie,City.private]] 
 
-### [Maglie.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.personal|Maglie,City.personal]] 
 
-### [Maglie.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce/City/Maglie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce/municipalities~Lecce/Maglie/Maglie,City.secret|Maglie,City.secret]] 
 

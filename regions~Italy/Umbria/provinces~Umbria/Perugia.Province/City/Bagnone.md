@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28984
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.12
+dv_has_place_latitude: 43.2
+dv_name: Bagnone
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.12] 
-[has_place_latitude::43.2] 
-[name::Bagnone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bagnone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone|Bagnone]] 
 
-### [Bagnone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.public|Bagnone.public]] 
 
-### [Bagnone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.internal|Bagnone.internal]] 
 
-### [Bagnone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.protect|Bagnone.protect]] 
 
-### [Bagnone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.private|Bagnone.private]] 
 
-### [Bagnone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.personal|Bagnone.personal]] 
 
-### [Bagnone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Bagnone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Bagnone.secret|Bagnone.secret]] 
 

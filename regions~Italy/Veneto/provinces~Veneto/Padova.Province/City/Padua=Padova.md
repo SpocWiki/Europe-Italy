@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33211
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.95
+dv_has_place_latitude: 45.4
+dv_name: Padua=Padova
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.95] 
-[has_place_latitude::45.4] 
-[name::Padua=Padova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Padua=Padova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova|Padua=Padova]] 
 
-### [Padua=Padova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.public|Padua=Padova.public]] 
 
-### [Padua=Padova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.internal|Padua=Padova.internal]] 
 
-### [Padua=Padova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.protect|Padua=Padova.protect]] 
 
-### [Padua=Padova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.private|Padua=Padova.private]] 
 
-### [Padua=Padova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.personal|Padua=Padova.personal]] 
 
-### [Padua=Padova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province/City/Padua=Padova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province/City/Padua=Padova.secret|Padua=Padova.secret]] 
 

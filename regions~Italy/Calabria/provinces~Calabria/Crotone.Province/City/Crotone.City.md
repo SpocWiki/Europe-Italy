@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29682
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.13
+dv_has_place_latitude: 39.08
+dv_name: Crotone.City
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.13] 
-[has_place_latitude::39.08] 
-[name::Crotone.City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crotone.City](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City|Crotone.City]] 
 
-### [Crotone.City.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.public|Crotone.City.public]] 
 
-### [Crotone.City.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.internal|Crotone.City.internal]] 
 
-### [Crotone.City.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.protect|Crotone.City.protect]] 
 
-### [Crotone.City.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.private|Crotone.City.private]] 
 
-### [Crotone.City.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.personal|Crotone.City.personal]] 
 
-### [Crotone.City.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Crotone.Province/City/Crotone.City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Crotone.Province/City/Crotone.City.secret|Crotone.City.secret]] 
 

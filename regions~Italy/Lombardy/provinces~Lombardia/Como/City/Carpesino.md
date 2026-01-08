@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29492
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.23
+dv_has_place_latitude: 45.82
+dv_name: Carpesino
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.23] 
-[has_place_latitude::45.82] 
-[name::Carpesino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carpesino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino|Carpesino]] 
 
-### [Carpesino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.public|Carpesino.public]] 
 
-### [Carpesino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.internal|Carpesino.internal]] 
 
-### [Carpesino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.protect|Carpesino.protect]] 
 
-### [Carpesino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.private|Carpesino.private]] 
 
-### [Carpesino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.personal|Carpesino.personal]] 
 
-### [Carpesino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Carpesino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Carpesino.secret|Carpesino.secret]] 
 

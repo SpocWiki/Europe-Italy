@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28817
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.5
+dv_has_place_latitude: 43.62
+dv_name: Ancona
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.5] 
-[has_place_latitude::43.62] 
-[name::Ancona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ancona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona|Ancona]] 
 
-### [Ancona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.public|Ancona.public]] 
 
-### [Ancona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.internal|Ancona.internal]] 
 
-### [Ancona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.protect|Ancona.protect]] 
 
-### [Ancona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.private|Ancona.private]] 
 
-### [Ancona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.personal|Ancona.personal]] 
 
-### [Ancona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Ancona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Ancona.secret|Ancona.secret]] 
 

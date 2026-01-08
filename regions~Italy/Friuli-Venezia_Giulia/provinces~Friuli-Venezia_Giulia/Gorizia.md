@@ -40,17 +40,17 @@ markerFolder: ./Gorizia/
 
 ## Confidential Links & Embeds: 
 
-### [Gorizia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia|Gorizia]] 
 
-### [Gorizia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.public|Gorizia.public]] 
 
-### [Gorizia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.internal|Gorizia.internal]] 
 
-### [Gorizia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.protect|Gorizia.protect]] 
 
-### [Gorizia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.private|Gorizia.private]] 
 
-### [Gorizia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.personal|Gorizia.personal]] 
 
-### [Gorizia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Gorizia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Gorizia.secret|Gorizia.secret]] 
 

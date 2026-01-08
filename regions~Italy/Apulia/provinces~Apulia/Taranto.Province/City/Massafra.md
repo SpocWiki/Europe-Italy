@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32341
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.15
+dv_has_place_latitude: 40.58
+dv_name: Massafra
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.15] 
-[has_place_latitude::40.58] 
-[name::Massafra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Massafra](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra|Massafra]] 
 
-### [Massafra.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.public|Massafra.public]] 
 
-### [Massafra.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.internal|Massafra.internal]] 
 
-### [Massafra.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.protect|Massafra.protect]] 
 
-### [Massafra.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.private|Massafra.private]] 
 
-### [Massafra.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.personal|Massafra.personal]] 
 
-### [Massafra.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Massafra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Massafra.secret|Massafra.secret]] 
 

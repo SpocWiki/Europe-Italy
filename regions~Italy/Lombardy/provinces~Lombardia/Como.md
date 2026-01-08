@@ -40,17 +40,17 @@ markerFolder: ./Como/
 
 ## Confidential Links & Embeds: 
 
-### [Como](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como|Como]] 
 
-### [Como.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.public|Como.public]] 
 
-### [Como.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.internal|Como.internal]] 
 
-### [Como.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.protect|Como.protect]] 
 
-### [Como.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.private|Como.private]] 
 
-### [Como.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.personal|Como.personal]] 
 
-### [Como.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como.secret|Como.secret]] 
 

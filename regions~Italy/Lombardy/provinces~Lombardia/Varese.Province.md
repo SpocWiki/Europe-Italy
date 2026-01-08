@@ -40,17 +40,17 @@ markerFolder: ./Varese.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Varese.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province|Varese.Province]] 
 
-### [Varese.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.public|Varese.Province.public]] 
 
-### [Varese.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.internal|Varese.Province.internal]] 
 
-### [Varese.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.protect|Varese.Province.protect]] 
 
-### [Varese.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.private|Varese.Province.private]] 
 
-### [Varese.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.personal|Varese.Province.personal]] 
 
-### [Varese.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province.secret|Varese.Province.secret]] 
 

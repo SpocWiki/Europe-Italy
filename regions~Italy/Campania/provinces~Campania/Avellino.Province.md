@@ -40,17 +40,17 @@ markerFolder: ./Avellino.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Avellino.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province|Avellino.Province]] 
 
-### [Avellino.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.public|Avellino.Province.public]] 
 
-### [Avellino.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.internal|Avellino.Province.internal]] 
 
-### [Avellino.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.protect|Avellino.Province.protect]] 
 
-### [Avellino.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.private|Avellino.Province.private]] 
 
-### [Avellino.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.personal|Avellino.Province.personal]] 
 
-### [Avellino.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province.secret|Avellino.Province.secret]] 
 

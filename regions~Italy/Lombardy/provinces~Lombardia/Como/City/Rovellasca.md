@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33807
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9
+dv_has_place_latitude: 45.65
+dv_name: Rovellasca
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9] 
-[has_place_latitude::45.65] 
-[name::Rovellasca] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovellasca](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca|Rovellasca]] 
 
-### [Rovellasca.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.public|Rovellasca.public]] 
 
-### [Rovellasca.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.internal|Rovellasca.internal]] 
 
-### [Rovellasca.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.protect|Rovellasca.protect]] 
 
-### [Rovellasca.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.private|Rovellasca.private]] 
 
-### [Rovellasca.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.personal|Rovellasca.personal]] 
 
-### [Rovellasca.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Rovellasca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Rovellasca.secret|Rovellasca.secret]] 
 

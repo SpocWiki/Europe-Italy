@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33617
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.57
+dv_has_place_latitude: 46.45
+dv_name: Raibl
+dv_Country: "[[../../../../../../../Europe~Central/Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.57] 
-[has_place_latitude::46.45] 
-[name::Raibl] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Raibl](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl|Raibl]] 
 
-### [Raibl.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.public|Raibl.public]] 
 
-### [Raibl.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.internal|Raibl.internal]] 
 
-### [Raibl.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.protect|Raibl.protect]] 
 
-### [Raibl.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.private|Raibl.private]] 
 
-### [Raibl.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.personal|Raibl.personal]] 
 
-### [Raibl.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province/City/Raibl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province/City/Raibl.secret|Raibl.secret]] 
 

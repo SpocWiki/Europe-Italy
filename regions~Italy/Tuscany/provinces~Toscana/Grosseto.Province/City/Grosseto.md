@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30597
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.12
+dv_has_place_latitude: 42.77
+dv_name: Grosseto
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.12] 
-[has_place_latitude::42.77] 
-[name::Grosseto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grosseto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto|Grosseto]] 
 
-### [Grosseto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.public|Grosseto.public]] 
 
-### [Grosseto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.internal|Grosseto.internal]] 
 
-### [Grosseto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.protect|Grosseto.protect]] 
 
-### [Grosseto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.private|Grosseto.private]] 
 
-### [Grosseto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.personal|Grosseto.personal]] 
 
-### [Grosseto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Grosseto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Grosseto.secret|Grosseto.secret]] 
 

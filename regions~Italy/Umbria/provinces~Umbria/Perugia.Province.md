@@ -40,17 +40,17 @@ markerFolder: ./Perugia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Perugia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province|Perugia.Province]] 
 
-### [Perugia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.public|Perugia.Province.public]] 
 
-### [Perugia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.internal|Perugia.Province.internal]] 
 
-### [Perugia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.protect|Perugia.Province.protect]] 
 
-### [Perugia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.private|Perugia.Province.private]] 
 
-### [Perugia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.personal|Perugia.Province.personal]] 
 
-### [Perugia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province.secret|Perugia.Province.secret]] 
 

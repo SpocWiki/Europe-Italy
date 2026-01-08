@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28895
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.57
+dv_has_place_latitude: 42.85
+dv_name: Ascoli Piceno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.57] 
-[has_place_latitude::42.85] 
-[name::Ascoli Piceno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ascoli_Piceno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno|Ascoli_Piceno]] 
 
-### [Ascoli_Piceno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.public|Ascoli_Piceno.public]] 
 
-### [Ascoli_Piceno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.internal|Ascoli_Piceno.internal]] 
 
-### [Ascoli_Piceno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.protect|Ascoli_Piceno.protect]] 
 
-### [Ascoli_Piceno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.private|Ascoli_Piceno.private]] 
 
-### [Ascoli_Piceno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.personal|Ascoli_Piceno.personal]] 
 
-### [Ascoli_Piceno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ascoli_Piceno.Province/City/Ascoli_Piceno.secret|Ascoli_Piceno.secret]] 
 

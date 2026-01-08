@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33132
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.67
+dv_has_place_latitude: 40.5
+dv_name: Oria
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.67] 
-[has_place_latitude::40.5] 
-[name::Oria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria|Oria]] 
 
-### [Oria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.public|Oria.public]] 
 
-### [Oria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.internal|Oria.internal]] 
 
-### [Oria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.protect|Oria.protect]] 
 
-### [Oria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.private|Oria.private]] 
 
-### [Oria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.personal|Oria.personal]] 
 
-### [Oria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province/City/Oria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province/City/Oria.secret|Oria.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32440
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.23
+dv_has_place_latitude: 45.48
+dv_name: Mestre
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.23] 
-[has_place_latitude::45.48] 
-[name::Mestre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mestre](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre|Mestre]] 
 
-### [Mestre.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.public|Mestre.public]] 
 
-### [Mestre.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.internal|Mestre.internal]] 
 
-### [Mestre.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.protect|Mestre.protect]] 
 
-### [Mestre.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.private|Mestre.private]] 
 
-### [Mestre.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.personal|Mestre.personal]] 
 
-### [Mestre.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Mestre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Mestre.secret|Mestre.secret]] 
 

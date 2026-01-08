@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33390
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.9
+dv_has_place_latitude: 43.93
+dv_name: Pistoia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.9] 
-[has_place_latitude::43.93] 
-[name::Pistoia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pistoia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia|Pistoia]] 
 
-### [Pistoia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.public|Pistoia.public]] 
 
-### [Pistoia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.internal|Pistoia.internal]] 
 
-### [Pistoia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.protect|Pistoia.protect]] 
 
-### [Pistoia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.private|Pistoia.private]] 
 
-### [Pistoia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.personal|Pistoia.personal]] 
 
-### [Pistoia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pistoia.Province/City/Pistoia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pistoia.Province/City/Pistoia.secret|Pistoia.secret]] 
 

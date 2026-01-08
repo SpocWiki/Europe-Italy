@@ -40,17 +40,17 @@ markerFolder: ./Firenze.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Firenze.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province|Firenze.Province]] 
 
-### [Firenze.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.public|Firenze.Province.public]] 
 
-### [Firenze.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.internal|Firenze.Province.internal]] 
 
-### [Firenze.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.protect|Firenze.Province.protect]] 
 
-### [Firenze.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.private|Firenze.Province.private]] 
 
-### [Firenze.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.personal|Firenze.Province.personal]] 
 
-### [Firenze.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Firenze.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Firenze.Province.secret|Firenze.Province.secret]] 
 

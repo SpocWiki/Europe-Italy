@@ -41,17 +41,17 @@ markerFolder: ./Trieste.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Trieste](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste|Trieste]] 
 
-### [Trieste.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.public|Trieste.public]] 
 
-### [Trieste.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.internal|Trieste.internal]] 
 
-### [Trieste.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.protect|Trieste.protect]] 
 
-### [Trieste.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.private|Trieste.private]] 
 
-### [Trieste.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.personal|Trieste.personal]] 
 
-### [Trieste.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Trieste.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Trieste.secret|Trieste.secret]] 
 

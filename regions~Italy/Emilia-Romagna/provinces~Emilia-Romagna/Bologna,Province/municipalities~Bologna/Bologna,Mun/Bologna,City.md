@@ -14,26 +14,31 @@ tags:
 SpocWebEntityId: 29260
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.35
+dv_has_place_latitude: 44.5
+dv_name: Bologna
+dv_Country: "[[../../../../../Italy]]"
 ---
 
 # [[Bologna,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.35] 
-[has_place_latitude::44.5] 
-[name::Bologna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 ## #has_/map 
 
 ```leaflet
-id: Bologna
-coordinates: [[Bologna]] 
-markerFile: [[Bologna]] 
+id: Bologna,City
+coordinates: [[Bologna,City]] 
+markerFile: [[Bologna,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bologna](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City|Bologna,City]] 
 
-### [Bologna.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.public|Bologna,City.public]] 
 
-### [Bologna.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.internal|Bologna,City.internal]] 
 
-### [Bologna.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.protect|Bologna,City.protect]] 
 
-### [Bologna.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.private|Bologna,City.private]] 
 
-### [Bologna.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.personal|Bologna,City.personal]] 
 
-### [Bologna.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/Bologna,City.secret|Bologna,City.secret]] 
 

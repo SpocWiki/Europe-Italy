@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33267
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.83
+dv_has_place_latitude: 44.33
+dv_name: Pavullo nel Frignano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.83] 
-[has_place_latitude::44.33] 
-[name::Pavullo nel Frignano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pavullo_nel_Frignano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano|Pavullo_nel_Frignano]] 
 
-### [Pavullo_nel_Frignano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.public|Pavullo_nel_Frignano.public]] 
 
-### [Pavullo_nel_Frignano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.internal|Pavullo_nel_Frignano.internal]] 
 
-### [Pavullo_nel_Frignano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.protect|Pavullo_nel_Frignano.protect]] 
 
-### [Pavullo_nel_Frignano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.private|Pavullo_nel_Frignano.private]] 
 
-### [Pavullo_nel_Frignano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.personal|Pavullo_nel_Frignano.personal]] 
 
-### [Pavullo_nel_Frignano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Modena.Province/City/Pavullo_nel_Frignano.secret|Pavullo_nel_Frignano.secret]] 
 

@@ -18,17 +18,17 @@ markerFolder: ./Molise//
 
 ## Confidential Links & Embeds: 
 
-### [Molise](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise|Molise]] 
 
-### [Molise.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.public|Molise.public]] 
 
-### [Molise.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.internal|Molise.internal]] 
 
-### [Molise.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.protect|Molise.protect]] 
 
-### [Molise.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.private|Molise.private]] 
 
-### [Molise.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.personal|Molise.personal]] 
 
-### [Molise.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise.secret|Molise.secret]] 
 

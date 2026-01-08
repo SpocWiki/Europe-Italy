@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32121
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.52
+dv_has_place_latitude: 43.85
+dv_name: Lucca
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.52] 
-[has_place_latitude::43.85] 
-[name::Lucca] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lucca](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca|Lucca]] 
 
-### [Lucca.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.public|Lucca.public]] 
 
-### [Lucca.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.internal|Lucca.internal]] 
 
-### [Lucca.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.protect|Lucca.protect]] 
 
-### [Lucca.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.private|Lucca.private]] 
 
-### [Lucca.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.personal|Lucca.personal]] 
 
-### [Lucca.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Lucca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Lucca.secret|Lucca.secret]] 
 

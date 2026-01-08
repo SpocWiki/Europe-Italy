@@ -40,17 +40,17 @@ markerFolder: ./Arezzo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Arezzo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province|Arezzo.Province]] 
 
-### [Arezzo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.public|Arezzo.Province.public]] 
 
-### [Arezzo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.internal|Arezzo.Province.internal]] 
 
-### [Arezzo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.protect|Arezzo.Province.protect]] 
 
-### [Arezzo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.private|Arezzo.Province.private]] 
 
-### [Arezzo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.personal|Arezzo.Province.personal]] 
 
-### [Arezzo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province.secret|Arezzo.Province.secret]] 
 

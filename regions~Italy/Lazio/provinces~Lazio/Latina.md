@@ -40,17 +40,17 @@ markerFolder: ./Latina/
 
 ## Confidential Links & Embeds: 
 
-### [Latina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina|Latina]] 
 
-### [Latina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.public|Latina.public]] 
 
-### [Latina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.internal|Latina.internal]] 
 
-### [Latina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.protect|Latina.protect]] 
 
-### [Latina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.private|Latina.private]] 
 
-### [Latina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.personal|Latina.personal]] 
 
-### [Latina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina.secret|Latina.secret]] 
 

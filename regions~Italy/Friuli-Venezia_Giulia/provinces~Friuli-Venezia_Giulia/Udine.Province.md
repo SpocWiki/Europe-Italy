@@ -40,17 +40,17 @@ markerFolder: ./Udine.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Udine.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province|Udine.Province]] 
 
-### [Udine.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.public|Udine.Province.public]] 
 
-### [Udine.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.internal|Udine.Province.internal]] 
 
-### [Udine.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.protect|Udine.Province.protect]] 
 
-### [Udine.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.private|Udine.Province.private]] 
 
-### [Udine.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.personal|Udine.Province.personal]] 
 
-### [Udine.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Udine.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Udine.Province.secret|Udine.Province.secret]] 
 

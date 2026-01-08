@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32575
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.02
+dv_has_place_latitude: 42.53
+dv_name: Montefiascone
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.02] 
-[has_place_latitude::42.53] 
-[name::Montefiascone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montefiascone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone|Montefiascone]] 
 
-### [Montefiascone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.public|Montefiascone.public]] 
 
-### [Montefiascone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.internal|Montefiascone.internal]] 
 
-### [Montefiascone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.protect|Montefiascone.protect]] 
 
-### [Montefiascone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.private|Montefiascone.private]] 
 
-### [Montefiascone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.personal|Montefiascone.personal]] 
 
-### [Montefiascone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Montefiascone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Montefiascone.secret|Montefiascone.secret]] 
 

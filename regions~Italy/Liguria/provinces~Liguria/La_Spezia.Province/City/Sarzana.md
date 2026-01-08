@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33965
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.98
+dv_has_place_latitude: 44.12
+dv_name: Sarzana
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.98] 
-[has_place_latitude::44.12] 
-[name::Sarzana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarzana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana|Sarzana]] 
 
-### [Sarzana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.public|Sarzana.public]] 
 
-### [Sarzana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.internal|Sarzana.internal]] 
 
-### [Sarzana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.protect|Sarzana.protect]] 
 
-### [Sarzana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.private|Sarzana.private]] 
 
-### [Sarzana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.personal|Sarzana.personal]] 
 
-### [Sarzana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/Sarzana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/Sarzana.secret|Sarzana.secret]] 
 

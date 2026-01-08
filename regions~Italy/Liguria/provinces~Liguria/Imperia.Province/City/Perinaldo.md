@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33305
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.65
+dv_has_place_latitude: 43.87
+dv_name: Perinaldo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.65] 
-[has_place_latitude::43.87] 
-[name::Perinaldo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perinaldo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo|Perinaldo]] 
 
-### [Perinaldo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.public|Perinaldo.public]] 
 
-### [Perinaldo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.internal|Perinaldo.internal]] 
 
-### [Perinaldo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.protect|Perinaldo.protect]] 
 
-### [Perinaldo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.private|Perinaldo.private]] 
 
-### [Perinaldo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.personal|Perinaldo.personal]] 
 
-### [Perinaldo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Perinaldo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Perinaldo.secret|Perinaldo.secret]] 
 

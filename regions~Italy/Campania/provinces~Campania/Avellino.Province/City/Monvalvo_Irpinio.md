@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32593
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.03
+dv_has_place_latitude: 41.2
+dv_name: Monvalvo Irpinio
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.03] 
-[has_place_latitude::41.2] 
-[name::Monvalvo Irpinio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monvalvo_Irpinio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio|Monvalvo_Irpinio]] 
 
-### [Monvalvo_Irpinio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.public|Monvalvo_Irpinio.public]] 
 
-### [Monvalvo_Irpinio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.internal|Monvalvo_Irpinio.internal]] 
 
-### [Monvalvo_Irpinio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.protect|Monvalvo_Irpinio.protect]] 
 
-### [Monvalvo_Irpinio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.private|Monvalvo_Irpinio.private]] 
 
-### [Monvalvo_Irpinio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.personal|Monvalvo_Irpinio.personal]] 
 
-### [Monvalvo_Irpinio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Monvalvo_Irpinio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Monvalvo_Irpinio.secret|Monvalvo_Irpinio.secret]] 
 

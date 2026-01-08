@@ -40,17 +40,17 @@ markerFolder: ./Venezia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Venezia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province|Venezia.Province]] 
 
-### [Venezia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.public|Venezia.Province.public]] 
 
-### [Venezia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.internal|Venezia.Province.internal]] 
 
-### [Venezia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.protect|Venezia.Province.protect]] 
 
-### [Venezia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.private|Venezia.Province.private]] 
 
-### [Venezia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.personal|Venezia.Province.personal]] 
 
-### [Venezia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province.secret|Venezia.Province.secret]] 
 

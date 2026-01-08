@@ -11,17 +11,17 @@ markerFolder: ./Basilicata//
 
 ## Confidential Links & Embeds: 
 
-### [Basilicata](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata|Basilicata]] 
 
-### [Basilicata.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.public|Basilicata.public]] 
 
-### [Basilicata.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.internal|Basilicata.internal]] 
 
-### [Basilicata.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.protect|Basilicata.protect]] 
 
-### [Basilicata.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.private|Basilicata.private]] 
 
-### [Basilicata.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.personal|Basilicata.personal]] 
 
-### [Basilicata.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata.secret|Basilicata.secret]] 
 

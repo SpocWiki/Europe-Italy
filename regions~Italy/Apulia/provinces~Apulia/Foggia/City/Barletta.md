@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29024
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.95
+dv_has_place_latitude: 41.2
+dv_name: Barletta
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.95] 
-[has_place_latitude::41.2] 
-[name::Barletta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barletta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta|Barletta]] 
 
-### [Barletta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.public|Barletta.public]] 
 
-### [Barletta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.internal|Barletta.internal]] 
 
-### [Barletta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.protect|Barletta.protect]] 
 
-### [Barletta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.private|Barletta.private]] 
 
-### [Barletta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.personal|Barletta.personal]] 
 
-### [Barletta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Barletta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Barletta.secret|Barletta.secret]] 
 

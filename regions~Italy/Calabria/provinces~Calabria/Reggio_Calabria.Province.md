@@ -41,17 +41,17 @@ markerFolder: ./Reggio_Calabria.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Reggio_Calabria.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province|Reggio_Calabria.Province]] 
 
-### [Reggio_Calabria.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.public|Reggio_Calabria.Province.public]] 
 
-### [Reggio_Calabria.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.internal|Reggio_Calabria.Province.internal]] 
 
-### [Reggio_Calabria.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.protect|Reggio_Calabria.Province.protect]] 
 
-### [Reggio_Calabria.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.private|Reggio_Calabria.Province.private]] 
 
-### [Reggio_Calabria.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.personal|Reggio_Calabria.Province.personal]] 
 
-### [Reggio_Calabria.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province.secret|Reggio_Calabria.Province.secret]] 
 

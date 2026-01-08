@@ -40,17 +40,17 @@ markerFolder: ./Bergamo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Bergamo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province|Bergamo.Province]] 
 
-### [Bergamo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.public|Bergamo.Province.public]] 
 
-### [Bergamo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.internal|Bergamo.Province.internal]] 
 
-### [Bergamo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.protect|Bergamo.Province.protect]] 
 
-### [Bergamo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.private|Bergamo.Province.private]] 
 
-### [Bergamo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.personal|Bergamo.Province.personal]] 
 
-### [Bergamo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Bergamo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Bergamo.Province.secret|Bergamo.Province.secret]] 
 

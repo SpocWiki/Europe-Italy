@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33663
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.47
+dv_has_place_latitude: 44.37
+dv_name: Razzolo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.47] 
-[has_place_latitude::44.37] 
-[name::Razzolo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Razzolo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo|Razzolo]] 
 
-### [Razzolo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.public|Razzolo.public]] 
 
-### [Razzolo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.internal|Razzolo.internal]] 
 
-### [Razzolo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.protect|Razzolo.protect]] 
 
-### [Razzolo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.private|Razzolo.private]] 
 
-### [Razzolo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.personal|Razzolo.personal]] 
 
-### [Razzolo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Razzolo.secret|Razzolo.secret]] 
 

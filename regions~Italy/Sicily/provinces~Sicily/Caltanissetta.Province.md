@@ -41,17 +41,17 @@ markerFolder: ./Caltanissetta/
 
 ## Confidential Links & Embeds: 
 
-### [Caltanissetta.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province|Caltanissetta.Province]] 
 
-### [Caltanissetta.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.public|Caltanissetta.Province.public]] 
 
-### [Caltanissetta.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.internal|Caltanissetta.Province.internal]] 
 
-### [Caltanissetta.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.protect|Caltanissetta.Province.protect]] 
 
-### [Caltanissetta.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.private|Caltanissetta.Province.private]] 
 
-### [Caltanissetta.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.personal|Caltanissetta.Province.personal]] 
 
-### [Caltanissetta.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province.secret|Caltanissetta.Province.secret]] 
 

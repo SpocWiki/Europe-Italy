@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28682
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.48
+dv_has_place_latitude: 43.47
+dv_name: Agnano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.48] 
-[has_place_latitude::43.47] 
-[name::Agnano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agnano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano|Agnano]] 
 
-### [Agnano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.public|Agnano.public]] 
 
-### [Agnano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.internal|Agnano.internal]] 
 
-### [Agnano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.protect|Agnano.protect]] 
 
-### [Agnano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.private|Agnano.private]] 
 
-### [Agnano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.personal|Agnano.personal]] 
 
-### [Agnano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno/City/Agnano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno/City/Agnano.secret|Agnano.secret]] 
 

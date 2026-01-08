@@ -40,17 +40,17 @@ markerFolder: ./Cagliari/
 
 ## Confidential Links & Embeds: 
 
-### [Cagliari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari|Cagliari]] 
 
-### [Cagliari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.public|Cagliari.public]] 
 
-### [Cagliari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.internal|Cagliari.internal]] 
 
-### [Cagliari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.protect|Cagliari.protect]] 
 
-### [Cagliari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.private|Cagliari.private]] 
 
-### [Cagliari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.personal|Cagliari.personal]] 
 
-### [Cagliari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Cagliari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Cagliari.secret|Cagliari.secret]] 
 

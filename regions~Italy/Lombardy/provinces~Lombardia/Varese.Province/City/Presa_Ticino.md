@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33514
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.8
+dv_has_place_latitude: 45.67
+dv_name: Presa Ticino
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.8] 
-[has_place_latitude::45.67] 
-[name::Presa Ticino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Presa_Ticino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino|Presa_Ticino]] 
 
-### [Presa_Ticino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.public|Presa_Ticino.public]] 
 
-### [Presa_Ticino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.internal|Presa_Ticino.internal]] 
 
-### [Presa_Ticino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.protect|Presa_Ticino.protect]] 
 
-### [Presa_Ticino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.private|Presa_Ticino.private]] 
 
-### [Presa_Ticino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.personal|Presa_Ticino.personal]] 
 
-### [Presa_Ticino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Presa_Ticino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Presa_Ticino.secret|Presa_Ticino.secret]] 
 

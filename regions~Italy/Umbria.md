@@ -11,17 +11,17 @@ markerFolder: ./Umbria//
 
 ## Confidential Links & Embeds: 
 
-### [Umbria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria|Umbria]] 
 
-### [Umbria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.public|Umbria.public]] 
 
-### [Umbria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.internal|Umbria.internal]] 
 
-### [Umbria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.protect|Umbria.protect]] 
 
-### [Umbria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.private|Umbria.private]] 
 
-### [Umbria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.personal|Umbria.personal]] 
 
-### [Umbria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria.secret|Umbria.secret]] 
 

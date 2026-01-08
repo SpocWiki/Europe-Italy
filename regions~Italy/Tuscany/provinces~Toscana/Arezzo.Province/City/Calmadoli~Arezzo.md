@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29453
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.83
+dv_has_place_latitude: 43.78
+dv_name: Calmadoli~Arezzo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.83] 
-[has_place_latitude::43.78] 
-[name::Calmadoli~Arezzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli~Arezzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo|Calmadoli~Arezzo]] 
 
-### [Calmadoli~Arezzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.public|Calmadoli~Arezzo.public]] 
 
-### [Calmadoli~Arezzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.internal|Calmadoli~Arezzo.internal]] 
 
-### [Calmadoli~Arezzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.protect|Calmadoli~Arezzo.protect]] 
 
-### [Calmadoli~Arezzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.private|Calmadoli~Arezzo.private]] 
 
-### [Calmadoli~Arezzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.personal|Calmadoli~Arezzo.personal]] 
 
-### [Calmadoli~Arezzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Calmadoli~Arezzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Calmadoli~Arezzo.secret|Calmadoli~Arezzo.secret]] 
 

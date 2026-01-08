@@ -40,17 +40,17 @@ markerFolder: ./Agrigento/
 
 ## Confidential Links & Embeds: 
 
-### [Agrigento](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento|Agrigento]] 
 
-### [Agrigento.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.public|Agrigento.public]] 
 
-### [Agrigento.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.internal|Agrigento.internal]] 
 
-### [Agrigento.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.protect|Agrigento.protect]] 
 
-### [Agrigento.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.private|Agrigento.private]] 
 
-### [Agrigento.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.personal|Agrigento.personal]] 
 
-### [Agrigento.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento.secret|Agrigento.secret]] 
 

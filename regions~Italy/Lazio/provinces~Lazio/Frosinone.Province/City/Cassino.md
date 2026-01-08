@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29501
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.83
+dv_has_place_latitude: 41.5
+dv_name: Cassino
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.83] 
-[has_place_latitude::41.5] 
-[name::Cassino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cassino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino|Cassino]] 
 
-### [Cassino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.public|Cassino.public]] 
 
-### [Cassino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.internal|Cassino.internal]] 
 
-### [Cassino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.protect|Cassino.protect]] 
 
-### [Cassino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.private|Cassino.private]] 
 
-### [Cassino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.personal|Cassino.personal]] 
 
-### [Cassino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Cassino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Cassino.secret|Cassino.secret]] 
 

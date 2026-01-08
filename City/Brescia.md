@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29337
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.25
+dv_has_place_latitude: 45.55
+dv_name: Brescia
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.25] 
-[has_place_latitude::45.55] 
-[name::Brescia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brescia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Brescia|Brescia]] 
 
-### [Brescia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.public|Brescia.public]] 
 
-### [Brescia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.internal|Brescia.internal]] 
 
-### [Brescia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.protect|Brescia.protect]] 
 
-### [Brescia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.private|Brescia.private]] 
 
-### [Brescia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.personal|Brescia.personal]] 
 
-### [Brescia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Brescia.secret|Brescia.secret]] 
 

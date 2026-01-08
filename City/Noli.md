@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32939
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.42
+dv_has_place_latitude: 44.2
+dv_name: Noli
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.42] 
-[has_place_latitude::44.2] 
-[name::Noli] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Noli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Noli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Noli|Noli]] 
 
-### [Noli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Noli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Noli.public|Noli.public]] 
 
-### [Noli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Noli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Noli.internal|Noli.internal]] 
 
-### [Noli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Noli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Noli.protect|Noli.protect]] 
 
-### [Noli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Noli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Noli.private|Noli.private]] 
 
-### [Noli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Noli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Noli.personal|Noli.personal]] 
 
-### [Noli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Noli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Noli.secret|Noli.secret]] 
 

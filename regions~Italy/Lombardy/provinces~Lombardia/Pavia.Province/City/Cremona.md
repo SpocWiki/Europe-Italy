@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29674
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.02
+dv_has_place_latitude: 45.13
+dv_name: Cremona
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.02] 
-[has_place_latitude::45.13] 
-[name::Cremona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cremona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona|Cremona]] 
 
-### [Cremona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.public|Cremona.public]] 
 
-### [Cremona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.internal|Cremona.internal]] 
 
-### [Cremona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.protect|Cremona.protect]] 
 
-### [Cremona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.private|Cremona.private]] 
 
-### [Cremona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.personal|Cremona.personal]] 
 
-### [Cremona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Cremona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Cremona.secret|Cremona.secret]] 
 

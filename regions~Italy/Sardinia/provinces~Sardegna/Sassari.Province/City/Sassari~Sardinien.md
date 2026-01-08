@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33967
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.57
+dv_has_place_latitude: 40.72
+dv_name: Sassari~Sardinien
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.57] 
-[has_place_latitude::40.72] 
-[name::Sassari~Sardinien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sassari~Sardinien](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien|Sassari~Sardinien]] 
 
-### [Sassari~Sardinien.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.public|Sassari~Sardinien.public]] 
 
-### [Sassari~Sardinien.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.internal|Sassari~Sardinien.internal]] 
 
-### [Sassari~Sardinien.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.protect|Sassari~Sardinien.protect]] 
 
-### [Sassari~Sardinien.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.private|Sassari~Sardinien.private]] 
 
-### [Sassari~Sardinien.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.personal|Sassari~Sardinien.personal]] 
 
-### [Sassari~Sardinien.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province/City/Sassari~Sardinien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province/City/Sassari~Sardinien.secret|Sassari~Sardinien.secret]] 
 

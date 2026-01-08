@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33447
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.68
+dv_has_place_latitude: 43.65
+dv_name: Pontedera
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.68] 
-[has_place_latitude::43.65] 
-[name::Pontedera] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontedera](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera|Pontedera]] 
 
-### [Pontedera.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.public|Pontedera.public]] 
 
-### [Pontedera.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.internal|Pontedera.internal]] 
 
-### [Pontedera.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.protect|Pontedera.protect]] 
 
-### [Pontedera.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.private|Pontedera.private]] 
 
-### [Pontedera.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.personal|Pontedera.personal]] 
 
-### [Pontedera.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Pisa.Province/City/Pontedera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Pisa.Province/City/Pontedera.secret|Pontedera.secret]] 
 

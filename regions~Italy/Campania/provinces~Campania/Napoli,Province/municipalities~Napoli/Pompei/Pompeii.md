@@ -45,11 +45,14 @@ official_name: Pompeii
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20map-en.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20%284873744179%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20banner.jpg
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Pompeii,43332|WD~Pompeii,43332]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Pompeii,43332|WD~Pompeii,43332]]"
 ---
 
 # [[Pompeii]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Pompeii,43332|WD~Pompeii,43332]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -97,3 +100,21 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20banner
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pompeii) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii|Pompeii]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.public|Pompeii.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.internal|Pompeii.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.protect|Pompeii.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.private|Pompeii.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.personal|Pompeii.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/municipalities~Napoli/Pompei/Pompeii.secret|Pompeii.secret]] 
+

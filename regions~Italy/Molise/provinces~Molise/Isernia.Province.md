@@ -40,17 +40,17 @@ markerFolder: ./Isernia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Isernia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province|Isernia.Province]] 
 
-### [Isernia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.public|Isernia.Province.public]] 
 
-### [Isernia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.internal|Isernia.Province.internal]] 
 
-### [Isernia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.protect|Isernia.Province.protect]] 
 
-### [Isernia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.private|Isernia.Province.private]] 
 
-### [Isernia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.personal|Isernia.Province.personal]] 
 
-### [Isernia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Isernia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Isernia.Province.secret|Isernia.Province.secret]] 
 

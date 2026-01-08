@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31341
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.55
+dv_has_place_latitude: 46.72
+dv_name: Kastelruth
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.55] 
-[has_place_latitude::46.72] 
-[name::Kastelruth] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kastelruth](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth|Kastelruth]] 
 
-### [Kastelruth.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.public|Kastelruth.public]] 
 
-### [Kastelruth.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.internal|Kastelruth.internal]] 
 
-### [Kastelruth.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.protect|Kastelruth.protect]] 
 
-### [Kastelruth.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.private|Kastelruth.private]] 
 
-### [Kastelruth.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.personal|Kastelruth.personal]] 
 
-### [Kastelruth.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Kastelruth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Kastelruth.secret|Kastelruth.secret]] 
 

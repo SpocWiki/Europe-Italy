@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32051
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.3
+dv_has_place_latitude: 43.55
+dv_name: Livorno
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.3] 
-[has_place_latitude::43.55] 
-[name::Livorno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Livorno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Livorno|Livorno]] 
 
-### [Livorno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.public|Livorno.public]] 
 
-### [Livorno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.internal|Livorno.internal]] 
 
-### [Livorno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.protect|Livorno.protect]] 
 
-### [Livorno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.private|Livorno.private]] 
 
-### [Livorno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.personal|Livorno.personal]] 
 
-### [Livorno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Livorno.secret|Livorno.secret]] 
 

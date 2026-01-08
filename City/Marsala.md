@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32326
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.42
+dv_has_place_latitude: 37.78
+dv_name: Marsala
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.42] 
-[has_place_latitude::37.78] 
-[name::Marsala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marsala](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Marsala|Marsala]] 
 
-### [Marsala.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.public|Marsala.public]] 
 
-### [Marsala.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.internal|Marsala.internal]] 
 
-### [Marsala.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.protect|Marsala.protect]] 
 
-### [Marsala.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.private|Marsala.private]] 
 
-### [Marsala.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.personal|Marsala.personal]] 
 
-### [Marsala.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Marsala.secret|Marsala.secret]] 
 

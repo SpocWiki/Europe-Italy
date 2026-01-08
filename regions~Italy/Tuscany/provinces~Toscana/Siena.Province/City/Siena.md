@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34254
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.35
+dv_has_place_latitude: 43.32
+dv_name: Siena
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.35] 
-[has_place_latitude::43.32] 
-[name::Siena] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siena](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena|Siena]] 
 
-### [Siena.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.public|Siena.public]] 
 
-### [Siena.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.internal|Siena.internal]] 
 
-### [Siena.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.protect|Siena.protect]] 
 
-### [Siena.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.private|Siena.private]] 
 
-### [Siena.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.personal|Siena.personal]] 
 
-### [Siena.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Siena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Siena.secret|Siena.secret]] 
 

@@ -37,17 +37,17 @@ markerFolder: ./Trentino//
 
 ## Confidential Links & Embeds: 
 
-### [Trentino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino|Trentino]] 
 
-### [Trentino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.public|Trentino.public]] 
 
-### [Trentino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.internal|Trentino.internal]] 
 
-### [Trentino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.protect|Trentino.protect]] 
 
-### [Trentino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.private|Trentino.private]] 
 
-### [Trentino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.personal|Trentino.personal]] 
 
-### [Trentino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino.secret|Trentino.secret]] 
 

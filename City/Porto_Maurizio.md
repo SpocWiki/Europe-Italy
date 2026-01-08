@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33482
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.02
+dv_has_place_latitude: 43.88
+dv_name: Porto Maurizio
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.02] 
-[has_place_latitude::43.88] 
-[name::Porto Maurizio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porto_Maurizio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio|Porto_Maurizio]] 
 
-### [Porto_Maurizio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.public|Porto_Maurizio.public]] 
 
-### [Porto_Maurizio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.internal|Porto_Maurizio.internal]] 
 
-### [Porto_Maurizio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.protect|Porto_Maurizio.protect]] 
 
-### [Porto_Maurizio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.private|Porto_Maurizio.private]] 
 
-### [Porto_Maurizio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.personal|Porto_Maurizio.personal]] 
 
-### [Porto_Maurizio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Porto_Maurizio.secret|Porto_Maurizio.secret]] 
 

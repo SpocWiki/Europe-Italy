@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34387
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.28
+dv_has_place_latitude: 45.22
+dv_name: Sottomarina
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.28] 
-[has_place_latitude::45.22] 
-[name::Sottomarina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sottomarina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina|Sottomarina]] 
 
-### [Sottomarina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.public|Sottomarina.public]] 
 
-### [Sottomarina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.internal|Sottomarina.internal]] 
 
-### [Sottomarina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.protect|Sottomarina.protect]] 
 
-### [Sottomarina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.private|Sottomarina.private]] 
 
-### [Sottomarina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.personal|Sottomarina.personal]] 
 
-### [Sottomarina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Sottomarina.secret|Sottomarina.secret]] 
 

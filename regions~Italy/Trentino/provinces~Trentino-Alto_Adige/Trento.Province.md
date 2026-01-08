@@ -40,17 +40,17 @@ markerFolder: ./Trento.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Trento.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province|Trento.Province]] 
 
-### [Trento.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.public|Trento.Province.public]] 
 
-### [Trento.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.internal|Trento.Province.internal]] 
 
-### [Trento.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.protect|Trento.Province.protect]] 
 
-### [Trento.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.private|Trento.Province.private]] 
 
-### [Trento.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.personal|Trento.Province.personal]] 
 
-### [Trento.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province.secret|Trento.Province.secret]] 
 

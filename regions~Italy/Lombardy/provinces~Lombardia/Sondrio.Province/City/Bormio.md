@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29284
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.98
+dv_has_place_latitude: 46.28
+dv_name: Bormio
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.98] 
-[has_place_latitude::46.28] 
-[name::Bormio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bormio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio|Bormio]] 
 
-### [Bormio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.public|Bormio.public]] 
 
-### [Bormio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.internal|Bormio.internal]] 
 
-### [Bormio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.protect|Bormio.protect]] 
 
-### [Bormio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.private|Bormio.private]] 
 
-### [Bormio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.personal|Bormio.personal]] 
 
-### [Bormio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Bormio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Bormio.secret|Bormio.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28676
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.83
+dv_has_place_latitude: 37.67
+dv_name: Adrano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.83] 
-[has_place_latitude::37.67] 
-[name::Adrano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adrano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano|Adrano]] 
 
-### [Adrano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.public|Adrano.public]] 
 
-### [Adrano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.internal|Adrano.internal]] 
 
-### [Adrano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.protect|Adrano.protect]] 
 
-### [Adrano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.private|Adrano.private]] 
 
-### [Adrano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.personal|Adrano.personal]] 
 
-### [Adrano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Adrano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Adrano.secret|Adrano.secret]] 
 

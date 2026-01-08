@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29336
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.58
+dv_has_place_latitude: 43.57
+dv_name: Breno
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.58] 
-[has_place_latitude::43.57] 
-[name::Breno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Breno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Breno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Breno|Breno]] 
 
-### [Breno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Breno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Breno.public|Breno.public]] 
 
-### [Breno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Breno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Breno.internal|Breno.internal]] 
 
-### [Breno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Breno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Breno.protect|Breno.protect]] 
 
-### [Breno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Breno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Breno.private|Breno.private]] 
 
-### [Breno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Breno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Breno.personal|Breno.personal]] 
 
-### [Breno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Breno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Breno.secret|Breno.secret]] 
 

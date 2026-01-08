@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29373
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.28
+dv_has_place_latitude: 45.5
+dv_name: Brunate
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.28] 
-[has_place_latitude::45.5] 
-[name::Brunate] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brunate](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate|Brunate]] 
 
-### [Brunate.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.public|Brunate.public]] 
 
-### [Brunate.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.internal|Brunate.internal]] 
 
-### [Brunate.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.protect|Brunate.protect]] 
 
-### [Brunate.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.private|Brunate.private]] 
 
-### [Brunate.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.personal|Brunate.personal]] 
 
-### [Brunate.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Brunate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Brunate.secret|Brunate.secret]] 
 

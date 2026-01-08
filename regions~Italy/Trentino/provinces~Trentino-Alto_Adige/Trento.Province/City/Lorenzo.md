@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32094
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.87
+dv_has_place_latitude: 46.02
+dv_name: Lorenzo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.87] 
-[has_place_latitude::46.02] 
-[name::Lorenzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lorenzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo|Lorenzo]] 
 
-### [Lorenzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.public|Lorenzo.public]] 
 
-### [Lorenzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.internal|Lorenzo.internal]] 
 
-### [Lorenzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.protect|Lorenzo.protect]] 
 
-### [Lorenzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.private|Lorenzo.private]] 
 
-### [Lorenzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.personal|Lorenzo.personal]] 
 
-### [Lorenzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Trento.Province/City/Lorenzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Trento.Province/City/Lorenzo.secret|Lorenzo.secret]] 
 

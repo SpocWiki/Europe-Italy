@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31862
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.15
+dv_has_place_latitude: 45.78
+dv_name: Latisana
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.15] 
-[has_place_latitude::45.78] 
-[name::Latisana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Latisana](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana|Latisana]] 
 
-### [Latisana.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.public|Latisana.public]] 
 
-### [Latisana.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.internal|Latisana.internal]] 
 
-### [Latisana.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.protect|Latisana.protect]] 
 
-### [Latisana.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.private|Latisana.private]] 
 
-### [Latisana.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.personal|Latisana.personal]] 
 
-### [Latisana.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Latisana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Latisana.secret|Latisana.secret]] 
 

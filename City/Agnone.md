@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28683
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.23
+dv_has_place_latitude: 37.33
+dv_name: Agnone
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.23] 
-[has_place_latitude::37.33] 
-[name::Agnone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agnone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Agnone|Agnone]] 
 
-### [Agnone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.public|Agnone.public]] 
 
-### [Agnone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.internal|Agnone.internal]] 
 
-### [Agnone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.protect|Agnone.protect]] 
 
-### [Agnone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.private|Agnone.private]] 
 
-### [Agnone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.personal|Agnone.personal]] 
 
-### [Agnone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Agnone.secret|Agnone.secret]] 
 

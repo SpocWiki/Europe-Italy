@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29678
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.27
+dv_has_place_latitude: 40.6
+dv_name: Crispiano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.27] 
-[has_place_latitude::40.6] 
-[name::Crispiano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crispiano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano|Crispiano]] 
 
-### [Crispiano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.public|Crispiano.public]] 
 
-### [Crispiano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.internal|Crispiano.internal]] 
 
-### [Crispiano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.protect|Crispiano.protect]] 
 
-### [Crispiano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.private|Crispiano.private]] 
 
-### [Crispiano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.personal|Crispiano.personal]] 
 
-### [Crispiano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Crispiano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Crispiano.secret|Crispiano.secret]] 
 

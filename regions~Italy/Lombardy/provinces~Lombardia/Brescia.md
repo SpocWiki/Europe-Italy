@@ -40,17 +40,17 @@ markerFolder: ./Brescia/
 
 ## Confidential Links & Embeds: 
 
-### [Brescia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia|Brescia]] 
 
-### [Brescia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.public|Brescia.public]] 
 
-### [Brescia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.internal|Brescia.internal]] 
 
-### [Brescia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.protect|Brescia.protect]] 
 
-### [Brescia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.private|Brescia.private]] 
 
-### [Brescia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.personal|Brescia.personal]] 
 
-### [Brescia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia.secret|Brescia.secret]] 
 

@@ -1,4 +1,9 @@
-﻿---
+---
+dv_VehicleCode: V
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]"
+
 has_time_started: 1929-02-11 
 aliases:
   - Vatican
@@ -225,8 +230,8 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 
 # [[Vatican]] 
 
-[VehicleCode::V] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Vatican_City,237|WD~Vatican_City,237]] 
+VehicleCode = `=this.dv_VehicleCode` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -299,17 +304,17 @@ markerFile: [[Vatican]]
 
 ## Confidential Links & Embeds: 
 
-### [Vatican](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican|Vatican]] 
 
-### [Vatican.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.public|Vatican.public]] 
 
-### [Vatican.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.internal|Vatican.internal]] 
 
-### [Vatican.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.protect|Vatican.protect]] 
 
-### [Vatican.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.private|Vatican.private]] 
 
-### [Vatican.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.personal|Vatican.personal]] 
 
-### [Vatican.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Vatican.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican.secret|Vatican.secret]] 
 

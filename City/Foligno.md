@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30204
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.25
+dv_has_place_latitude: 52.95
+dv_name: Foligno
+dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.25] 
-[has_place_latitude::52.95] 
-[name::Foligno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Italy]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Foligno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Foligno|Foligno]] 
 
-### [Foligno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.public|Foligno.public]] 
 
-### [Foligno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.internal|Foligno.internal]] 
 
-### [Foligno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.protect|Foligno.protect]] 
 
-### [Foligno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.private|Foligno.private]] 
 
-### [Foligno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.personal|Foligno.personal]] 
 
-### [Foligno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Foligno.secret|Foligno.secret]] 
 

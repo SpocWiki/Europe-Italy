@@ -40,17 +40,17 @@ markerFolder: ./Trapani/
 
 ## Confidential Links & Embeds: 
 
-### [Trapani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani|Trapani]] 
 
-### [Trapani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.public|Trapani.public]] 
 
-### [Trapani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.internal|Trapani.internal]] 
 
-### [Trapani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.protect|Trapani.protect]] 
 
-### [Trapani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.private|Trapani.private]] 
 
-### [Trapani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.personal|Trapani.personal]] 
 
-### [Trapani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani.secret|Trapani.secret]] 
 

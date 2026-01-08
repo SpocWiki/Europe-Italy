@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30376
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.02
+dv_has_place_latitude: 45.83
+dv_name: Gavirate
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.02] 
-[has_place_latitude::45.83] 
-[name::Gavirate] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gavirate](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate|Gavirate]] 
 
-### [Gavirate.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.public|Gavirate.public]] 
 
-### [Gavirate.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.internal|Gavirate.internal]] 
 
-### [Gavirate.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.protect|Gavirate.protect]] 
 
-### [Gavirate.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.private|Gavirate.private]] 
 
-### [Gavirate.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.personal|Gavirate.personal]] 
 
-### [Gavirate.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Gavirate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Gavirate.secret|Gavirate.secret]] 
 

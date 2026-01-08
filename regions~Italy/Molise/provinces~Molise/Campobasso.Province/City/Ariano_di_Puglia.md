@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28868
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.95
+dv_has_place_latitude: 41.92
+dv_name: Ariano di Puglia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.95] 
-[has_place_latitude::41.92] 
-[name::Ariano di Puglia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ariano_di_Puglia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia|Ariano_di_Puglia]] 
 
-### [Ariano_di_Puglia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.public|Ariano_di_Puglia.public]] 
 
-### [Ariano_di_Puglia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.internal|Ariano_di_Puglia.internal]] 
 
-### [Ariano_di_Puglia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.protect|Ariano_di_Puglia.protect]] 
 
-### [Ariano_di_Puglia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.private|Ariano_di_Puglia.private]] 
 
-### [Ariano_di_Puglia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.personal|Ariano_di_Puglia.personal]] 
 
-### [Ariano_di_Puglia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Ariano_di_Puglia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Ariano_di_Puglia.secret|Ariano_di_Puglia.secret]] 
 

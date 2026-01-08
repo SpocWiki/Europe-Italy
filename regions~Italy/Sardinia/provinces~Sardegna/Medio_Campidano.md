@@ -41,17 +41,17 @@ markerFolder: ./Medio_Campidano/
 
 ## Confidential Links & Embeds: 
 
-### [Medio_Campidano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano|Medio_Campidano]] 
 
-### [Medio_Campidano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.public|Medio_Campidano.public]] 
 
-### [Medio_Campidano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.internal|Medio_Campidano.internal]] 
 
-### [Medio_Campidano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.protect|Medio_Campidano.protect]] 
 
-### [Medio_Campidano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.private|Medio_Campidano.private]] 
 
-### [Medio_Campidano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.personal|Medio_Campidano.personal]] 
 
-### [Medio_Campidano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Medio_Campidano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Medio_Campidano.secret|Medio_Campidano.secret]] 
 

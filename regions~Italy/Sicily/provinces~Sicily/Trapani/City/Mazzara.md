@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32362
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.58
+dv_has_place_latitude: 37.67
+dv_name: Mazzara
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.58] 
-[has_place_latitude::37.67] 
-[name::Mazzara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mazzara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara|Mazzara]] 
 
-### [Mazzara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.public|Mazzara.public]] 
 
-### [Mazzara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.internal|Mazzara.internal]] 
 
-### [Mazzara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.protect|Mazzara.protect]] 
 
-### [Mazzara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.private|Mazzara.private]] 
 
-### [Mazzara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.personal|Mazzara.personal]] 
 
-### [Mazzara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Mazzara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Mazzara.secret|Mazzara.secret]] 
 

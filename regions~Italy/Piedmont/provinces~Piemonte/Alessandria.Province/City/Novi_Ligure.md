@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32972
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.78
+dv_has_place_latitude: 44.77
+dv_name: Novi Ligure
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.78] 
-[has_place_latitude::44.77] 
-[name::Novi Ligure] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novi_Ligure](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure|Novi_Ligure]] 
 
-### [Novi_Ligure.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.public|Novi_Ligure.public]] 
 
-### [Novi_Ligure.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.internal|Novi_Ligure.internal]] 
 
-### [Novi_Ligure.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.protect|Novi_Ligure.protect]] 
 
-### [Novi_Ligure.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.private|Novi_Ligure.private]] 
 
-### [Novi_Ligure.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.personal|Novi_Ligure.personal]] 
 
-### [Novi_Ligure.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Novi_Ligure.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Novi_Ligure.secret|Novi_Ligure.secret]] 
 

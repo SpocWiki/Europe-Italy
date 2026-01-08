@@ -40,17 +40,17 @@ markerFolder: ./Asti.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Asti.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province|Asti.Province]] 
 
-### [Asti.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.public|Asti.Province.public]] 
 
-### [Asti.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.internal|Asti.Province.internal]] 
 
-### [Asti.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.protect|Asti.Province.protect]] 
 
-### [Asti.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.private|Asti.Province.private]] 
 
-### [Asti.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.personal|Asti.Province.personal]] 
 
-### [Asti.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Asti.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Asti.Province.secret|Asti.Province.secret]] 
 

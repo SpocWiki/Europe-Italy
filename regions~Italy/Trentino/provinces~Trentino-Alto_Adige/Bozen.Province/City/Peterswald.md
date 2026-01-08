@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33326
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.7
+dv_has_place_latitude: 46.88
+dv_name: Peterswald
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.7] 
-[has_place_latitude::46.88] 
-[name::Peterswald] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peterswald](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald|Peterswald]] 
 
-### [Peterswald.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.public|Peterswald.public]] 
 
-### [Peterswald.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.internal|Peterswald.internal]] 
 
-### [Peterswald.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.protect|Peterswald.protect]] 
 
-### [Peterswald.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.private|Peterswald.private]] 
 
-### [Peterswald.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.personal|Peterswald.personal]] 
 
-### [Peterswald.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Peterswald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Peterswald.secret|Peterswald.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28709
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.37
+dv_has_place_latitude: 41.45
+dv_name: Alatri
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.37] 
-[has_place_latitude::41.45] 
-[name::Alatri] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alatri](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri|Alatri]] 
 
-### [Alatri.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.public|Alatri.public]] 
 
-### [Alatri.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.internal|Alatri.internal]] 
 
-### [Alatri.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.protect|Alatri.protect]] 
 
-### [Alatri.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.private|Alatri.private]] 
 
-### [Alatri.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.personal|Alatri.personal]] 
 
-### [Alatri.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Alatri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Alatri.secret|Alatri.secret]] 
 

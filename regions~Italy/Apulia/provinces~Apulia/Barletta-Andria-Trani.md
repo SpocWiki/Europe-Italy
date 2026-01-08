@@ -41,17 +41,17 @@ markerFolder: ./Barletta-Andria_Trani/
 
 ## Confidential Links & Embeds: 
 
-### [Barletta-Andria_Trani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani|Barletta-Andria-Trani]] 
 
-### [Barletta-Andria_Trani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.public|Barletta-Andria-Trani.public]] 
 
-### [Barletta-Andria_Trani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.internal|Barletta-Andria-Trani.internal]] 
 
-### [Barletta-Andria_Trani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.protect|Barletta-Andria-Trani.protect]] 
 
-### [Barletta-Andria_Trani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.private|Barletta-Andria-Trani.private]] 
 
-### [Barletta-Andria_Trani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.personal|Barletta-Andria-Trani.personal]] 
 
-### [Barletta-Andria_Trani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Barletta-Andria_Trani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Barletta-Andria-Trani.secret|Barletta-Andria-Trani.secret]] 
 

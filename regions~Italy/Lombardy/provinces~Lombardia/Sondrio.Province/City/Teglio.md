@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34792
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.05
+dv_has_place_latitude: 46.17
+dv_name: Teglio
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.05] 
-[has_place_latitude::46.17] 
-[name::Teglio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teglio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio|Teglio]] 
 
-### [Teglio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.public|Teglio.public]] 
 
-### [Teglio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.internal|Teglio.internal]] 
 
-### [Teglio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.protect|Teglio.protect]] 
 
-### [Teglio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.private|Teglio.private]] 
 
-### [Teglio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.personal|Teglio.personal]] 
 
-### [Teglio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Teglio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Teglio.secret|Teglio.secret]] 
 

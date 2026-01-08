@@ -40,17 +40,17 @@ markerFolder: ./Prato.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Prato.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province|Prato.Province]] 
 
-### [Prato.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.public|Prato.Province.public]] 
 
-### [Prato.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.internal|Prato.Province.internal]] 
 
-### [Prato.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.protect|Prato.Province.protect]] 
 
-### [Prato.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.private|Prato.Province.private]] 
 
-### [Prato.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.personal|Prato.Province.personal]] 
 
-### [Prato.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Prato.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Prato.Province.secret|Prato.Province.secret]] 
 

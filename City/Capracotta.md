@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29476
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.68
+dv_has_place_latitude: 41.83
+dv_name: Capracotta
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.68] 
-[has_place_latitude::41.83] 
-[name::Capracotta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Capracotta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta|Capracotta]] 
 
-### [Capracotta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.public|Capracotta.public]] 
 
-### [Capracotta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.internal|Capracotta.internal]] 
 
-### [Capracotta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.protect|Capracotta.protect]] 
 
-### [Capracotta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.private|Capracotta.private]] 
 
-### [Capracotta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.personal|Capracotta.personal]] 
 
-### [Capracotta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Capracotta.secret|Capracotta.secret]] 
 

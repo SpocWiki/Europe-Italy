@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35211
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.82
+dv_has_place_latitude: 45.82
+dv_name: Varese
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.82] 
-[has_place_latitude::45.82] 
-[name::Varese] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varese](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese|Varese]] 
 
-### [Varese.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.public|Varese.public]] 
 
-### [Varese.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.internal|Varese.internal]] 
 
-### [Varese.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.protect|Varese.protect]] 
 
-### [Varese.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.private|Varese.private]] 
 
-### [Varese.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.personal|Varese.personal]] 
 
-### [Varese.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Varese.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Varese.secret|Varese.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34946
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.43
+dv_has_place_latitude: 41.28
+dv_name: Trani
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.43] 
-[has_place_latitude::41.28] 
-[name::Trani] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trani|Trani]] 
 
-### [Trani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trani.public|Trani.public]] 
 
-### [Trani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.internal|Trani.internal]] 
 
-### [Trani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trani.protect|Trani.protect]] 
 
-### [Trani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trani.private|Trani.private]] 
 
-### [Trani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trani.personal|Trani.personal]] 
 
-### [Trani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trani.secret|Trani.secret]] 
 

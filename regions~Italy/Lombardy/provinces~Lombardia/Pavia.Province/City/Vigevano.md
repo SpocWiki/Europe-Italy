@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35283
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.87
+dv_has_place_latitude: 45.32
+dv_name: Vigevano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.87] 
-[has_place_latitude::45.32] 
-[name::Vigevano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vigevano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano|Vigevano]] 
 
-### [Vigevano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.public|Vigevano.public]] 
 
-### [Vigevano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.internal|Vigevano.internal]] 
 
-### [Vigevano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.protect|Vigevano.protect]] 
 
-### [Vigevano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.private|Vigevano.private]] 
 
-### [Vigevano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.personal|Vigevano.personal]] 
 
-### [Vigevano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Vigevano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Vigevano.secret|Vigevano.secret]] 
 

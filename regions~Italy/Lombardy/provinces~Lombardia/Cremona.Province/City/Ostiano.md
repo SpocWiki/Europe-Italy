@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33179
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.27
+dv_has_place_latitude: 45.22
+dv_name: Ostiano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.27] 
-[has_place_latitude::45.22] 
-[name::Ostiano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostiano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano|Ostiano]] 
 
-### [Ostiano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.public|Ostiano.public]] 
 
-### [Ostiano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.internal|Ostiano.internal]] 
 
-### [Ostiano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.protect|Ostiano.protect]] 
 
-### [Ostiano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.private|Ostiano.private]] 
 
-### [Ostiano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.personal|Ostiano.personal]] 
 
-### [Ostiano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Ostiano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Ostiano.secret|Ostiano.secret]] 
 

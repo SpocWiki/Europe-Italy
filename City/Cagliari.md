@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29447
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.08
+dv_has_place_latitude: 39.22
+dv_name: Cagliari
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.08] 
-[has_place_latitude::39.22] 
-[name::Cagliari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cagliari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari|Cagliari]] 
 
-### [Cagliari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.public|Cagliari.public]] 
 
-### [Cagliari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.internal|Cagliari.internal]] 
 
-### [Cagliari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.protect|Cagliari.protect]] 
 
-### [Cagliari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.private|Cagliari.private]] 
 
-### [Cagliari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.personal|Cagliari.personal]] 
 
-### [Cagliari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Cagliari.secret|Cagliari.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sassari.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Sassari.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province|Sassari.Province]] 
 
-### [Sassari.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.public|Sassari.Province.public]] 
 
-### [Sassari.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.internal|Sassari.Province.internal]] 
 
-### [Sassari.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.protect|Sassari.Province.protect]] 
 
-### [Sassari.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.private|Sassari.Province.private]] 
 
-### [Sassari.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.personal|Sassari.Province.personal]] 
 
-### [Sassari.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Sassari.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Sassari.Province.secret|Sassari.Province.secret]] 
 

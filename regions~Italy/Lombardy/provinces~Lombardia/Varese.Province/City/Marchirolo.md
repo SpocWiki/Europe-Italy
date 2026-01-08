@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32272
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.8
+dv_has_place_latitude: 45.93
+dv_name: Marchirolo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.8] 
-[has_place_latitude::45.93] 
-[name::Marchirolo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marchirolo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo|Marchirolo]] 
 
-### [Marchirolo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.public|Marchirolo.public]] 
 
-### [Marchirolo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.internal|Marchirolo.internal]] 
 
-### [Marchirolo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.protect|Marchirolo.protect]] 
 
-### [Marchirolo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.private|Marchirolo.private]] 
 
-### [Marchirolo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.personal|Marchirolo.personal]] 
 
-### [Marchirolo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Marchirolo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Marchirolo.secret|Marchirolo.secret]] 
 

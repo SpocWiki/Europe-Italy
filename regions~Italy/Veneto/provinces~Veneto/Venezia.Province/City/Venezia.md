@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.33
+dv_has_place_latitude: 45.43
+dv_name: Venedig=Venecia
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"
+
 has_time_started: 0421-03-26 
 aliases:
   - Venedig
@@ -219,16 +227,16 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venic
 # [[Venezia]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.33] 
-[has_place_latitude::45.43] 
-[name::Venedig=Venecia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../../Italy]]  
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -268,19 +276,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Venice)
 
+
 ## Confidential Links & Embeds: 
 
-### [Venedig=Venecia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia|Venezia]] 
 
-### [Venedig=Venecia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.public|Venezia.public]] 
 
-### [Venedig=Venecia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.internal|Venezia.internal]] 
 
-### [Venedig=Venecia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.protect|Venezia.protect]] 
 
-### [Venedig=Venecia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.private|Venezia.private]] 
 
-### [Venedig=Venecia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.personal|Venezia.personal]] 
 
-### [Venedig=Venecia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Venezia.Province/City/Venedig=Venecia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Venezia.Province/City/Venezia.secret|Venezia.secret]] 
 

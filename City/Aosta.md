@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28839
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.33
+dv_has_place_latitude: 54.73
+dv_name: Aosta
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.33] 
-[has_place_latitude::54.73] 
-[name::Aosta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aosta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Aosta|Aosta]] 
 
-### [Aosta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.public|Aosta.public]] 
 
-### [Aosta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.internal|Aosta.internal]] 
 
-### [Aosta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.protect|Aosta.protect]] 
 
-### [Aosta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.private|Aosta.private]] 
 
-### [Aosta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.personal|Aosta.personal]] 
 
-### [Aosta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Aosta.secret|Aosta.secret]] 
 

@@ -11,17 +11,17 @@ markerFolder: ./Abruzzo//
 
 ## Confidential Links & Embeds: 
 
-### [Abruzzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo|Abruzzo]] 
 
-### [Abruzzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.public|Abruzzo.public]] 
 
-### [Abruzzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.internal|Abruzzo.internal]] 
 
-### [Abruzzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.protect|Abruzzo.protect]] 
 
-### [Abruzzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.private|Abruzzo.private]] 
 
-### [Abruzzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.personal|Abruzzo.personal]] 
 
-### [Abruzzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo.secret|Abruzzo.secret]] 
 

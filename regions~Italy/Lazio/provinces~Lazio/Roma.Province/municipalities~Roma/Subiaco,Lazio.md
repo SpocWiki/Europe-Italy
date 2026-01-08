@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 34645
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.08
+dv_has_place_latitude: 41.93
+dv_name: Subiaco,Lazio
+dv_Country: "[[../../../../../../Italy]]"
 ---
 
 # [[Subiaco,Lazio]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.08] 
-[has_place_latitude::41.93] 
-[name::Subiaco,Lazio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -43,17 +48,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Subiaco,Lazio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio|Subiaco,Lazio]] 
 
-### [Subiaco,Lazio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.public|Subiaco,Lazio.public]] 
 
-### [Subiaco,Lazio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.internal|Subiaco,Lazio.internal]] 
 
-### [Subiaco,Lazio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.protect|Subiaco,Lazio.protect]] 
 
-### [Subiaco,Lazio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.private|Subiaco,Lazio.private]] 
 
-### [Subiaco,Lazio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.personal|Subiaco,Lazio.personal]] 
 
-### [Subiaco,Lazio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Subiaco,Lazio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Subiaco,Lazio.secret|Subiaco,Lazio.secret]] 
 

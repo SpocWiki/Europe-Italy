@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34432
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.17
+dv_has_place_latitude: 37.73
+dv_name: St.Alfio
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.17] 
-[has_place_latitude::37.73] 
-[name::St.Alfio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Alfio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio|St.Alfio]] 
 
-### [St.Alfio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.public|St.Alfio.public]] 
 
-### [St.Alfio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.internal|St.Alfio.internal]] 
 
-### [St.Alfio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.protect|St.Alfio.protect]] 
 
-### [St.Alfio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.private|St.Alfio.private]] 
 
-### [St.Alfio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.personal|St.Alfio.personal]] 
 
-### [St.Alfio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/St.Alfio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/St.Alfio.secret|St.Alfio.secret]] 
 

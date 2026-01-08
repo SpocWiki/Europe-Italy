@@ -11,11 +11,14 @@ Dewey_Decimal_Classification: "945"
 Commons_category: History of Italy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1839%20Monin%20Map%20of%20Ancienne%20Italy%20Atlas%20Universel%20de%20G%C3%A9ographie%20Ancienne%20and%20Moderne.jpg
 subreddit: Italianhistory
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Italy,7791]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Italy,7791]]"
 ---
 
 # [[History_of_Italy]] 
 
-#is_/same_as :: [[WD~History_of_Italy,7791]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -44,4 +47,21 @@ subreddit: Italianhistory
 > Following the end of the German occupation and the killing of Benito Mussolini, the 1946 Italian institutional referendum abolished the monarchy and became a republic, reinstated democracy, enjoyed an economic boom, and co-founded the European Union (Treaty of Rome), NATO, the Group of Six (later G7), and the G20.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Italy) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy|History_of_Italy]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.public|History_of_Italy.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.internal|History_of_Italy.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.protect|History_of_Italy.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.private|History_of_Italy.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.personal|History_of_Italy.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy.secret|History_of_Italy.secret]] 
 

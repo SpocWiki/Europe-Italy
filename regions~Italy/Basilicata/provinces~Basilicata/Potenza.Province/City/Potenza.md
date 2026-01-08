@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33491
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.8
+dv_has_place_latitude: 40.63
+dv_name: Potenza
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.8] 
-[has_place_latitude::40.63] 
-[name::Potenza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Potenza](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza|Potenza]] 
 
-### [Potenza.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.public|Potenza.public]] 
 
-### [Potenza.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.internal|Potenza.internal]] 
 
-### [Potenza.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.protect|Potenza.protect]] 
 
-### [Potenza.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.private|Potenza.private]] 
 
-### [Potenza.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.personal|Potenza.personal]] 
 
-### [Potenza.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Potenza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Potenza.secret|Potenza.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32577
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.43
+dv_has_place_latitude: 39.25
+dv_name: Monteponi
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.43] 
-[has_place_latitude::39.25] 
-[name::Monteponi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monteponi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi|Monteponi]] 
 
-### [Monteponi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.public|Monteponi.public]] 
 
-### [Monteponi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.internal|Monteponi.internal]] 
 
-### [Monteponi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.protect|Monteponi.protect]] 
 
-### [Monteponi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.private|Monteponi.private]] 
 
-### [Monteponi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.personal|Monteponi.personal]] 
 
-### [Monteponi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Carbonia-Iglesias/City/Monteponi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Carbonia-Iglesias/City/Monteponi.secret|Monteponi.secret]] 
 

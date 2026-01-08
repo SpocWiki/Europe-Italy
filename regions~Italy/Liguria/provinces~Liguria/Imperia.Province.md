@@ -40,17 +40,17 @@ markerFolder: ./Imperia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Imperia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province|Imperia.Province]] 
 
-### [Imperia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.public|Imperia.Province.public]] 
 
-### [Imperia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.internal|Imperia.Province.internal]] 
 
-### [Imperia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.protect|Imperia.Province.protect]] 
 
-### [Imperia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.private|Imperia.Province.private]] 
 
-### [Imperia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.personal|Imperia.Province.personal]] 
 
-### [Imperia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province.secret|Imperia.Province.secret]] 
 

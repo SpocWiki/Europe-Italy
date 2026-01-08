@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31955
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.43
+dv_has_place_latitude: 43.17
+dv_name: Lesina
+dv_Country: "[[../../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.43] 
-[has_place_latitude::43.17] 
-[name::Lesina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lesina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina|Lesina]] 
 
-### [Lesina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.public|Lesina.public]] 
 
-### [Lesina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.internal|Lesina.internal]] 
 
-### [Lesina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.protect|Lesina.protect]] 
 
-### [Lesina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.private|Lesina.private]] 
 
-### [Lesina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.personal|Lesina.personal]] 
 
-### [Lesina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia/City/Lesina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia/City/Lesina.secret|Lesina.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28838
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.65
+dv_has_place_latitude: 41.45
+dv_name: Anzio
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.65] 
-[has_place_latitude::41.45] 
-[name::Anzio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Anzio](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Anzio|Anzio]] 
 
-### [Anzio.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.public|Anzio.public]] 
 
-### [Anzio.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.internal|Anzio.internal]] 
 
-### [Anzio.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.protect|Anzio.protect]] 
 
-### [Anzio.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.private|Anzio.private]] 
 
-### [Anzio.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.personal|Anzio.personal]] 
 
-### [Anzio.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Anzio.secret|Anzio.secret]] 
 

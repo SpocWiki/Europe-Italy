@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34806
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.08
+dv_has_place_latitude: 40.9
+dv_name: Tempio Pausania
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.08] 
-[has_place_latitude::40.9] 
-[name::Tempio Pausania] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tempio_Pausania](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania|Tempio_Pausania]] 
 
-### [Tempio_Pausania.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.public|Tempio_Pausania.public]] 
 
-### [Tempio_Pausania.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.internal|Tempio_Pausania.internal]] 
 
-### [Tempio_Pausania.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.protect|Tempio_Pausania.protect]] 
 
-### [Tempio_Pausania.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.private|Tempio_Pausania.private]] 
 
-### [Tempio_Pausania.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.personal|Tempio_Pausania.personal]] 
 
-### [Tempio_Pausania.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/Tempio_Pausania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/Tempio_Pausania.secret|Tempio_Pausania.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30635
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.03
+dv_has_place_latitude: 44.42
+dv_name: Guiglia
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.03] 
-[has_place_latitude::44.42] 
-[name::Guiglia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guiglia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia|Guiglia]] 
 
-### [Guiglia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.public|Guiglia.public]] 
 
-### [Guiglia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.internal|Guiglia.internal]] 
 
-### [Guiglia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.protect|Guiglia.protect]] 
 
-### [Guiglia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.private|Guiglia.private]] 
 
-### [Guiglia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.personal|Guiglia.personal]] 
 
-### [Guiglia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Guiglia.secret|Guiglia.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33133
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.63
+dv_has_place_latitude: 39.88
+dv_name: Oristano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.63] 
-[has_place_latitude::39.88] 
-[name::Oristano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oristano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano|Oristano]] 
 
-### [Oristano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.public|Oristano.public]] 
 
-### [Oristano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.internal|Oristano.internal]] 
 
-### [Oristano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.protect|Oristano.protect]] 
 
-### [Oristano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.private|Oristano.private]] 
 
-### [Oristano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.personal|Oristano.personal]] 
 
-### [Oristano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Oristano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Oristano.secret|Oristano.secret]] 
 

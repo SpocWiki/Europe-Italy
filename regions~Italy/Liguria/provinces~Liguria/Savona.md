@@ -40,17 +40,17 @@ markerFolder: ./Savona/
 
 ## Confidential Links & Embeds: 
 
-### [Savona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona|Savona]] 
 
-### [Savona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.public|Savona.public]] 
 
-### [Savona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.internal|Savona.internal]] 
 
-### [Savona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.protect|Savona.protect]] 
 
-### [Savona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.private|Savona.private]] 
 
-### [Savona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.personal|Savona.personal]] 
 
-### [Savona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Savona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Savona.secret|Savona.secret]] 
 

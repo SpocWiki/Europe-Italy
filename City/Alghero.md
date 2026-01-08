@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28738
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.32
+dv_has_place_latitude: 40.55
+dv_name: Alghero
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.32] 
-[has_place_latitude::40.55] 
-[name::Alghero] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alghero](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alghero|Alghero]] 
 
-### [Alghero.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.public|Alghero.public]] 
 
-### [Alghero.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.internal|Alghero.internal]] 
 
-### [Alghero.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.protect|Alghero.protect]] 
 
-### [Alghero.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.private|Alghero.private]] 
 
-### [Alghero.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.personal|Alghero.personal]] 
 
-### [Alghero.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alghero.secret|Alghero.secret]] 
 

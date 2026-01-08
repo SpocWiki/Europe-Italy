@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29673
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.28
+dv_has_place_latitude: 45.75
+dv_name: Cremella
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.28] 
-[has_place_latitude::45.75] 
-[name::Cremella] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cremella](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella|Cremella]] 
 
-### [Cremella.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.public|Cremella.public]] 
 
-### [Cremella.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.internal|Cremella.internal]] 
 
-### [Cremella.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.protect|Cremella.protect]] 
 
-### [Cremella.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.private|Cremella.private]] 
 
-### [Cremella.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.personal|Cremella.personal]] 
 
-### [Cremella.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cremella.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cremella.secret|Cremella.secret]] 
 

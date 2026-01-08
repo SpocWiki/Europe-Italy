@@ -40,17 +40,17 @@ markerFolder: ./Foggia/
 
 ## Confidential Links & Embeds: 
 
-### [Foggia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia|Foggia]] 
 
-### [Foggia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.public|Foggia.public]] 
 
-### [Foggia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.internal|Foggia.internal]] 
 
-### [Foggia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.protect|Foggia.protect]] 
 
-### [Foggia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.private|Foggia.private]] 
 
-### [Foggia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.personal|Foggia.personal]] 
 
-### [Foggia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Foggia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Foggia.secret|Foggia.secret]] 
 

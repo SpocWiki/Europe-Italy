@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32787
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.68
+dv_has_place_latitude: 41.47
+dv_name: Nettuno
+dv_Country: "[[../../../../../../Italy]]"
 ---
 
 # [[Nettuno]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.68] 
-[has_place_latitude::41.47] 
-[name::Nettuno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -43,17 +48,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nettuno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno|Nettuno]] 
 
-### [Nettuno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.public|Nettuno.public]] 
 
-### [Nettuno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.internal|Nettuno.internal]] 
 
-### [Nettuno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.protect|Nettuno.protect]] 
 
-### [Nettuno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.private|Nettuno.private]] 
 
-### [Nettuno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.personal|Nettuno.personal]] 
 
-### [Nettuno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province/City/Nettuno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Nettuno.secret|Nettuno.secret]] 
 

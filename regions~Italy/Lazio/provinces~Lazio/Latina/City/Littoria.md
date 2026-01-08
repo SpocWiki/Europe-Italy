@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32048
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.9
+dv_has_place_latitude: 41.47
+dv_name: Littoria
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.9] 
-[has_place_latitude::41.47] 
-[name::Littoria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Littoria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria|Littoria]] 
 
-### [Littoria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.public|Littoria.public]] 
 
-### [Littoria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.internal|Littoria.internal]] 
 
-### [Littoria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.protect|Littoria.protect]] 
 
-### [Littoria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.private|Littoria.private]] 
 
-### [Littoria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.personal|Littoria.personal]] 
 
-### [Littoria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Latina/City/Littoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Latina/City/Littoria.secret|Littoria.secret]] 
 

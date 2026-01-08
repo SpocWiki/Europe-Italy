@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 29453
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 11
+  - 83
+dv_has_place_latitude:
+  - 43
+  - 78
+dv_name: Calmadoli/Arezzo
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::11,83] 
 [has_place_latitude::43,78] 
-[name::Calmadoli/Arezzo] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli_Arezzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo|Calmadoli_Arezzo]] 
 
-### [Calmadoli_Arezzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.public|Calmadoli_Arezzo.public]] 
 
-### [Calmadoli_Arezzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.internal|Calmadoli_Arezzo.internal]] 
 
-### [Calmadoli_Arezzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.protect|Calmadoli_Arezzo.protect]] 
 
-### [Calmadoli_Arezzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.private|Calmadoli_Arezzo.private]] 
 
-### [Calmadoli_Arezzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.personal|Calmadoli_Arezzo.personal]] 
 
-### [Calmadoli_Arezzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Arezzo.secret|Calmadoli_Arezzo.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33921
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.78
+dv_has_place_latitude: 43.82
+dv_name: San Remo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.78] 
-[has_place_latitude::43.82] 
-[name::San Remo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Remo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo|San_Remo]] 
 
-### [San_Remo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.public|San_Remo.public]] 
 
-### [San_Remo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.internal|San_Remo.internal]] 
 
-### [San_Remo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.protect|San_Remo.protect]] 
 
-### [San_Remo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.private|San_Remo.private]] 
 
-### [San_Remo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.personal|San_Remo.personal]] 
 
-### [San_Remo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/San_Remo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/San_Remo.secret|San_Remo.secret]] 
 

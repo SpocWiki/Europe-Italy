@@ -11,17 +11,17 @@ markerFolder: ./Piedmont//
 
 ## Confidential Links & Embeds: 
 
-### [Piedmont](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont|Piedmont]] 
 
-### [Piedmont.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.public|Piedmont.public]] 
 
-### [Piedmont.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.internal|Piedmont.internal]] 
 
-### [Piedmont.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.protect|Piedmont.protect]] 
 
-### [Piedmont.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.private|Piedmont.private]] 
 
-### [Piedmont.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.personal|Piedmont.personal]] 
 
-### [Piedmont.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont.secret|Piedmont.secret]] 
 

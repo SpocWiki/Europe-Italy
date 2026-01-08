@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28850
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.87
+dv_has_place_latitude: 46.5
+dv_name: Arabba
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.87] 
-[has_place_latitude::46.5] 
-[name::Arabba] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arabba](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba|Arabba]] 
 
-### [Arabba.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.public|Arabba.public]] 
 
-### [Arabba.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.internal|Arabba.internal]] 
 
-### [Arabba.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.protect|Arabba.protect]] 
 
-### [Arabba.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.private|Arabba.private]] 
 
-### [Arabba.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.personal|Arabba.personal]] 
 
-### [Arabba.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Arabba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Arabba.secret|Arabba.secret]] 
 

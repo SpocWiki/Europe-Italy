@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Papal_States,170174|WD~Papal_States,170174]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Papal_States,170174|WD~Papal_States,170174]]"
+
 has_time_started: 0754-01-01 
 has_time_stopped: 1870-01-01 
 aliases:
@@ -86,7 +90,7 @@ demonym: Papal
 
 # [[0756-Papal_States-1870]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Papal_States,170174|WD~Papal_States,170174]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -132,4 +136,21 @@ demonym: Papal
 > the Vatican City, with the pope as its sovereign.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Papal%20States) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870|0756-Papal_States-1870]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.public|0756-Papal_States-1870.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.internal|0756-Papal_States-1870.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.protect|0756-Papal_States-1870.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.private|0756-Papal_States-1870.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.personal|0756-Papal_States-1870.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/0756-Papal_States-1870.secret|0756-Papal_States-1870.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29672
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.68
+dv_has_place_latitude: 45.37
+dv_name: Crema
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.68] 
-[has_place_latitude::45.37] 
-[name::Crema] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crema](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema|Crema]] 
 
-### [Crema.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.public|Crema.public]] 
 
-### [Crema.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.internal|Crema.internal]] 
 
-### [Crema.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.protect|Crema.protect]] 
 
-### [Crema.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.private|Crema.private]] 
 
-### [Crema.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.personal|Crema.personal]] 
 
-### [Crema.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Crema.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Crema.secret|Crema.secret]] 
 

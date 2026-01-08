@@ -40,17 +40,17 @@ markerFolder: ./Padova.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Padova.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province|Padova.Province]] 
 
-### [Padova.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.public|Padova.Province.public]] 
 
-### [Padova.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.internal|Padova.Province.internal]] 
 
-### [Padova.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.protect|Padova.Province.protect]] 
 
-### [Padova.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.private|Padova.Province.private]] 
 
-### [Padova.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.personal|Padova.Province.personal]] 
 
-### [Padova.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Padova.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Padova.Province.secret|Padova.Province.secret]] 
 

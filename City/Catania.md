@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29517
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.23
+dv_has_place_latitude: 37.5
+dv_name: Catania
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.23] 
-[has_place_latitude::37.5] 
-[name::Catania] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Catania](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Catania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Catania|Catania]] 
 
-### [Catania.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Catania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Catania.public|Catania.public]] 
 
-### [Catania.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Catania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Catania.internal|Catania.internal]] 
 
-### [Catania.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Catania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Catania.protect|Catania.protect]] 
 
-### [Catania.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Catania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Catania.private|Catania.private]] 
 
-### [Catania.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Catania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Catania.personal|Catania.personal]] 
 
-### [Catania.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Catania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Catania.secret|Catania.secret]] 
 

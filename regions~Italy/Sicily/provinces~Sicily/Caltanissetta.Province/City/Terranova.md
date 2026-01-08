@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34821
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.25
+dv_has_place_latitude: 37.08
+dv_name: Terranova
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.25] 
-[has_place_latitude::37.08] 
-[name::Terranova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Terranova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova|Terranova]] 
 
-### [Terranova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.public|Terranova.public]] 
 
-### [Terranova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.internal|Terranova.internal]] 
 
-### [Terranova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.protect|Terranova.protect]] 
 
-### [Terranova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.private|Terranova.private]] 
 
-### [Terranova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.personal|Terranova.personal]] 
 
-### [Terranova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Terranova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Terranova.secret|Terranova.secret]] 
 

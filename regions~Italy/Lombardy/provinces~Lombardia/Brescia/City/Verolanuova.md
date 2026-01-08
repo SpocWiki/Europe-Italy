@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35252
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.05
+dv_has_place_latitude: 45.33
+dv_name: Verolanuova
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.05] 
-[has_place_latitude::45.33] 
-[name::Verolanuova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Verolanuova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova|Verolanuova]] 
 
-### [Verolanuova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.public|Verolanuova.public]] 
 
-### [Verolanuova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.internal|Verolanuova.internal]] 
 
-### [Verolanuova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.protect|Verolanuova.protect]] 
 
-### [Verolanuova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.private|Verolanuova.private]] 
 
-### [Verolanuova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.personal|Verolanuova.personal]] 
 
-### [Verolanuova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Verolanuova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Verolanuova.secret|Verolanuova.secret]] 
 

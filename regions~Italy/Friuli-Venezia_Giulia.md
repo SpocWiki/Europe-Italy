@@ -37,17 +37,17 @@ markerFolder: ./Friuli-Venezia_Giulia//
 
 ## Confidential Links & Embeds: 
 
-### [Friuli-Venezia_Giulia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia|Friuli-Venezia_Giulia]] 
 
-### [Friuli-Venezia_Giulia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.public|Friuli-Venezia_Giulia.public]] 
 
-### [Friuli-Venezia_Giulia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.internal|Friuli-Venezia_Giulia.internal]] 
 
-### [Friuli-Venezia_Giulia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.protect|Friuli-Venezia_Giulia.protect]] 
 
-### [Friuli-Venezia_Giulia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.private|Friuli-Venezia_Giulia.private]] 
 
-### [Friuli-Venezia_Giulia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.personal|Friuli-Venezia_Giulia.personal]] 
 
-### [Friuli-Venezia_Giulia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia.secret|Friuli-Venezia_Giulia.secret]] 
 

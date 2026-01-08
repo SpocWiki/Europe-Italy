@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29465
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.98
+dv_has_place_latitude: 37.32
+dv_name: Campobello Ravanusa
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.98] 
-[has_place_latitude::37.32] 
-[name::Campobello Ravanusa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Campobello_Ravanusa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa|Campobello_Ravanusa]] 
 
-### [Campobello_Ravanusa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.public|Campobello_Ravanusa.public]] 
 
-### [Campobello_Ravanusa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.internal|Campobello_Ravanusa.internal]] 
 
-### [Campobello_Ravanusa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.protect|Campobello_Ravanusa.protect]] 
 
-### [Campobello_Ravanusa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.private|Campobello_Ravanusa.private]] 
 
-### [Campobello_Ravanusa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.personal|Campobello_Ravanusa.personal]] 
 
-### [Campobello_Ravanusa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Campobello_Ravanusa.secret|Campobello_Ravanusa.secret]] 
 

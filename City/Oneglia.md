@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33111
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.03
+dv_has_place_latitude: 43.88
+dv_name: Oneglia
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.03] 
-[has_place_latitude::43.88] 
-[name::Oneglia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oneglia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia|Oneglia]] 
 
-### [Oneglia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.public|Oneglia.public]] 
 
-### [Oneglia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.internal|Oneglia.internal]] 
 
-### [Oneglia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.protect|Oneglia.protect]] 
 
-### [Oneglia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.private|Oneglia.private]] 
 
-### [Oneglia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.personal|Oneglia.personal]] 
 
-### [Oneglia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Oneglia.secret|Oneglia.secret]] 
 

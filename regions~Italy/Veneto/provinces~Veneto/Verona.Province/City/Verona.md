@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35253
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.98
+dv_has_place_latitude: 45.43
+dv_name: Verona
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.98] 
-[has_place_latitude::45.43] 
-[name::Verona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Verona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona|Verona]] 
 
-### [Verona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.public|Verona.public]] 
 
-### [Verona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.internal|Verona.internal]] 
 
-### [Verona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.protect|Verona.protect]] 
 
-### [Verona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.private|Verona.private]] 
 
-### [Verona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.personal|Verona.personal]] 
 
-### [Verona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Verona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Verona.secret|Verona.secret]] 
 

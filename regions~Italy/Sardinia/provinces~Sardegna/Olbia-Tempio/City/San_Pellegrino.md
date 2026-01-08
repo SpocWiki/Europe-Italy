@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33920
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.6
+dv_has_place_latitude: 40.83
+dv_name: San Pellegrino
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.6] 
-[has_place_latitude::40.83] 
-[name::San Pellegrino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Pellegrino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino|San_Pellegrino]] 
 
-### [San_Pellegrino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.public|San_Pellegrino.public]] 
 
-### [San_Pellegrino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.internal|San_Pellegrino.internal]] 
 
-### [San_Pellegrino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.protect|San_Pellegrino.protect]] 
 
-### [San_Pellegrino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.private|San_Pellegrino.private]] 
 
-### [San_Pellegrino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.personal|San_Pellegrino.personal]] 
 
-### [San_Pellegrino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Olbia-Tempio/City/San_Pellegrino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Olbia-Tempio/City/San_Pellegrino.secret|San_Pellegrino.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30346
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.82
+dv_has_place_latitude: 45.65
+dv_name: Gallarate
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.82] 
-[has_place_latitude::45.65] 
-[name::Gallarate] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gallarate](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate|Gallarate]] 
 
-### [Gallarate.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.public|Gallarate.public]] 
 
-### [Gallarate.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.internal|Gallarate.internal]] 
 
-### [Gallarate.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.protect|Gallarate.protect]] 
 
-### [Gallarate.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.private|Gallarate.private]] 
 
-### [Gallarate.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.personal|Gallarate.personal]] 
 
-### [Gallarate.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Varese.Province/City/Gallarate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Varese.Province/City/Gallarate.secret|Gallarate.secret]] 
 

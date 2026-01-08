@@ -40,17 +40,17 @@ markerFolder: ./Treviso.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Treviso.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province|Treviso.Province]] 
 
-### [Treviso.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.public|Treviso.Province.public]] 
 
-### [Treviso.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.internal|Treviso.Province.internal]] 
 
-### [Treviso.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.protect|Treviso.Province.protect]] 
 
-### [Treviso.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.private|Treviso.Province.private]] 
 
-### [Treviso.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.personal|Treviso.Province.personal]] 
 
-### [Treviso.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province.secret|Treviso.Province.secret]] 
 

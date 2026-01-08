@@ -40,17 +40,17 @@ markerFolder: ./Pordenone.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Pordenone.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province|Pordenone.Province]] 
 
-### [Pordenone.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.public|Pordenone.Province.public]] 
 
-### [Pordenone.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.internal|Pordenone.Province.internal]] 
 
-### [Pordenone.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.protect|Pordenone.Province.protect]] 
 
-### [Pordenone.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.private|Pordenone.Province.private]] 
 
-### [Pordenone.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.personal|Pordenone.Province.personal]] 
 
-### [Pordenone.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/Pordenone.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Friuli-Venezia_Giulia/provinces~Friuli-Venezia_Giulia/Pordenone.Province.secret|Pordenone.Province.secret]] 
 

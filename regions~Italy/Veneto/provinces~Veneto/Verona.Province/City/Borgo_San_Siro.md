@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29278
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.18
+dv_has_place_latitude: 45.53
+dv_name: Borgo San Siro
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.18] 
-[has_place_latitude::45.53] 
-[name::Borgo San Siro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borgo_San_Siro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro|Borgo_San_Siro]] 
 
-### [Borgo_San_Siro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.public|Borgo_San_Siro.public]] 
 
-### [Borgo_San_Siro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.internal|Borgo_San_Siro.internal]] 
 
-### [Borgo_San_Siro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.protect|Borgo_San_Siro.protect]] 
 
-### [Borgo_San_Siro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.private|Borgo_San_Siro.private]] 
 
-### [Borgo_San_Siro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.personal|Borgo_San_Siro.personal]] 
 
-### [Borgo_San_Siro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Borgo_San_Siro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Borgo_San_Siro.secret|Borgo_San_Siro.secret]] 
 

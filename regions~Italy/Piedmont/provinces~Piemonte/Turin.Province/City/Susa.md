@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34680
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.03
+dv_has_place_latitude: 45.1
+dv_name: Susa
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.03] 
-[has_place_latitude::45.1] 
-[name::Susa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Susa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa|Susa]] 
 
-### [Susa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.public|Susa.public]] 
 
-### [Susa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.internal|Susa.internal]] 
 
-### [Susa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.protect|Susa.protect]] 
 
-### [Susa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.private|Susa.private]] 
 
-### [Susa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.personal|Susa.personal]] 
 
-### [Susa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Susa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Susa.secret|Susa.secret]] 
 

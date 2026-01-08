@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34384
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.13
+dv_has_place_latitude: 45.65
+dv_name: Sostegno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.13] 
-[has_place_latitude::45.65] 
-[name::Sostegno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sostegno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno|Sostegno]] 
 
-### [Sostegno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.public|Sostegno.public]] 
 
-### [Sostegno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.internal|Sostegno.internal]] 
 
-### [Sostegno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.protect|Sostegno.protect]] 
 
-### [Sostegno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.private|Sostegno.private]] 
 
-### [Sostegno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.personal|Sostegno.personal]] 
 
-### [Sostegno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Sostegno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Sostegno.secret|Sostegno.secret]] 
 

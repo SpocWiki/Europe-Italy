@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29475
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.13
+dv_has_place_latitude: 45.73
+dv_name: Cantu
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.13] 
-[has_place_latitude::45.73] 
-[name::Cantu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cantu](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu|Cantu]] 
 
-### [Cantu.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.public|Cantu.public]] 
 
-### [Cantu.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.internal|Cantu.internal]] 
 
-### [Cantu.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.protect|Cantu.protect]] 
 
-### [Cantu.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.private|Cantu.private]] 
 
-### [Cantu.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.personal|Cantu.personal]] 
 
-### [Cantu.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Como/City/Cantu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Como/City/Cantu.secret|Cantu.secret]] 
 

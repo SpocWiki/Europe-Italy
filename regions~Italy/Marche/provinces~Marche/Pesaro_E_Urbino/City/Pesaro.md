@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33317
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.88
+dv_has_place_latitude: 43.92
+dv_name: Pesaro
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.88] 
-[has_place_latitude::43.92] 
-[name::Pesaro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pesaro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro|Pesaro]] 
 
-### [Pesaro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.public|Pesaro.public]] 
 
-### [Pesaro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.internal|Pesaro.internal]] 
 
-### [Pesaro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.protect|Pesaro.protect]] 
 
-### [Pesaro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.private|Pesaro.private]] 
 
-### [Pesaro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.personal|Pesaro.personal]] 
 
-### [Pesaro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino/City/Pesaro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino/City/Pesaro.secret|Pesaro.secret]] 
 

@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversitaDiBologna: g3247"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Bologna,131262|WD~University_of_Bologna,131262]]"
+dv_university-universitadibologna: g3247"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Bologna,131262|WD~University_of_Bologna,131262]]"
+
 has_time_started: 1088-01-01 
 aliases:
 has_id_wikidata: Q131262
@@ -157,7 +163,7 @@ rector: "[[_Standards/WikiData/WD~Giovanni_Molari,109341080]]"
 IPv6_routing_prefix: 2001:760:2e00::/48
 P1015: "90679352"
 EU_Participant_Identification_Code: "999993953"
-Wolfram_Language_entity_code: Entity["University", "UniversitaDiBologna::g3247"]
+Wolfram_Language_entity_code: Entity"University", "UniversitaDiBologna = `=this.dv_"University", "UniversitaDiBologna`
 EU_VAT_number: IT01131710376
 YouTube_handle: unibo
 Instagram_username: unibo
@@ -193,7 +199,7 @@ ISNI: "0000000417571758"
 
 # [[University_of_Bologna]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~University_of_Bologna,131262|WD~University_of_Bologna,131262]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -210,4 +216,21 @@ ISNI: "0000000417571758"
 > Aside from its main campus in Bologna, the University has additional campuses in Cesena, Forlì, Ravenna and Rimini as well as branch centres abroad in Buenos Aires, New York, Brussels, and Shanghai. It houses the fully funded boarding college Collegio Superiore di Bologna, the Bologna School of Advanced Studies, the botanical gardens of Bologna, a large number of museums, libraries and archeological collections, as well as the Bologna University Press.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Bologna) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna|University_of_Bologna]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.public|University_of_Bologna.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.internal|University_of_Bologna.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.protect|University_of_Bologna.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.private|University_of_Bologna.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.personal|University_of_Bologna.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Bologna,Province/municipalities~Bologna/Bologna,Mun/University_of_Bologna.secret|University_of_Bologna.secret]] 
 

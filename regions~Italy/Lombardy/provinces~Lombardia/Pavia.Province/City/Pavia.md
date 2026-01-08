@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33266
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.15
+dv_has_place_latitude: 45.18
+dv_name: Pavia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.15] 
-[has_place_latitude::45.18] 
-[name::Pavia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pavia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia|Pavia]] 
 
-### [Pavia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.public|Pavia.public]] 
 
-### [Pavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.internal|Pavia.internal]] 
 
-### [Pavia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.protect|Pavia.protect]] 
 
-### [Pavia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.private|Pavia.private]] 
 
-### [Pavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.personal|Pavia.personal]] 
 
-### [Pavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pavia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pavia.secret|Pavia.secret]] 
 

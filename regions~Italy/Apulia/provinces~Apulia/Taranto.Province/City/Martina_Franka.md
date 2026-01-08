@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32334
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.37
+dv_has_place_latitude: 40.7
+dv_name: Martina Franka
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.37] 
-[has_place_latitude::40.7] 
-[name::Martina Franka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Martina_Franka](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka|Martina_Franka]] 
 
-### [Martina_Franka.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.public|Martina_Franka.public]] 
 
-### [Martina_Franka.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.internal|Martina_Franka.internal]] 
 
-### [Martina_Franka.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.protect|Martina_Franka.protect]] 
 
-### [Martina_Franka.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.private|Martina_Franka.private]] 
 
-### [Martina_Franka.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.personal|Martina_Franka.personal]] 
 
-### [Martina_Franka.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province/City/Martina_Franka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province/City/Martina_Franka.secret|Martina_Franka.secret]] 
 

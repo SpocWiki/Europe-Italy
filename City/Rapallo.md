@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33634
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.23
+dv_has_place_latitude: 44.33
+dv_name: Rapallo
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.23] 
-[has_place_latitude::44.33] 
-[name::Rapallo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rapallo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo|Rapallo]] 
 
-### [Rapallo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.public|Rapallo.public]] 
 
-### [Rapallo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.internal|Rapallo.internal]] 
 
-### [Rapallo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.protect|Rapallo.protect]] 
 
-### [Rapallo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.private|Rapallo.private]] 
 
-### [Rapallo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.personal|Rapallo.personal]] 
 
-### [Rapallo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Rapallo.secret|Rapallo.secret]] 
 

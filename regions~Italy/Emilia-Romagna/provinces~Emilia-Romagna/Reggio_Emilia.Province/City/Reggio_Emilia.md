@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33676
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.63
+dv_has_place_latitude: 44.7
+dv_name: Reggio Emilia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.63] 
-[has_place_latitude::44.7] 
-[name::Reggio Emilia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reggio_Emilia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia|Reggio_Emilia]] 
 
-### [Reggio_Emilia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.public|Reggio_Emilia.public]] 
 
-### [Reggio_Emilia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.internal|Reggio_Emilia.internal]] 
 
-### [Reggio_Emilia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.protect|Reggio_Emilia.protect]] 
 
-### [Reggio_Emilia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.private|Reggio_Emilia.private]] 
 
-### [Reggio_Emilia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.personal|Reggio_Emilia.personal]] 
 
-### [Reggio_Emilia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Reggio_Emilia.Province/City/Reggio_Emilia.secret|Reggio_Emilia.secret]] 
 

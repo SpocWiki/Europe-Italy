@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28848
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.4
+dv_has_place_latitude: 42.35
+dv_name: Aquila
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.4] 
-[has_place_latitude::42.35] 
-[name::Aquila] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aquila](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila|Aquila]] 
 
-### [Aquila.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.public|Aquila.public]] 
 
-### [Aquila.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.internal|Aquila.internal]] 
 
-### [Aquila.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.protect|Aquila.protect]] 
 
-### [Aquila.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.private|Aquila.private]] 
 
-### [Aquila.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.personal|Aquila.personal]] 
 
-### [Aquila.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/L'Aquila/City/Aquila.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/L'Aquila/City/Aquila.secret|Aquila.secret]] 
 

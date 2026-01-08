@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33923
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.15
+dv_has_place_latitude: 43.58
+dv_name: San Sepolcro
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.15] 
-[has_place_latitude::43.58] 
-[name::San Sepolcro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Sepolcro](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro|San_Sepolcro]] 
 
-### [San_Sepolcro.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.public|San_Sepolcro.public]] 
 
-### [San_Sepolcro.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.internal|San_Sepolcro.internal]] 
 
-### [San_Sepolcro.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.protect|San_Sepolcro.protect]] 
 
-### [San_Sepolcro.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.private|San_Sepolcro.private]] 
 
-### [San_Sepolcro.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.personal|San_Sepolcro.personal]] 
 
-### [San_Sepolcro.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/San_Sepolcro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/San_Sepolcro.secret|San_Sepolcro.secret]] 
 

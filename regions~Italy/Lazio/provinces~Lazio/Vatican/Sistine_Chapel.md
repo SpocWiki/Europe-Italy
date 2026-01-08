@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Sistine_Chapel,2943|WD~Sistine_Chapel,2943]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Sistine_Chapel,2943|WD~Sistine_Chapel,2943]]"
+
 has_time_started: 1473-01-01 
 aliases:
 has_id_wikidata: Q2943
@@ -52,7 +56,7 @@ native_label: La Cappella Sistina
 
 # [[Sistine_Chapel]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Sistine_Chapel,2943|WD~Sistine_Chapel,2943]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -72,4 +76,21 @@ native_label: La Cappella Sistina
 > Between 1508 and 1512, under the patronage of Pope Julius II, Michelangelo painted the chapel's ceiling, a project that changed the course of Western art and is regarded as one of the major artistic accomplishments of human civilization. In a different political climate, after the Sack of Rome, he returned and, between 1535 and 1541, painted The Last Judgment for popes Clement VII and Paul III. The fame of Michelangelo's paintings has drawn multitudes of visitors to the chapel since they were revealed five centuries ago.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sistine%20Chapel) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel|Sistine_Chapel]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.public|Sistine_Chapel.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.internal|Sistine_Chapel.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.protect|Sistine_Chapel.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.private|Sistine_Chapel.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.personal|Sistine_Chapel.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Sistine_Chapel.secret|Sistine_Chapel.secret]] 
 

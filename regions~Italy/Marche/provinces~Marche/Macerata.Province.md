@@ -40,17 +40,17 @@ markerFolder: ./Macerata.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Macerata.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province|Macerata.Province]] 
 
-### [Macerata.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.public|Macerata.Province.public]] 
 
-### [Macerata.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.internal|Macerata.Province.internal]] 
 
-### [Macerata.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.protect|Macerata.Province.protect]] 
 
-### [Macerata.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.private|Macerata.Province.private]] 
 
-### [Macerata.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.personal|Macerata.Province.personal]] 
 
-### [Macerata.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province.secret|Macerata.Province.secret]] 
 

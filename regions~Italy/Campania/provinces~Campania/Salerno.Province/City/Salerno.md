@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33884
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.8
+dv_has_place_latitude: 40.73
+dv_name: Salerno
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.8] 
-[has_place_latitude::40.73] 
-[name::Salerno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salerno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno|Salerno]] 
 
-### [Salerno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.public|Salerno.public]] 
 
-### [Salerno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.internal|Salerno.internal]] 
 
-### [Salerno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.protect|Salerno.protect]] 
 
-### [Salerno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.private|Salerno.private]] 
 
-### [Salerno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.personal|Salerno.personal]] 
 
-### [Salerno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Salerno.Province/City/Salerno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Salerno.Province/City/Salerno.secret|Salerno.secret]] 
 

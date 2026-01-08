@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32594
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.27
+dv_has_place_latitude: 45.58
+dv_name: Monza
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.27] 
-[has_place_latitude::45.58] 
-[name::Monza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monza](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza|Monza]] 
 
-### [Monza.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.public|Monza.public]] 
 
-### [Monza.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.internal|Monza.internal]] 
 
-### [Monza.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.protect|Monza.protect]] 
 
-### [Monza.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.private|Monza.private]] 
 
-### [Monza.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.personal|Monza.personal]] 
 
-### [Monza.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Monza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Monza.secret|Monza.secret]] 
 

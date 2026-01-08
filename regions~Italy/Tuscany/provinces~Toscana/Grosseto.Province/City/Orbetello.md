@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33126
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.23
+dv_has_place_latitude: 42.43
+dv_name: Orbetello
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.23] 
-[has_place_latitude::42.43] 
-[name::Orbetello] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orbetello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello|Orbetello]] 
 
-### [Orbetello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.public|Orbetello.public]] 
 
-### [Orbetello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.internal|Orbetello.internal]] 
 
-### [Orbetello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.protect|Orbetello.protect]] 
 
-### [Orbetello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.private|Orbetello.private]] 
 
-### [Orbetello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.personal|Orbetello.personal]] 
 
-### [Orbetello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Grosseto.Province/City/Orbetello.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Grosseto.Province/City/Orbetello.secret|Orbetello.secret]] 
 

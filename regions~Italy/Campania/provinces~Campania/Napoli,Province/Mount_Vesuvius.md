@@ -43,16 +43,21 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Vesuvius
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Vesuvius%20from%20plane.jpg
 U_S_National_Archives_Identifier: "10038241"
 Wolfram_Language_entity_code:
-  - Entity["Concept", "MountVesuvius::s5258"]
+  - Entity"Concept", "MountVesuvius = `=this.dv_"Concept", "MountVesuvius`
   - Entity["Mountain", "Vesuvius"]
   - Entity["Volcano", "Vesuvius"]
 Commons_category: Mount Vesuvius
 Commons_gallery: Vesuvio
+dv_"Concept", "MountVesuvius: s5258"
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Mount_Vesuvius,524]]"
+dv_concept-mountvesuvius: s5258"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Mount_Vesuvius,524]]"
 ---
 
 # [[Mount_Vesuvius]] 
 
-#is_/same_as :: [[WD~Mount_Vesuvius,524]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -80,4 +85,21 @@ Commons_gallery: Vesuvio
 > Eruptions tend to be violent and explosive; these are known as Plinian eruptions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Vesuvius) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius|Mount_Vesuvius]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.public|Mount_Vesuvius.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.internal|Mount_Vesuvius.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.protect|Mount_Vesuvius.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.private|Mount_Vesuvius.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.personal|Mount_Vesuvius.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/Mount_Vesuvius.secret|Mount_Vesuvius.secret]] 
 

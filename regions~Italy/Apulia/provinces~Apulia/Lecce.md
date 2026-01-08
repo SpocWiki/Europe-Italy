@@ -40,17 +40,17 @@ markerFolder: ./Lecce/
 
 ## Confidential Links & Embeds: 
 
-### [Lecce](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce|Lecce]] 
 
-### [Lecce.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.public|Lecce.public]] 
 
-### [Lecce.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.internal|Lecce.internal]] 
 
-### [Lecce.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.protect|Lecce.protect]] 
 
-### [Lecce.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.private|Lecce.private]] 
 
-### [Lecce.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.personal|Lecce.personal]] 
 
-### [Lecce.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Lecce.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Lecce.secret|Lecce.secret]] 
 

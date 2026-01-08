@@ -11,17 +11,17 @@ markerFolder: ./Campania//
 
 ## Confidential Links & Embeds: 
 
-### [Campania](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania|Campania]] 
 
-### [Campania.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.public|Campania.public]] 
 
-### [Campania.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.internal|Campania.internal]] 
 
-### [Campania.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.protect|Campania.protect]] 
 
-### [Campania.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.private|Campania.private]] 
 
-### [Campania.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.personal|Campania.personal]] 
 
-### [Campania.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania.secret|Campania.secret]] 
 

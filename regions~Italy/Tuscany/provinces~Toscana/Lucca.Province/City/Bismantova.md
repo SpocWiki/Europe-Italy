@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29202
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.28
+dv_has_place_latitude: 44.27
+dv_name: Bismantova
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.28] 
-[has_place_latitude::44.27] 
-[name::Bismantova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bismantova](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova|Bismantova]] 
 
-### [Bismantova.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.public|Bismantova.public]] 
 
-### [Bismantova.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.internal|Bismantova.internal]] 
 
-### [Bismantova.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.protect|Bismantova.protect]] 
 
-### [Bismantova.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.private|Bismantova.private]] 
 
-### [Bismantova.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.personal|Bismantova.personal]] 
 
-### [Bismantova.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Lucca.Province/City/Bismantova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Lucca.Province/City/Bismantova.secret|Bismantova.secret]] 
 

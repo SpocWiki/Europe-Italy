@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Republic_of_Genoa,174306|WD~Republic_of_Genoa,174306]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Republic_of_Genoa,174306|WD~Republic_of_Genoa,174306]]"
+
 has_time_started: 1005-01-01 
 has_time_stopped: 1797-06-14 
 aliases:
@@ -43,7 +47,7 @@ coordinate_location: Point(8.933333333 44.4075)
 
 # [[1005-Republic_of_Genoa+1797]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Republic_of_Genoa,174306|WD~Republic_of_Genoa,174306]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -65,4 +69,19 @@ coordinate_location: Point(8.933333333 44.4075)
 > [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20Genoa) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797|1005-Republic_of_Genoa+1797]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.public|1005-Republic_of_Genoa+1797.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.internal|1005-Republic_of_Genoa+1797.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.protect|1005-Republic_of_Genoa+1797.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.private|1005-Republic_of_Genoa+1797.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.personal|1005-Republic_of_Genoa+1797.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/1005-Republic_of_Genoa+1797.secret|1005-Republic_of_Genoa+1797.secret]] 
 

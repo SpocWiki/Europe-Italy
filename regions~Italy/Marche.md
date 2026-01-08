@@ -11,17 +11,17 @@ markerFolder: ./Marche//
 
 ## Confidential Links & Embeds: 
 
-### [Marche](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche|Marche]] 
 
-### [Marche.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.public|Marche.public]] 
 
-### [Marche.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.internal|Marche.internal]] 
 
-### [Marche.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.protect|Marche.protect]] 
 
-### [Marche.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.private|Marche.private]] 
 
-### [Marche.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.personal|Marche.personal]] 
 
-### [Marche.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche.secret|Marche.secret]] 
 

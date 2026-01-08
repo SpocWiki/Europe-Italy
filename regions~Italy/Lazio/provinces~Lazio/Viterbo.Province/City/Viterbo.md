@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35328
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.1
+dv_has_place_latitude: 42.42
+dv_name: Viterbo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.1] 
-[has_place_latitude::42.42] 
-[name::Viterbo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viterbo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo|Viterbo]] 
 
-### [Viterbo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.public|Viterbo.public]] 
 
-### [Viterbo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.internal|Viterbo.internal]] 
 
-### [Viterbo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.protect|Viterbo.protect]] 
 
-### [Viterbo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.private|Viterbo.private]] 
 
-### [Viterbo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.personal|Viterbo.personal]] 
 
-### [Viterbo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province/City/Viterbo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province/City/Viterbo.secret|Viterbo.secret]] 
 

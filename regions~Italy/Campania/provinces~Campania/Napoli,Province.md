@@ -46,17 +46,17 @@ markerFile: [[Napoli,Province]]
 
 ## Confidential Links & Embeds: 
 
-### [Napoli.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province|Napoli,Province]] 
 
-### [Napoli.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.public|Napoli,Province.public]] 
 
-### [Napoli.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.internal|Napoli,Province.internal]] 
 
-### [Napoli.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.protect|Napoli,Province.protect]] 
 
-### [Napoli.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.private|Napoli,Province.private]] 
 
-### [Napoli.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.personal|Napoli,Province.personal]] 
 
-### [Napoli.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province.secret|Napoli,Province.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33315
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.38
+dv_has_place_latitude: 43.12
+dv_name: Perugia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.38] 
-[has_place_latitude::43.12] 
-[name::Perugia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perugia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia|Perugia]] 
 
-### [Perugia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.public|Perugia.public]] 
 
-### [Perugia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.internal|Perugia.internal]] 
 
-### [Perugia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.protect|Perugia.protect]] 
 
-### [Perugia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.private|Perugia.private]] 
 
-### [Perugia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.personal|Perugia.personal]] 
 
-### [Perugia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Perugia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Perugia.secret|Perugia.secret]] 
 

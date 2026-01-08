@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35296
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.48
+dv_has_place_latitude: 45.58
+dv_name: Villa di Salo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.48] 
-[has_place_latitude::45.58] 
-[name::Villa di Salo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villa_di_Salo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo|Villa_di_Salo]] 
 
-### [Villa_di_Salo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.public|Villa_di_Salo.public]] 
 
-### [Villa_di_Salo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.internal|Villa_di_Salo.internal]] 
 
-### [Villa_di_Salo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.protect|Villa_di_Salo.protect]] 
 
-### [Villa_di_Salo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.private|Villa_di_Salo.private]] 
 
-### [Villa_di_Salo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.personal|Villa_di_Salo.personal]] 
 
-### [Villa_di_Salo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Brescia/City/Villa_di_Salo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Brescia/City/Villa_di_Salo.secret|Villa_di_Salo.secret]] 
 

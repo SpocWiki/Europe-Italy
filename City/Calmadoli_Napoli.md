@@ -17,14 +17,23 @@ tags:
 SpocWebEntityId: 29454
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude:
+  - 14
+  - 18
+dv_has_place_latitude:
+  - 40
+  - 85
+dv_name: Calmadoli/Napoli
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::14,18] 
 [has_place_latitude::40,85] 
-[name::Calmadoli/Napoli] 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calmadoli_Napoli](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli|Calmadoli_Napoli]] 
 
-### [Calmadoli_Napoli.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.public|Calmadoli_Napoli.public]] 
 
-### [Calmadoli_Napoli.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.internal|Calmadoli_Napoli.internal]] 
 
-### [Calmadoli_Napoli.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.protect|Calmadoli_Napoli.protect]] 
 
-### [Calmadoli_Napoli.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.private|Calmadoli_Napoli.private]] 
 
-### [Calmadoli_Napoli.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.personal|Calmadoli_Napoli.personal]] 
 
-### [Calmadoli_Napoli.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Calmadoli_Napoli.secret|Calmadoli_Napoli.secret]] 
 

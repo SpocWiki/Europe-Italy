@@ -16,28 +16,28 @@ Code_List_for_Cultural_Heritage_Organizations: vcba
 native_label: Biblioteca Apostolica Vaticana
 street_address: Cortile del Belvedere, V-00120 Città del Vaticano
 child_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Vatican_Apostolic_Archives,536580]]'
-  - '[[_Standards/WikiData/WD~R._Pfister_Collection,119841801]]'
-described_by_source: '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[_Standards/WikiData/WD~Vatican_Apostolic_Archives,536580]]"
+  - "[[_Standards/WikiData/WD~R._Pfister_Collection,119841801]]"
+described_by_source: "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 member_of:
-  - '[[_Standards/WikiData/WD~Conference_of_European_National_Librarians,1255790]]'
-  - '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
-  - '[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]'
-  - '[[_Standards/WikiData/WD~IIIF_Consortium,35677307]]'
+  - "[[_Standards/WikiData/WD~Conference_of_European_National_Librarians,1255790]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]"
+  - "[[_Standards/WikiData/WD~IIIF_Consortium,35677307]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~office_of_the_Roman_Curia,4002648]]'
-  - '[[_Standards/WikiData/WD~Departments_of_the_Roman_Curia,112572558]]'
-  - '[[_Standards/WikiData/WD~national_library,22806]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Prefect_of_the_Vatican_Library,19823475]]'
-director_manager: '[[_Standards/WikiData/WD~Giovanni_Cesare_Pagazzi,93220067]]'
+  - "[[_Standards/WikiData/WD~office_of_the_Roman_Curia,4002648]]"
+  - "[[_Standards/WikiData/WD~Departments_of_the_Roman_Curia,112572558]]"
+  - "[[_Standards/WikiData/WD~national_library,22806]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Prefect_of_the_Vatican_Library,19823475]]"
+director_manager: "[[_Standards/WikiData/WD~Giovanni_Cesare_Pagazzi,93220067]]"
 inception:
   - 1475-06-24T00:00:00Z
   - 1450-01-01T00:00:00Z
 main_Wikidata_property:
   - Vatican Library ID (former scheme)
   - Vatican Library VcBA ID
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Vatican_City,237]]'
-country: '[[_Standards/WikiData/WD~Vatican_City,237]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Vatican_City,237]]"
+country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 described_at_URL: http://viaf.org/viaf/partnerpages/BAV.html
 BHCL_UUID: 2cd0c11d-486d-4ad5-9784-82f21c1d2d06
 ISIL: IT-RM1360
@@ -46,16 +46,19 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Melozzo%20da%20Forl%C3
 official_website: https://www.vaticanlibrary.va
 email_address: mailto:bav@vatlib.it
 phone_number: +39 06698 79411
-ISNI: 0000000121786485
+ISNI: 121786485
 P1015: 90524924
 Commons_Institution_page: Biblioteca Apostolica Vaticana
 Commons_category: Biblioteca Apostolica Vaticana
 X_Twitter_username: bibliovaticana
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Vatican_Library,213678]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Vatican_Library,213678]]"
 ---
 
 # [[Vatican_Library]] 
 
-#is_/same_as :: [[WD~Vatican_Library,213678]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -94,4 +97,21 @@ X_Twitter_username: bibliovaticana
 > at the beginning of the 17th century; it contains another 150,000 items.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vatican%20Library) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library|Vatican_Library]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.public|Vatican_Library.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.internal|Vatican_Library.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.protect|Vatican_Library.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.private|Vatican_Library.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.personal|Vatican_Library.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Library.secret|Vatican_Library.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31769
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.82
+dv_has_place_latitude: 44.1
+dv_name: La Specia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.82] 
-[has_place_latitude::44.1] 
-[name::La Specia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Specia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia|La_Specia]] 
 
-### [La_Specia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.public|La_Specia.public]] 
 
-### [La_Specia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.internal|La_Specia.internal]] 
 
-### [La_Specia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.protect|La_Specia.protect]] 
 
-### [La_Specia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.private|La_Specia.private]] 
 
-### [La_Specia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.personal|La_Specia.personal]] 
 
-### [La_Specia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province/City/La_Specia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province/City/La_Specia.secret|La_Specia.secret]] 
 

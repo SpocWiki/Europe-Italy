@@ -40,17 +40,17 @@ markerFolder: ./Novara.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Novara.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province|Novara.Province]] 
 
-### [Novara.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.public|Novara.Province.public]] 
 
-### [Novara.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.internal|Novara.Province.internal]] 
 
-### [Novara.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.protect|Novara.Province.protect]] 
 
-### [Novara.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.private|Novara.Province.private]] 
 
-### [Novara.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.personal|Novara.Province.personal]] 
 
-### [Novara.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province.secret|Novara.Province.secret]] 
 

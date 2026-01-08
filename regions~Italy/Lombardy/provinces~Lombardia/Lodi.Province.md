@@ -40,17 +40,17 @@ markerFolder: ./Lodi.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Lodi.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province|Lodi.Province]] 
 
-### [Lodi.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.public|Lodi.Province.public]] 
 
-### [Lodi.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.internal|Lodi.Province.internal]] 
 
-### [Lodi.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.protect|Lodi.Province.protect]] 
 
-### [Lodi.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.private|Lodi.Province.private]] 
 
-### [Lodi.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.personal|Lodi.Province.personal]] 
 
-### [Lodi.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province.secret|Lodi.Province.secret]] 
 

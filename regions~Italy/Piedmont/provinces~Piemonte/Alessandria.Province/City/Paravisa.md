@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33245
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.03
+dv_has_place_latitude: 44.8
+dv_name: Paravisa
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.03] 
-[has_place_latitude::44.8] 
-[name::Paravisa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paravisa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa|Paravisa]] 
 
-### [Paravisa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.public|Paravisa.public]] 
 
-### [Paravisa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.internal|Paravisa.internal]] 
 
-### [Paravisa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.protect|Paravisa.protect]] 
 
-### [Paravisa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.private|Paravisa.private]] 
 
-### [Paravisa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.personal|Paravisa.personal]] 
 
-### [Paravisa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province/City/Paravisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province/City/Paravisa.secret|Paravisa.secret]] 
 

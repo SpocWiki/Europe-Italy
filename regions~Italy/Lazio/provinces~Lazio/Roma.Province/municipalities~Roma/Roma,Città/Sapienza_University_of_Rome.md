@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Sapienza_University_of_Rome,209344]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Sapienza_University_of_Rome,209344]]"
+
 has_time_started: 1303-01-01 
 aliases:
   - Sapienza University of Rome
@@ -211,7 +215,7 @@ native_label: Università degli Studi di Roma "La Sapienza"
 
 # [[Sapienza_University_of_Rome]] 
 
-#is_/same_as :: [[WD~Sapienza_University_of_Rome,209344]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -234,4 +238,21 @@ native_label: Università degli Studi di Roma "La Sapienza"
 > Sapienza teaches and conducts research in all pure and applied sciences and humanities. Sapienza houses 50 libraries with over 2.7 million books, most notably the Alessandrina University Library, built in 1667 by Pope Alexander VII, housing 1.5 million volumes. In addition it has 19 museums, a botanical garden, and three university hospitals. Sapienza's alumni includes 10 Nobel laureates, Italian prime ministers, one pope, Presidents of the European Parliament and European Commissioners, as well as several notable religious figures, supreme court judges, and astronauts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sapienza%20University%20of%20Rome) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome|Sapienza_University_of_Rome]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.public|Sapienza_University_of_Rome.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.internal|Sapienza_University_of_Rome.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.protect|Sapienza_University_of_Rome.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.private|Sapienza_University_of_Rome.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.personal|Sapienza_University_of_Rome.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Sapienza_University_of_Rome.secret|Sapienza_University_of_Rome.secret]] 
 

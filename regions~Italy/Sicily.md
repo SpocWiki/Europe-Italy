@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Sicily,1460|WD~Sicily,1460]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Sicily,1460|WD~Sicily,1460]]"
+
 has_time_started: 1946-05-15 
 aliases:
   - Sizilien
@@ -102,7 +106,7 @@ coordinates_of_easternmost_point: Point(15.65308 38.26781)
 
 # [[Sicily]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Sicily,1460|WD~Sicily,1460]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -130,19 +134,20 @@ defaultZoom: 7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sicily)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sicily](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily|Sicily]] 
 
-### [Sicily.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.public|Sicily.public]] 
 
-### [Sicily.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.internal|Sicily.internal]] 
 
-### [Sicily.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.protect|Sicily.protect]] 
 
-### [Sicily.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.private|Sicily.private]] 
 
-### [Sicily.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.personal|Sicily.personal]] 
 
-### [Sicily.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily.secret|Sicily.secret]] 
 

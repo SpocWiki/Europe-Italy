@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Vatican_Museums,182955|WD~Vatican_Museums,182955]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Vatican_Museums,182955|WD~Vatican_Museums,182955]]"
+
 has_time_started: 1506-01-01 
 aliases:
   - Vatican Museums
@@ -72,7 +76,7 @@ native_label: Musei Vaticani
 
 # [[Vatican_Museums]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Vatican_Museums,182955|WD~Vatican_Museums,182955]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -96,4 +100,21 @@ native_label: Musei Vaticani
 > There are 24 galleries, or rooms, in total, with the Sistine Chapel, notably, being the last room visited within the Museum.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vatican%20Museums) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums|Vatican_Museums]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.public|Vatican_Museums.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.internal|Vatican_Museums.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.protect|Vatican_Museums.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.private|Vatican_Museums.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.personal|Vatican_Museums.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Vatican/Vatican_Museums.secret|Vatican_Museums.secret]] 
 

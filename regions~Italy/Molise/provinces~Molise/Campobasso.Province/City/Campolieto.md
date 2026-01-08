@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29468
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.63
+dv_has_place_latitude: 41.63
+dv_name: Campolieto
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.63] 
-[has_place_latitude::41.63] 
-[name::Campolieto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Campolieto](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto|Campolieto]] 
 
-### [Campolieto.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.public|Campolieto.public]] 
 
-### [Campolieto.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.internal|Campolieto.internal]] 
 
-### [Campolieto.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.protect|Campolieto.protect]] 
 
-### [Campolieto.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.private|Campolieto.private]] 
 
-### [Campolieto.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.personal|Campolieto.personal]] 
 
-### [Campolieto.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province/City/Campolieto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province/City/Campolieto.secret|Campolieto.secret]] 
 

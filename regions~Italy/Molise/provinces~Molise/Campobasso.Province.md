@@ -40,17 +40,17 @@ markerFolder: ./Campobasso.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Campobasso.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province|Campobasso.Province]] 
 
-### [Campobasso.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.public|Campobasso.Province.public]] 
 
-### [Campobasso.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.internal|Campobasso.Province.internal]] 
 
-### [Campobasso.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.protect|Campobasso.Province.protect]] 
 
-### [Campobasso.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.private|Campobasso.Province.private]] 
 
-### [Campobasso.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.personal|Campobasso.Province.personal]] 
 
-### [Campobasso.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/Campobasso.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Molise/provinces~Molise/Campobasso.Province.secret|Campobasso.Province.secret]] 
 

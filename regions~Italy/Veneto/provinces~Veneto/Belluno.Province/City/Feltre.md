@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30151
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.9
+dv_has_place_latitude: 46.02
+dv_name: Feltre
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.9] 
-[has_place_latitude::46.02] 
-[name::Feltre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Feltre](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre|Feltre]] 
 
-### [Feltre.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.public|Feltre.public]] 
 
-### [Feltre.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.internal|Feltre.internal]] 
 
-### [Feltre.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.protect|Feltre.protect]] 
 
-### [Feltre.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.private|Feltre.private]] 
 
-### [Feltre.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.personal|Feltre.personal]] 
 
-### [Feltre.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Feltre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Feltre.secret|Feltre.secret]] 
 

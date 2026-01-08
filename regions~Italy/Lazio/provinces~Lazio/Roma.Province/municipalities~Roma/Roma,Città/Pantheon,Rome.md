@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Pantheon,99309]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Pantheon,99309]]"
+
 has_time_started: 0128-01-01 
 aliases:
 has_id_wikidata: Q99309
@@ -102,7 +106,7 @@ street_address:
 
 # [[Pantheon,Rome]] 
 
-#is_/same_as :: [[WD~Pantheon,99309]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -121,4 +125,21 @@ street_address:
 > The Pantheon's large circular domed cella, with a conventional temple portico front, was unique in Roman architecture. Nevertheless, it became a standard exemplar when classical styles were revived, and has been copied many times by later architects.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantheon,%20Rome) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome|Pantheon,Rome]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.public|Pantheon,Rome.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.internal|Pantheon,Rome.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.protect|Pantheon,Rome.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.private|Pantheon,Rome.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.personal|Pantheon,Rome.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Pantheon,Rome.secret|Pantheon,Rome.secret]] 
 

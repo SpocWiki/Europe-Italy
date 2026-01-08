@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28915
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.8
+dv_has_place_latitude: 41.35
+dv_name: Atina
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.8] 
-[has_place_latitude::41.35] 
-[name::Atina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Atina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina|Atina]] 
 
-### [Atina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.public|Atina.public]] 
 
-### [Atina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.internal|Atina.internal]] 
 
-### [Atina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.protect|Atina.protect]] 
 
-### [Atina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.private|Atina.private]] 
 
-### [Atina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.personal|Atina.personal]] 
 
-### [Atina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Benevento.Province/City/Atina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Benevento.Province/City/Atina.secret|Atina.secret]] 
 

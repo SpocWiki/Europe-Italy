@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29637
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.02
+dv_has_place_latitude: 45.15
+dv_name: Codogno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.02] 
-[has_place_latitude::45.15] 
-[name::Codogno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Codogno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno|Codogno]] 
 
-### [Codogno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.public|Codogno.public]] 
 
-### [Codogno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.internal|Codogno.internal]] 
 
-### [Codogno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.protect|Codogno.protect]] 
 
-### [Codogno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.private|Codogno.private]] 
 
-### [Codogno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.personal|Codogno.personal]] 
 
-### [Codogno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Cremona.Province/City/Codogno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Cremona.Province/City/Codogno.secret|Codogno.secret]] 
 

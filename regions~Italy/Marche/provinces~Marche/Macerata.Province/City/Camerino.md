@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29462
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.08
+dv_has_place_latitude: 43.13
+dv_name: Camerino
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.08] 
-[has_place_latitude::43.13] 
-[name::Camerino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Camerino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino|Camerino]] 
 
-### [Camerino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.public|Camerino.public]] 
 
-### [Camerino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.internal|Camerino.internal]] 
 
-### [Camerino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.protect|Camerino.protect]] 
 
-### [Camerino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.private|Camerino.private]] 
 
-### [Camerino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.personal|Camerino.personal]] 
 
-### [Camerino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Macerata.Province/City/Camerino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Macerata.Province/City/Camerino.secret|Camerino.secret]] 
 

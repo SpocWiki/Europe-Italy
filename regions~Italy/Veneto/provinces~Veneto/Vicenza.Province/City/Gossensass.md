@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30517
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.45
+dv_has_place_latitude: 45.95
+dv_name: Gossensass
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.45] 
-[has_place_latitude::45.95] 
-[name::Gossensass] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gossensass](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass|Gossensass]] 
 
-### [Gossensass.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.public|Gossensass.public]] 
 
-### [Gossensass.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.internal|Gossensass.internal]] 
 
-### [Gossensass.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.protect|Gossensass.protect]] 
 
-### [Gossensass.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.private|Gossensass.private]] 
 
-### [Gossensass.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.personal|Gossensass.personal]] 
 
-### [Gossensass.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Vicenza.Province/City/Gossensass.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Vicenza.Province/City/Gossensass.secret|Gossensass.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29760
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.37
+dv_has_place_latitude: 40.62
+dv_name: Desserto di Massalubrense
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.37] 
-[has_place_latitude::40.62] 
-[name::Desserto di Massalubrense] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Desserto_di_Massalubrense](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense|Desserto_di_Massalubrense]] 
 
-### [Desserto_di_Massalubrense.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.public|Desserto_di_Massalubrense.public]] 
 
-### [Desserto_di_Massalubrense.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.internal|Desserto_di_Massalubrense.internal]] 
 
-### [Desserto_di_Massalubrense.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.protect|Desserto_di_Massalubrense.protect]] 
 
-### [Desserto_di_Massalubrense.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.private|Desserto_di_Massalubrense.private]] 
 
-### [Desserto_di_Massalubrense.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.personal|Desserto_di_Massalubrense.personal]] 
 
-### [Desserto_di_Massalubrense.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Napoli.Province/City/Desserto_di_Massalubrense.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Desserto_di_Massalubrense.secret|Desserto_di_Massalubrense.secret]] 
 

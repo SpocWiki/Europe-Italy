@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31106
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.03
+dv_has_place_latitude: 43.9
+dv_name: Imperia
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.03] 
-[has_place_latitude::43.9] 
-[name::Imperia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Imperia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia|Imperia]] 
 
-### [Imperia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.public|Imperia.public]] 
 
-### [Imperia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.internal|Imperia.internal]] 
 
-### [Imperia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.protect|Imperia.protect]] 
 
-### [Imperia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.private|Imperia.private]] 
 
-### [Imperia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.personal|Imperia.personal]] 
 
-### [Imperia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Imperia.Province/City/Imperia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Imperia.Province/City/Imperia.secret|Imperia.secret]] 
 

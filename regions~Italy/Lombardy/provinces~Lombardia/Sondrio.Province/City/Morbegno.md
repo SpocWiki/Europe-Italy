@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32599
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.63
+dv_has_place_latitude: 46.28
+dv_name: Morbegno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.63] 
-[has_place_latitude::46.28] 
-[name::Morbegno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Morbegno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno|Morbegno]] 
 
-### [Morbegno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.public|Morbegno.public]] 
 
-### [Morbegno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.internal|Morbegno.internal]] 
 
-### [Morbegno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.protect|Morbegno.protect]] 
 
-### [Morbegno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.private|Morbegno.private]] 
 
-### [Morbegno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.personal|Morbegno.personal]] 
 
-### [Morbegno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province/City/Morbegno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province/City/Morbegno.secret|Morbegno.secret]] 
 

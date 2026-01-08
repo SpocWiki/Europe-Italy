@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31799
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.42
+dv_has_place_latitude: 42.23
+dv_name: Lanciano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.42] 
-[has_place_latitude::42.23] 
-[name::Lanciano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lanciano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano|Lanciano]] 
 
-### [Lanciano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.public|Lanciano.public]] 
 
-### [Lanciano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.internal|Lanciano.internal]] 
 
-### [Lanciano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.protect|Lanciano.protect]] 
 
-### [Lanciano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.private|Lanciano.private]] 
 
-### [Lanciano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.personal|Lanciano.personal]] 
 
-### [Lanciano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Lanciano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Lanciano.secret|Lanciano.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Pesaro_e_Urbino/
 
 ## Confidential Links & Embeds: 
 
-### [Pesaro_e_Urbino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino|Pesaro_e_Urbino]] 
 
-### [Pesaro_e_Urbino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.public|Pesaro_e_Urbino.public]] 
 
-### [Pesaro_e_Urbino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.internal|Pesaro_e_Urbino.internal]] 
 
-### [Pesaro_e_Urbino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.protect|Pesaro_e_Urbino.protect]] 
 
-### [Pesaro_e_Urbino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.private|Pesaro_e_Urbino.private]] 
 
-### [Pesaro_e_Urbino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.personal|Pesaro_e_Urbino.personal]] 
 
-### [Pesaro_e_Urbino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Pesaro_e_Urbino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Pesaro_e_Urbino.secret|Pesaro_e_Urbino.secret]] 
 

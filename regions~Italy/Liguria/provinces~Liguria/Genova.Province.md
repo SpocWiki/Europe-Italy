@@ -40,17 +40,17 @@ markerFolder: ./Genova.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Genova.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province|Genova.Province]] 
 
-### [Genova.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.public|Genova.Province.public]] 
 
-### [Genova.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.internal|Genova.Province.internal]] 
 
-### [Genova.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.protect|Genova.Province.protect]] 
 
-### [Genova.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.private|Genova.Province.private]] 
 
-### [Genova.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.personal|Genova.Province.personal]] 
 
-### [Genova.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province.secret|Genova.Province.secret]] 
 

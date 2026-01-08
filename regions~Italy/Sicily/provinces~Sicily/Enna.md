@@ -40,17 +40,17 @@ markerFolder: ./Enna/
 
 ## Confidential Links & Embeds: 
 
-### [Enna](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna|Enna]] 
 
-### [Enna.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.public|Enna.public]] 
 
-### [Enna.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.internal|Enna.internal]] 
 
-### [Enna.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.protect|Enna.protect]] 
 
-### [Enna.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.private|Enna.private]] 
 
-### [Enna.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.personal|Enna.personal]] 
 
-### [Enna.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna.secret|Enna.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Milan_Cathedral,18068|WD~Milan_Cathedral,18068]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Milan_Cathedral,18068|WD~Milan_Cathedral,18068]]"
+
 has_time_started: 1386-01-01 
 aliases:
   - Milan Cathedral
@@ -61,7 +65,7 @@ name:
 
 # [[Milan_Cathedral]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Milan_Cathedral,18068|WD~Milan_Cathedral,18068]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -70,4 +74,21 @@ name:
 > The cathedral took nearly six centuries to complete: construction began in 1386, and the final details were completed in 1965. It is the largest church in the Italian Republic—the larger St. Peter's Basilica is in the State of Vatican City, a sovereign state—and one of the largest in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milan%20Cathedral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral|Milan_Cathedral]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.public|Milan_Cathedral.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.internal|Milan_Cathedral.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.protect|Milan_Cathedral.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.private|Milan_Cathedral.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.personal|Milan_Cathedral.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Milano,City/Milan_Cathedral.secret|Milan_Cathedral.secret]] 
 

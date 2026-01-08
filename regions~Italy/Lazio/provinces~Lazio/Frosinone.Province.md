@@ -40,17 +40,17 @@ markerFolder: ./Frosinone.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Frosinone.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province|Frosinone.Province]] 
 
-### [Frosinone.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.public|Frosinone.Province.public]] 
 
-### [Frosinone.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.internal|Frosinone.Province.internal]] 
 
-### [Frosinone.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.protect|Frosinone.Province.protect]] 
 
-### [Frosinone.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.private|Frosinone.Province.private]] 
 
-### [Frosinone.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.personal|Frosinone.Province.personal]] 
 
-### [Frosinone.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province.secret|Frosinone.Province.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34220
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.38
+dv_has_place_latitude: 44.27
+dv_name: Sestri Levante
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.38] 
-[has_place_latitude::44.27] 
-[name::Sestri Levante] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sestri_Levante](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante|Sestri_Levante]] 
 
-### [Sestri_Levante.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.public|Sestri_Levante.public]] 
 
-### [Sestri_Levante.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.internal|Sestri_Levante.internal]] 
 
-### [Sestri_Levante.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.protect|Sestri_Levante.protect]] 
 
-### [Sestri_Levante.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.private|Sestri_Levante.private]] 
 
-### [Sestri_Levante.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.personal|Sestri_Levante.personal]] 
 
-### [Sestri_Levante.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Sestri_Levante.secret|Sestri_Levante.secret]] 
 

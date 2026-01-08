@@ -40,17 +40,17 @@ markerFolder: ./Taranto.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Taranto.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province|Taranto.Province]] 
 
-### [Taranto.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.public|Taranto.Province.public]] 
 
-### [Taranto.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.internal|Taranto.Province.internal]] 
 
-### [Taranto.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.protect|Taranto.Province.protect]] 
 
-### [Taranto.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.private|Taranto.Province.private]] 
 
-### [Taranto.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.personal|Taranto.Province.personal]] 
 
-### [Taranto.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Taranto.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Taranto.Province.secret|Taranto.Province.secret]] 
 

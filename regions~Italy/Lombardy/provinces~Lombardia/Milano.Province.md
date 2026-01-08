@@ -40,17 +40,17 @@ markerFolder: ./Milano.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Milano.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province|Milano.Province]] 
 
-### [Milano.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.public|Milano.Province.public]] 
 
-### [Milano.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.internal|Milano.Province.internal]] 
 
-### [Milano.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.protect|Milano.Province.protect]] 
 
-### [Milano.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.private|Milano.Province.private]] 
 
-### [Milano.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.personal|Milano.Province.personal]] 
 
-### [Milano.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province.secret|Milano.Province.secret]] 
 

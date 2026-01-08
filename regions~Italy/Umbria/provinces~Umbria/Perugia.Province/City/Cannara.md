@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29470
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.35
+dv_has_place_latitude: 42.98
+dv_name: Cannara
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.35] 
-[has_place_latitude::42.98] 
-[name::Cannara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cannara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara|Cannara]] 
 
-### [Cannara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.public|Cannara.public]] 
 
-### [Cannara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.internal|Cannara.internal]] 
 
-### [Cannara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.protect|Cannara.protect]] 
 
-### [Cannara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.private|Cannara.private]] 
 
-### [Cannara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.personal|Cannara.personal]] 
 
-### [Cannara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Perugia.Province/City/Cannara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Perugia.Province/City/Cannara.secret|Cannara.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29093
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.22
+dv_has_place_latitude: 46.13
+dv_name: Belluno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.22] 
-[has_place_latitude::46.13] 
-[name::Belluno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belluno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno|Belluno]] 
 
-### [Belluno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.public|Belluno.public]] 
 
-### [Belluno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.internal|Belluno.internal]] 
 
-### [Belluno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.protect|Belluno.protect]] 
 
-### [Belluno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.private|Belluno.private]] 
 
-### [Belluno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.personal|Belluno.personal]] 
 
-### [Belluno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province/City/Belluno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province/City/Belluno.secret|Belluno.secret]] 
 

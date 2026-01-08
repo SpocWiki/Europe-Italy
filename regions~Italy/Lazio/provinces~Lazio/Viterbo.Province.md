@@ -42,17 +42,17 @@ markerFolder: ./Viterbo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Viterbo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province|Viterbo.Province]] 
 
-### [Viterbo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.public|Viterbo.Province.public]] 
 
-### [Viterbo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.internal|Viterbo.Province.internal]] 
 
-### [Viterbo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.protect|Viterbo.Province.protect]] 
 
-### [Viterbo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.private|Viterbo.Province.private]] 
 
-### [Viterbo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.personal|Viterbo.Province.personal]] 
 
-### [Viterbo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Viterbo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Viterbo.Province.secret|Viterbo.Province.secret]] 
 

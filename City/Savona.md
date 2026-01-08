@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33982
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.5
+dv_has_place_latitude: 44.28
+dv_name: Savona
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.5] 
-[has_place_latitude::44.28] 
-[name::Savona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Savona](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Savona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Savona|Savona]] 
 
-### [Savona.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Savona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Savona.public|Savona.public]] 
 
-### [Savona.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Savona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Savona.internal|Savona.internal]] 
 
-### [Savona.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Savona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Savona.protect|Savona.protect]] 
 
-### [Savona.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Savona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Savona.private|Savona.private]] 
 
-### [Savona.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Savona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Savona.personal|Savona.personal]] 
 
-### [Savona.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Savona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Savona.secret|Savona.secret]] 
 

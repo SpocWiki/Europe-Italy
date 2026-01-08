@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35160
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.37
+dv_has_place_latitude: 43.32
+dv_name: Vada
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.37] 
-[has_place_latitude::43.32] 
-[name::Vada] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vada](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Vada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Vada|Vada]] 
 
-### [Vada.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Vada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Vada.public|Vada.public]] 
 
-### [Vada.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Vada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Vada.internal|Vada.internal]] 
 
-### [Vada.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Vada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Vada.protect|Vada.protect]] 
 
-### [Vada.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Vada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Vada.private|Vada.private]] 
 
-### [Vada.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Vada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Vada.personal|Vada.personal]] 
 
-### [Vada.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Vada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Vada.secret|Vada.secret]] 
 

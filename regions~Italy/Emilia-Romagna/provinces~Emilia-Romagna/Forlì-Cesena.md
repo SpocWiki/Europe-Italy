@@ -40,17 +40,17 @@ markerFolder: ./Forlì-Cesena/
 
 ## Confidential Links & Embeds: 
 
-### [Forlì-Cesena](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena|Forlì-Cesena]] 
 
-### [Forlì-Cesena.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.public|Forlì-Cesena.public]] 
 
-### [Forlì-Cesena.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.internal|Forlì-Cesena.internal]] 
 
-### [Forlì-Cesena.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.protect|Forlì-Cesena.protect]] 
 
-### [Forlì-Cesena.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.private|Forlì-Cesena.private]] 
 
-### [Forlì-Cesena.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.personal|Forlì-Cesena.personal]] 
 
-### [Forlì-Cesena.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/Forlì-Cesena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Emilia-Romagna/provinces~Emilia-Romagna/Forlì-Cesena.secret|Forlì-Cesena.secret]] 
 

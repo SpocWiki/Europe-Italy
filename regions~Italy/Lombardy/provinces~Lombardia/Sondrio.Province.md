@@ -40,17 +40,17 @@ markerFolder: ./Sondrio.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Sondrio.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province|Sondrio.Province]] 
 
-### [Sondrio.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.public|Sondrio.Province.public]] 
 
-### [Sondrio.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.internal|Sondrio.Province.internal]] 
 
-### [Sondrio.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.protect|Sondrio.Province.protect]] 
 
-### [Sondrio.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.private|Sondrio.Province.private]] 
 
-### [Sondrio.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.personal|Sondrio.Province.personal]] 
 
-### [Sondrio.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Sondrio.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Sondrio.Province.secret|Sondrio.Province.secret]] 
 

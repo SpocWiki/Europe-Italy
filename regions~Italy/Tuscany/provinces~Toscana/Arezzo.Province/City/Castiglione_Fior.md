@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29512
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.87
+dv_has_place_latitude: 43.33
+dv_name: Castiglione Fior
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.87] 
-[has_place_latitude::43.33] 
-[name::Castiglione Fior] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castiglione_Fior](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior|Castiglione_Fior]] 
 
-### [Castiglione_Fior.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.public|Castiglione_Fior.public]] 
 
-### [Castiglione_Fior.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.internal|Castiglione_Fior.internal]] 
 
-### [Castiglione_Fior.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.protect|Castiglione_Fior.protect]] 
 
-### [Castiglione_Fior.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.private|Castiglione_Fior.private]] 
 
-### [Castiglione_Fior.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.personal|Castiglione_Fior.personal]] 
 
-### [Castiglione_Fior.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Castiglione_Fior.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Castiglione_Fior.secret|Castiglione_Fior.secret]] 
 

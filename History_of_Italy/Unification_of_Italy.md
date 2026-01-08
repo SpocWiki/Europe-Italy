@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Unification_of_Italy,51122|WD~Unification_of_Italy,51122]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Unification_of_Italy,51122|WD~Unification_of_Italy,51122]]"
+
 has_time_started: 1815-01-01 
 has_time_stopped: 1871-01-01 
 aliases:
@@ -28,7 +32,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/With%20Victor%20Emmanu
 
 # [[Unification_of_Italy]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Unification_of_Italy,51122|WD~Unification_of_Italy,51122]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -46,4 +50,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/With%20Victor%20Emmanu
 > Italy celebrates the anniversary of the unification on 17 March (the date of proclamation of the Kingdom of Italy). Some of the states that had been envisaged as part of the unification process (terre irredente) did not join the Kingdom until after Italy defeated Austria-Hungary in World War I, culminating in the Treaty of Rapallo in 1920. Some historians see the Risorgimento as continuing to that time, which is the view presented at the Central Museum of the Risorgimento at Altare della Patria in Rome.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unification%20of%20Italy) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy|Unification_of_Italy]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.public|Unification_of_Italy.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.internal|Unification_of_Italy.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.protect|Unification_of_Italy.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.private|Unification_of_Italy.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.personal|Unification_of_Italy.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/History_of_Italy/Unification_of_Italy.secret|Unification_of_Italy.secret]] 
 

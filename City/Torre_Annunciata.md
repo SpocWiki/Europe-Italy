@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34918
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.45
+dv_has_place_latitude: 40.75
+dv_name: Torre Annunciata
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.45] 
-[has_place_latitude::40.75] 
-[name::Torre Annunciata] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torre_Annunciata](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata|Torre_Annunciata]] 
 
-### [Torre_Annunciata.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.public|Torre_Annunciata.public]] 
 
-### [Torre_Annunciata.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.internal|Torre_Annunciata.internal]] 
 
-### [Torre_Annunciata.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.protect|Torre_Annunciata.protect]] 
 
-### [Torre_Annunciata.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.private|Torre_Annunciata.private]] 
 
-### [Torre_Annunciata.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.personal|Torre_Annunciata.personal]] 
 
-### [Torre_Annunciata.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Torre_Annunciata.secret|Torre_Annunciata.secret]] 
 

@@ -11,17 +11,17 @@ markerFolder: ./Calabria//
 
 ## Confidential Links & Embeds: 
 
-### [Calabria](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria|Calabria]] 
 
-### [Calabria.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.public|Calabria.public]] 
 
-### [Calabria.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.internal|Calabria.internal]] 
 
-### [Calabria.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.protect|Calabria.protect]] 
 
-### [Calabria.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.private|Calabria.private]] 
 
-### [Calabria.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.personal|Calabria.personal]] 
 
-### [Calabria.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria.secret|Calabria.secret]] 
 

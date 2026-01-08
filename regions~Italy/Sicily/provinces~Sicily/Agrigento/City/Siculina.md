@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34241
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.43
+dv_has_place_latitude: 37.33
+dv_name: Siculina
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.43] 
-[has_place_latitude::37.33] 
-[name::Siculina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siculina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina|Siculina]] 
 
-### [Siculina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.public|Siculina.public]] 
 
-### [Siculina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.internal|Siculina.internal]] 
 
-### [Siculina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.protect|Siculina.protect]] 
 
-### [Siculina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.private|Siculina.private]] 
 
-### [Siculina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.personal|Siculina.personal]] 
 
-### [Siculina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Agrigento/City/Siculina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Agrigento/City/Siculina.secret|Siculina.secret]] 
 

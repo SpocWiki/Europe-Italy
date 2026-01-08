@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35194
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.53
+dv_has_place_latitude: 40.37
+dv_name: Valsinni
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.53] 
-[has_place_latitude::40.37] 
-[name::Valsinni] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valsinni](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni|Valsinni]] 
 
-### [Valsinni.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.public|Valsinni.public]] 
 
-### [Valsinni.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.internal|Valsinni.internal]] 
 
-### [Valsinni.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.protect|Valsinni.protect]] 
 
-### [Valsinni.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.private|Valsinni.private]] 
 
-### [Valsinni.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.personal|Valsinni.personal]] 
 
-### [Valsinni.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province/City/Valsinni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province/City/Valsinni.secret|Valsinni.secret]] 
 

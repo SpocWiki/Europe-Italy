@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32552
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.8
+dv_has_place_latitude: 44.83
+dv_name: Mondovi
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.8] 
-[has_place_latitude::44.83] 
-[name::Mondovi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mondovi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi|Mondovi]] 
 
-### [Mondovi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.public|Mondovi.public]] 
 
-### [Mondovi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.internal|Mondovi.internal]] 
 
-### [Mondovi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.protect|Mondovi.protect]] 
 
-### [Mondovi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.private|Mondovi.private]] 
 
-### [Mondovi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.personal|Mondovi.personal]] 
 
-### [Mondovi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Mondovi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Mondovi.secret|Mondovi.secret]] 
 

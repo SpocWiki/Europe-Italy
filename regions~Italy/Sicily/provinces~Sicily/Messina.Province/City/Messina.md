@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32437
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.55
+dv_has_place_latitude: 38.2
+dv_name: Messina
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.55] 
-[has_place_latitude::38.2] 
-[name::Messina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Messina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina|Messina]] 
 
-### [Messina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.public|Messina.public]] 
 
-### [Messina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.internal|Messina.internal]] 
 
-### [Messina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.protect|Messina.protect]] 
 
-### [Messina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.private|Messina.private]] 
 
-### [Messina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.personal|Messina.personal]] 
 
-### [Messina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Messina.Province/City/Messina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Messina.Province/City/Messina.secret|Messina.secret]] 
 

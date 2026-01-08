@@ -40,17 +40,17 @@ markerFolder: ./Belluno.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Belluno.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province|Belluno.Province]] 
 
-### [Belluno.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.public|Belluno.Province.public]] 
 
-### [Belluno.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.internal|Belluno.Province.internal]] 
 
-### [Belluno.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.protect|Belluno.Province.protect]] 
 
-### [Belluno.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.private|Belluno.Province.private]] 
 
-### [Belluno.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.personal|Belluno.Province.personal]] 
 
-### [Belluno.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Belluno.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Belluno.Province.secret|Belluno.Province.secret]] 
 

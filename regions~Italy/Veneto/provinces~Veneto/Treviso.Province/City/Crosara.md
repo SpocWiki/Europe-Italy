@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29681
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.95
+dv_has_place_latitude: 45.77
+dv_name: Crosara
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.95] 
-[has_place_latitude::45.77] 
-[name::Crosara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crosara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara|Crosara]] 
 
-### [Crosara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.public|Crosara.public]] 
 
-### [Crosara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.internal|Crosara.internal]] 
 
-### [Crosara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.protect|Crosara.protect]] 
 
-### [Crosara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.private|Crosara.private]] 
 
-### [Crosara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.personal|Crosara.personal]] 
 
-### [Crosara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Treviso.Province/City/Crosara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Treviso.Province/City/Crosara.secret|Crosara.secret]] 
 

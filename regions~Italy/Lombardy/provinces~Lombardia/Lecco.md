@@ -40,17 +40,17 @@ markerFolder: ./Lecco/
 
 ## Confidential Links & Embeds: 
 
-### [Lecco](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco|Lecco]] 
 
-### [Lecco.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.public|Lecco.public]] 
 
-### [Lecco.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.internal|Lecco.internal]] 
 
-### [Lecco.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.protect|Lecco.protect]] 
 
-### [Lecco.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.private|Lecco.private]] 
 
-### [Lecco.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.personal|Lecco.personal]] 
 
-### [Lecco.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco.secret|Lecco.secret]] 
 

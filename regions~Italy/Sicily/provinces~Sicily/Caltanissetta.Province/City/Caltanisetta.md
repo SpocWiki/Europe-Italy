@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29457
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.07
+dv_has_place_latitude: 37.48
+dv_name: Caltanisetta
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.07] 
-[has_place_latitude::37.48] 
-[name::Caltanisetta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caltanisetta](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta|Caltanisetta]] 
 
-### [Caltanisetta.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.public|Caltanisetta.public]] 
 
-### [Caltanisetta.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.internal|Caltanisetta.internal]] 
 
-### [Caltanisetta.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.protect|Caltanisetta.protect]] 
 
-### [Caltanisetta.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.private|Caltanisetta.private]] 
 
-### [Caltanisetta.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.personal|Caltanisetta.personal]] 
 
-### [Caltanisetta.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Caltanissetta.Province/City/Caltanisetta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Caltanissetta.Province/City/Caltanisetta.secret|Caltanisetta.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31851
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.12
+dv_has_place_latitude: 43.23
+dv_name: Larderello
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.12] 
-[has_place_latitude::43.23] 
-[name::Larderello] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Larderello](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello|Larderello]] 
 
-### [Larderello.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.public|Larderello.public]] 
 
-### [Larderello.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.internal|Larderello.internal]] 
 
-### [Larderello.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.protect|Larderello.protect]] 
 
-### [Larderello.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.private|Larderello.private]] 
 
-### [Larderello.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.personal|Larderello.personal]] 
 
-### [Larderello.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Siena.Province/City/Larderello.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Siena.Province/City/Larderello.secret|Larderello.secret]] 
 

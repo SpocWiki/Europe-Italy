@@ -40,17 +40,17 @@ markerFolder: ./Verbano-Cusio-Ossola/
 
 ## Confidential Links & Embeds: 
 
-### [Verbano-Cusio-Ossola](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola|Verbano-Cusio-Ossola]] 
 
-### [Verbano-Cusio-Ossola.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.public|Verbano-Cusio-Ossola.public]] 
 
-### [Verbano-Cusio-Ossola.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.internal|Verbano-Cusio-Ossola.internal]] 
 
-### [Verbano-Cusio-Ossola.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.protect|Verbano-Cusio-Ossola.protect]] 
 
-### [Verbano-Cusio-Ossola.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.private|Verbano-Cusio-Ossola.private]] 
 
-### [Verbano-Cusio-Ossola.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.personal|Verbano-Cusio-Ossola.personal]] 
 
-### [Verbano-Cusio-Ossola.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Verbano-Cusio-Ossola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Verbano-Cusio-Ossola.secret|Verbano-Cusio-Ossola.secret]] 
 

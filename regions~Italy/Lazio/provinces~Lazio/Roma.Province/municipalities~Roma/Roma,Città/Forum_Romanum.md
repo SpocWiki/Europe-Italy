@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Forum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum|Forum_Romanum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.public|Forum_Romanum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.internal|Forum_Romanum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.protect|Forum_Romanum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.private|Forum_Romanum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.personal|Forum_Romanum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/Forum_Romanum.secret|Forum_Romanum.secret]] 
+

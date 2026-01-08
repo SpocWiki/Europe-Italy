@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30460
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.55
+dv_has_place_latitude: 37.27
+dv_name: Girgenti=Agrigent
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.55] 
-[has_place_latitude::37.27] 
-[name::Girgenti=Agrigent] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Girgenti=Agrigent](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent|Girgenti=Agrigent]] 
 
-### [Girgenti=Agrigent.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.public|Girgenti=Agrigent.public]] 
 
-### [Girgenti=Agrigent.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.internal|Girgenti=Agrigent.internal]] 
 
-### [Girgenti=Agrigent.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.protect|Girgenti=Agrigent.protect]] 
 
-### [Girgenti=Agrigent.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.private|Girgenti=Agrigent.private]] 
 
-### [Girgenti=Agrigent.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.personal|Girgenti=Agrigent.personal]] 
 
-### [Girgenti=Agrigent.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Girgenti=Agrigent.secret|Girgenti=Agrigent.secret]] 
 

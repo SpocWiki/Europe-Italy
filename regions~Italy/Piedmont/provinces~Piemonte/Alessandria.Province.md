@@ -40,17 +40,17 @@ markerFolder: ./Alessandria.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Alessandria.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province|Alessandria.Province]] 
 
-### [Alessandria.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.public|Alessandria.Province.public]] 
 
-### [Alessandria.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.internal|Alessandria.Province.internal]] 
 
-### [Alessandria.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.protect|Alessandria.Province.protect]] 
 
-### [Alessandria.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.private|Alessandria.Province.private]] 
 
-### [Alessandria.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.personal|Alessandria.Province.personal]] 
 
-### [Alessandria.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Alessandria.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Alessandria.Province.secret|Alessandria.Province.secret]] 
 

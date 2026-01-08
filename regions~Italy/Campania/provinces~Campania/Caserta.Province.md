@@ -40,17 +40,17 @@ markerFolder: ./Caserta.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Caserta.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province|Caserta.Province]] 
 
-### [Caserta.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.public|Caserta.Province.public]] 
 
-### [Caserta.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.internal|Caserta.Province.internal]] 
 
-### [Caserta.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.protect|Caserta.Province.protect]] 
 
-### [Caserta.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.private|Caserta.Province.private]] 
 
-### [Caserta.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.personal|Caserta.Province.personal]] 
 
-### [Caserta.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Caserta.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Caserta.Province.secret|Caserta.Province.secret]] 
 

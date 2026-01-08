@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31135
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.07
+dv_has_place_latitude: 45.2
+dv_name: Isola della Scala
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.07] 
-[has_place_latitude::45.2] 
-[name::Isola della Scala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isola_della_Scala](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala|Isola_della_Scala]] 
 
-### [Isola_della_Scala.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.public|Isola_della_Scala.public]] 
 
-### [Isola_della_Scala.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.internal|Isola_della_Scala.internal]] 
 
-### [Isola_della_Scala.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.protect|Isola_della_Scala.protect]] 
 
-### [Isola_della_Scala.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.private|Isola_della_Scala.private]] 
 
-### [Isola_della_Scala.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.personal|Isola_della_Scala.personal]] 
 
-### [Isola_della_Scala.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/Verona.Province/City/Isola_della_Scala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Veneto/provinces~Veneto/Verona.Province/City/Isola_della_Scala.secret|Isola_della_Scala.secret]] 
 

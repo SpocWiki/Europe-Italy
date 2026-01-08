@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 30509
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.12
+dv_has_place_latitude: 45.65
+dv_name: Gorla Minore
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.12] 
-[has_place_latitude::45.65] 
-[name::Gorla Minore] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gorla_Minore](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore|Gorla_Minore]] 
 
-### [Gorla_Minore.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.public|Gorla_Minore.public]] 
 
-### [Gorla_Minore.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.internal|Gorla_Minore.internal]] 
 
-### [Gorla_Minore.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.protect|Gorla_Minore.protect]] 
 
-### [Gorla_Minore.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.private|Gorla_Minore.private]] 
 
-### [Gorla_Minore.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.personal|Gorla_Minore.personal]] 
 
-### [Gorla_Minore.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Gorla_Minore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Gorla_Minore.secret|Gorla_Minore.secret]] 
 

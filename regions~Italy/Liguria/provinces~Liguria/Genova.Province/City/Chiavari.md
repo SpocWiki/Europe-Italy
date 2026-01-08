@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29583
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.38
+dv_has_place_latitude: 44.32
+dv_name: Chiavari
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.38] 
-[has_place_latitude::44.32] 
-[name::Chiavari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chiavari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari|Chiavari]] 
 
-### [Chiavari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.public|Chiavari.public]] 
 
-### [Chiavari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.internal|Chiavari.internal]] 
 
-### [Chiavari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.protect|Chiavari.protect]] 
 
-### [Chiavari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.private|Chiavari.private]] 
 
-### [Chiavari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.personal|Chiavari.personal]] 
 
-### [Chiavari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Chiavari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Chiavari.secret|Chiavari.secret]] 
 

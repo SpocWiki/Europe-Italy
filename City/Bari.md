@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29022
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.13
+dv_has_place_latitude: 41.17
+dv_name: Bari
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.13] 
-[has_place_latitude::41.17] 
-[name::Bari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bari](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Bari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Bari|Bari]] 
 
-### [Bari.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Bari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Bari.public|Bari.public]] 
 
-### [Bari.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.internal|Bari.internal]] 
 
-### [Bari.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Bari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Bari.protect|Bari.protect]] 
 
-### [Bari.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Bari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Bari.private|Bari.private]] 
 
-### [Bari.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Bari.personal|Bari.personal]] 
 
-### [Bari.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Bari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Bari.secret|Bari.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29910
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.13
+dv_has_place_latitude: 53.3
+dv_name: Dun Laoghaire
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.13] 
-[has_place_latitude::53.3] 
-[name::Dun Laoghaire] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dun_Laoghaire](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire|Dun_Laoghaire]] 
 
-### [Dun_Laoghaire.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.public|Dun_Laoghaire.public]] 
 
-### [Dun_Laoghaire.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.internal|Dun_Laoghaire.internal]] 
 
-### [Dun_Laoghaire.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.protect|Dun_Laoghaire.protect]] 
 
-### [Dun_Laoghaire.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.private|Dun_Laoghaire.private]] 
 
-### [Dun_Laoghaire.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.personal|Dun_Laoghaire.personal]] 
 
-### [Dun_Laoghaire.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Dun_Laoghaire.secret|Dun_Laoghaire.secret]] 
 

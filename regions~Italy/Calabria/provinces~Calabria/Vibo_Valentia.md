@@ -41,17 +41,17 @@ markerFolder: ./Vibo_Valentia/
 
 ## Confidential Links & Embeds: 
 
-### [Vibo_Valentia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia|Vibo_Valentia]] 
 
-### [Vibo_Valentia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.public|Vibo_Valentia.public]] 
 
-### [Vibo_Valentia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.internal|Vibo_Valentia.internal]] 
 
-### [Vibo_Valentia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.protect|Vibo_Valentia.protect]] 
 
-### [Vibo_Valentia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.private|Vibo_Valentia.private]] 
 
-### [Vibo_Valentia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.personal|Vibo_Valentia.personal]] 
 
-### [Vibo_Valentia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Vibo_Valentia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Vibo_Valentia.secret|Vibo_Valentia.secret]] 
 

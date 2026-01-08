@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34436
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.43
+dv_has_place_latitude: 45.23
+dv_name: St.Angelo-Lodig
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.43] 
-[has_place_latitude::45.23] 
-[name::St.Angelo-Lodig] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Angelo-Lodig](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig|St.Angelo-Lodig]] 
 
-### [St.Angelo-Lodig.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.public|St.Angelo-Lodig.public]] 
 
-### [St.Angelo-Lodig.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.internal|St.Angelo-Lodig.internal]] 
 
-### [St.Angelo-Lodig.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.protect|St.Angelo-Lodig.protect]] 
 
-### [St.Angelo-Lodig.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.private|St.Angelo-Lodig.private]] 
 
-### [St.Angelo-Lodig.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.personal|St.Angelo-Lodig.personal]] 
 
-### [St.Angelo-Lodig.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/St.Angelo-Lodig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/St.Angelo-Lodig.secret|St.Angelo-Lodig.secret]] 
 

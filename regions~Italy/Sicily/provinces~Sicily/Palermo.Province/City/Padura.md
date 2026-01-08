@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33212
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.03
+dv_has_place_latitude: 37.72
+dv_name: Padura
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.03] 
-[has_place_latitude::37.72] 
-[name::Padura] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Padura](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura|Padura]] 
 
-### [Padura.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.public|Padura.public]] 
 
-### [Padura.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.internal|Padura.internal]] 
 
-### [Padura.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.protect|Padura.protect]] 
 
-### [Padura.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.private|Padura.private]] 
 
-### [Padura.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.personal|Padura.personal]] 
 
-### [Padura.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province/City/Padura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province/City/Padura.secret|Padura.secret]] 
 

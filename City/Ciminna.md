@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29610
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.38
+dv_has_place_latitude: 37.88
+dv_name: Ciminna
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.38] 
-[has_place_latitude::37.88] 
-[name::Ciminna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciminna](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna|Ciminna]] 
 
-### [Ciminna.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.public|Ciminna.public]] 
 
-### [Ciminna.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.internal|Ciminna.internal]] 
 
-### [Ciminna.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.protect|Ciminna.protect]] 
 
-### [Ciminna.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.private|Ciminna.private]] 
 
-### [Ciminna.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.personal|Ciminna.personal]] 
 
-### [Ciminna.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Ciminna.secret|Ciminna.secret]] 
 

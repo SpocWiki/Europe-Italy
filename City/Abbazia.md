@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28643
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.32
+dv_has_place_latitude: 45.33
+dv_name: Abbazia
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.32] 
-[has_place_latitude::45.33] 
-[name::Abbazia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbazia](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia|Abbazia]] 
 
-### [Abbazia.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.public|Abbazia.public]] 
 
-### [Abbazia.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.internal|Abbazia.internal]] 
 
-### [Abbazia.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.protect|Abbazia.protect]] 
 
-### [Abbazia.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.private|Abbazia.private]] 
 
-### [Abbazia.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.personal|Abbazia.personal]] 
 
-### [Abbazia.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Abbazia.secret|Abbazia.secret]] 
 

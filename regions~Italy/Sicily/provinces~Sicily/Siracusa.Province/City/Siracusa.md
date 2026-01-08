@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34291
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.3
+dv_has_place_latitude: 37.07
+dv_name: Siracusa
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.3] 
-[has_place_latitude::37.07] 
-[name::Siracusa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siracusa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa|Siracusa]] 
 
-### [Siracusa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.public|Siracusa.public]] 
 
-### [Siracusa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.internal|Siracusa.internal]] 
 
-### [Siracusa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.protect|Siracusa.protect]] 
 
-### [Siracusa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.private|Siracusa.private]] 
 
-### [Siracusa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.personal|Siracusa.personal]] 
 
-### [Siracusa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Siracusa.Province/City/Siracusa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Siracusa.Province/City/Siracusa.secret|Siracusa.secret]] 
 

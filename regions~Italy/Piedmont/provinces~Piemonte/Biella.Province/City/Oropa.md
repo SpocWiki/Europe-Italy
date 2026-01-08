@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33139
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.98
+dv_has_place_latitude: 45.63
+dv_name: Oropa
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.98] 
-[has_place_latitude::45.63] 
-[name::Oropa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oropa](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa|Oropa]] 
 
-### [Oropa.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.public|Oropa.public]] 
 
-### [Oropa.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.internal|Oropa.internal]] 
 
-### [Oropa.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.protect|Oropa.protect]] 
 
-### [Oropa.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.private|Oropa.private]] 
 
-### [Oropa.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.personal|Oropa.personal]] 
 
-### [Oropa.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province/City/Oropa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province/City/Oropa.secret|Oropa.secret]] 
 

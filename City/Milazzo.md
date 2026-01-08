@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32478
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.23
+dv_has_place_latitude: 38.27
+dv_name: Milazzo
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.23] 
-[has_place_latitude::38.27] 
-[name::Milazzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Milazzo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo|Milazzo]] 
 
-### [Milazzo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.public|Milazzo.public]] 
 
-### [Milazzo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.internal|Milazzo.internal]] 
 
-### [Milazzo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.protect|Milazzo.protect]] 
 
-### [Milazzo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.private|Milazzo.private]] 
 
-### [Milazzo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.personal|Milazzo.personal]] 
 
-### [Milazzo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Milazzo.secret|Milazzo.secret]] 
 

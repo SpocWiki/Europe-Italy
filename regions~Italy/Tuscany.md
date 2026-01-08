@@ -20,7 +20,7 @@ Colon_Classification: SG--525
 Commons_category: Tuscany
 official_name:
   - Regione Toscana
-  - '-'
+  - "-"
 demonym:
   - Toskanec
   - Toskanka
@@ -30,53 +30,53 @@ demonym:
   - toscano
 coordinate_location: Point(11.2 43.45)
 twinned_administrative_body:
-  - '[[_Standards/WikiData/WD~Nablus,214178]]'
-  - '[[_Standards/WikiData/WD~Tulkarm,985531]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Tuscany,513253]]'
+  - "[[_Standards/WikiData/WD~Nablus,214178]]"
+  - "[[_Standards/WikiData/WD~Tulkarm,985531]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tuscany,513253]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Q111600428,111600428]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Tuscany,2484847]]'
-has_part_s_: '[[_Standards/WikiData/WD~Apuania,3621072]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Q111600428,111600428]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Tuscany,2484847]]"
+has_part_s_: "[[_Standards/WikiData/WD~Apuania,3621072]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Civil_Protection_Medal_of_Merit,3629153]]'
-  - '[[_Standards/WikiData/WD~Gold_medal_for_civil_merit,124971055]]'
-legislative_body: '[[_Standards/WikiData/WD~Regional_Council_of_Tuscany,3687399]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~president_of_Tuscany,7241294]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tuscany,14616291]]'
+  - "[[_Standards/WikiData/WD~Civil_Protection_Medal_of_Merit,3629153]]"
+  - "[[_Standards/WikiData/WD~Gold_medal_for_civil_merit,124971055]]"
+legislative_body: "[[_Standards/WikiData/WD~Regional_Council_of_Tuscany,3687399]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~president_of_Tuscany,7241294]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tuscany,14616291]]"
 contains_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Metropolitan_City_of_Florence,18288148]]'
-  - '[[_Standards/WikiData/WD~Province_of_Arezzo,16115]]'
-  - '[[_Standards/WikiData/WD~Province_of_Florence,16172]]'
-  - '[[_Standards/WikiData/WD~Province_of_Grosseto,16185]]'
-  - '[[_Standards/WikiData/WD~Province_of_Lucca,16202]]'
-  - '[[_Standards/WikiData/WD~Province_of_Livorno,16200]]'
-  - '[[_Standards/WikiData/WD~Province_of_Massa_Carrara,16205]]'
-  - '[[_Standards/WikiData/WD~Province_of_Pisa,16244]]'
-  - '[[_Standards/WikiData/WD~Province_of_Pistoia,16245]]'
-  - '[[_Standards/WikiData/WD~Province_of_Prato,16250]]'
-  - '[[_Standards/WikiData/WD~Province_of_Siena,16275]]'
-head_of_government: '[[_Standards/WikiData/WD~Eugenio_Giani,24033523]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Tuscany,30888448]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_data_Tuscany,97291764]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tuscany,100862128]]'
-language_used: '[[_Standards/WikiData/WD~Italian,652]]'
+  - "[[_Standards/WikiData/WD~Metropolitan_City_of_Florence,18288148]]"
+  - "[[_Standards/WikiData/WD~Province_of_Arezzo,16115]]"
+  - "[[_Standards/WikiData/WD~Province_of_Florence,16172]]"
+  - "[[_Standards/WikiData/WD~Province_of_Grosseto,16185]]"
+  - "[[_Standards/WikiData/WD~Province_of_Lucca,16202]]"
+  - "[[_Standards/WikiData/WD~Province_of_Livorno,16200]]"
+  - "[[_Standards/WikiData/WD~Province_of_Massa_Carrara,16205]]"
+  - "[[_Standards/WikiData/WD~Province_of_Pisa,16244]]"
+  - "[[_Standards/WikiData/WD~Province_of_Pistoia,16245]]"
+  - "[[_Standards/WikiData/WD~Province_of_Prato,16250]]"
+  - "[[_Standards/WikiData/WD~Province_of_Siena,16275]]"
+head_of_government: "[[_Standards/WikiData/WD~Eugenio_Giani,24033523]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Tuscany,30888448]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_data_Tuscany,97291764]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tuscany,100862128]]"
+language_used: "[[_Standards/WikiData/WD~Italian,652]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Liguria,1256]]'
-  - '[[_Standards/WikiData/WD~Emilia_Romagna,1263]]'
-  - '[[_Standards/WikiData/WD~Marche,1279]]'
-  - '[[_Standards/WikiData/WD~Lazio,1282]]'
-  - '[[_Standards/WikiData/WD~Umbria,1280]]'
-capital: '[[_Standards/WikiData/WD~Florence,2044]]'
+  - "[[_Standards/WikiData/WD~Liguria,1256]]"
+  - "[[_Standards/WikiData/WD~Emilia_Romagna,1263]]"
+  - "[[_Standards/WikiData/WD~Marche,1279]]"
+  - "[[_Standards/WikiData/WD~Lazio,1282]]"
+  - "[[_Standards/WikiData/WD~Umbria,1280]]"
+capital: "[[_Standards/WikiData/WD~Florence,2044]]"
 located_in_time_zone:
-  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-instance_of: '[[_Standards/WikiData/WD~region_of_Italy,16110]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Italy,38]]'
-country: '[[_Standards/WikiData/WD~Italy,38]]'
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+instance_of: "[[_Standards/WikiData/WD~region_of_Italy,16110]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Italy,38]]"
+country: "[[_Standards/WikiData/WD~Italy,38]]"
 elevation_above_sea_level: 279
 area: 22987.04
 population: 3729641
@@ -88,11 +88,14 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tusca
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toscana%20banner%20Copse%20in%20agricultural%20fields.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tuscany%20in%20Italy.svg
 official_website: https://www.regione.toscana.it/
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Tuscany,1273|WD~Tuscany,1273]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Tuscany,1273|WD~Tuscany,1273]]"
 ---
 
 # [[Tuscany]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Tuscany,1273|WD~Tuscany,1273]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Israel
@@ -126,19 +129,20 @@ markerFolder: ./Tuscany//
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuscany) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Tuscany](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany|Tuscany]] 
 
-### [Tuscany.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.public|Tuscany.public]] 
 
-### [Tuscany.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.internal|Tuscany.internal]] 
 
-### [Tuscany.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.protect|Tuscany.protect]] 
 
-### [Tuscany.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.private|Tuscany.private]] 
 
-### [Tuscany.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.personal|Tuscany.personal]] 
 
-### [Tuscany.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany.secret|Tuscany.secret]] 
 

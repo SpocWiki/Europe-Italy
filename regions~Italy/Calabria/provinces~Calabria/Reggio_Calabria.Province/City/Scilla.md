@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34154
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.72
+dv_has_place_latitude: 38.25
+dv_name: Scilla
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.72] 
-[has_place_latitude::38.25] 
-[name::Scilla] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scilla](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla|Scilla]] 
 
-### [Scilla.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.public|Scilla.public]] 
 
-### [Scilla.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.internal|Scilla.internal]] 
 
-### [Scilla.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.protect|Scilla.protect]] 
 
-### [Scilla.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.private|Scilla.private]] 
 
-### [Scilla.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.personal|Scilla.personal]] 
 
-### [Scilla.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/Reggio_Calabria.Province/City/Scilla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Calabria/provinces~Calabria/Reggio_Calabria.Province/City/Scilla.secret|Scilla.secret]] 
 

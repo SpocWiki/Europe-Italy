@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29466
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.7
+dv_has_place_latitude: 37.63
+dv_name: Campobello di Mazzara
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.7] 
-[has_place_latitude::37.63] 
-[name::Campobello di Mazzara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Campobello_di_Mazzara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara|Campobello_di_Mazzara]] 
 
-### [Campobello_di_Mazzara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.public|Campobello_di_Mazzara.public]] 
 
-### [Campobello_di_Mazzara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.internal|Campobello_di_Mazzara.internal]] 
 
-### [Campobello_di_Mazzara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.protect|Campobello_di_Mazzara.protect]] 
 
-### [Campobello_di_Mazzara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.private|Campobello_di_Mazzara.private]] 
 
-### [Campobello_di_Mazzara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.personal|Campobello_di_Mazzara.personal]] 
 
-### [Campobello_di_Mazzara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Trapani/City/Campobello_di_Mazzara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Trapani/City/Campobello_di_Mazzara.secret|Campobello_di_Mazzara.secret]] 
 

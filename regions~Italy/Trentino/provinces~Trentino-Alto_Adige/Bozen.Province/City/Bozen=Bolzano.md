@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29301
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.38
+dv_has_place_latitude: 46.5
+dv_name: Bozen=Bolzano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.38] 
-[has_place_latitude::46.5] 
-[name::Bozen=Bolzano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bozen=Bolzano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano|Bozen=Bolzano]] 
 
-### [Bozen=Bolzano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.public|Bozen=Bolzano.public]] 
 
-### [Bozen=Bolzano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.internal|Bozen=Bolzano.internal]] 
 
-### [Bozen=Bolzano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.protect|Bozen=Bolzano.protect]] 
 
-### [Bozen=Bolzano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.private|Bozen=Bolzano.private]] 
 
-### [Bozen=Bolzano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.personal|Bozen=Bolzano.personal]] 
 
-### [Bozen=Bolzano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Bozen=Bolzano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Bozen=Bolzano.secret|Bozen=Bolzano.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33360
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.93
+dv_has_place_latitude: 45.67
+dv_name: Piccolo S. Bernardo
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.93] 
-[has_place_latitude::45.67] 
-[name::Piccolo S. Bernardo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piccolo_S._Bernardo](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo|Piccolo_S._Bernardo]] 
 
-### [Piccolo_S._Bernardo.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.public|Piccolo_S._Bernardo.public]] 
 
-### [Piccolo_S._Bernardo.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.internal|Piccolo_S._Bernardo.internal]] 
 
-### [Piccolo_S._Bernardo.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.protect|Piccolo_S._Bernardo.protect]] 
 
-### [Piccolo_S._Bernardo.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.private|Piccolo_S._Bernardo.private]] 
 
-### [Piccolo_S._Bernardo.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.personal|Piccolo_S._Bernardo.personal]] 
 
-### [Piccolo_S._Bernardo.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/Aoste/City/Piccolo_S._Bernardo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Aosta_Valley/provinces~Valle_d'Aosta/Aosta/City/Piccolo_S._Bernardo.secret|Piccolo_S._Bernardo.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./La_Spezia.Province/
 
 ## Confidential Links & Embeds: 
 
-### [La_Spezia.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province|La_Spezia.Province]] 
 
-### [La_Spezia.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.public|La_Spezia.Province.public]] 
 
-### [La_Spezia.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.internal|La_Spezia.Province.internal]] 
 
-### [La_Spezia.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.protect|La_Spezia.Province.protect]] 
 
-### [La_Spezia.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.private|La_Spezia.Province.private]] 
 
-### [La_Spezia.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.personal|La_Spezia.Province.personal]] 
 
-### [La_Spezia.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/La_Spezia.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/La_Spezia.Province.secret|La_Spezia.Province.secret]] 
 

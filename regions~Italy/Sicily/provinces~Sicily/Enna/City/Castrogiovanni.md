@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29516
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.28
+dv_has_place_latitude: 37.55
+dv_name: Castrogiovanni
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.28] 
-[has_place_latitude::37.55] 
-[name::Castrogiovanni] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castrogiovanni](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni|Castrogiovanni]] 
 
-### [Castrogiovanni.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.public|Castrogiovanni.public]] 
 
-### [Castrogiovanni.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.internal|Castrogiovanni.internal]] 
 
-### [Castrogiovanni.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.protect|Castrogiovanni.protect]] 
 
-### [Castrogiovanni.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.private|Castrogiovanni.private]] 
 
-### [Castrogiovanni.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.personal|Castrogiovanni.personal]] 
 
-### [Castrogiovanni.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Enna/City/Castrogiovanni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Enna/City/Castrogiovanni.secret|Castrogiovanni.secret]] 
 

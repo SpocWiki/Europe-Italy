@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29302
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.87
+dv_has_place_latitude: 44.68
+dv_name: Bra
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.87] 
-[has_place_latitude::44.68] 
-[name::Bra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bra](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra|Bra]] 
 
-### [Bra.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.public|Bra.public]] 
 
-### [Bra.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.internal|Bra.internal]] 
 
-### [Bra.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.protect|Bra.protect]] 
 
-### [Bra.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.private|Bra.private]] 
 
-### [Bra.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.personal|Bra.personal]] 
 
-### [Bra.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Cuneo.Province/City/Bra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Cuneo.Province/City/Bra.secret|Bra.secret]] 
 

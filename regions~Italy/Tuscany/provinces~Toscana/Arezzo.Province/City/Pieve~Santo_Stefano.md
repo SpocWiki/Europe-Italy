@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33367
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.03
+dv_has_place_latitude: 43.67
+dv_name: Pieve~Santo Stefano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.03] 
-[has_place_latitude::43.67] 
-[name::Pieve~Santo Stefano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pieve~Santo_Stefano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano|Pieve~Santo_Stefano]] 
 
-### [Pieve~Santo_Stefano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.public|Pieve~Santo_Stefano.public]] 
 
-### [Pieve~Santo_Stefano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.internal|Pieve~Santo_Stefano.internal]] 
 
-### [Pieve~Santo_Stefano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.protect|Pieve~Santo_Stefano.protect]] 
 
-### [Pieve~Santo_Stefano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.private|Pieve~Santo_Stefano.private]] 
 
-### [Pieve~Santo_Stefano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.personal|Pieve~Santo_Stefano.personal]] 
 
-### [Pieve~Santo_Stefano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Arezzo.Province/City/Pieve~Santo_Stefano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Arezzo.Province/City/Pieve~Santo_Stefano.secret|Pieve~Santo_Stefano.secret]] 
 

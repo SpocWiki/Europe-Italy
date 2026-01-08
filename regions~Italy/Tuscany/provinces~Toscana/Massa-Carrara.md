@@ -40,17 +40,17 @@ markerFolder: ./Massa-Carrara/
 
 ## Confidential Links & Embeds: 
 
-### [Massa-Carrara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara|Massa-Carrara]] 
 
-### [Massa-Carrara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.public|Massa-Carrara.public]] 
 
-### [Massa-Carrara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.internal|Massa-Carrara.internal]] 
 
-### [Massa-Carrara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.protect|Massa-Carrara.protect]] 
 
-### [Massa-Carrara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.private|Massa-Carrara.private]] 
 
-### [Massa-Carrara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.personal|Massa-Carrara.personal]] 
 
-### [Massa-Carrara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Massa-Carrara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Massa-Carrara.secret|Massa-Carrara.secret]] 
 

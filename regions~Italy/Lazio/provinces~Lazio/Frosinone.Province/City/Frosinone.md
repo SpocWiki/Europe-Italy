@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30299
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.37
+dv_has_place_latitude: 41.65
+dv_name: Frosinone
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.37] 
-[has_place_latitude::41.65] 
-[name::Frosinone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frosinone](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone|Frosinone]] 
 
-### [Frosinone.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.public|Frosinone.public]] 
 
-### [Frosinone.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.internal|Frosinone.internal]] 
 
-### [Frosinone.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.protect|Frosinone.protect]] 
 
-### [Frosinone.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.private|Frosinone.private]] 
 
-### [Frosinone.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.personal|Frosinone.personal]] 
 
-### [Frosinone.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Frosinone.Province/City/Frosinone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Frosinone.Province/City/Frosinone.secret|Frosinone.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33368
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.78
+dv_has_place_latitude: 45.05
+dv_name: Pieve nel Cairolt
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.78] 
-[has_place_latitude::45.05] 
-[name::Pieve nel Cairolt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pieve_nel_Cairolt](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt|Pieve_nel_Cairolt]] 
 
-### [Pieve_nel_Cairolt.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.public|Pieve_nel_Cairolt.public]] 
 
-### [Pieve_nel_Cairolt.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.internal|Pieve_nel_Cairolt.internal]] 
 
-### [Pieve_nel_Cairolt.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.protect|Pieve_nel_Cairolt.protect]] 
 
-### [Pieve_nel_Cairolt.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.private|Pieve_nel_Cairolt.private]] 
 
-### [Pieve_nel_Cairolt.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.personal|Pieve_nel_Cairolt.personal]] 
 
-### [Pieve_nel_Cairolt.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Pieve_nel_Cairolt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Pieve_nel_Cairolt.secret|Pieve_nel_Cairolt.secret]] 
 

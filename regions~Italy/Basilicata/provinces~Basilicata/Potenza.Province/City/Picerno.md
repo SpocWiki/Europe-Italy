@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33361
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.63
+dv_has_place_latitude: 40.63
+dv_name: Picerno
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.63] 
-[has_place_latitude::40.63] 
-[name::Picerno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Picerno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno|Picerno]] 
 
-### [Picerno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.public|Picerno.public]] 
 
-### [Picerno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.internal|Picerno.internal]] 
 
-### [Picerno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.protect|Picerno.protect]] 
 
-### [Picerno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.private|Picerno.private]] 
 
-### [Picerno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.personal|Picerno.personal]] 
 
-### [Picerno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/Potenza.Province/City/Picerno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Basilicata/provinces~Basilicata/Potenza.Province/City/Picerno.secret|Picerno.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31943
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.15
+dv_has_place_latitude: 45.68
+dv_name: Lentate al Sedveso
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.15] 
-[has_place_latitude::45.68] 
-[name::Lentate al Sedveso] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lentate_al_Sedveso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso|Lentate_al_Sedveso]] 
 
-### [Lentate_al_Sedveso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.public|Lentate_al_Sedveso.public]] 
 
-### [Lentate_al_Sedveso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.internal|Lentate_al_Sedveso.internal]] 
 
-### [Lentate_al_Sedveso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.protect|Lentate_al_Sedveso.protect]] 
 
-### [Lentate_al_Sedveso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.private|Lentate_al_Sedveso.private]] 
 
-### [Lentate_al_Sedveso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.personal|Lentate_al_Sedveso.personal]] 
 
-### [Lentate_al_Sedveso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Monza_e_Brianza/City/Lentate_al_Sedveso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Monza_e_Brianza/City/Lentate_al_Sedveso.secret|Lentate_al_Sedveso.secret]] 
 

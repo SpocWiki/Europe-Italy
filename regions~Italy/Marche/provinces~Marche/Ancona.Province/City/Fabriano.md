@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30107
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.9
+dv_has_place_latitude: 43.33
+dv_name: Fabriano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.9] 
-[has_place_latitude::43.33] 
-[name::Fabriano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fabriano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano|Fabriano]] 
 
-### [Fabriano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.public|Fabriano.public]] 
 
-### [Fabriano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.internal|Fabriano.internal]] 
 
-### [Fabriano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.protect|Fabriano.protect]] 
 
-### [Fabriano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.private|Fabriano.private]] 
 
-### [Fabriano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.personal|Fabriano.personal]] 
 
-### [Fabriano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Ancona.Province/City/Fabriano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Ancona.Province/City/Fabriano.secret|Fabriano.secret]] 
 

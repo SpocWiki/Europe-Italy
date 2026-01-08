@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35266
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.08
+dv_has_place_latitude: 37.58
+dv_name: Viagrande
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.08] 
-[has_place_latitude::37.58] 
-[name::Viagrande] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viagrande](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande|Viagrande]] 
 
-### [Viagrande.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.public|Viagrande.public]] 
 
-### [Viagrande.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.internal|Viagrande.internal]] 
 
-### [Viagrande.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.protect|Viagrande.protect]] 
 
-### [Viagrande.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.private|Viagrande.private]] 
 
-### [Viagrande.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.personal|Viagrande.personal]] 
 
-### [Viagrande.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Catania/City/Viagrande.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Catania/City/Viagrande.secret|Viagrande.secret]] 
 

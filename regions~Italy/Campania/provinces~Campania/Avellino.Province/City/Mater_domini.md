@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32344
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.23
+dv_has_place_latitude: 40.73
+dv_name: Mater domini
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.23] 
-[has_place_latitude::40.73] 
-[name::Mater domini] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mater_domini](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini|Mater_domini]] 
 
-### [Mater_domini.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.public|Mater_domini.public]] 
 
-### [Mater_domini.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.internal|Mater_domini.internal]] 
 
-### [Mater_domini.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.protect|Mater_domini.protect]] 
 
-### [Mater_domini.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.private|Mater_domini.private]] 
 
-### [Mater_domini.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.personal|Mater_domini.personal]] 
 
-### [Mater_domini.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/Avellino.Province/City/Mater_domini.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Campania/provinces~Campania/Avellino.Province/City/Mater_domini.secret|Mater_domini.secret]] 
 

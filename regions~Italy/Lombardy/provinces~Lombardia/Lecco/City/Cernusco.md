@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29531
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.32
+dv_has_place_latitude: 45.67
+dv_name: Cernusco
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.32] 
-[has_place_latitude::45.67] 
-[name::Cernusco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cernusco](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco|Cernusco]] 
 
-### [Cernusco.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.public|Cernusco.public]] 
 
-### [Cernusco.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.internal|Cernusco.internal]] 
 
-### [Cernusco.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.protect|Cernusco.protect]] 
 
-### [Cernusco.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.private|Cernusco.private]] 
 
-### [Cernusco.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.personal|Cernusco.personal]] 
 
-### [Cernusco.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lecco/City/Cernusco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lecco/City/Cernusco.secret|Cernusco.secret]] 
 

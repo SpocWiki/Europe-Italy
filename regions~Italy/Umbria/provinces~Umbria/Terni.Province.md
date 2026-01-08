@@ -40,17 +40,17 @@ markerFolder: ./Terni.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Terni.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province|Terni.Province]] 
 
-### [Terni.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.public|Terni.Province.public]] 
 
-### [Terni.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.internal|Terni.Province.internal]] 
 
-### [Terni.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.protect|Terni.Province.protect]] 
 
-### [Terni.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.private|Terni.Province.private]] 
 
-### [Terni.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.personal|Terni.Province.personal]] 
 
-### [Terni.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/Terni.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Umbria/provinces~Umbria/Terni.Province.secret|Terni.Province.secret]] 
 

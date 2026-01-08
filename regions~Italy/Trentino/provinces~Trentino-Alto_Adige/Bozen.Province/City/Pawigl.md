@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33268
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.1
+dv_has_place_latitude: 46.63
+dv_name: Pawigl
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.1] 
-[has_place_latitude::46.63] 
-[name::Pawigl] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pawigl](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl|Pawigl]] 
 
-### [Pawigl.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.public|Pawigl.public]] 
 
-### [Pawigl.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.internal|Pawigl.internal]] 
 
-### [Pawigl.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.protect|Pawigl.protect]] 
 
-### [Pawigl.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.private|Pawigl.private]] 
 
-### [Pawigl.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.personal|Pawigl.personal]] 
 
-### [Pawigl.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Pawigl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Pawigl.secret|Pawigl.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29188
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.27
+dv_has_place_latitude: 45.2
+dv_name: Binasco
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.27] 
-[has_place_latitude::45.2] 
-[name::Binasco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Binasco](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco|Binasco]] 
 
-### [Binasco.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.public|Binasco.public]] 
 
-### [Binasco.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.internal|Binasco.internal]] 
 
-### [Binasco.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.protect|Binasco.protect]] 
 
-### [Binasco.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.private|Binasco.private]] 
 
-### [Binasco.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.personal|Binasco.personal]] 
 
-### [Binasco.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Pavia.Province/City/Binasco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Pavia.Province/City/Binasco.secret|Binasco.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28905
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.38
+dv_has_place_latitude: 45.52
+dv_name: Asso
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.38] 
-[has_place_latitude::45.52] 
-[name::Asso] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Asso](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso|Asso]] 
 
-### [Asso.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.public|Asso.public]] 
 
-### [Asso.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.internal|Asso.internal]] 
 
-### [Asso.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.protect|Asso.protect]] 
 
-### [Asso.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.private|Asso.private]] 
 
-### [Asso.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.personal|Asso.personal]] 
 
-### [Asso.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Milano.Province/City/Asso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Milano.Province/City/Asso.secret|Asso.secret]] 
 

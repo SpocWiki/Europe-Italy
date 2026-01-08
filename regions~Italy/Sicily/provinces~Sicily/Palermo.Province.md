@@ -41,17 +41,17 @@ markerFolder: ./Palermo/
 
 ## Confidential Links & Embeds: 
 
-### [Palermo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province|Palermo.Province]] 
 
-### [Palermo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.public|Palermo.Province.public]] 
 
-### [Palermo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.internal|Palermo.Province.internal]] 
 
-### [Palermo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.protect|Palermo.Province.protect]] 
 
-### [Palermo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.private|Palermo.Province.private]] 
 
-### [Palermo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.personal|Palermo.Province.personal]] 
 
-### [Palermo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/Palermo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sicily/provinces~Sicily/Palermo.Province.secret|Palermo.Province.secret]] 
 

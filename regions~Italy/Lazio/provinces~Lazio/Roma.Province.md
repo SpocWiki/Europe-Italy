@@ -44,17 +44,17 @@ markerFile: [[Roma.Province]]
 
 ## Confidential Links & Embeds: 
 
-### [Roma.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province|Roma.Province]] 
 
-### [Roma.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.public|Roma.Province.public]] 
 
-### [Roma.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.internal|Roma.Province.internal]] 
 
-### [Roma.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.protect|Roma.Province.protect]] 
 
-### [Roma.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.private|Roma.Province.private]] 
 
-### [Roma.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.personal|Roma.Province.personal]] 
 
-### [Roma.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Roma.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province.secret|Roma.Province.secret]] 
 

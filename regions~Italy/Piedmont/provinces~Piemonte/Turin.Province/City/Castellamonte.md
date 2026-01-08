@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29507
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.68
+dv_has_place_latitude: 45.4
+dv_name: Castellamonte
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.68] 
-[has_place_latitude::45.4] 
-[name::Castellamonte] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castellamonte](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte|Castellamonte]] 
 
-### [Castellamonte.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.public|Castellamonte.public]] 
 
-### [Castellamonte.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.internal|Castellamonte.internal]] 
 
-### [Castellamonte.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.protect|Castellamonte.protect]] 
 
-### [Castellamonte.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.private|Castellamonte.private]] 
 
-### [Castellamonte.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.personal|Castellamonte.personal]] 
 
-### [Castellamonte.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Castellamonte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Castellamonte.secret|Castellamonte.secret]] 
 

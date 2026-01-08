@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28741
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.37
+dv_has_place_latitude: 38.55
+dv_name: Alicudie
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.37] 
-[has_place_latitude::38.55] 
-[name::Alicudie] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alicudie](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie|Alicudie]] 
 
-### [Alicudie.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.public|Alicudie.public]] 
 
-### [Alicudie.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.internal|Alicudie.internal]] 
 
-### [Alicudie.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.protect|Alicudie.protect]] 
 
-### [Alicudie.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.private|Alicudie.private]] 
 
-### [Alicudie.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.personal|Alicudie.personal]] 
 
-### [Alicudie.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Alicudie.secret|Alicudie.secret]] 
 

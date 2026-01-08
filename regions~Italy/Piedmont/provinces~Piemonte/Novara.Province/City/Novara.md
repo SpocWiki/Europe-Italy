@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32970
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.62
+dv_has_place_latitude: 45.45
+dv_name: Novara
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.62] 
-[has_place_latitude::45.45] 
-[name::Novara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novara](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara|Novara]] 
 
-### [Novara.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.public|Novara.public]] 
 
-### [Novara.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.internal|Novara.internal]] 
 
-### [Novara.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.protect|Novara.protect]] 
 
-### [Novara.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.private|Novara.private]] 
 
-### [Novara.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.personal|Novara.personal]] 
 
-### [Novara.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Novara.Province/City/Novara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Novara.Province/City/Novara.secret|Novara.secret]] 
 

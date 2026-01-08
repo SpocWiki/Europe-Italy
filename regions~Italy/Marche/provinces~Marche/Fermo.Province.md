@@ -40,17 +40,17 @@ markerFolder: ./Fermo.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Fermo.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province|Fermo.Province]] 
 
-### [Fermo.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.public|Fermo.Province.public]] 
 
-### [Fermo.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.internal|Fermo.Province.internal]] 
 
-### [Fermo.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.protect|Fermo.Province.protect]] 
 
-### [Fermo.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.private|Fermo.Province.private]] 
 
-### [Fermo.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.personal|Fermo.Province.personal]] 
 
-### [Fermo.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/Fermo.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Marche/provinces~Marche/Fermo.Province.secret|Fermo.Province.secret]] 
 

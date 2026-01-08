@@ -40,17 +40,17 @@ markerFolder: ./Livorno/
 
 ## Confidential Links & Embeds: 
 
-### [Livorno](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno|Livorno]] 
 
-### [Livorno.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.public|Livorno.public]] 
 
-### [Livorno.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.internal|Livorno.internal]] 
 
-### [Livorno.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.protect|Livorno.protect]] 
 
-### [Livorno.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.private|Livorno.private]] 
 
-### [Livorno.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.personal|Livorno.personal]] 
 
-### [Livorno.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/Livorno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Tuscany/provinces~Toscana/Livorno.secret|Livorno.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32069
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.53
+dv_has_place_latitude: 45.32
+dv_name: Lodi
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.53] 
-[has_place_latitude::45.32] 
-[name::Lodi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lodi](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi|Lodi]] 
 
-### [Lodi.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.public|Lodi.public]] 
 
-### [Lodi.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.internal|Lodi.internal]] 
 
-### [Lodi.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.protect|Lodi.protect]] 
 
-### [Lodi.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.private|Lodi.private]] 
 
-### [Lodi.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.personal|Lodi.personal]] 
 
-### [Lodi.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/Lodi.Province/City/Lodi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lombardy/provinces~Lombardia/Lodi.Province/City/Lodi.secret|Lodi.secret]] 
 

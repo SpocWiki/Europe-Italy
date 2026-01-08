@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33503
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.95
+dv_has_place_latitude: 45.03
+dv_name: Pragelato
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.95] 
-[has_place_latitude::45.03] 
-[name::Pragelato] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pragelato](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato|Pragelato]] 
 
-### [Pragelato.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.public|Pragelato.public]] 
 
-### [Pragelato.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.internal|Pragelato.internal]] 
 
-### [Pragelato.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.protect|Pragelato.protect]] 
 
-### [Pragelato.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.private|Pragelato.private]] 
 
-### [Pragelato.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.personal|Pragelato.personal]] 
 
-### [Pragelato.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Turin.Province/City/Pragelato.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Turin.Province/City/Pragelato.secret|Pragelato.secret]] 
 

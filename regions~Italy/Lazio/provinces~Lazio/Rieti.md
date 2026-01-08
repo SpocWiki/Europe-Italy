@@ -40,17 +40,17 @@ markerFolder: ./Rieti/
 
 ## Confidential Links & Embeds: 
 
-### [Rieti](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti|Rieti]] 
 
-### [Rieti.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.public|Rieti.public]] 
 
-### [Rieti.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.internal|Rieti.internal]] 
 
-### [Rieti.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.protect|Rieti.protect]] 
 
-### [Rieti.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.private|Rieti.private]] 
 
-### [Rieti.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.personal|Rieti.personal]] 
 
-### [Rieti.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/Rieti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Lazio/provinces~Lazio/Rieti.secret|Rieti.secret]] 
 

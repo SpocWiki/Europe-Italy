@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34947
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.52
+dv_has_place_latitude: 38.05
+dv_name: Trapani
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.52] 
-[has_place_latitude::38.05] 
-[name::Trapani] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trapani](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Trapani|Trapani]] 
 
-### [Trapani.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.public|Trapani.public]] 
 
-### [Trapani.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.internal|Trapani.internal]] 
 
-### [Trapani.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.protect|Trapani.protect]] 
 
-### [Trapani.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.private|Trapani.private]] 
 
-### [Trapani.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.personal|Trapani.personal]] 
 
-### [Trapani.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Trapani.secret|Trapani.secret]] 
 

@@ -13,32 +13,37 @@ location:
   - 13.565555555
 coordinate_location: Point(13.565555555 42.469166666)
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-highest_point: '[[_Standards/WikiData/WD~Corno_Grande,636540]]'
-part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+highest_point: "[[_Standards/WikiData/WD~Corno_Grande,636540]]"
+part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
 country:
-  - '[[_Standards/WikiData/WD~Italy,38]]'
-  - '[[_Standards/WikiData/WD~San_Marino,238]]'
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~San_Marino,238]]"
 length: 1200
 width: 250
 instance_of:
-  - '[[_Standards/WikiData/WD~mountain_range,46831]]'
+  - "[[_Standards/WikiData/WD~mountain_range,46831]]"
 elevation_above_sea_level: 2912
 OmegaWiki_Defined_Meaning: 755728
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Italia%20fisica%20appennini.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pietra%20bismantova.jpg
-P8189: 987007294183705171
+P8189: 987007294183705200
 Commons_category: Apennine mountains
 Commons_gallery: Apennine Mountains
-Wolfram_Language_entity_code: Entity["Concept", "Apennines::wh3b2"]
+Wolfram_Language_entity_code: Entity"Concept", "Apennines = `=this.dv_"Concept", "Apennines`
 native_label: Appennini
+dv_"Concept", "Apennines: wh3b2"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Apennine_Mountains,1285|WD~Apennine_Mountains,1285]]"
+dv_concept-apennines: wh3b2"
+dv_is_same_as: "[[../../../../../WikiData/WD~Apennine_Mountains,1285|WD~Apennine_Mountains,1285]]"
 ---
 
 # [[Apennine_Mountains]] 
@@ -54,7 +59,7 @@ defaultZoom: 5
 ```
 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Apennine_Mountains,1285|WD~Apennine_Mountains,1285]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -76,4 +81,21 @@ defaultZoom: 5
 > The mountains lend their name to the Apennine peninsula that forms the major part of Italy. They are mostly verdant, although one side of the highest peak, Corno Grande, is partially covered by Calderone glacier, the only glacier in the Apennines. The eastern slopes down to the Adriatic Sea are steep, whilst the western slopes form foothills on which most of the towns of peninsular Italy are located. The mountains tend to be named after the province or provinces in which they are located; for example the Ligurian Apennines are in Liguria.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apennine%20Mountains) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains|Apennine_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.public|Apennine_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.internal|Apennine_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.protect|Apennine_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.private|Apennine_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.personal|Apennine_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/Apennine_Mountains.secret|Apennine_Mountains.secret]] 
 

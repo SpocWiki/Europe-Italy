@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32417
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.17
+dv_has_place_latitude: 46.68
+dv_name: Merano
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.17] 
-[has_place_latitude::46.68] 
-[name::Merano] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merano](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano|Merano]] 
 
-### [Merano.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.public|Merano.public]] 
 
-### [Merano.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.internal|Merano.internal]] 
 
-### [Merano.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.protect|Merano.protect]] 
 
-### [Merano.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.private|Merano.private]] 
 
-### [Merano.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.personal|Merano.personal]] 
 
-### [Merano.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/Bozen.Province/City/Merano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Trentino/provinces~Trentino-Alto_Adige/Bozen.Province/City/Merano.secret|Merano.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Brindisi.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Brindisi.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province|Brindisi.Province]] 
 
-### [Brindisi.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.public|Brindisi.Province.public]] 
 
-### [Brindisi.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.internal|Brindisi.Province.internal]] 
 
-### [Brindisi.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.protect|Brindisi.Province.protect]] 
 
-### [Brindisi.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.private|Brindisi.Province.private]] 
 
-### [Brindisi.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.personal|Brindisi.Province.personal]] 
 
-### [Brindisi.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/Brindisi.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Apulia/provinces~Apulia/Brindisi.Province.secret|Brindisi.Province.secret]] 
 

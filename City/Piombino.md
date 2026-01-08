@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33379
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.38
+dv_has_place_latitude: 42.9
+dv_name: Piombino
+dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.38] 
-[has_place_latitude::42.9] 
-[name::Piombino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piombino](/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/City/Piombino|Piombino]] 
 
-### [Piombino.public](/_public/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.public|Piombino.public]] 
 
-### [Piombino.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.internal|Piombino.internal]] 
 
-### [Piombino.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.protect|Piombino.protect]] 
 
-### [Piombino.private](/_private/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.private|Piombino.private]] 
 
-### [Piombino.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.personal|Piombino.personal]] 
 
-### [Piombino.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/City/Piombino.secret|Piombino.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29587
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.17
+dv_has_place_latitude: 42.35
+dv_name: Chieti
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.17] 
-[has_place_latitude::42.35] 
-[name::Chieti] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chieti](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti|Chieti]] 
 
-### [Chieti.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.public|Chieti.public]] 
 
-### [Chieti.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.internal|Chieti.internal]] 
 
-### [Chieti.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.protect|Chieti.protect]] 
 
-### [Chieti.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.private|Chieti.private]] 
 
-### [Chieti.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.personal|Chieti.personal]] 
 
-### [Chieti.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/Chieti/City/Chieti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Abruzzo/provinces~Abruzzo/Chieti/City/Chieti.secret|Chieti.secret]] 
 

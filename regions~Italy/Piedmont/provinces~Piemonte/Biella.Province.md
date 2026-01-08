@@ -40,17 +40,17 @@ markerFolder: ./Biella.Province/
 
 ## Confidential Links & Embeds: 
 
-### [Biella.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province|Biella.Province]] 
 
-### [Biella.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.public|Biella.Province.public]] 
 
-### [Biella.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.internal|Biella.Province.internal]] 
 
-### [Biella.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.protect|Biella.Province.protect]] 
 
-### [Biella.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.private|Biella.Province.private]] 
 
-### [Biella.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.personal|Biella.Province.personal]] 
 
-### [Biella.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/Biella.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Piedmont/provinces~Piemonte/Biella.Province.secret|Biella.Province.secret]] 
 

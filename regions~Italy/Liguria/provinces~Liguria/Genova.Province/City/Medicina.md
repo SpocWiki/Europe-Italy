@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32372
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.3
+dv_has_place_latitude: 44.48
+dv_name: Medicina
+dv_Country: "[[../../../../../Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.3] 
-[has_place_latitude::44.48] 
-[name::Medicina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Italy]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Medicina](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina|Medicina]] 
 
-### [Medicina.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.public|Medicina.public]] 
 
-### [Medicina.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.internal|Medicina.internal]] 
 
-### [Medicina.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.protect|Medicina.protect]] 
 
-### [Medicina.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.private|Medicina.private]] 
 
-### [Medicina.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.personal|Medicina.personal]] 
 
-### [Medicina.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/Genova.Province/City/Medicina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Liguria/provinces~Liguria/Genova.Province/City/Medicina.secret|Medicina.secret]] 
 

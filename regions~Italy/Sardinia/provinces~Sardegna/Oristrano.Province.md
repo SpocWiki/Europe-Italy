@@ -41,17 +41,17 @@ markerFolder: ./Oristrano/
 
 ## Confidential Links & Embeds: 
 
-### [Oristrano.Province](/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province|Oristrano.Province]] 
 
-### [Oristrano.Province.public](/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.public|Oristrano.Province.public]] 
 
-### [Oristrano.Province.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.internal|Oristrano.Province.internal]] 
 
-### [Oristrano.Province.protect](/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.protect|Oristrano.Province.protect]] 
 
-### [Oristrano.Province.private](/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.private|Oristrano.Province.private]] 
 
-### [Oristrano.Province.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.personal|Oristrano.Province.personal]] 
 
-### [Oristrano.Province.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/Oristrano.Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/regions~Italy/Sardinia/provinces~Sardegna/Oristrano.Province.secret|Oristrano.Province.secret]] 
 
