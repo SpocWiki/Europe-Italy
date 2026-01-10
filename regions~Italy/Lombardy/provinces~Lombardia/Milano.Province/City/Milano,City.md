@@ -247,7 +247,7 @@ Libris_URI: ljx0ztb44nvpvmx
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.19
 dv_has_place_latitude: 45.46
-dv_has_name_: Mailand=Milano
+dv_has_name: Mailand=Milano
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Milan,490|WD~Milan,490]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Milan,490|WD~Milan,490]]"
@@ -259,7 +259,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Milan,490|WD~Milan,490]
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../Italy]]  
 [StateId::] 

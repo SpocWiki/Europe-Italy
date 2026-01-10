@@ -214,7 +214,7 @@ Colon_Classification: SG--52731
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.15
 dv_has_place_latitude: 40.87
-dv_has_name_: Napoli,City
+dv_has_name: Napoli,City
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Naples,2634|WD~Naples,2634]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Naples,2634|WD~Naples,2634]]"
@@ -226,7 +226,7 @@ dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Naples,2634|WD~Naple
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../../Italy]]  
 [StateId::] 

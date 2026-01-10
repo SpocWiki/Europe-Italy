@@ -174,7 +174,7 @@ Provenio_UUID:
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.25
 dv_has_place_latitude: 43.78
-dv_has_name_: Florenz
+dv_has_name: Florenz
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Florence,2044|WD~Florence,2044]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Florence,2044|WD~Florence,2044]]"
@@ -186,7 +186,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Florence,2044|WD~Floren
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../Italy]]  
 [StateId::] 

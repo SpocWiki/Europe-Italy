@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.48
 dv_has_place_latitude: 40.15
-dv_has_name_: Otranto
+dv_has_name: Otranto
 dv_Country: "[[../../../../../Italy]]"
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Otranto,52174]]"
@@ -30,7 +30,7 @@ dv_is_same_as: "[[_Standards/WikiData/WD~Otranto,52174]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

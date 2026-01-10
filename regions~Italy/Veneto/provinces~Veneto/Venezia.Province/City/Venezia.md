@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.33
 dv_has_place_latitude: 45.43
-dv_has_name_: Venedig=Venecia
+dv_has_name: Venedig=Venecia
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Venice,641|WD~Venice,641]]"
@@ -230,7 +230,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venic
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../Italy]]  
 [StateId::] 

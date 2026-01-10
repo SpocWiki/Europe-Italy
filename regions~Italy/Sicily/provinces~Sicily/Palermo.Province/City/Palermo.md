@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.35
 dv_has_place_latitude: 38.12
-dv_has_name_: Palermo
+dv_has_name: Palermo
 dv_Country: "[[../../../../../Italy]]"
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Palermo,2656|WD~Palermo,2656]]"
@@ -32,7 +32,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Palermo,2656|WD~Palermo
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

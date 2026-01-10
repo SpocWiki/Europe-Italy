@@ -24,14 +24,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 43
   - 78
-dv_has_name_: Calmadoli/Arezzo
+dv_has_name: Calmadoli/Arezzo
 dv_Country: "[[../../Italy]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::11,83] 
 [has_place_latitude::43,78] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

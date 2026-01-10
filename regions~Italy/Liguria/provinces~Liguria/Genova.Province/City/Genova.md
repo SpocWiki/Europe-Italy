@@ -169,7 +169,7 @@ EU_Participant_Identification_Code: 998295095
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.95
 dv_has_place_latitude: 44.42
-dv_has_name_: Genua
+dv_has_name: Genua
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Genoa,1449|WD~Genoa,1449]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Genoa,1449|WD~Genoa,1449]]"
@@ -181,7 +181,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Genoa,1449|WD~Genoa,144
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../Italy]]  
 [StateId::] 

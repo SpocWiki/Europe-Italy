@@ -41,7 +41,7 @@ Languages:
   - co
   - sl
 icon: flag-it
-dv_has_name_: Italy
+dv_has_name: Italy
 dv_has_name_en: Italy
 dv_has_name_es: Italia
 dv_has_name_fr: Italie
@@ -123,7 +123,7 @@ dv_developed_developing_countries: Developed
 ## International Names
 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
