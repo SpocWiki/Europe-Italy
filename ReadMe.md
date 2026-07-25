@@ -11,7 +11,7 @@ dv_ISO2: IT
 dv_ISO3: ITA
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+    - "[[../../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
     - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
@@ -21,8 +21,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
 dv_has_:
   image_for_:
-    flag: "[[./Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
-    coat_of_arms: "[[./Italy/Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
+    flag: "[[../Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
+    coat_of_arms: "[[Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
   name_:
     ab: Италиа
     ace: Itali
@@ -389,7 +389,7 @@ dv_has_:
     zh_tw: 義大利
     zu: ITaliya
   sound_of_:
-    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
+    anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
 dv_ISO4217-currency_alphabetic: EUR
@@ -413,7 +413,7 @@ dv_UNTERM_Chinese_Formal: 意大利共和国
 dv_UNTERM_French_Formal: la République italienne
 dv_UNTERM_Russian: Италия
 dv_UNTERM_Russian_Formal: Итальянская Республика
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Italy]]"
 dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
@@ -436,15 +436,15 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 380
 dv_Area-Total: 301302
 dv_Area-Land: 294060
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: I
-dv_Capital: "[[Italy/Counties/Lazio/Roma/City/Roma|Roma]]"
+dv_Capital: "[[Counties/Lazio/Roma/City/Roma|Roma]]"
 dv_Alcohol-l: 10.7
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 11.8169
 dv_has_place_latitude: 43.4809
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[../../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
   - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
@@ -453,9 +453,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: "[[./Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./Italy/Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
-dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
+dv_has_image_for_flag: "[[../Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
 dv_developed_developing_countries: Developed
 aliases:
   - An Eadailt
@@ -657,7 +657,7 @@ located_in_on_physical_feature:
   - "[[/_Standards/WikiData/WD~Mediterranean_Basin,72499|WD~Mediterranean_Basin,72499]]"
   - "[[/_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]"
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151|WD~Food_and_Agriculture_Organization,82151]]"
   - "[[/_Standards/WikiData/WD~Latin_Union,123209|WD~Latin_Union,123209]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]"
@@ -874,7 +874,7 @@ language_used:
   - "[[/_Standards/WikiData/WD~Cimbrian,37053|WD~Cimbrian,37053]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
   - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
@@ -1348,7 +1348,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
-into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[../France/ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1373,7 +1373,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Italy_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1421,26 +1421,26 @@ Numbers are of 2022-06
 
 | Region                                                 |  Pop/M |   kkm² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                         |
 | ------------------------------------------------------ | -----: | -----: | ------: | -------: | ----- | ---------------------------------------------------------- |
-| [[Italy/regions~Italy/Lombardy\|Lombardy]]             | 10.342 | 23.864 | 388.800 |   38.600 | 0.912 | Economic powerhouse; major industrial and financial center |
-| [[Italy/regions~Italy/Lazio\|Lazio]]                   |  5.745 | 17.232 | 198.000 |   33.600 | 0.914 | Capital region; political and cultural hub                 |
-| [[Italy/regions~Italy/Veneto\|Veneto]]                 |  4.883 | 18.345 | 163.000 |   33.200 | 0.900 | Strong manufacturing sector; tourism in Venice             |
-| [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |  4.452 | 22.453 | 161.000 |   36.200 | 0.921 | High quality of life; robust economy                       |
-| [[Italy/regions~Italy/Piedmont\|Piedmont]]             |  4.302 | 25.387 | 137.000 |   31.500 | 0.898 | Automotive industry; historical significance               |
-| [[Italy/regions~Italy/Campania\|Campania]]             |  5.615 | 13.671 | 108.000 |   18.600 | 0.854 | Rich cultural heritage; economic challenges                |
-| [[Italy/regions~Italy/Tuscany\|Tuscany]]               |  3.698 | 22.987 | 118.000 |   31.500 | 0.907 | Renowned for art and history; tourism-driven economy       |
-| [[Italy/regions~Italy/Apulia\|Apulia]]                 |  3.945 | 19.541 |  76.600 |   19.000 | 0.854 | Agriculture and tourism; southern region                   |
-| [[Italy/regions~Italy/Sicily\|Sicily]]                 |  4.825 | 25.832 |  89.200 |   17.800 | 0.845 | Largest island; diverse economy                            |
-| [[Italy/regions~Italy/Liguria\|Liguria]]               |  1.535 |  5.416 |  49.900 |   32.100 | 0.898 | Port cities; shipbuilding industry                         |
-| [[Italy/regions~Italy/Marche\|Marche]]                 |  1.524 |  9.401 |  43.200 |   28.300 | 0.901 | Manufacturing and agriculture                              |
-| [[Italy/regions~Italy/Calabria\|Calabria]]             |  1.870 | 15.222 |  33.300 |   17.000 | 0.845 | Southernmost region; economic development focus            |
-| [[Italy/regions~Italy/Friuli-Venezia_Giulia\|Friuli-Venezia Giulia]]                                  |  1.219 |  7.924 |  38.000 |   31.200 | 0.903 | Autonomous region; diverse economy                         |
-| [[Italy/regions~Italy/Sardinia\|Sardinia]]             |  1.604 | 24.100 |  34.900 |   21.200 | 0.868 | Island region; tourism and agriculture                     |
-| [[Italy/regions~Italy/Abruzzo\|Abruzzo]]               |  1.307 | 10.832 |  33.900 |   25.800 | 0.889 | Mountainous terrain; mixed economy                         |
-| [[Italy/regions~Italy/Trentino\|Trentino]]             |  1.111 | 13.606 |  41.700 |   39.200 | 0.920 | Autonomous region; high standard of living                 |
-| [[Italy/regions~Italy/Umbria\|Umbria]]                 |  0.930 |  8.464 |  22.500 |   25.400 | 0.897 | Landlocked region; cultural tourism                        |
-| [[Italy/regions~Italy/Basilicata\|Basilicata]]         |  0.559 | 10.073 |  12.600 |   22.200 | 0.862 | Least populous; rural economy                              |
-| [[Italy/regions~Italy/Molise\|Molise]]                 |  0.324 |  4.461 |   6.500 |   20.900 | 0.872 | Smallest region; agriculture and services                  |
-| [[Italy/regions~Italy/Aosta_Valley\|Aosta]] Valley     |  0.143 |  3.261 |   4.900 |   38.900 | 0.887 | Smallest population; autonomous region                     |
+| [[regions~Italy/Lombardy/|Lombardy]]             | 10.342 | 23.864 | 388.800 |   38.600 | 0.912 | Economic powerhouse; major industrial and financial center |
+| [[regions~Italy/Lazio/|Lazio]]                   |  5.745 | 17.232 | 198.000 |   33.600 | 0.914 | Capital region; political and cultural hub                 |
+| [[regions~Italy/Veneto/|Veneto]]                 |  4.883 | 18.345 | 163.000 |   33.200 | 0.900 | Strong manufacturing sector; tourism in Venice             |
+| [[regions~Italy/Emilia-Romagna/|Emilia-Romagna]] |  4.452 | 22.453 | 161.000 |   36.200 | 0.921 | High quality of life; robust economy                       |
+| [[regions~Italy/Piedmont/|Piedmont]]             |  4.302 | 25.387 | 137.000 |   31.500 | 0.898 | Automotive industry; historical significance               |
+| [[regions~Italy/Campania/|Campania]]             |  5.615 | 13.671 | 108.000 |   18.600 | 0.854 | Rich cultural heritage; economic challenges                |
+| [[regions~Italy/Tuscany/|Tuscany]]               |  3.698 | 22.987 | 118.000 |   31.500 | 0.907 | Renowned for art and history; tourism-driven economy       |
+| [[regions~Italy/Apulia/|Apulia]]                 |  3.945 | 19.541 |  76.600 |   19.000 | 0.854 | Agriculture and tourism; southern region                   |
+| [[regions~Italy/Sicily/|Sicily]]                 |  4.825 | 25.832 |  89.200 |   17.800 | 0.845 | Largest island; diverse economy                            |
+| [[regions~Italy/Liguria/|Liguria]]               |  1.535 |  5.416 |  49.900 |   32.100 | 0.898 | Port cities; shipbuilding industry                         |
+| [[regions~Italy/Marche/|Marche]]                 |  1.524 |  9.401 |  43.200 |   28.300 | 0.901 | Manufacturing and agriculture                              |
+| [[regions~Italy/Calabria/|Calabria]]             |  1.870 | 15.222 |  33.300 |   17.000 | 0.845 | Southernmost region; economic development focus            |
+| [[regions~Italy/Friuli-Venezia_Giulia/|Friuli-Venezia Giulia]]                                  |  1.219 |  7.924 |  38.000 |   31.200 | 0.903 | Autonomous region; diverse economy                         |
+| [[regions~Italy/Sardinia/|Sardinia]]             |  1.604 | 24.100 |  34.900 |   21.200 | 0.868 | Island region; tourism and agriculture                     |
+| [[regions~Italy/Abruzzo/|Abruzzo]]               |  1.307 | 10.832 |  33.900 |   25.800 | 0.889 | Mountainous terrain; mixed economy                         |
+| [[regions~Italy/Trentino/|Trentino]]             |  1.111 | 13.606 |  41.700 |   39.200 | 0.920 | Autonomous region; high standard of living                 |
+| [[regions~Italy/Umbria/|Umbria]]                 |  0.930 |  8.464 |  22.500 |   25.400 | 0.897 | Landlocked region; cultural tourism                        |
+| [[regions~Italy/Basilicata/|Basilicata]]         |  0.559 | 10.073 |  12.600 |   22.200 | 0.862 | Least populous; rural economy                              |
+| [[regions~Italy/Molise/|Molise]]                 |  0.324 |  4.461 |   6.500 |   20.900 | 0.872 | Smallest region; agriculture and services                  |
+| [[regions~Italy/Aosta_Valley/|Aosta]] Valley     |  0.143 |  3.261 |   4.900 |   38.900 | 0.887 | Smallest population; autonomous region                     |
 
 ### #has_/image_for_/flag 
 
@@ -1454,15 +1454,15 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 
 | City                                                                          | Region                                                 | Pop/k |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
-| [[Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
-| [[Italy/regions~Italy/Lombardy/Milano.Province/City/Milano,City\|Milano]]     | [[Italy/regions~Italy/Lombardy\|Lombardy]]             |  1350 |
-| [[Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
-| [[Italy/regions~Italy/Piedmont/Turin.Province/City/Torino\|Torino]]           | [[Italy/regions~Italy/Piedmont\|Piedmont]]             |   840 |
-| [[Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo\|Palermo]]         | [[Italy/regions~Italy/Sicily\|Sicily]]                 |   630 |
-| [[Italy/regions~Italy/Liguria/Genova.Province/City/Genova\|Genoa]]            | [[Italy/regions~Italy/Liguria\|Liguria]]               |   560 |
-| [[Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna\|Bologna]] | [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |   390 |
-| [[Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City\|Florenz]]   | [[Italy/regions~Italy/Tuscany\|Tuscany]]               |   370 |
-| [[Italy/City/Bari|Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
+| [[regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città/|Roma]]                   | [[regions~Italy/Lazio/|Lazio]]                   |  2750 |
+| [[regions~Italy/Lombardy/Milano.Province/City/Milano,City/|Milano]]     | [[regions~Italy/Lombardy/|Lombardy]]             |  1350 |
+| [[regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Napoli,City/|Napoli]]     | [[regions~Italy/Campania/|Campania]]             |   910 |
+| [[regions~Italy/Piedmont/Turin.Province/City/Torino/|Torino]]           | [[regions~Italy/Piedmont/|Piedmont]]             |   840 |
+| [[regions~Italy/Sicily/Palermo.Province/City/Palermo/|Palermo]]         | [[regions~Italy/Sicily/|Sicily]]                 |   630 |
+| [[regions~Italy/Liguria/Genova.Province/City/Genova/|Genoa]]            | [[regions~Italy/Liguria/|Liguria]]               |   560 |
+| [[regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna/|Bologna]] | [[regions~Italy/Emilia-Romagna/|Emilia-Romagna]] |   390 |
+| [[regions~Italy/Tuscany/Firenze.Province/City/Firenze,City/|Florenz]]   | [[regions~Italy/Tuscany/|Tuscany]]               |   370 |
+| [[City/Bari|Bari]]                                                                      | [[regions~Italy/Apulia/|Apulia]]                 |   320 |
 
 
 ## #has_/text_of_/abstract  
