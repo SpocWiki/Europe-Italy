@@ -1,14 +1,626 @@
 ---
+dv_has_name: Italy
+dv_has_name_en: Italy
+dv_has_name_es: Italia
+dv_has_name_fr: Italie
+dv_has_name_cn: 意大利
+dv_has_name_ar: إيطاليا
+dv_has_name_ru: Италия
+dv_has_name_de: Italien
+dv_ISO2: IT
+dv_ISO3: ITA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
+dv_has_:
+  image_for_:
+    flag: "[[./Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
+    coat_of_arms: "[[./Italy/Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
+  name_:
+    ab: Италиа
+    ace: Itali
+    ady: Италие
+    aeb_arab: إيطاليا
+    af: Italië
+    alt: Италия
+    am: ጣልያን
+    ami: Italy
+    an: Italia
+    ang: Eotol
+    ann: Itali
+    anp: इटली
+    ar: إيطاليا
+    arc: ܐܝܛܠܝܐ
+    arq: إيطاليا
+    ary: الطاليان
+    arz: ايطاليا
+    as: ইটালী
+    ast: Italia
+    atj: Tariaw Aski
+    av: Италия
+    avk: Italia
+    awa: इटली
+    ay: Italiya
+    az: İtaliya
+    azb: ایتالیا
+    ba: Италия
+    ban: Italia
+    bar: Italien
+    bbc: Italia
+    bcl: Italya
+    be: Італія
+    be_tarask: Італія
+    bew: Itali
+    bg: Италия
+    bgn: ایتالیا
+    bho: इटली
+    bi: Italy
+    blk: အီတလီခမ်းထီ
+    bm: Italiya
+    bn: ইতালি
+    bo: ཨི་ཏ་ལི།
+    bpy: ইতালি
+    br: Italia
+    bs: Italija
+    btm: Italia
+    bug: ᨕᨗᨈᨒᨗᨐ
+    bxr: Итаали
+    ca: Itàlia
+    cbk_zam: Italia
+    cdo: É-dâi-lé
+    ce: Итали
+    ceb: Italya
+    ch: Italia
+    chr: ᎢᏔᎵᏱ
+    chy: Italy
+    ckb: ئیتاڵیا
+    co: Italia
+    cr: ᐃᑕᓖ
+    crh: İtaliya
+    crh_latn: İtaliya
+    crh-ro: Italiye
+    cs: Itálie
+    csb: Italskô
+    cu: Италїꙗ
+    cv: Итали
+    cy: Yr Eidal
+    da: Italien
+    dag: Italia
+    de: Italien
+    de-at: Italien
+    de_ch: Italien
+    din: Italia
+    diq: İtalya
+    dsb: Italska
+    dty: इटाली
+    dv: އިޓަލީވިލާތް
+    dz: ཨྀཊ་ལི་
+    ee: Italy
+    el: Ιταλία
+    eml: Itâglia
+    en: Italy
+    en_ca: Italy
+    en_gb: Italy
+    en-us: Italy
+    eo: Italio
+    es: Italia
+    et: Itaalia
+    eu: Italia
+    ext: Itália
+    fa: ایتالیا
+    ff: Italiya
+    fi: Italia
+    fj: Itali
+    fo: Italia
+    fon: Italitò
+    fr: Italie
+    frp: Étalia
+    frr: Itaalien
+    fur: Italie
+    fy: Itaalje
+    ga: an Iodáil
+    gag: İtaliya
+    gan: 意大利
+    gcr: Itali
+    gd: An Eadailt
+    gl: Italia
+    glk: ايتاليا
+    gn: Itália
+    gom: इटली
+    gom-deva: इटली
+    gom_latn: Italy
+    gor: Italia
+    got: 𐌹𐍄𐌰𐌻𐌹𐌰
+    gpe: Italy
+    grc: Ἰταλία
+    gsw: Italie
+    gu: ઈટલી
+    gv: yn Iddaal
+    ha: Italiya
+    hak: Yi-thai-li
+    haw: ʻĪkālia
+    he: איטליה
+    hi: इटली
+    hif: Italy
+    hr: Italija
+    hsb: Italska
+    ht: Itali
+    hu: Olaszország
+    hy: Իտալիա
+    hyw: Իտալիա
+    ia: Italia
+    iba: Itali
+    id: Italia
+    ie: Italia
+    ig: Italy
+    ik: Italy
+    ilo: Italia
+    inh: Итали
+    io: Italia
+    is: Ítalía
+    it: Italia
+    iu: ᐄᑕᓖ
+    ja: イタリア
+    jam: Itali
+    jbo: italias
+    jv: Itali
+    ka: იტალია
+    kaa: İtaliya
+    kab: Ṭṭelyan
+    kbd: Урым
+    kbp: Itaalii
+    kcg: Italiya
+    kea: Itália
+    kg: Italia
+    kge: Italia
+    ki: Itari
+    kk: Италия
+    kl: Italia
+    km: ប្រទេសអ៊ីតាលី
+    kn: ಇಟಲಿ
+    knc: Italy
+    ko: 이탈리아
+    koi: Италья
+    ko-kp: 이딸리아
+    krc: Италия
+    ks: اِٹَلی
+    ksh: Italie
+    ku: Îtalya
+    kv: Италия
+    kw: Itali
+    ky: Италия
+    la: Italia
+    lad: Italia
+    lb: Italien
+    lbe: Италия
+    lez: Италия
+    lfn: Italia
+    lg: Yitale
+    li: Italië
+    lij: Italia
+    liv: Itāļmō
+    lld: Talia
+    lmo: Itàlia
+    ln: Italya
+    lo: ອິຕາລີ
+    lrc: ایتالیا
+    lt: Italija
+    ltg: Italeja
+    lv: Itālija
+    lzh: 義大利
+    mad: Italia
+    mai: इटली
+    map_bms: Italia
+    mdf: Италия
+    mg: Italia
+    mhr: Италий
+    mi: Itāria
+    min: Itali
+    mk: Италија
+    ml: ഇറ്റലി
+    mn: Итали
+    mni: ꯏꯇꯥꯂꯤ
+    mos: Italy
+    mr: इटली
+    mrj: Италия
+    ms: Itali
+    ms_arab: ايتالي
+    mt: Italja
+    mwl: Eitália
+    my: အီတလီနိုင်ငံ
+    myv: Италия Мастор
+    mzn: ایتالیا
+    na: Itari
+    nah: Italiah
+    nan: Í-tāi-lī
+    nap: Italia
+    nb: Italia
+    nds: Italien
+    nds_nl: Italiën
+    ne: इटाली
+    new: इटाली
+    nia: Italia
+    nl: Italië
+    nn: Italia
+    nov: Italia
+    nqo: ߌߕߊߟߌ߫
+    nr: I-Italy
+    nrm: Italie
+    nso: Italia
+    nup: Italy
+    nv: Doohatsʼíí Yátiʼ Dineʼé Bikéyah
+    ny: Italia
+    oc: Itàlia
+    olo: Itualii
+    om: Xaaliyaanii
+    or: ଇଟାଲୀ
+    os: Итали
+    pa: ਇਟਲੀ
+    pag: Italia
+    pam: Italya
+    pap: Italia
+    pcd: Italie
+    pdc: Idali
+    pfl: Idalje
+    pi: इटली
+    pih: Italii
+    pl: Włochy
+    pms: Italia
+    pnb: اٹلی
+    pnt: Ιταλία
+    ps: اېټاليا
+    pt: Itália
+    pt_br: Itália
+    qu: Italya
+    rgn: Itaglia
+    rm: Italia
+    rmy: Italiya
+    rn: Italya
+    ro: Italia
+    roa-tara: Itaglie
+    rsk: Катеґория:Италия
+    ru: Италия
+    rue: Італія
+    rup: Italia
+    rw: Ubutaliyani
+    sa: इटली
+    sah: Италия
+    sat: ᱤᱴᱟᱞᱤ
+    sc: Itàlia
+    scn: Italia
+    sco: Italy
+    sd: اٽلي
+    se: Itália
+    sg: Italùii
+    sgs: Italėjė
+    sh: Italija
+    shi: Ṭṭalyan
+    shn: မိူင်းဢီႇတႃႇလီႇ
+    si: ඉතාලිය
+    sk: Taliansko
+    skr: اٹلی
+    sl: Italija
+    sm: Italia
+    sma: Itaalia
+    smj: Itálla
+    smn: Italia
+    sms: Italia
+    sn: Italy
+    so: Talyaaniga
+    sq: Italia
+    sr: Италија
+    sr_ec: Италија
+    sr_el: Italija
+    srn: Italiyanikondre
+    ss: INtaliyane
+    st: Ithali
+    stq: Italien
+    su: Italia
+    sv: Italien
+    sw: Italia
+    syl: ꠁꠔꠣꠟꠤ
+    szl: Italijo
+    szy: Italy
+    ta: இத்தாலி
+    tay: Italy
+    tcy: ಇಟಲಿ
+    te: ఇటలీ
+    tet: Itália
+    tg: Итолиё
+    tg_cyrl: Италия
+    th: ประเทศอิตาลี
+    ti: ኢጣልያ
+    tk: Italiýa
+    tl: Italya
+    tly: Italijə
+    tn: Italia
+    to: ʻĪtali
+    tok: ma Italija
+    tpi: Itali
+    tr: İtalya
+    trv: Italy
+    ts: Ithali
+    tt: Италия
+    tt_cyrl: Италия
+    tum: Italy
+    tw: Italy
+    ty: ’Itāria
+    tyv: Италия
+    udm: Италия
+    ug: ئىتالىيە
+    uk: Італія
+    ur: اطالیہ
+    uz: Italiya
+    ve: Italy
+    vec: Itàłia
+    vep: Italii
+    vi: Ý
+    vls: Itoalië
+    vo: Litaliyän
+    vro: Itaalia
+    wa: Itåleye
+    war: Italya
+    wo: Itaali
+    wuu: 意大利
+    xal: Италмудин Орн
+    xh: IItaly
+    xmf: იტალია
+    yi: איטאליע
+    yo: Itálíà
+    yue: 意大利
+    za: Eiqdaihleih
+    zea: Itâlië
+    zgh: ⵟⴰⵍⵢⴰⵏ
+    zh: 意大利
+    zh_cn: 意大利
+    zh_hans: 意大利
+    zh_hant: 義大利
+    zh_hk: 意大利
+    zh_mo: 意大利
+    zh-my: 意大利
+    zh_sg: 意大利
+    zh_tw: 義大利
+    zu: ITaliya
+  sound_of_:
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-France
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ITALY
+dv_Telephone: 39
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Italy
+dv_UNTERM_English: Italy
+dv_UNTERM_English_Formal: the Republic of Italy
+dv_UNTERM_Spanish_Formal: la República Italiana
+dv_UNTERM_Spanish: Italia
+dv_UNTERM_French: Italie (l') [fém.]
+dv_UNTERM_Arabic: إيطاليا
+dv_UNTERM_Arabic_Formal: جمهورية إيطاليا
+dv_UNTERM_Chinese: 意大利
+dv_UNTERM_Chinese_Formal: 意大利共和国
+dv_UNTERM_French_Formal: la République italienne
+dv_UNTERM_Russian: Италия
+dv_UNTERM_Russian_Formal: Итальянская Республика
+dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Intermediate_Region_Name: "[[Italy]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 3175395
+dv_FIPS: IT
+dv_FIFA: ITA
+dv_IOC: ITA
+dv_MARC: it
+dv_GAUL: 122
+dv_WMO: IY
+dv_ITU: I
+dv_DS: I
+dv_TLD: .it
+dv_EDGAR: L6
+dv_M49: 380
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 380
+dv_Area-Total: 301302
+dv_Area-Land: 294060
+dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_VehicleCode: I
+dv_Capital: "[[Italy/Counties/Lazio/Roma/City/Roma|Roma]]"
+dv_Alcohol-l: 10.7
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_has_place_longitude: 11.8169
+dv_has_place_latitude: 43.4809
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
+dv_has_image_for_flag: "[[./Flag_of_Italy.svg|Flag_of_Italy.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Italy/Emblem_of_Italy.svg|Emblem_of_Italy.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]"
+dv_developed_developing_countries: Developed
 aliases:
-  - Italy
+  - An Eadailt
+  - an Iodáil
+  - Doohatsʼíí Yátiʼ Dineʼé Bikéyah
+  - Eiqdaihleih
+  - Eitália
+  - Eotol
+  - I-Italy
+  - Idali
+  - Idalje
+  - IItaly
+  - INtaliyane
+  - Itaali
+  - Itaalia
+  - Itaalien
+  - Itaalii
+  - Itaalje
+  - Itaglia
+  - Itaglie
+  - Italeja
+  - Itali
   - Italia
+  - Italiah
+  - italian
+  - italias
   - Italie
-  - إيطاليا
-  - 意大利
-  - Италия
-  - the Republic of Italy
+  - Italien
+  - Italii
+  - Italija
+  - Italijo
+  - Italijə
+  - Italio
+  - Italitò
+  - Italiya
+  - Italiyanikondre
+  - Italiye
+  - Italië
+  - Italiën
+  - Italiýa
+  - Italja
+  - Italska
+  - Italskô
+  - Italy
+  - Italya
+  - Italùii
+  - Italėjė
+  - Itari
+  - Ithali
+  - Itoalië
+  - Itualii
+  - Itàlia
+  - Itàłia
+  - Itália
+  - Itálie
+  - Itálla
+  - Itálíà
+  - Itâglia
+  - Itâlië
+  - Itåleye
+  - Itālija
+  - Itāria
+  - Itāļmō
   - la República Italiana
-  - ReadMe
+  - Litaliyän
+  - ma Italija
+  - Olaszország
+  - Talia
+  - Taliansko
+  - Talyaaniga
+  - Tariaw Aski
+  - the Republic of Italy
+  - Ubutaliyani
+  - Włochy
+  - Xaaliyaanii
+  - Yi-thai-li
+  - Yitale
+  - yn Iddaal
+  - Yr Eidal
+  - É-dâi-lé
+  - Étalia
+  - Í-tāi-lī
+  - Ítalía
+  - Îtalya
+  - Ý
+  - İtaliya
+  - İtalya
+  - ʻĪkālia
+  - ʻĪtali
+  - Ιταλία
+  - Італія
+  - Итаали
+  - Италїꙗ
+  - Итали
+  - Италија
+  - Италиа
+  - Италие
+  - Италий
+  - Италия
+  - Италия Мастор
+  - Италмудин Орн
+  - Италья
+  - Итолиё
+  - Катеґория:Италия
+  - Урым
+  - Իտալիա
+  - איטאליע
+  - איטליה
+  - إيطاليا
+  - ئىتالىيە
+  - ئیتاڵیا
+  - اطالیہ
+  - الطاليان
+  - ايتالي
+  - ايتاليا
+  - ايطاليا
+  - اِٹَلی
+  - اٹلی
+  - اٽلي
+  - ایتالیا
+  - اېټاليا
+  - ܐܝܛܠܝܐ
+  - އިޓަލީވިލާތް
+  - ߌߕߊߟߌ߫
+  - इटली
+  - इटाली
+  - ইটালী
+  - ইতালি
+  - ਇਟਲੀ
+  - ઈટલી
+  - ଇଟାଲୀ
+  - இத்தாலி
+  - ఇటలీ
+  - ಇಟಲಿ
+  - ഇറ്റലി
+  - ඉතාලිය
+  - ประเทศอิตาลี
+  - ອິຕາລີ
+  - ཨི་ཏ་ལི།
+  - ཨྀཊ་ལི་
+  - မိူင်းဢီႇတႃႇလီႇ
+  - အီတလီခမ်းထီ
+  - အီတလီနိုင်ငံ
+  - იტალია
+  - ኢጣልያ
+  - ጣልያን
+  - ᎢᏔᎵᏱ
+  - ᐃᑕᓖ
+  - ᐄᑕᓖ
+  - ប្រទេសអ៊ីតាលី
+  - ᨕᨗᨈᨒᨗᨐ
+  - ᱤᱴᱟᱞᱤ
+  - Ṭṭalyan
+  - Ṭṭelyan
+  - Ἰταλία
+  - ’Itāria
+  - ⵟⴰⵍⵢⴰⵏ
+  - イタリア
+  - 意大利
+  - 義大利
+  - ꠁꠔꠣꠟꠤ
+  - ꯏꯇꯥꯂꯤ
+  - 이딸리아
+  - 이탈리아
+  - 𐌹𐍄𐌰𐌻𐌹𐌰
 has_id_wikidata: Q38
 title: Italy
 linkTitle: ""
@@ -41,131 +653,819 @@ Languages:
   - co
   - sl
 icon: flag-it
-dv_has_name: Italy
-dv_has_name_en: Italy
-dv_has_name_es: Italia
-dv_has_name_fr: Italie
-dv_has_name_cn: 意大利
-dv_has_name_ar: إيطاليا
-dv_has_name_ru: Италия
-dv_has_name_de: Italien
-dv_ISO2: IT
-dv_ISO3: ITA
-dv_has_:
-  name_:
-  url_for_:
-    code_repository: https://github.com/SpocWiki/Europe-Italy
-  image_for_:
-    flag: "![[./Flag_of_Italy.svg|200]] ![](./Flag_of_Italy.svg)"
-    coat_of_arms: "![[./Emblem_of_Italy.svg|150]] ![](./Emblem_of_Italy.svg)"
-  sound_of_:
-    anthem: "![[Anthem-Italy.mp3]]"
-dv_ISO4217-currency_alphabetic: EUR
-dv_ISO4217-currency_name: Euro
-dv_ISO4217-currency_numeric: 978
-dv_ISO4217-currency_minor_unit: 2
-dv_ISO4217-currency_country_name: ITALY
-dv_Telephone: 39
-dv_Global: true
-dv_Global_Name: World
-dv_CLDR_display_name: Italy
-dv_UNTERM_English: Italy
-dv_UNTERM_English_Formal: the Republic of Italy
-dv_UNTERM_Spanish_Formal: la República Italiana
-dv_UNTERM_Spanish: Italia
-dv_UNTERM_French: Italie (l') [fém.]
-dv_UNTERM_Arabic: إيطاليا
-dv_UNTERM_Arabic_Formal: جمهورية إيطاليا
-dv_UNTERM_Chinese: 意大利
-dv_UNTERM_Chinese_Formal: 意大利共和国
-dv_UNTERM_French_Formal: la République italienne
-dv_UNTERM_Russian: Италия
-dv_UNTERM_Russian_Formal: Итальянская Республика
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Southern Europe]]"
-dv_Region: 150
-dv_Sub-region: 39
-dv_Geoname-ID: 3175395
-dv_FIPS: IT
-dv_FIFA: ITA
-dv_IOC: ITA
-dv_MARC: it
-dv_GAUL: 122
-dv_WMO: IY
-dv_ITU: I
-dv_DS: I
-dv_TLD: .it
-dv_EDGAR: L6
-dv_M49: 380
-dv_is_independent: Yes
-dv_Developed_:
-  Developing_Countries: Developed
-dv_ISO3166-1-numeric: 380
-dv_Area-Total: 301302
-dv_Area-Land: 294060
-dv_has_place_continent: "[[../../../Europe]]"
-dv_VehicleCode: I
-dv_Capital: "[[Italy/Counties/Lazio/Roma/City/Roma]]"
-dv_Alcohol-l: 10.7
-dv_is_a_: "[[../../../../Geography/Place]]"
-dv_has_place_longitude: 11.8169
-dv_has_place_latitude: 43.4809
-dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Italy
-dv_has_image_for_flag: "![[./Flag_of_Italy.svg|200]] ![](./Flag_of_Italy.svg)"
-dv_has_image_for_coat_of_arms: "![[./Emblem_of_Italy.svg|150]] ![](./Emblem_of_Italy.svg)"
-dv_has_sound_of_anthem: "![[Anthem-Italy.mp3]]"
-dv_developed_developing_countries: Developed
+located_in_on_physical_feature:
+  - "[[/_Standards/WikiData/WD~Mediterranean_Basin,72499|WD~Mediterranean_Basin,72499]]"
+  - "[[/_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]"
+member_of:
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[/_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151|WD~Food_and_Agriculture_Organization,82151]]"
+  - "[[/_Standards/WikiData/WD~Latin_Union,123209|WD~Latin_Union,123209]]"
+  - "[[/_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]"
+  - "[[/_Standards/WikiData/WD~Office_of_the_United_Nations_High_Commissioner_for_Refugees,132551|WD~Office_of_the_United_Nations_High_Commissioner_for_Refugees,132551]]"
+  - "[[/_Standards/WikiData/WD~European_Air_Transport_Command,141720|WD~European_Air_Transport_Command,141720]]"
+  - "[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
+  - "[[/_Standards/WikiData/WD~European_Coal_and_Steel_Community,161549|WD~European_Coal_and_Steel_Community,161549]]"
+  - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[/_Standards/WikiData/WD~Interparliamentary_Union,176815|WD~Interparliamentary_Union,176815]]"
+  - "[[/_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]"
+  - "[[/_Standards/WikiData/WD~UN_Trade_and_Development,182000|WD~UN_Trade_and_Development,182000]]"
+  - "[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]"
+  - "[[/_Standards/WikiData/WD~Western_European_Union,189946|WD~Western_European_Union,189946]]"
+  - "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[/_Standards/WikiData/WD~Union_for_the_Mediterranean,192177|WD~Union_for_the_Mediterranean,192177]]"
+  - "[[/_Standards/WikiData/WD~International_Maritime_Organization,201054|WD~International_Maritime_Organization,201054]]"
+  - "[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[/_Standards/WikiData/WD~Bank_for_International_Settlements,309195|WD~Bank_for_International_Settlements,309195]]"
+  - "[[/_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]"
+  - "[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[/_Standards/WikiData/WD~United_Nations_Industrial_Development_Organization,386120|WD~United_Nations_Industrial_Development_Organization,386120]]"
+  - "[[/_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]]"
+  - "[[/_Standards/WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981|WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+  - "[[/_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227|WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
+  - "[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]"
+  - "[[/_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859|WD~International_Fund_for_Agricultural_Development,689859]]"
+  - "[[/_Standards/WikiData/WD~United_Nations_Truce_Supervision_Organization,699036|WD~United_Nations_Truce_Supervision_Organization,699036]]"
+  - "[[/_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]"
+  - "[[/_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]"
+  - "[[/_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]"
+  - "[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[/_Standards/WikiData/WD~International_Chamber_of_Commerce,848633|WD~International_Chamber_of_Commerce,848633]]"
+  - "[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[/_Standards/WikiData/WD~Permanent_Court_of_Arbitration,1045198|WD~Permanent_Court_of_Arbitration,1045198]]"
+  - "[[/_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[/_Standards/WikiData/WD~Inter-American_Development_Bank,1153087|WD~Inter-American_Development_Bank,1153087]]"
+  - "[[/_Standards/WikiData/WD~Euro-Atlantic_Partnership_Council,1374456|WD~Euro-Atlantic_Partnership_Council,1374456]]"
+  - "[[/_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]"
+  - "[[/_Standards/WikiData/WD~Group_of_Ten,1411881|WD~Group_of_Ten,1411881]]"
+  - "[[/_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[/_Standards/WikiData/WD~International_Mobile_Satellite_Organization,1666759|WD~International_Mobile_Satellite_Organization,1666759]]"
+  - "[[/_Standards/WikiData/WD~G7,1764511|WD~G7,1764511]]"
+  - "[[/_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]"
+  - "[[/_Standards/WikiData/WD~Caribbean_Development_Bank,3772571|WD~Caribbean_Development_Bank,3772571]]"
+  - "[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[/_Standards/WikiData/WD~International_Red_Cross_and_Red_Crescent_Movement,7178|WD~International_Red_Cross_and_Red_Crescent_Movement,7178]]"
+  - "[[/_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]"
+  - "[[/_Standards/WikiData/WD~International_Monetary_Fund,7804|WD~International_Monetary_Fund,7804]]"
+  - "[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+  - "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[/_Standards/WikiData/WD~G20,19771|WD~G20,19771]]"
+  - "[[/_Standards/WikiData/WD~G8,37143|WD~G8,37143]]"
+  - "[[/_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+  - "[[/_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984|WD~International_Atomic_Energy_Agency,41984]]"
+  - "[[/_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+  - "[[/_Standards/WikiData/WD~CERN,42944|WD~CERN,42944]]"
+  - "[[/_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]"
+  - "[[/_Standards/WikiData/WD~International_Criminal_Court,47488|WD~International_Criminal_Court,47488]]"
+  - "[[/_Standards/WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]"
+  - "[[/_Standards/WikiData/WD~International_Labour_Organization,54129|WD~International_Labour_Organization,54129]]"
+  - "[[/_Standards/WikiData/WD~UN_Tourism,61923|WD~UN_Tourism,61923]]"
+  - "[[/_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]"
+  - "[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[/_Standards/WikiData/WD~Procurement_G6,18816843|WD~Procurement_G6,18816843]]"
+  - "[[/_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]"
+  - "[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+public_holiday:
+  - "[[/_Standards/WikiData/WD~Epiphany,132001|WD~Epiphany,132001]]"
+  - "[[/_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+  - "[[/_Standards/WikiData/WD~Easter_Monday,209663|WD~Easter_Monday,209663]]"
+  - "[[/_Standards/WikiData/WD~Festa_della_Repubblica,802461|WD~Festa_della_Repubblica,802461]]"
+  - "[[/_Standards/WikiData/WD~Ferragosto,1262719|WD~Ferragosto,1262719]]"
+  - "[[/_Standards/WikiData/WD~Saint_Stephen's_Day,1366863|WD~Saint_Stephen's_Day,1366863]]"
+  - "[[/_Standards/WikiData/WD~Anniversary_of_the_liberation_of_Italy,2851732|WD~Anniversary_of_the_liberation_of_Italy,2851732]]"
+  - "[[/_Standards/WikiData/WD~Feast_of_the_Immaculate_Conception,3538509|WD~Feast_of_the_Immaculate_Conception,3538509]]"
+  - "[[/_Standards/WikiData/WD~All_Saints'_Day,587|WD~All_Saints'_Day,587]]"
+  - "[[/_Standards/WikiData/WD~Christmas,19809|WD~Christmas,19809]]"
+  - "[[/_Standards/WikiData/WD~Easter,21196|WD~Easter,21196]]"
+  - "[[/_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+diplomatic_relation:
+  - "[[/_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]"
+  - "[[/_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]"
+  - "[[/_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[/_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]"
+  - "[[/_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]"
+  - "[[/_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+  - "[[/_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+  - "[[/_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
+  - "[[/_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
+  - "[[/_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[/_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]"
+  - "[[/_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]"
+  - "[[/_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[/_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
+  - "[[/_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[/_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[/_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]"
+  - "[[/_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[/_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
+  - "[[/_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[/_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[/_Standards/WikiData/WD~Norway,20|WD~Norway,20]]"
+  - "[[/_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]"
+  - "[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]"
+  - "[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+  - "[[/_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]"
+  - "[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[/_Standards/WikiData/WD~Luxembourg,32|WD~Luxembourg,32]]"
+  - "[[/_Standards/WikiData/WD~Finland,33|WD~Finland,33]]"
+  - "[[/_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[/_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]"
+  - "[[/_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]"
+  - "[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[/_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]"
+  - "[[/_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]"
+  - "[[/_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+  - "[[/_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+  - "[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[/_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]"
+  - "[[/_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
+  - "[[/_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]"
+  - "[[/_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]"
+  - "[[/_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]"
+  - "[[/_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]"
+  - "[[/_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+  - "[[/_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
+  - "[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[/_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+  - "[[/_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+  - "[[/_Standards/WikiData/WD~Moldova,217|WD~Moldova,217]]"
+  - "[[/_Standards/WikiData/WD~Albania,222|WD~Albania,222]]"
+  - "[[/_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]"
+  - "[[/_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+  - "[[/_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]"
+  - "[[/_Standards/WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]]"
+  - "[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[/_Standards/WikiData/WD~Andorra,228|WD~Andorra,228]]"
+  - "[[/_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]"
+  - "[[/_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]"
+  - "[[/_Standards/WikiData/WD~Malta,233|WD~Malta,233]]"
+  - "[[/_Standards/WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+  - "[[/_Standards/WikiData/WD~Montenegro,236|WD~Montenegro,236]]"
+  - "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+  - "[[/_Standards/WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]]"
+  - "[[/_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[/_Standards/WikiData/WD~Chile,298|WD~Chile,298]]"
+  - "[[/_Standards/WikiData/WD~Liechtenstein,347|WD~Liechtenstein,347]]"
+  - "[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[/_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[/_Standards/WikiData/WD~Peru,419|WD~Peru,419]]"
+  - "[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+replaces: "[[/_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]"
+follows: "[[/_Standards/WikiData/WD~Kingdom_of_Italy,172579|WD~Kingdom_of_Italy,172579]]"
+shape: "[[/_Standards/WikiData/WD~boot,190868|WD~boot,190868]]"
+coat_of_arms: "[[/_Standards/WikiData/WD~Emblem_of_Italy,199432|WD~Emblem_of_Italy,199432]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Italy,216989|WD~geography_of_Italy,216989]]"
+patron_saint:
+  - "[[/_Standards/WikiData/WD~Catherine_of_Siena,229190|WD~Catherine_of_Siena,229190]]"
+  - "[[/_Standards/WikiData/WD~Francis_of_Assisi,676555|WD~Francis_of_Assisi,676555]]"
+language_used:
+  - "[[/_Standards/WikiData/WD~Mòcheno,268130|WD~Mòcheno,268130]]"
+  - "[[/_Standards/WikiData/WD~Italian_Sign_Language,375619|WD~Italian_Sign_Language,375619]]"
+  - "[[/_Standards/WikiData/WD~Gallurese,612220|WD~Gallurese,612220]]"
+  - "[[/_Standards/WikiData/WD~Walser_German,680517|WD~Walser_German,680517]]"
+  - "[[/_Standards/WikiData/WD~Logudorese,777974|WD~Logudorese,777974]]"
+  - "[[/_Standards/WikiData/WD~Sassarese,845441|WD~Sassarese,845441]]"
+  - "[[/_Standards/WikiData/WD~Emilian,1057898|WD~Emilian,1057898]]"
+  - "[[/_Standards/WikiData/WD~Arbëresh,1075302|WD~Arbëresh,1075302]]"
+  - "[[/_Standards/WikiData/WD~Judæo-Italian,1145414|WD~Judæo-Italian,1145414]]"
+  - "[[/_Standards/WikiData/WD~Romagnol,1641543|WD~Romagnol,1641543]]"
+  - "[[/_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+  - "[[/_Standards/WikiData/WD~Slovene,9063|WD~Slovene,9063]]"
+  - "[[/_Standards/WikiData/WD~Occitan,14185|WD~Occitan,14185]]"
+  - "[[/_Standards/WikiData/WD~Franco-Provençal,15087|WD~Franco-Provençal,15087]]"
+  - "[[/_Standards/WikiData/WD~Piedmontese,15085|WD~Piedmontese,15085]]"
+  - "[[/_Standards/WikiData/WD~Venetian,32724|WD~Venetian,32724]]"
+  - "[[/_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[/_Standards/WikiData/WD~German,188|WD~German,188]]"
+  - "[[/_Standards/WikiData/WD~Corsican,33111|WD~Corsican,33111]]"
+  - "[[/_Standards/WikiData/WD~Friulian,33441|WD~Friulian,33441]]"
+  - "[[/_Standards/WikiData/WD~Lombard,33754|WD~Lombard,33754]]"
+  - "[[/_Standards/WikiData/WD~Neapolitan,33845|WD~Neapolitan,33845]]"
+  - "[[/_Standards/WikiData/WD~Sicilian,33973|WD~Sicilian,33973]]"
+  - "[[/_Standards/WikiData/WD~Sardinian,33976|WD~Sardinian,33976]]"
+  - "[[/_Standards/WikiData/WD~Campidanese_Sardinian,35348|WD~Campidanese_Sardinian,35348]]"
+  - "[[/_Standards/WikiData/WD~International_Sign,35754|WD~International_Sign,35754]]"
+  - "[[/_Standards/WikiData/WD~Ligurian,36106|WD~Ligurian,36106]]"
+  - "[[/_Standards/WikiData/WD~Ladin,36202|WD~Ladin,36202]]"
+  - "[[/_Standards/WikiData/WD~Slavomolisano,36254|WD~Slavomolisano,36254]]"
+  - "[[/_Standards/WikiData/WD~Cimbrian,37053|WD~Cimbrian,37053]]"
+described_by_source:
+  - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[/_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
+  - "[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President_of_Italy,332711|WD~President_of_Italy,332711]]"
+head_of_government: "[[/_Standards/WikiData/WD~Giorgia_Meloni,451791|WD~Giorgia_Meloni,451791]]"
+main_regulatory_text: "[[/_Standards/WikiData/WD~Constitution_of_Italy,719967|WD~Constitution_of_Italy,719967]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Italy,720060|WD~economy_of_Italy,720060]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Prime_Minister_of_Italy,796897|WD~Prime_Minister_of_Italy,796897]]"
+central_bank: "[[/_Standards/WikiData/WD~Bank_of_Italy,806176|WD~Bank_of_Italy,806176]]"
+named_after: "[[/_Standards/WikiData/WD~Roman_Italy,913582|WD~Roman_Italy,913582]]"
+legislative_body: "[[/_Standards/WikiData/WD~Italian_Parliament,1117578|WD~Italian_Parliament,1117578]]"
+electrical_plug_type:
+  - "[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]"
+  - "[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+  - "[[/_Standards/WikiData/WD~Type_L,1520890|WD~Type_L,1520890]]"
+highest_judicial_authority: "[[/_Standards/WikiData/WD~Supreme_Court_of_Cassation,1135541|WD~Supreme_Court_of_Cassation,1135541]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Italy,1800338|WD~demographics_of_Italy,1800338]]"
+culture: "[[/_Standards/WikiData/WD~culture_of_Italy,1992919|WD~culture_of_Italy,1992919]]"
+has_characteristic: "[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
+instance_of:
+  - "[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+has_cabinet: "[[/_Standards/WikiData/WD~Council_of_Ministers_of_Italy,3687318|WD~Council_of_Ministers_of_Italy,3687318]]"
+lowest_point: "[[/_Standards/WikiData/WD~Contane,3687778|WD~Contane,3687778]]"
+highest_point: "[[/_Standards/WikiData/WD~Mont_Blanc,583|WD~Mont_Blanc,583]]"
+official_language: "[[/_Standards/WikiData/WD~Italian,652|WD~Italian,652]]"
+contains_the_administrative_territorial_entity:
+  - "[[/_Standards/WikiData/WD~Lombardy,1210|WD~Lombardy,1210]]"
+  - "[[/_Standards/WikiData/WD~Piedmont,1216|WD~Piedmont,1216]]"
+  - "[[/_Standards/WikiData/WD~Aosta_Valley,1222|WD~Aosta_Valley,1222]]"
+  - "[[/_Standards/WikiData/WD~Trentino-South_Tyrol,1237|WD~Trentino-South_Tyrol,1237]]"
+  - "[[/_Standards/WikiData/WD~Veneto,1243|WD~Veneto,1243]]"
+  - "[[/_Standards/WikiData/WD~Friuli_Venezia_Giulia,1250|WD~Friuli_Venezia_Giulia,1250]]"
+  - "[[/_Standards/WikiData/WD~Liguria,1256|WD~Liguria,1256]]"
+  - "[[/_Standards/WikiData/WD~Emilia-Romagna,1263|WD~Emilia-Romagna,1263]]"
+  - "[[/_Standards/WikiData/WD~Tuscany,1273|WD~Tuscany,1273]]"
+  - "[[/_Standards/WikiData/WD~Marche,1279|WD~Marche,1279]]"
+  - "[[/_Standards/WikiData/WD~Lazio,1282|WD~Lazio,1282]]"
+  - "[[/_Standards/WikiData/WD~Umbria,1280|WD~Umbria,1280]]"
+  - "[[/_Standards/WikiData/WD~Abruzzo,1284|WD~Abruzzo,1284]]"
+  - "[[/_Standards/WikiData/WD~Campania,1438|WD~Campania,1438]]"
+  - "[[/_Standards/WikiData/WD~Molise,1443|WD~Molise,1443]]"
+  - "[[/_Standards/WikiData/WD~Apulia,1447|WD~Apulia,1447]]"
+  - "[[/_Standards/WikiData/WD~Basilicata,1452|WD~Basilicata,1452]]"
+  - "[[/_Standards/WikiData/WD~Calabria,1458|WD~Calabria,1458]]"
+  - "[[/_Standards/WikiData/WD~Sardinia,1462|WD~Sardinia,1462]]"
+  - "[[/_Standards/WikiData/WD~Sicily,1460|WD~Sicily,1460]]"
+located_in_or_next_to_body_of_water:
+  - "[[/_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]"
+  - "[[/_Standards/WikiData/WD~Adriatic_Sea,13924|WD~Adriatic_Sea,13924]]"
+  - "[[/_Standards/WikiData/WD~Ionian_Sea,37495|WD~Ionian_Sea,37495]]"
+  - "[[/_Standards/WikiData/WD~Tyrrhenian_Sea,38882|WD~Tyrrhenian_Sea,38882]]"
+  - "[[/_Standards/WikiData/WD~Ligurian_Sea,42820|WD~Ligurian_Sea,42820]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Italy,7791|WD~history_of_Italy,7791]]"
+part_of:
+  - "[[/_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]"
+  - "[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
+  - "[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+minimum_temperature_record: -49.6
+shares_border_with:
+  - "[[/_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]"
+  - "[[/_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[/_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
+  - "[[/_Standards/WikiData/WD~Malta,233|WD~Malta,233]]"
+  - "[[/_Standards/WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+  - "[[/_Standards/WikiData/WD~Vatican_City,237|WD~Vatican_City,237]]"
+continent: "[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
+anthem: "[[/_Standards/WikiData/WD~Il_Canto_degli_Italiani,187|WD~Il_Canto_degli_Italiani,187]]"
+capital: "[[/_Standards/WikiData/WD~Rome,220|WD~Rome,220]]"
+compulsory_education_minimum_age_: 6
+birth_rate:
+  - 7
+  - 6.7
+  - 6.8
+total_fertility_rate: 1.2
+compulsory_education_maximum_age_: 16
+marriageable_age:
+  - 16
+  - 18
+age_of_majority: 18
+VAT_rate: 22
+mains_voltage: 230
+voltage: 230
+suicide_rate: 4.3
+unemployment_rate: 8.1
+death_rate:
+  - 10.6
+  - 11.9
+  - 12.1
+  - 12.5
+top_level_Internet_domain: "[[/_Standards/WikiData/WD~.it,39155|WD~.it,39155]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Italy,42876|WD~flag_of_Italy,42876]]"
+Gini_coefficient: 35.2
+Happy_Planet_Index_score: 50.7
+Democracy_Index: 7.74
+Inequality_adjusted_Human_Development_Index: 0.791
+Human_Development_Index: 0.895
+maritime_identification_digits: 247
+M49_code: 380
+ISO_3166_1_numeric_code: 380
+OpenStreetMap_zoom_level: 5
+executive_body: "[[/_Standards/WikiData/WD~Government_of_Italy,3773971|WD~Government_of_Italy,3773971]]"
+head_of_state: "[[/_Standards/WikiData/WD~Sergio_Mattarella,3956186|WD~Sergio_Mattarella,3956186]]"
+basic_form_of_government: "[[/_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~Europe_Rome,5412122|WD~Europe_Rome,5412122]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Italy,6876022|WD~WikiProject_Italy,6876022]]"
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_Italy,7112307|WD~outline_of_Italy,7112307]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Colosseo%202020.jpg
+topic_s_main_template: "[[/_Standards/WikiData/WD~Q10563933,10563933|WD~Q10563933,10563933]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Italy,10631821|WD~Portal_Italy,10631821]]"
+emergency_phone_number:
+  - "[[/_Standards/WikiData/WD~118,11185210|WD~118,11185210]]"
+  - "[[/_Standards/WikiData/WD~113,25648804|WD~113,25648804]]"
+  - "[[/_Standards/WikiData/WD~115,25648805|WD~115,25648805]]"
+railway_traffic_side: "[[/_Standards/WikiData/WD~left,13196750|WD~left,13196750]]"
+driving_side: "[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+permanent_duplicated_item:
+  - "[[/_Standards/WikiData/WD~Q20820609,20820609|WD~Q20820609,20820609]]"
+  - "[[/_Standards/WikiData/WD~Q30277415,30277415|WD~Q30277415,30277415]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]"
+coordinates_of_easternmost_point: Point(18.52043867 40.10725766)
+open_data_portal: "[[/_Standards/WikiData/WD~Open_Data_Portal_Italy,97013442|WD~Open_Data_Portal_Italy,97013442]]"
+different_from: "[[/_Standards/WikiData/WD~Italia,121691254|WD~Italia,121691254]]"
+coordinates_of_westernmost_point: Point(6.62677288 45.10336498)
+demonym:
+  - طاليانية
+  - طالياني
+  - طاليانيين
+  - طاليانيات
+  - Italijan
+  - Italijanka
+  - Iodálach
+  - Italian
+  - Italien
+  - Włoszka
+  - Włoch
+  - Italienne
+  - إيطالي
+  - إيطالية
+  - إِيطَالِيُّونَ
+  - italiana
+  - italianu
+  - ইতালীয়
+  - Italiener
+  - italo
+  - italialainen
+  - איטלקי
+  - איטלקייה
+  - olasz
+  - Italiano
+  - italiana
+  - italiane
+  - italiani
+  - italiano
+  - Aṭelyan
+  - Iṭelyanen
+  - Taṭelyant
+  - Tiṭelyanin
+  - Italiener
+  - Italienerin
+  - italian
+  - Italiaan
+  - italian
+  - italiancă
+  - italieni
+  - итальянец
+  - итальянка
+  - итальянцы
+  - italiensk
+  - італієць
+  - італійка
+  - італійці
+  - italian
+  - italiana
+  - italiane
+  - italiani
+  - Itałiani
+  - Litaliyänan
+Baidu_Tieba_name: 意大利
+Provenio_UUID:
+  - e824464b-e885-4cbc-99eb-a52c65e06943
+  - 799e6ae0-961c-4472-a891-3b305bd5f798
+  - 933edcbc-d695-4e05-b090-a2e39ed96e3f
+UMLS_CUI: C0036232
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BB%D5%BF%D5%A1%D5%AC%D5%AB%D5%A1%20%28Italy%29.ogg
+exact_match: https://w3id.org/italia/controlled-vocabulary/territorial-classifications/countries/italy/ITA
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Italy%20en%20gb.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Italy.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Italie.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Italien.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%87%E0%AC%9F%E0%AC%BE%E0%AC%B2%E0%AD%80.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Italia.wav
+ISNI: 121869395
+official_website: https://www.italia.it/
+nominal_GDP:
+  - 2010431598465
+  - 2114355756914
+MeSH_tree_code: Z01.542.489
+Gregorian_calendar_start_date: 1582-10-15
+IAB_code: 1326
+OmegaWiki_Defined_Meaning: 5748
+ITU_letter_code: I
+aircraft_registration_prefix: I
+UIC_alphabetical_country_code: I
+licence_plate_code: I
+UIC_numerical_country_code: 83
+median_income: 20085
+mobile_country_code: 222
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg
+number_of_out_of_school_children: 178653
+INSEE_countries_and_foreign_territories_code: 99127
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Italy.svg
+area: 302068
+IOC_country_code: ITA
+ISO_3166_1_alpha_3_code: ITA
+social_media_followers: 559808
+number_of_deaths: 713499
+life_expectancy: 82.5439
+native_label:
+  - Italia
+  - Repubblica Italiana
+official_name:
+  - Italia
+  - Repubblica Italiana
+Image_Archive_Herder_Institute: Q38
+FIPS_10_4_countries_and_regions_: IT
+NUTS_code: IT
+WIPO_ST_3: IT
+ISO_3166_1_alpha_2_code: IT
+ISBN_identifier_group:
+  - 978-88
+  - 979-12
+male_population:
+  - 28741550
+  - 28821030
+  - 28957843
+  - 29090818
+GS1_country_code: 800-839
+PM20_geo_code: A35
+urban_population:
+  - 42234940
+  - 42189154
+  - 42224765
+  - 42249963
+hashtag:
+  - Italy
+  - italy
+Dreadnought_Project_page: Italy
+Commons_category: Italy
+coordinates_of_northernmost_point: Point(12.18 47.1)
+geoshape: http://commons.wikimedia.org/data/main/Data:Italia.map
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Italy%20banner%203%20Florence.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Italy%20on%20the%20globe%20%28Europe%20centered%29.svg
+free_libre_open_source_software_development_policy_URL: https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html
+country_calling_code: 39
+U_S_National_Archives_Identifier:
+  - 10035812
+  - 10041770
+Dewey_Decimal_Classification: 2--45
+BHCL_UUID:
+  - 37872850-d9da-4cc4-b1dd-0f54053e8a1e
+  - eced42c8-d06d-4ea3-b038-50674f687336
+Commons_gallery: Italia
+CIVICUS_Monitor_country_entry: italy
+subreddit: italy
+GitHub_topic: italy
+IPA_transcription: ɪˈtalʲɪjə
+Colon_Classification: SG--52
+Krugosvet_article: strany_mira/ITALIYA.html
+Gujarati_Vishwakosh_entry: ઇટાલી
+short_name: 🇮🇹
+rural_population:
+  - 16705485
+  - 16944019
+  - 17214086
+  - 17479118
+coordinate_location: Point(12.5 42.5)
+inception: 1946-06-18
+has_time_started: 1946-06-18
+female_population:
+  - 30198875
+  - 30312143
+  - 30481007
+  - 30638263
+coordinates_of_southernmost_point: Point(15.07981896 36.64674684)
+population: 58850717
+Unicode_character: 🇮🇹
+hist_area_km2:
+  0: 18475.02
+  25: 18894.02
+  50: 13554.38
+  75: 12133.87
+  100: 11015.97
+  125: 9790.78
+  150: 8916.58
+  175: 8442.57
+  200: 8675.43
+  225: 8306.91
+  250: 8961.52
+  275: 8094.21
+  300: 7550.68
+  325: 7082.34
+  350: 6813.11
+  375: 6523.25
+  400: 6139.38
+  425: 5750.1
+  450: 5530.59
+  475: 5178.93
+  500: 4835.39
+  525: 4538.49
+  550: 4368.72
+  575: 4199.51
+  600: 3970.23
+  625: 3777.56
+  650: 3736.31
+  675: 3486.63
+  700: 3334.18
+  725: 3185.52
+  750: 3035.46
+  775: 2896.59
+  800: 2752.21
+  825: 2629.72
+  850: 2501.9
+  875: 2380.85
+  900: 2244.89
+  925: 2125.4
+  950: 2028.52
+  975: 1956.76
+  1000: 1854.88
+  1025: 1758.35
+  1050: 1670.59
+  1075: 1591.07
+  1100: 1514
+  1125: 1440.12
+  1150: 1395.41
+  1175: 1336.27
+  1200: 1280.56
+  1225: 1233.6
+  1250: 1192.52
+  1275: 1165.94
+  1300: 1137.52
+  1325: 1093.26
+  1350: 1058.13
+  1375: 1009.68
+  1400: 973.76
+  1425: 937.16
+  1450: 907.68
+  1475: 878.03
+  1500: 847.4
+  1525: 815.25
+  1550: 801.82
+  1575: 766.98
+  1600: 738.73
+  1625: 730.22
+  1650: 697.5
+  1675: 680.56
+  1700: 653.83
+  1725: 638.52
+  1750: 616.21
+  1775: 606.87
+  1800: 594.75
+  1825: 576.37
+  1850: 572.82
+  1875: 558.11
+  1900: 544.07
+  1925: 530.83
+  1950: 521.97
+  1975: 502.86
+  2000: 496.49
+  2025: 482.12
+  2050: 475.41
+  2075: 466.06
+  2100: 448.9
+  2125: 436.48
+  2150: 429.57
+  2175: 415.16
+  2200: 404.99
+  2225: 397.97
+  2250: 382.03
+  2275: 376.7
+  2300: 364.69
+  2325: 358.55
+  2350: 345.4
+  2375: 331.7
+  2400: 319.73
+  2425: 311
+  2450: 298.89
+  2475: 286.45
+  2500: 272.95
+  2525: 268.27
+  2550: 256.34
+  2575: 244.4
+  2600: 230.74
+  2625: 222.85
+  2650: 207.31
+  2675: 197.03
+  2700: 186.62
+  2725: 173.81
+  2750: 164.13
+  2775: 150.66
+  2800: 142.11
+  2825: 129.63
+  2850: 123.59
+  2875: 112.33
+  2900: 102.68
+  2925: 93.39
+  2950: 85.41
+  2975: 80.34
+  3000: 72.72
+  3025: 63.81
+  3050: 58.97
+  3075: 53.44
+  3100: 49.78
+  3125: 45.93
+  3150: 39.97
+  3175: 35.3
+  3200: 32.11
+  3225: 30.79
+  3250: 27.4
+  3275: 24.74
+  3300: 20.96
+  3325: 17.29
+  3350: 15.48
+  3375: 12.9
+  3400: 11.56
+  3425: 9.43
+  3450: 8.33
+  3475: 8.14
+  3500: 6.48
+  3525: 6.04
+  3550: 5.41
+  3575: 4.77
+  3600: 4.7
+  3625: 4.05
+  3650: 3.98
+  3675: 3.27
+  3700: 2.79
+  3725: 2.68
+  3775: 2.43
+  3800: 2.67
+  3825: 2.48
 ---
 
-# [[Italy]] 
+# [[Italy]] 🇮🇹 
 
 ## International Names
 
-
-name = `=this.dv_has_name` 
-has_name_en = `=this.dv_has_name_en` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
+#has_/name_ = 
+name = `=this.dv_has_name`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
 has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
-has_name_de = `=this.dv_has_name_de` 
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
 
+is_a = `=this.dv_is_a_`
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
+
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
-covering the European country of [Italy](https://en.wikipedia.org/wiki/Italy). 
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
-This Repository is intended to be shared as a common basis, 
-by including it as a Sub-Repository in local File-Systems, 
-specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+### #has_/map  
 
-Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/Europe/Europe~South/Italy 
+```leaflet
+id: Italy
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Italy///
+markerFolder: ./Italy//
+coordinates: [[Italy]] 
+markerFile: [[Italy]] 
+defaultZoom: 5 
+```
 
-> Caution: this is a very deep folder Structure with up to 170 Characters! 
-> Make sure to check it out into a shallow Location on Windows! 
-> 
-> If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
-> because Changes may break Links or at least require every User 
-> to update their local Repos! 
-> 
-> Constraints to consider when refactoring: 
-> - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
-> - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
-> - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
->   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
+
+### #has_map_/topologic 
+
+```leaflet
+id: Italy_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Italy//
+markerFolder: ./Italy/
+coordinates: [[Italy]] 
+markerFile: [[Italy]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 60
+, widthFrom : "all"
+});
+```
+
+
+
+## #has_/parts 
+
+Numbers are of 2022-06 
+
+| Region                                                 |  Pop/M |   kkm² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                         |
+| ------------------------------------------------------ | -----: | -----: | ------: | -------: | ----- | ---------------------------------------------------------- |
+| [[Italy/regions~Italy/Lombardy\|Lombardy]]             | 10.342 | 23.864 | 388.800 |   38.600 | 0.912 | Economic powerhouse; major industrial and financial center |
+| [[Italy/regions~Italy/Lazio\|Lazio]]                   |  5.745 | 17.232 | 198.000 |   33.600 | 0.914 | Capital region; political and cultural hub                 |
+| [[Italy/regions~Italy/Veneto\|Veneto]]                 |  4.883 | 18.345 | 163.000 |   33.200 | 0.900 | Strong manufacturing sector; tourism in Venice             |
+| [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |  4.452 | 22.453 | 161.000 |   36.200 | 0.921 | High quality of life; robust economy                       |
+| [[Italy/regions~Italy/Piedmont\|Piedmont]]             |  4.302 | 25.387 | 137.000 |   31.500 | 0.898 | Automotive industry; historical significance               |
+| [[Italy/regions~Italy/Campania\|Campania]]             |  5.615 | 13.671 | 108.000 |   18.600 | 0.854 | Rich cultural heritage; economic challenges                |
+| [[Italy/regions~Italy/Tuscany\|Tuscany]]               |  3.698 | 22.987 | 118.000 |   31.500 | 0.907 | Renowned for art and history; tourism-driven economy       |
+| [[Italy/regions~Italy/Apulia\|Apulia]]                 |  3.945 | 19.541 |  76.600 |   19.000 | 0.854 | Agriculture and tourism; southern region                   |
+| [[Italy/regions~Italy/Sicily\|Sicily]]                 |  4.825 | 25.832 |  89.200 |   17.800 | 0.845 | Largest island; diverse economy                            |
+| [[Italy/regions~Italy/Liguria\|Liguria]]               |  1.535 |  5.416 |  49.900 |   32.100 | 0.898 | Port cities; shipbuilding industry                         |
+| [[Italy/regions~Italy/Marche\|Marche]]                 |  1.524 |  9.401 |  43.200 |   28.300 | 0.901 | Manufacturing and agriculture                              |
+| [[Italy/regions~Italy/Calabria\|Calabria]]             |  1.870 | 15.222 |  33.300 |   17.000 | 0.845 | Southernmost region; economic development focus            |
+| [[Italy/regions~Italy/Friuli-Venezia_Giulia\|Friuli-Venezia Giulia]]                                  |  1.219 |  7.924 |  38.000 |   31.200 | 0.903 | Autonomous region; diverse economy                         |
+| [[Italy/regions~Italy/Sardinia\|Sardinia]]             |  1.604 | 24.100 |  34.900 |   21.200 | 0.868 | Island region; tourism and agriculture                     |
+| [[Italy/regions~Italy/Abruzzo\|Abruzzo]]               |  1.307 | 10.832 |  33.900 |   25.800 | 0.889 | Mountainous terrain; mixed economy                         |
+| [[Italy/regions~Italy/Trentino\|Trentino]]             |  1.111 | 13.606 |  41.700 |   39.200 | 0.920 | Autonomous region; high standard of living                 |
+| [[Italy/regions~Italy/Umbria\|Umbria]]                 |  0.930 |  8.464 |  22.500 |   25.400 | 0.897 | Landlocked region; cultural tourism                        |
+| [[Italy/regions~Italy/Basilicata\|Basilicata]]         |  0.559 | 10.073 |  12.600 |   22.200 | 0.862 | Least populous; rural economy                              |
+| [[Italy/regions~Italy/Molise\|Molise]]                 |  0.324 |  4.461 |   6.500 |   20.900 | 0.872 | Smallest region; agriculture and services                  |
+| [[Italy/regions~Italy/Aosta_Valley\|Aosta]] Valley     |  0.143 |  3.261 |   4.900 |   38.900 | 0.887 | Smallest population; autonomous region                     |
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
+
+
+## #has_/place_/city   
+
+Population in 1000s as of @2024
+The population figures are based on data from 2024. ([statta.com](https://wwwtista.com/statistics/589331/largest-cities-in-italy-by-population/?utm_source=chatgpt.com))
+
+| City                                                                          | Region                                                 | Pop/k |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
+| [[Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
+| [[Italy/regions~Italy/Lombardy/Milano.Province/City/Milano,City\|Milano]]     | [[Italy/regions~Italy/Lombardy\|Lombardy]]             |  1350 |
+| [[Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
+| [[Italy/regions~Italy/Piedmont/Turin.Province/City/Torino\|Torino]]           | [[Italy/regions~Italy/Piedmont\|Piedmont]]             |   840 |
+| [[Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo\|Palermo]]         | [[Italy/regions~Italy/Sicily\|Sicily]]                 |   630 |
+| [[Italy/regions~Italy/Liguria/Genova.Province/City/Genova\|Genoa]]            | [[Italy/regions~Italy/Liguria\|Liguria]]               |   560 |
+| [[Italy/regions~Italy/Emilia-Romagna/Bologna,Province/City/Bologna\|Bologna]] | [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |   390 |
+| [[Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City\|Florenz]]   | [[Italy/regions~Italy/Tuscany\|Tuscany]]               |   370 |
+| [[Italy/City/Bari|Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
+
 
 ## #has_/text_of_/abstract  
-
 
 > **Italy**, officially the Italian Republic, is a country in Southern and Western Europe. 
 > It is located on a peninsula that extends into the middle of the Mediterranean Sea, 
@@ -251,109 +1551,106 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 > It has the world's largest number of World Heritage Sites (59), 
 > and is the world's fifth-most visited country.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Italy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Italy) 
+
 
 ## Maps and Flags 
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
-### #has_/map  
+## [[Italy]]
+## #has_/properties 
 
-```leaflet
-id: Italy
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: .///
-markerFolder: .//
-```
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-Telephone = `=this.dv_Telephone` 
+Telephone = `=this.dv_Telephone`
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` ] 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
+
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
-VehicleCode = `=this.dv_VehicleCode` 
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-Alcohol-l = `=this.dv_Alcohol-l` 
-[Language-Id::] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+Alcohol-l = `=this.dv_Alcohol-l`
+[Language-Id::]
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]] 
 
