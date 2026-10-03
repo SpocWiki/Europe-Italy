@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.13
 dv_has_place_latitude: 39.08
 dv_has_name: Catanzaro
-dv_Country: "[[../../../../../Italy]]"
+dv_Country: "[[../../../../../../Italy]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
