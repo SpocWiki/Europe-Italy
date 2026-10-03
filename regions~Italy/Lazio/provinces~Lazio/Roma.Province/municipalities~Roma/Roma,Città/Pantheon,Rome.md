@@ -258,8 +258,6 @@ is_same_as = `=this.dv_is_same_as`
 
 ## Merged from `_Standards/Earth/Geography/Place/Pantheon,Rome.md`
 
-![[../../../assets/Pantheon,Rome.png|Pantheon,Rome.png]]
-
 ## #has_/map
 
 ```leaflet
